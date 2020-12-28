@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<small>{{ page.date | date: "%-d %B %Y" }}</small>
+<h1>{{ page.title }}</h1>
+
+{% if page.tags %}
+  <span>Tags: </span>
+  <span class="tagsline">[
+      {% for tag in page.tags %}
+          {% capture tag_name %}{{ tag }}{% endcapture %}
+          <a class="taglink" href="/tag/{{ tag_name }}"><nobr>{{ tag_name }}</nobr></a>
+      {% endfor %}
+  ]</span>
+{% endif %}
+<hr/>
+
+{{content}}
+

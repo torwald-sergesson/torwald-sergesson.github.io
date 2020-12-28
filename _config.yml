@@ -24,9 +24,11 @@ github_username:  torwald-sergesson
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
+github:
+  is_project_page: ""
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
