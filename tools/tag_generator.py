@@ -53,7 +53,3 @@ for tag, count in stat.most_common():
         f.write(write_str)
 print(f"Tags generated, count {len(total_tags)}\n")
 
-with open(tags_file, 'w') as f:
-    tags = ' '.join(f'{k}:{stat[k]}' for k in sorted(stat))
-    write_str = f'---\nlayout: taglist\ntitle: "Tags"\nallTags: {tags}\nrobots: noindex\n---\n'
-    f.write(write_str)
