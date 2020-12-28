@@ -1,6 +1,6 @@
 ---
 layout: taglist
 title: "Tags"
-allTags: new:1 post:1
+allTags: hallo:1
 robots: noindex
 ---

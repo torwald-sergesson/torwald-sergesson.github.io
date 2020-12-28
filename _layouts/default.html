@@ -39,10 +39,12 @@
 			<li><a href="/">Home</a></li>
 			<li><a href="/about">About</a></li>
 		  </ul>
-		  <a href="{{ 'feed.xml' | relative_url }}">
-            <span>Subscribe RSS</span>
-          </a>
 		  {% include archive.html %}
+		  <a href="{{ 'feed.xml' | relative_url }}">
+            <svg style="padding: 5px 5px 2px 0; color: #f66a0a; width: 16px; height: 16px; display: inline-block; vertical-align: text-bottom; fill: currentColor;"> 
+              <use xlink:href="{{ 'assets/social-icons.svg#rss' | relative_url }}"></use>
+            </svg><span>RSS</span>
+          </a>
         </aside>
       </div>
     </div>
