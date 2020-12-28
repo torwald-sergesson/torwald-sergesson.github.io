@@ -1,7 +1,7 @@
 ---
 layout: tagpage
-title: "Tag: hallo"
-tag: hallo
+title: "Tag: thoughts"
+tag: thoughts
 tcount: 1
 robots: noindex
 ---
