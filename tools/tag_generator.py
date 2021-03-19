@@ -16,10 +16,11 @@ post_dir = '_posts/'
 tag_dir = 'tag/'
 tags_file = 'tags.md'
 
-filenames = glob.glob(post_dir + '*md')
+filenames = glob.glob(post_dir + '**/*.md', recursive=True)
 
 total_tags = list() 
 for filename in filenames:
+    print('Processing %s', filename)
     with open(filename, 'r', encoding='utf8') as f:
         crawl = False
         for line in f:
