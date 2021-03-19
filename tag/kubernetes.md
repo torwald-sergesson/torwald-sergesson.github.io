@@ -1,7 +1,7 @@
 ---
 layout: tagpage
-title: "Tag: telegram"
-tag: telegram
+title: "Tag: kubernetes"
+tag: kubernetes
 tcount: 1
 robots: noindex
 ---
