@@ -8,3 +8,8 @@ tags:
 
 # The second page just for example
 
+## Some code
+
+```go
+fmt.Printf("Hallo world")
+```
