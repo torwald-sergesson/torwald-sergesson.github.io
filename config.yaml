@@ -32,5 +32,8 @@ menu:
     weight: 4
   - name: "Tags"
     url: "/tags"
+    weight: 6
+  - name: "Categories"
+    url: "categories/"
     weight: 5
 
