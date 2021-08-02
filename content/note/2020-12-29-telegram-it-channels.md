@@ -2,9 +2,11 @@
 title:  "IT Telegram Channels"
 author: "Torwald Sergesson"
 date:   "2020-12-29"
+slug: "it-telegram-channels"
+categories:
+- Lists
 tags: 
 - telegram
-- lists
 ---
 
 There are some useful IT Telegram Channels

@@ -1,7 +1,8 @@
 ---
 title:  "Copy files from/to Kubernetes"
-author: "Torwald Sergesson"
 date:   "2021-03-19"
+categories:
+- Tips
 tags: 
 - kubernetes
 ---
