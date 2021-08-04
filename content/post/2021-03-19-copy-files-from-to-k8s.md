@@ -2,9 +2,10 @@
 title:  "Copy files from/to Kubernetes"
 date:   "2021-03-19"
 categories:
-- Tips
+- IT
 tags: 
 - kubernetes
+- cheatsheet
 ---
 
 This is kind of analogue of ``scp`` command for copying files from/to K8s pods.

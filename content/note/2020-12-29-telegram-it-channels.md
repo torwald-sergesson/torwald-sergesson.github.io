@@ -4,18 +4,19 @@ author: "Torwald Sergesson"
 date:   "2020-12-29"
 slug: "it-telegram-channels"
 categories:
-- Lists
+- IT
 tags: 
 - telegram
+- lists
 ---
 
 There are some useful IT Telegram Channels
 
-- [https://t.me/rxd_txd](https://t.me/rxd_txd) - rxd_txd
-- [https://t.me/Social_engineering](https://t.me/Social_engineering) - Social Engineering
-- [https://t.me/geekexport](https://t.me/geekexport) - GEEK EXPORT
-- [https://t.me/docops](https://t.me/docops) - DocOps
-- [https://t.me/refactor_later](https://t.me/refactor_later) - Потом отрефакторим
+- https://t.me/rxd_txd - rxd_txd
+- https://t.me/Social_engineering - Social Engineering
+- https://t.me/geekexport - GEEK EXPORT
+- https://t.me/docops - DocOps
+- https://t.me/refactor_later - Потом отрефакторим
 - https://t.me/golanglibrary - Go Library
 - https://t.me/devopslibrary - DevOps&SRE Library
 - https://t.me/gophernews - 4gophers
