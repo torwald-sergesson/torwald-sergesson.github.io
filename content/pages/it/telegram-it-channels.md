@@ -1,7 +1,6 @@
 ---
 title:  "IT Telegram Channels"
 author: "Torwald Sergesson"
-date:   "2020-12-29"
 slug: "it-telegram-channels"
 categories:
 - IT

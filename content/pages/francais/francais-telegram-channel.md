@@ -1,6 +1,5 @@
 ---
 title: Francais Telegram Channels
-date: 2021-08-04
 slug: francais-telegram-channels
 categories:
 - Francais

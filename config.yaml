@@ -8,7 +8,7 @@ ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\
 footnotereturnlinkcontents: "↩"
 
 permalinks:
-  note: "/notes/:slug/"
+  note: "/pages/:slug/"
   post: "/posts/:year/:month/:day/:slug/"
 
 params:
@@ -27,8 +27,8 @@ menu:
   - name: "Posts"
     url: "/posts"
     weight: 3
-  - name: "Notes"
-    url: "/notes"
+  - name: "Pages"
+    url: "/pages"
     weight: 4
   - name: "Tags"
     url: "/tags"
