@@ -1,11 +1,71 @@
 ---
-title: "Interesting IT projects"
-slug: interesting-it-projects
+title: "Interesting links"
+slug: interesting-it-links
 categories:
 - IT
 tags:
-- projects
+- chip8
+- console
+- decentralization
+- git
+- go
+- internals
+- linux
+- osx
+- performance
+- sql
+- vim
 ---
 
+- https://github.com/ivanceras/svgbob Convert your ascii diagram scribbles into happy little SVG
+- https://ohmygit.org/ An open source game about learning Git
+- https://github.com/dolthub/dolt It's Git for Data
+- https://betterprogramming.pub/git-commands-to-live-by-349ab1fe3139 Git Commands to Live By. The cheat sheet that goes beyond Git basics
+- https://github.com/uber-go/gopatch Refactoring and code transformation tool for Go.
+- https://github.com/jroimartin/gocui Minimalist Go package aimed at creating Console User Interfaces. 
 - https://justine.lol/index.html - Justine Tunney's Web Page (printvideo, cosmopolitan, nesemu1 and etc)
+- https://github.com/xo/xo - Command line tool to generate idiomatic Go code for SQL databases supporting PostgreSQL, MySQL, SQLite, Oracle, and Microsoft SQL Server 
+- https://thevaluable.dev/vim-advanced/ A Vim Guide for Advanced Users
+- https://chip-8.github.io/links/ Awesome CHIP-8
+- https://tobiasvl.github.io/blog/write-a-chip-8-emulator/ A high-level guide to making a CHIP-8 emulator.
+- https://github.com/AkihiroSuda/lima/ Linux virtual machines, on macOS (aka "Linux-on-Mac", "macOS subsystem for Linux", "containerd for Mac", unofficially)
+- http://www.brendangregg.com/ - Brendan Gregg's homepage (Linux and Performance)
+- https://github.com/syncthing/syncthing - Open Source Continuous File Synchronization. 
+- https://github.com/google/gops - A tool to list and diagnose Go processes currently running on your system.
+- https://github.com/adonovan/spaghetti - Spaghetti: a dependency analysis tool for Go packages
+- https://github.com/pterm/pterm/ - PTerm is a modern go module to beautify console output. Featuring charts, progressbars, tables, trees, and many more. It's completely configurable and 100% cross-platform compatible.
+- https://github.com/cheggaaa/pb Console progress bar for Golang.
+- https://github.com/spf13/afero A FileSystem Abstraction System for Go.
+- https://github.com/google/go-github Go library for accessing the GitHub API. 
+- https://github.com/brianvoe/gofakeit Random fake data generator written in go.
+- https://github.com/bcicen/ctop Top-like interface for container metrics.
+- https://github.com/goccy/go-json goccy/go-json Fast JSON encoder/decoder compatible with encoding/json for Go.
+- https://github.com/irevenko/tsukae Show off your most used shell commands.
+- https://github.com/orbitdb/orbit-db Peer-to-Peer Databases for the Decentralized Web.
+- https://themagicsmoke.ru/books/c_for_embedded_systems/ Книга «Си для встраиваемых систем»
+- https://github.com/hashicorp/go-version A Go (golang) library for parsing and verifying versions and version constraints.
+- https://github.com/neilotoole/sq swiss-army knife for data. 
+- https://github.com/kyleconroy/sqlc Generate type safe Go from SQL.
+- https://github.com/gohugoio/hugo The world’s fastest framework for building websites.
+- https://github.com/boyter/scc Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
+- https://github.com/golang/mock GoMock is a mocking framework for the Go programming language.
+- https://github.com/charmbracelet/glow Render markdown on the CLI, with pizzazz!
+- https://github.com/jmattheis/goverter Generate type-safe Go converters by simply defining an interface
+- https://github.com/volatiletech/sqlboiler Generate a Go ORM tailored to your database schema.
+- https://github.com/system-pclub/GCatch Statically Detecting Go Concurrency Bugs.
+- https://github.com/RetroShare/RetroShare RetroShare is a Free and Open Source cross-platform, Friend-2-Friend and secure decentralised communication platform. 
+- https://www.howtodeal.dev/ How to Deal with Difficult People on Software Projects
+- https://github.com/pemistahl/grex A command-line tool and library for generating regular expressions from user-provided test cases - pemistahl/grex.
+- https://github.com/denisidoro/navi An interactive cheatsheet tool for the command-line.
+- https://madaidans-insecurities.github.io/guides/linux-hardening.html Linux Hardening Guide
+- https://mysqlserverteam.com/mysql-shell-dump-load-part-1-demo/ MySQL Shell Dump & Load.
+- https://i3wm.org/docs/userguide.html i3wm
+- https://libre.life/7522/0105/1/ru Cписок децентрализованных сервисов.
+- https://github.com/lucasepe/modgv Converts 'go mod graph' output into Graphviz's DOT language.
+- http://www.stolyarov.info/books Книги Столярова про программирование
+- https://github.com/leozide/leocad A CAD application for creating virtual LEGO models.
+- https://github.com/cockroachdb/copyist Mocking your SQL database in Go tests has never been easier.
+- https://github.com/rqlite/rqlite The lightweight, distributed relational database built on SQLite.
+- https://github.com/360EntSecGroup-Skylar/excelize Golang library for reading and writing Microsoft Excel™ (XLSX) files.
+
 

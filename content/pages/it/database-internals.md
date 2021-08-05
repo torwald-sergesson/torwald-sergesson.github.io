@@ -4,10 +4,14 @@ slug: databases_internals
 categories:
 - IT
 tags:
-- databases
 - c
+- databases
+- go
 - internals
 ---
 
-- Let's Build a Simple Database - https://cstack.github.io/db_tutorial/
+- https://cstack.github.io/db_tutorial/ Let's Build a Simple Database
+- https://github.com/auxten/go-sqldb A pure golang SQL database for database theory research
+
+
 
