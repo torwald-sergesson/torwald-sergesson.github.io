@@ -67,5 +67,7 @@ tags:
 - https://github.com/cockroachdb/copyist Mocking your SQL database in Go tests has never been easier.
 - https://github.com/rqlite/rqlite The lightweight, distributed relational database built on SQLite.
 - https://github.com/360EntSecGroup-Skylar/excelize Golang library for reading and writing Microsoft Excel™ (XLSX) files.
+- https://github.com/gotranspile/cxgo Another tool for transpiling C to Go.
+- https://github.com/muesli/termenv Advanced ANSI style & color support for your terminal applications.
 
 
