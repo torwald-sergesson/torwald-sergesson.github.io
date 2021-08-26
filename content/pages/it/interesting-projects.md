@@ -85,3 +85,4 @@ tags:
 - https://github.com/qax-os/excelize Golang library for reading and writing Microsoft Excel™ (XLSX) files.
 - https://github.com/buraksezer/connpool Connection pool for Go's net.Conn interface
 - https://github.com/saurabh0719/go-hashlru A simple thread-safe and fixed size LRU. Based on the Hashlru Algorithm
+- https://github.com/tmrts/go-patterns Curated list of Go design patterns, recipes and idioms
