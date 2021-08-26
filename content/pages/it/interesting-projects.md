@@ -69,5 +69,11 @@ tags:
 - https://github.com/360EntSecGroup-Skylar/excelize Golang library for reading and writing Microsoft Excel™ (XLSX) files.
 - https://github.com/gotranspile/cxgo Another tool for transpiling C to Go.
 - https://github.com/muesli/termenv Advanced ANSI style & color support for your terminal applications.
-
-
+- https://github.com/spf13/cobra A Commander for modern Go CLI interactions
+- https://github.com/blockloop/scan Scan database/sql rows directly to structs, slices, and primitive types
+- https://github.com/maaslalani/slides Terminal based presentation tool
+- https://github.com/ardanlabs/gotraining/tree/master/reading There is a ton of links to extra reading and videos through out the material. Occasionally we run into material that we feel is important and don't have an exact place to put it. This is a section place for that material.
+- https://github.com/nikolaydubina/go-recipes Handy commands to run in Go projects
+- https://github.com/gojuno/minimock Powerful mock generation tool for Go programming language
+- https://github.com/vbauerster/mpb multi progress bar for Go cli applications
+- https://github.com/MarvinJWendt/testza Full-featured test framework for Go! Assertions, mocking, input testing, output capturing, and much more!
