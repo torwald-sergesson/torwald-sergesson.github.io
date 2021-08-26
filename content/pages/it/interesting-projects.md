@@ -77,3 +77,11 @@ tags:
 - https://github.com/gojuno/minimock Powerful mock generation tool for Go programming language
 - https://github.com/vbauerster/mpb multi progress bar for Go cli applications
 - https://github.com/MarvinJWendt/testza Full-featured test framework for Go! Assertions, mocking, input testing, output capturing, and much more!
+- https://github.com/go101/go101 An online book focusing on Go syntax/semantics and runtime related things
+- https://github.com/nanovms/ops ops - build and run nanos unikernels
+- https://github.com/kris-nova/naml Not another markup language. Framework for replacing Kubernetes YAML with Go.
+- https://github.com/AlecAivazis/survey A golang library for building interactive and accessible prompts with full support for windows and posix terminals.
+- https://github.com/pokemium/Worldwide GameBoy Color emulator written in golang.
+- https://github.com/qax-os/excelize Golang library for reading and writing Microsoft Excel™ (XLSX) files.
+- https://github.com/buraksezer/connpool Connection pool for Go's net.Conn interface
+- https://github.com/saurabh0719/go-hashlru A simple thread-safe and fixed size LRU. Based on the Hashlru Algorithm
