@@ -7,7 +7,6 @@ tags:
 - boardgames 
 - ancient rus
 ---
-# Князья
 
 ## Города
 - Киев - 3
