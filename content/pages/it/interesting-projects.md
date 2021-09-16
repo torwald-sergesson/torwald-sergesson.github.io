@@ -86,3 +86,7 @@ tags:
 - https://github.com/buraksezer/connpool Connection pool for Go's net.Conn interface
 - https://github.com/saurabh0719/go-hashlru A simple thread-safe and fixed size LRU. Based on the Hashlru Algorithm
 - https://github.com/tmrts/go-patterns Curated list of Go design patterns, recipes and idioms
+- https://github.com/mathaou/termdbms A TUI for viewing and editing database files.
+- https://github.com/tomnomnom/gron Make JSON greppable!
+- https://github.com/FiloSottile/age A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
+- https://github.com/DataDog/go-profiler-notes felixge's notes on the various go profiling methods that are available.
