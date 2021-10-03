@@ -90,3 +90,4 @@ tags:
 - https://github.com/tomnomnom/gron Make JSON greppable!
 - https://github.com/FiloSottile/age A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - https://github.com/DataDog/go-profiler-notes felixge's notes on the various go profiling methods that are available.
+- https://github.com/PuerkitoBio/goquery goquery brings a syntax and a set of features similar to jQuery to the Go language.
