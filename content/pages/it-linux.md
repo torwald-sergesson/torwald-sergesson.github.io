@@ -20,4 +20,7 @@ Linux для себя - русскоязычное подробное руков
 
 Linux Kernel Defence Map shows the relationships between vulnerability classes, exploitation techniques, bug detection mechanisms, and defence technologies
 
-## A quick intro to Linux Debuggin 
+## A quick intro to basic debugging tools for Linux systems
+
+- https://www.petermcconnell.com/posts/linuxtools/
+
