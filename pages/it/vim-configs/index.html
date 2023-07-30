@@ -1,34 +1,5 @@
-<!doctype html><html lang=en-us>
-<head>
-<meta charset=utf-8>
-<meta name=viewport content="width=device-width,initial-scale=1">
-<title>Vim config files | Torwald Log</title>
-<link rel=stylesheet href=/css/style.css>
-<link rel=stylesheet href=/css/fonts.css>
-</head>
-<body>
-<nav>
-<ul class=menu>
-<li><a href=/>Home</a></li>
-<li><a href=/about>About</a></li>
-<li><a href=/posts>Posts</a></li>
-<li><a href=/pages>Pages</a></li>
-<li><a href=/categories/>Categories</a></li>
-<li><a href=/tags>Tags</a></li>
-</ul>
-<hr>
-</nav>
-<div class=article-meta>
-<h1>
-<span class=title>Vim config files</span>
-</h1>
-<p class=terms>
-Categories: <a href=/categories/it>IT</a>
-Tags: <a href=/tags/shell>shell</a> <a href=/tags/linux>linux</a> <a href=/tags/vim>vim</a> <a href=/tags/config>config</a>
-</p>
-</div>
-<main>
-<pre tabindex=0><code>set number
+<!doctype html><html lang=en-us><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><title>Vim config files | Torwald Log</title><link rel=stylesheet href=/css/style.css><link rel=stylesheet href=/css/fonts.css></head><body><nav><ul class=menu><li><a href=/>Home</a></li><li><a href=/about>About</a></li><li><a href=/posts>Posts</a></li><li><a href=/pages>Pages</a></li><li><a href=/categories/>Categories</a></li><li><a href=/tags>Tags</a></li></ul><hr></nav><div class=article-meta><h1><span class=title>Vim config files</span></h1><p class=terms>Categories: <a href=/categories/it>IT</a>
+Tags: <a href=/tags/shell>shell</a> <a href=/tags/linux>linux</a> <a href=/tags/vim>vim</a> <a href=/tags/config>config</a></p></div><main><pre tabindex=0><code>set number
 
 set nocompatible
 filetype off
@@ -36,40 +7,40 @@ filetype off
 set rtp+=~/.vim/bundle/Vundle.vim
 call vundle#begin()
 
-Plugin 'VundleVim/Vundle.vim'
+Plugin &#39;VundleVim/Vundle.vim&#39;
 
 
-&quot; ----------============ Code/project navigation =============-----------
-&quot; plugin on GitHub repo
-Plugin 'scrooloose/nerdtree' 		&quot; Project and file navigation
-Plugin 'majutsushi/tagbar'   		&quot; Class/module browser
+&#34; ----------============ Code/project navigation =============-----------
+&#34; plugin on GitHub repo
+Plugin &#39;scrooloose/nerdtree&#39; 		&#34; Project and file navigation
+Plugin &#39;majutsushi/tagbar&#39;   		&#34; Class/module browser
 
-&quot; ----------============ Other  =============-----------
-Plugin 'bling/vim-airline'         	&quot; Lean &amp; mean status/tabline for vim
-Plugin 'fisadev/FixedTaskList.vim' 	&quot; Pending tasks list
-Plugin 'rosenfeld/conque-term'  	&quot; Consoles as buffers
-Plugin 'tpope/vim-surround'        	&quot; Parentheses, brackets, quotes, XML tags, and more
-Plugin 'flazz/vim-colorschemes'		&quot; Colorschemes
+&#34; ----------============ Other  =============-----------
+Plugin &#39;bling/vim-airline&#39;         	&#34; Lean &amp; mean status/tabline for vim
+Plugin &#39;fisadev/FixedTaskList.vim&#39; 	&#34; Pending tasks list
+Plugin &#39;rosenfeld/conque-term&#39;  	&#34; Consoles as buffers
+Plugin &#39;tpope/vim-surround&#39;        	&#34; Parentheses, brackets, quotes, XML tags, and more
+Plugin &#39;flazz/vim-colorschemes&#39;		&#34; Colorschemes
 
-&quot; ----------============ Snippets support =============-----------
-Plugin 'garbas/vim-snipmate'		&quot; Snippets manager
-Plugin 'MarcWeber/vim-addon-mw-utils'	&quot; dependentcies #1
-Plugin 'tomtom/tlib_vim'		&quot; dependentcies #2
-Plugin 'honza/vim-snippets'		&quot; snippets repo
+&#34; ----------============ Snippets support =============-----------
+Plugin &#39;garbas/vim-snipmate&#39;		&#34; Snippets manager
+Plugin &#39;MarcWeber/vim-addon-mw-utils&#39;	&#34; dependentcies #1
+Plugin &#39;tomtom/tlib_vim&#39;		&#34; dependentcies #2
+Plugin &#39;honza/vim-snippets&#39;		&#34; snippets repo
 
-&quot; ----------============ Languages support =============-----------
-Plugin 'klen/python-mode'		&quot; Python mode (docs, refactor, lints, highlighting, run and ipdb and more
-Plugin 'davidhalter/jedi-vim'		&quot; Jedi-vim autocomplete plugin
-Plugin 'mitsuhiko/vim-jinja'		&quot; Jinja support for vim 
-Plugin 'mitsuhiko/vim-python-combined'	&quot; Combined Python 2/3 for Vim
-Plugin 'fatih/vim-go'
-&quot; Plugin 'Shougo/neocomplete.vim'
+&#34; ----------============ Languages support =============-----------
+Plugin &#39;klen/python-mode&#39;		&#34; Python mode (docs, refactor, lints, highlighting, run and ipdb and more
+Plugin &#39;davidhalter/jedi-vim&#39;		&#34; Jedi-vim autocomplete plugin
+Plugin &#39;mitsuhiko/vim-jinja&#39;		&#34; Jinja support for vim 
+Plugin &#39;mitsuhiko/vim-python-combined&#39;	&#34; Combined Python 2/3 for Vim
+Plugin &#39;fatih/vim-go&#39;
+&#34; Plugin &#39;Shougo/neocomplete.vim&#39;
 
-Plugin 'tpope/vim-fugitive'
+Plugin &#39;tpope/vim-fugitive&#39;
 call vundle#end()
-&quot; filetype plugin indent on &quot; required 
-&quot; filetype on
-&quot; filetype plugin on
+&#34; filetype plugin indent on &#34; required 
+&#34; filetype on
+&#34; filetype plugin on
 filetype plugin indent on
 
 set backspace=indent,eol,start
@@ -81,56 +52,56 @@ set mousemodel=popup
 set ruler
 set completeopt-=preview
 set gcr=a:blinkon0
-if has(&quot;gui_running&quot;)
+if has(&#34;gui_running&#34;)
 	set cursorline
 endif
 set ttyfast
 
-&quot; highligh
+&#34; highligh
 syntax on
-if has(&quot;gui_running&quot;)
-	&quot; GUI? set theme and size of window
+if has(&#34;gui_running&#34;)
+	&#34; GUI? set theme and size of window
 	set lines=50 columns=125
 	coloscheme molokai
-	&quot;&quot; NERDTree
+	&#34;&#34; NERDTree
 	autocmd vimenter * TagbarToggle
 	autocmd vimenter * NERDTree
 	autocmd vimenter * if !argc() | NERDTree | endif
 
-	&quot; vim MacOS X
-	if has(&quot;mac&quot;)
+	&#34; vim MacOS X
+	if has(&#34;mac&#34;)
 		set guifont=Consolas:h13
 		set guoptions=maxvert,maxhorz
 	else
-		&quot; default GUI
+		&#34; default GUI
 		set guifont=Ubuntu\ Mono\ derivative\ Powerline\ 10
 	endif
 else
-	&quot; terms?
-	&quot; coloscheme myterm
-	&quot; colorscheme 3dglasses
-	&quot; colorscheme campfire
-    &quot; colorscheme zenburn
-    &quot; colorscheme railscasts
-	&quot; colorscheme ChocolateLiquor
+	&#34; terms?
+	&#34; coloscheme myterm
+	&#34; colorscheme 3dglasses
+	&#34; colorscheme campfire
+    &#34; colorscheme zenburn
+    &#34; colorscheme railscasts
+	&#34; colorscheme ChocolateLiquor
     colorscheme 256_noir
-    &quot; colorscheme MountainDew
-    &quot; colorscheme vividchalk
-    &quot; colorscheme 0x7A69_dark
-    &quot; colorscheme CodeFactoryv3 
+    &#34; colorscheme MountainDew
+    &#34; colorscheme vividchalk
+    &#34; colorscheme 0x7A69_dark
+    &#34; colorscheme CodeFactoryv3 
      colorscheme 256-jungle
-    &quot; colorscheme adam
-    &quot; colorscheme Monokai
-    &quot; colorscheme gentooish
+    &#34; colorscheme adam
+    &#34; colorscheme Monokai
+    &#34; colorscheme gentooish
     colorscheme 1989
-    &quot; colorscheme monoacc
-    &quot; colorscheme material
+    &#34; colorscheme monoacc
+    &#34; colorscheme material
 endif
 
 tab sball
 set switchbuf=useopen
 
-&quot; disable beeper
+&#34; disable beeper
 set visualbell t_vb=
 set novisualbell
 
@@ -145,12 +116,12 @@ set nobackup
 set nowritebackup
 set noswapfile
 
-&quot; hide panels
-set guioptions-=m &quot; menu
-set guioptions-=T &quot; toolbar
-set guioptions-=r &quot; scrollbar
+&#34; hide panels
+set guioptions-=m &#34; menu
+set guioptions-=T &#34; toolbar
+set guioptions-=r &#34; scrollbar
 
-&quot; tab settings
+&#34; tab settings
 set smarttab
 set tabstop=4
 set shiftwidth=4
@@ -164,80 +135,72 @@ augroup vimrc_autocmds
 	autocmd FileType ruby,python,javascript,c,cpp set nowrap
 augroup END
 
-&quot; set directory with SnipMate settings
-let g:snippets_dir=&quot;~/.vim/vim-snippets/snippets&quot;
+&#34; set directory with SnipMate settings
+let g:snippets_dir=&#34;~/.vim/vim-snippets/snippets&#34;
 
-&quot; set Airline
+&#34; set Airline
 set laststatus=2
-&quot; let g:airline_theme='bubblegum'
-&quot; let g:airline_theme='badwolf'
+&#34; let g:airline_theme=&#39;bubblegum&#39;
+&#34; let g:airline_theme=&#39;badwolf&#39;
 let g:airline_powerline_fonts=1
 let g:airline#extensions#tabline#enabled=1
-let g:airline#extensions#tabline#formatter = 'unique_tail'
+let g:airline#extensions#tabline#formatter = &#39;unique_tail&#39;
 
-&quot; TagBar settings
+&#34; TagBar settings
 map &lt;F4&gt; :TagbarToggle&lt;CR&gt;
-let g:tagbar_autofocus = 0 &quot; autofocus on Tagbar when open
+let g:tagbar_autofocus = 0 &#34; autofocus on Tagbar when open
 
-&quot; NerdTree settings
-&quot; show NERDTree on F3
+&#34; NerdTree settings
+&#34; show NERDTree on F3
 map &lt;F3&gt; :NERDTreeToggle&lt;CR&gt;
-&quot; ignoring file with extention
-let NERDTreeIgnore=['\~$', '\.pyc$', '\.pyo$', '\.class$', 'pip-log\.txt$', '\.o$']
+&#34; ignoring file with extention
+let NERDTreeIgnore=[&#39;\~$&#39;, &#39;\.pyc$&#39;, &#39;\.pyo$&#39;, &#39;\.class$&#39;, &#39;pip-log\.txt$&#39;, &#39;\.o$&#39;]
 
-&quot; TaskList settings
-map &lt;F2&gt; :TaskList&lt;CR&gt; &quot; show list tasks on F2
+&#34; TaskList settings
+map &lt;F2&gt; :TaskList&lt;CR&gt; &#34; show list tasks on F2
 
-&quot; Work with buffers
+&#34; Work with buffers
 map &lt;C-q&gt; :bd&lt;CR&gt; 
 
-&quot;================================
-&quot; Python-mode settings
-&quot;=============================
-&quot; disable autocomplete on code (between it jedi-vim)
+&#34;================================
+&#34; Python-mode settings
+&#34;=============================
+&#34; disable autocomplete on code (between it jedi-vim)
 let g:pymode_rope = 0
 let g:pymode_rope_completion = 0
 let g:pymode_rope_comple_on_dot = 0
 
-&quot; Documents
+&#34; Documents
 let g:pymode_doc = 0
-let g:pymode_doc_key = 'K'
-&quot; check code
+let g:pymode_doc_key = &#39;K&#39;
+&#34; check code
 let g:pymode_lint = 1
-let g:pymode_lint_checker = &quot;pyflakes,pep8&quot;
-let g:pymode_lint_ignore = &quot;E501,W601,C0110&quot;
-&quot; checking code after saving
+let g:pymode_lint_checker = &#34;pyflakes,pep8&#34;
+let g:pymode_lint_ignore = &#34;E501,W601,C0110&#34;
+&#34; checking code after saving
 let g:pymode_lint_write = 1
 
-&quot; support virtualenv
+&#34; support virtualenv
 let g:pymode_virtualenv = 1
 
-&quot; set breakpoints
+&#34; set breakpoints
 let g:pymode_breakpoint = 1
-let g:pymode_breakpoint_key = '&lt;leader&gt;b'
+let g:pymode_breakpoint_key = &#39;&lt;leader&gt;b&#39;
 
-&quot; highlight synax
+&#34; highlight synax
 let g:pymode_syntax = 1
 let g:pymode_syntax_all = 1
 let g:pymode_syntax_indent_errors = g:pymode_syntax_all
 let g:pymode_syntax_space_errors = g:pymode_syntax_all
 
-&quot; disable autofold on code
+&#34; disable autofold on code
 let g:pymode_folding = 0
 
-&quot; возможность запускать код
+&#34; возможность запускать код
 let g:pymode_run = 0
 
-&quot; Disable choose first function/method at autocomplete
+&#34; Disable choose first function/method at autocomplete
 let g:jedi#popup_select_first = 0
 
-let &amp;path.=&quot;/usr/include,/usr/include/x86_64-linux-gnu&quot;
-
-</code></pre>
-</main>
-<footer>
-<hr>
-© Torwald Sergesson 2021
-</footer>
-</body>
-</html>
+let &amp;path.=&#34;/usr/include,/usr/include/x86_64-linux-gnu&#34;
+</code></pre></main><footer><hr>© Torwald Sergesson 2021</footer></body></html>
