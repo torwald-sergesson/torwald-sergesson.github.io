@@ -1,10 +1,11 @@
 ---
-title: Linux
-slug: linux
+title: Linux and C
+slug: linux-and-c
 categories:
 - IT
 tags:
 - linux
+- c
 ---
 
 ## Linux From Scratch (Linux для себя) 
@@ -19,3 +20,4 @@ Linux для себя - русскоязычное подробное руков
 
 Linux Kernel Defence Map shows the relationships between vulnerability classes, exploitation techniques, bug detection mechanisms, and defence technologies
 
+## A quick intro to Linux Debuggin 
