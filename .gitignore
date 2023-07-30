@@ -4,3 +4,5 @@
 .Ruserdata
 public
 themes/hugo-xmin/exampleSite
+.DS_Store
+.idea
