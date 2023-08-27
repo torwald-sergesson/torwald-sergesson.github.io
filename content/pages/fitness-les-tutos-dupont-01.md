@@ -9,7 +9,6 @@ tags:
 - fitness
 - LesTutosDupont
 ---
-# LesTutosDupont - Circuit de préparation physique n.1
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vwGtyKKX0Rs?si=mDf4raHqLGrx4jNd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 [Video](https://youtu.be/vwGtyKKX0Rs?si=bG_Tud5B8Uv3JiUl)
