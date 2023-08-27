@@ -15,6 +15,11 @@ params:
   description: "Torwald Sergesson log"
   footer: "&copy; Torwald Sergesson 2021-2023"
 
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
 # Main menu which appears below site header.
 menu:
   main:
