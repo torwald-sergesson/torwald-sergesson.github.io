@@ -9,13 +9,18 @@ tags:
 - fitness
 - LesTutosDupont
 ---
+## Index
+
+- [Séance 1/10](#s1)
+- [Séance 2/10](#s2)
+- [Séance 3/10](#s3)
+
+<a name="s1"></a>
 ## Séance 1/10
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EbLtHcYHy7U?si=bDnU0MHlx4by24-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 [Video](https://youtu.be/EbLtHcYHy7U?si=bDnU0MHlx4by24-E)
-
-### Exercises
 
 ### Warm-up (каждое упражнение по 30 сек)
 
@@ -60,6 +65,7 @@ Category:
 - B: 3-4 круга, отдых 1 мин
 - C: 2 круга, отдых 1мин 30 сек
 
+<a name="s2"></a>
 ## Séance 2/10
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UErLoMPIdUM?si=N7oGaa9cV-HC_v12" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -110,6 +116,7 @@ Category:
 - B: 3-4 круга, отдых 1 мин
 - C: 2 круга, отдых 1мин 30 сек
 
+<a name="s3"></a>
 ## Séance 3/10
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c16OW5EgSoI?si=uW_8CIIhkfhziEmY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
