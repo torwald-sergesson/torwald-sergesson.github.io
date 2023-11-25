@@ -1,6 +1,6 @@
 ---
-title: LesTutosDupont - Programme d'entraînement au luc léger 1/10
-slug: luc-leger-01
+title: LesTutosDupont - Programme d'entraînement au luc léger
+slug: luc-leger
 categories:
 - Fitness
 tags:
@@ -11,11 +11,16 @@ tags:
 - running
 ---
 
+## Index
+
+- [Séance 1/10](#s1)
+
+<a name="s1"></a>
+## Séance 1/10
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IeFsRgx9pq0?si=6cAZFeLeU0bwMQTE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 [Video](https://youtu.be/IeFsRgx9pq0?si=6cAZFeLeU0bwMQTE)
-
-## Exercises
 
 ### Warm up
 
