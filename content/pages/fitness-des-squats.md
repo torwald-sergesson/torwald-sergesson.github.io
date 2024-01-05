@@ -21,6 +21,11 @@ tags:
 - [Séance 8/10](#s8)
 - [Séance 9/10](#s9)
 - [Séance 10/10](#s10)
+- [Technic](#tech)
+
+[Playlist](https://youtube.com/playlist?list=PLePB1BEtiZ_1TdAz13O7XKLwwYDDEMP1i&si=zthnl72anyU33c6s)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=zthnl72anyU33c6s&amp;list=PLePB1BEtiZ_1TdAz13O7XKLwwYDDEMP1i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <a name="s1"></a>
 ## Séance 1/10
