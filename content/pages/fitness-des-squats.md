@@ -16,6 +16,11 @@ tags:
 - [Séance 3/10](#s3)
 - [Séance 4/10](#s4)
 - [Séance 5/10](#s5)
+- [Séance 6/10](#s6)
+- [Séance 7/10](#s7)
+- [Séance 8/10](#s8)
+- [Séance 9/10](#s9)
+- [Séance 10/10](#s10)
 
 <a name="s1"></a>
 ## Séance 1/10
@@ -232,6 +237,39 @@ Category:
 - squat lateral
 - squat jump
 - squat
+
+Category:
+- A: 5-6 кругов, отдых 1 мин
+- B: 3-4 круга, отдых 1 мин
+- C: 2 круга, отдых 1мин 30 сек
+
+<a name="s6"></a>
+## Séance 6/10
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kmi9zkO6kGg?si=NtQw4wcUUmMe3igc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[Video](https://youtu.be/kmi9zkO6kGg?si=o3fCCwx0jKzXAnDJ)
+
+### Déverrouillage, Warm-up (каждое упражнение по 30 сек) - 3 круга
+
+- вращение тазом
+- полуприседы
+- вращение стопы х2
+
+### Специальная разминка Echauffement spécifique - 3 круга, 1мин между кругами
+
+Отмеряем 10 метров.
+
+- бег с высоким подниманием бедра и небольшим продвижением (можно и бег на месте) Montee de genoux
+- бег с захлестом (Talons fesses)
+- приставные шаги туда-обратно (pas chasses, aller-retour)
+
+### Circuit
+
+- squat archer, боковые выпады
+- gainage chaise, статика в присяде, колени 90град (~30 сек)
+- squat leve de jambes, приседания с подниманием ноги в сторону при вставании
+- squat saute, приседания с выпрыгиванием
 
 Category:
 - A: 5-6 кругов, отдых 1 мин
