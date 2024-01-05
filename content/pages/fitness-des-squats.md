@@ -193,8 +193,8 @@ Category:
 ### Специальная разминка (30 сек / упр) Echauffement spécifique - 3 круга, 1мин между кругами
 
 - бег на месте с высоким подниманием бедра (Montee de genoux)
-- приседания (squat lent)
-- выпады вперед (fente lente)
+- медленные приседания (squat lent)
+- медленные выпады вперед (fente lente)
 
 ### Circuit
 
@@ -387,4 +387,45 @@ Category:
 - B: 3-4 круга, отдых 1 мин
 - C: 2 круга, отдых 1мин 30 сек
 
+<a name="s10"></a>
+## Séance 10/10
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m3lHGQX8Yl0?si=TattfggW_FaxV86O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[Video](https://youtu.be/m3lHGQX8Yl0?si=TattfggW_FaxV86O)
+
+### Déverrouillage, Warm-up (каждое упражнение по 30 сек) - 3 круга
+
+- вращение тазом
+- полуприседы
+- вращение стопы х2
+
+### Специальная разминка Echauffement spécifique - 3 круга, 1мин между кругами
+
+- front jumping jack
+- saut un appui, движение с прыжком на каждый шаг и замиранием на той ноге, на которую приземлились
+- squat lent, медленное приседание
+
+### Test
+
+Макс число приседов за 1 мин. (см. [Seance 1](#s1)). Отдых 5 минут.
+
+### Circuit
+
+- squat
+- fente sautee, выпады со сменой ног в прыжке
+- squat sumo
+- squat saute, выпрыгивания из приседа
+- squat
+
+Category:
+- A: 5-6 кругов, отдых 1 мин
+- B: 3-4 круга, отдых 1 мин
+- C: 2 круга, отдых 1мин 30 сек
+
+<a name="tech"></a>
+## Техника выполнения приседаний
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pdlsX9yGOHE?si=OYiKtQ9gqHG_Mfyh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[Video](https://youtu.be/pdlsX9yGOHE?si=OYiKtQ9gqHG_Mfyh)
