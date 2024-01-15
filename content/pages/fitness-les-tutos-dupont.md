@@ -17,6 +17,9 @@ tags:
 - [n.4](#n4)
 - [n.5](#n5)
 - [n.6](#n6)
+- [n.7](#n7)
+- [n.8](#n8)
+- [n.9](#n9)
 
 <a name="n1"></a>
 
@@ -83,3 +86,44 @@ tags:
 - Tipping - 4x30s, R30s.
 - Gainage Superman (планка-супермен) - 4x45s, R30s.
 - Pompes releves de Jambes (полу-берпи, упор лежа, подтягивание ног, выпрямление, отжимание) - 4x45s, R30s.
+
+
+<a name="n7"></a>
+
+## n.7
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cSBa3o8cckM?si=4VtqqnNj-JS2_FV2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[Video](https://youtu.be/cSBa3o8cckM?si=4VtqqnNj-JS2_FV2)
+
+- Fentes sur box (приседания на одной ноге, вторая на опоре уровня колена) 4x15, R30s.
+- Pompes de l'ours (отжимания уголком (incline)) - 4x10, R30s.
+- Gainage actif (планка, упор лежа, поочередное вытягивание рук вперед) - 4x45s, R30s.
+- Pompes triceps (отжимания из положение упор на локти в упор лежа) - 4x10, R30s
+
+<a name="n8"></a>
+
+## n.8
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bmNrENTLHRA?si=OYs8dkPvmzaG_Lcx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[Video](https://youtu.be/bmNrENTLHRA?si=OYs8dkPvmzaG_Lcx)
+
+- Abdos rameur (пресс, вытягивание и подтягивания ног не опуская, имитация гребли) - 3x20, R30s.
+- Dips (обратные отжимания на трицепс) - 4x20, R30s.
+- Gaingage (планка на локтях) - 2x40s, R30s.
+- Sit up (пресс, с руками стрелочкой) - 2x50, R30s.
+
+<a name="n9"></a>
+
+## n.9
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JD0g6c0IJrY?si=JL8ObMfsSB2KfSUJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[Video](https://youtu.be/JD0g6c0IJrY?si=JL8ObMfsSB2KfSUJ)
+
+- Pompes classiques (классические отжимания с резиной) - 4x10, R1m.
+- Rowing (тяга резины) - 4x12, R1m.
+- Squat (приседания с резиной) - 4x10, R1m.
+- Curl (бицепс с резиной) - 4x14, R1m.
+
