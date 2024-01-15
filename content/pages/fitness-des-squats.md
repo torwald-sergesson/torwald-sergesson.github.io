@@ -11,16 +11,16 @@ tags:
 ---
 ## Index
 
-- [Séance 1/10](#s1)
-- [Séance 2/10](#s2)
-- [Séance 3/10](#s3)
-- [Séance 4/10](#s4)
-- [Séance 5/10](#s5)
-- [Séance 6/10](#s6)
-- [Séance 7/10](#s7)
-- [Séance 8/10](#s8)
-- [Séance 9/10](#s9)
-- [Séance 10/10](#s10)
+- [Séance 1/10 (FSQT-1)](#s1)
+- [Séance 2/10 (FSQT-2)](#s2)
+- [Séance 3/10 (FSQT-3)](#s3)
+- [Séance 4/10 (FSQT-4)](#s4)
+- [Séance 5/10 (FSQT-5)](#s5)
+- [Séance 6/10 (FSQT-6)](#s6)
+- [Séance 7/10 (FSQT-7)](#s7)
+- [Séance 8/10 (FSQT-8)](#s8)
+- [Séance 9/10 (FSQT-9)](#s9)
+- [Séance 10/10 (FSQT-10)](#s10)
 - [Technic](#tech)
 
 [Playlist](https://youtube.com/playlist?list=PLePB1BEtiZ_1TdAz13O7XKLwwYDDEMP1i&si=zthnl72anyU33c6s)
@@ -28,7 +28,7 @@ tags:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=zthnl72anyU33c6s&amp;list=PLePB1BEtiZ_1TdAz13O7XKLwwYDDEMP1i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <a name="s1"></a>
-## Séance 1/10
+## Séance 1/10 (FSQT-1)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EbLtHcYHy7U?si=bDnU0MHlx4by24-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -78,7 +78,7 @@ Category:
 - C: 2 круга, отдых 1мин 30 сек
 
 <a name="s2"></a>
-## Séance 2/10
+## Séance 2/10 (FSQT-2)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UErLoMPIdUM?si=N7oGaa9cV-HC_v12" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -129,7 +129,7 @@ Category:
 - C: 2 круга, отдых 1мин 30 сек
 
 <a name="s3"></a>
-## Séance 3/10
+## Séance 3/10 (FSQT-3)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c16OW5EgSoI?si=uW_8CIIhkfhziEmY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -183,7 +183,7 @@ Category:
 - C: 2 круга, отдых 1мин 30 сек
 
 <a name="s4"></a>
-## Séance 4/10
+## Séance 4/10 (FSQT-4)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6bHTMzNqpXM?si=9iTbv6lAVV6y45HJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -213,7 +213,7 @@ Category:
 - C: 2 круга, отдых 1мин 30 сек
 
 <a name="s5"></a>
-## Séance 5/10
+## Séance 5/10 (FSQT-5)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mLAK0mhD-g0?si=0ofXnR_bKtq423tL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -249,7 +249,7 @@ Category:
 - C: 2 круга, отдых 1мин 30 сек
 
 <a name="s6"></a>
-## Séance 6/10
+## Séance 6/10 (FSQT-6)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kmi9zkO6kGg?si=NtQw4wcUUmMe3igc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -282,7 +282,7 @@ Category:
 - C: 2 круга, отдых 1мин 30 сек
 
 <a name="s7"></a>
-## Séance 7/10
+## Séance 7/10 (FSQT-7)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/By7h5nvIkvk?si=bt_6FZm6zOvaNBr_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -323,7 +323,7 @@ Category:
 - C: 2 круга, отдых 1мин 30 сек
 
 <a name="s8"></a>
-## Séance 8/10
+## Séance 8/10 (FSQT-8)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/doMQQoLerLA?si=sd44x_H4Jsfr1tv7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -358,7 +358,7 @@ Category:
 - C: 2 круга, отдых 1мин 30 сек
 
 <a name="s9"></a>
-## Séance 9/10
+## Séance 9/10 (FSQT-9)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yf9ioSvkBTQ?si=i-03ESzpgOBTRvB0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -393,7 +393,7 @@ Category:
 - C: 2 круга, отдых 1мин 30 сек
 
 <a name="s10"></a>
-## Séance 10/10
+## Séance 10/10 (FSQT-10)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m3lHGQX8Yl0?si=TattfggW_FaxV86O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
