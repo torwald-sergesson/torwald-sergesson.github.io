@@ -20,6 +20,9 @@ tags:
 - [n.7](#n7)
 - [n.8](#n8)
 - [n.9](#n9)
+- [n.10](#n10)
+- [n.11](#n11)
+- [n.12](#n12)
 
 <a name="n1"></a>
 
@@ -127,3 +130,46 @@ tags:
 - Squat (приседания с резиной) - 4x10, R1m.
 - Curl (бицепс с резиной) - 4x14, R1m.
 
+<a name="n10"></a>
+
+## n.10
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mL-q-4leskY?si=E7mIUauswsyf6WFB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[Video](https://youtu.be/mL-q-4leskY?si=E7mIUauswsyf6WFB)
+
+Circuit (N=3, Ne = [15, 10, 5], R30s):
+- Pompes classiques (классич. отжимания) - Ne, R0 (без отдыха - pas de repo avant le prochain exercice)
+- Jump squats - Ne, R0
+- Sit up - Ne, R0
+
+<a name="n11"></a>
+
+## n.11
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pbuKiqRGYzM?si=cbcO9u37yASjzZos" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[Video](https://youtu.be/pbuKiqRGYzM?si=cbcO9u37yASjzZos)
+
+
+Circuit (repetez ce circuit autant de fois que possible, повторяйте цикл как можно чаще)
+- 1mn de course a allure rapide (1 минута бега в быстром темпе) - R0
+- Pompes classiques - 15, R0
+- 1mn de course a allure rapide (1 минута бега в быстром темпе) - R0
+- Squat jump - 15, R0
+- 1mn de course a allure rapide (1 минута бега в быстром темпе) - R0
+- Mountain climbers - 40
+
+<a name="n12"></a>
+
+## n.12
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C0nCfRw9y8?si=tuCFkR0qEBqaegFU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[Video](https://youtu.be/3C0nCfRw9y8?si=tuCFkR0qEBqaegFU)
+
+Circuit (повторять круг с минимальным отдыхом, сколько можешь):
+- Tractions prise supination (подтягивания обратным хватом) - 4, R0
+- Tractions prise pronation (подтягивания обычным хватом) - 4, R0
+- Tractions prise neutre (подтягивания боковым висом) - 4, R0
+- Tractions prise alternee (подтягивания разноименным хватом) - 4, R0
