@@ -23,6 +23,14 @@ tags:
 - [n.10](#n10)
 - [n.11](#n11)
 - [n.12](#n12)
+- [n.13](#n13)
+- [n.14](#n14)
+- [n.15](#n15)
+- [n.16](#n16)
+- [n.17](#n17)
+- [n.18](#n18)
+- [n.19](#n19)
+- [n.20](#n20)
 
 <a name="n1"></a>
 
@@ -173,3 +181,34 @@ Circuit (повторять круг с минимальным отдыхом, �
 - Tractions prise pronation (подтягивания обычным хватом) - 4, R0
 - Tractions prise neutre (подтягивания боковым висом) - 4, R0
 - Tractions prise alternee (подтягивания разноименным хватом) - 4, R0
+
+
+<a name="n13"></a>
+
+## n.13
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0A8c9E8x87U?si=tWtzw5n8d9ovtmS1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[Video](https://youtu.be/0A8c9E8x87U?si=tWtzw5n8d9ovtmS1)
+
+Circuit (N>=3, R1min30sec)
+- Pompes largeur epaules (отжимания, широкая стойка) - 20sec, R10sec
+- Mountain climber - 20sec, R10sec
+- Fentes sautees (выпады со сменой ног выпрыгиванием) - 20sec, R10sec
+- Gainage actif (активная планка с переменным подъемом разноименных руки и ноги) - 20sec, R10sec
+
+<a name="n14"></a>
+
+## n.14
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j98DMX9n5Yg?si=QiGNbCmgMVhrZiR1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[Video](https://youtu.be/j98DMX9n5Yg?si=QiGNbCmgMVhrZiR1)
+
+Circuit (N>=max, R1min30sec), дистанцию бега и кол-во повторений можно менять под свой уровень
+- Course allure moderee/rapide (бег в среднем/быстром темпе) 200m
+- Pompes largeur epaules (отжимания, широкая стойка) - 12, R0
+- Course allure moderee/rapide (бег в среднем/быстром темпе) 200m
+- Fentes sautees (выпады со сменой ног выпрыгиванием) - 20, R0
+- Course allure moderee/rapide (бег в среднем/быстром темпе) 200m
+- Pompes "Araignee" (отжимания паука) - 12, R0
