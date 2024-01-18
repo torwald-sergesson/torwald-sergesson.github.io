@@ -212,3 +212,16 @@ Circuit (N>=max, R1min30sec), дистанцию бега и кол-во пов�
 - Fentes sautees (выпады со сменой ног выпрыгиванием) - 20, R0
 - Course allure moderee/rapide (бег в среднем/быстром темпе) 200m
 - Pompes "Araignee" (отжимания паука) - 12, R0
+
+<a name="n15"></a>
+
+## n.15
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mNrTF0NaQJg?si=nJVhBcD7FIV069vt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[Video](https://youtu.be/mNrTF0NaQJg?si=nJVhBcD7FIV069vt)
+
+Circuit (N>=max, R0), дистанцию бега и кол-во повторений можно менять под свой уровень
+- Course allure moderee (бег в среднем темпе) 200m
+- Course allure rapide (бег в быстром темпе) 100m
+- Squat - 20, R0
