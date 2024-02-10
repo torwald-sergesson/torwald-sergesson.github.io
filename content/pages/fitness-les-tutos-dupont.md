@@ -256,4 +256,32 @@ Circuit
 - Traction pronation (прям. подтягивания), 2x4, R30sec
 - Fractione court (короткие отрезки), 1 aller-retour tranquille 8km/h, 1 retour accelere 12 km/h (1 раз туда-обратно - 8км/ч, 1 туда - 12 км/ч), т.е. 3 отрезка. 2 - 8 км/ч, 1 - 12 км/ч.
 
+<a name="n18"></a>
+
+## n.18
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f5nsF4yn6NQ?si=QehNZsolqls0taWi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[Video](https://youtu.be/f5nsF4yn6NQ?si=QehNZsolqls0taWi)
+
+Circuit (сколько сможешь кругов):
+- Traction pronations largeur d'epaule (подтягивания прямым хватом на ширине плеч) - 3+, R30sec
+- Traction supination largeur d'epaule (обратный хват) - 
+3 repetitions et plus si mon niveau le permet (3 повторения и более, если мой уровень позволяет это), 3+ R30sec
+- Traction pronation serre (прям хват, руки узко) - 3+, R30sec
+- Traction main inversee (разноименные хваты) x2 -  3+, R30sec
+
+<a name="n19"></a>
+
+## n.19
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ysYCD1Q8Ep0?si=peENfpg4ZpaKY4Jl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[Video](https://youtu.be/ysYCD1Q8Ep0?si=peENfpg4ZpaKY4Jl)
+
+Circuit (сколько сможешь кругов):
+- Pompes inclinees (отжимания уголком) - 3x10+, R30sec
+- Corde a sauter (прыжки на скакалке) - 3x1min+, R30sec
+- Sit-ups - 3x20+, R20sec
+- Gainage actif (планка с попеременным подъемом разноименных руки и ноги) - 2x1min+, R10sec
 
