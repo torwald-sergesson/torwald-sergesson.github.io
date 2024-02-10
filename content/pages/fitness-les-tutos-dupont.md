@@ -279,9 +279,23 @@ Circuit (сколько сможешь кругов):
 
 [Video](https://youtu.be/ysYCD1Q8Ep0?si=peENfpg4ZpaKY4Jl)
 
-Circuit (сколько сможешь кругов):
+Circuit:
 - Pompes inclinees (отжимания уголком) - 3x10+, R30sec
 - Corde a sauter (прыжки на скакалке) - 3x1min+, R30sec
 - Sit-ups - 3x20+, R20sec
 - Gainage actif (планка с попеременным подъемом разноименных руки и ноги) - 2x1min+, R10sec
+
+<a name="n20"></a>
+
+## n.20
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I6eoVQH_pgc?si=jBhDOw-p6brg2JYa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[Video](https://youtu.be/I6eoVQH_pgc?si=jBhDOw-p6brg2JYa)
+
+Circuit:
+- Montee de genoux ou toes to bar (подъем коленей или ног к перекладине) - 2x5+, R15sec
+- Sprawl (переход в упор лежа с прогибом) - 4x5+, R30sec
+- Hollow (стрелочка лежа на спине, ноги и руки подняты) - 3x45, R10sec
+- Traction supination - 2x4+, R30sec
 
