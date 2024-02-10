@@ -225,3 +225,22 @@ Circuit (N>=max, R0), дистанцию бега и кол-во повторе�
 - Course allure moderee (бег в среднем темпе) 200m
 - Course allure rapide (бег в быстром темпе) 100m
 - Squat - 20, R0
+
+<a name="n16"></a>
+
+## n.16
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p6zAoDbE__s?si=r_AE1-fKOHc49A4i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[Video](https://youtu.be/p6zAoDbE__s?si=r_AE1-fKOHc49A4i)
+
+Circuit
+- Tractions pronations (подтягивания прямым хватом) - 6, R0
+- Pompes classiques (классические отжимания) - 6, R0
+- Tractions supinations (подтягивания обрат. хватом) - 6, R0
+- Squats - 6, R0
+
+Repetez ce circuit autant de fois que possible en diminuant le nombre de repetitions a chaque circuit (Повторяйте эту схему как можно чаще, уменьшая
+nt количество повторений в каждом цикле)
+
+
