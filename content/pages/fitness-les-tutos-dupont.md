@@ -14,51 +14,51 @@ tags:
 
 ## Index
 
-|Exercise                   |Home|Run    |Pompes|Squats|Abs    |Gainage|Tractions|Others|Gears      |
-|---------------------------|:--:|:-----:|:----:|:----:|:-----:|:-----:|:-------:|:----:|:---------:|
-|[F-PP-1](#fpp1)            | +  |       |      | ++   | +     | +     |         | +    |           |
-|[F-PP-2](#fpp2)            | +  |       | ++   | ++   |       | +     |         |      |           |
-|[F-PP-4](#fpp4)            | +  |       | +    | +    | +     | +     |         |      |           |
-|[F-PP-5](#fpp5)            | +  |       | +    | +    | +     | +     |         |      |           |
-|[F-PP-6](#fpp6)            | +  |       | +    |      |       | ++    |         | +    |           |
-|[F-PP-7](#fpp7)            | +  |       | ++   | +    |       | +     |         |      |           |
-|[F-PP-8](#fpp8)            | +  |       | +    |      | ++    | +     |         |      |           |
-|[F-PP-9](#fpp9)            | +  |       | +    | +    |       |       |         | ++   | elastique |
-|[F-PP-10](#fpp10)          | +  |       | +    | +    | +     |       |         |      |           |
-|[F-PP-11](#fpp11)          | -  | +++   | +    | +    | +     |       |         |      |           |
-|[F-PP-12](#fpp12)          | -  |       |      |      |       |       | ++++    |      |           |
-|[F-PP-13](#fpp13)          | +  |       | +    | +    | +     | +     |         |      |           |
-|[F-PP-14](#fpp14)          | -  | +++   | ++   | +    |       |       |         |      |           |
-|[F-PP-15](#fpp15)          | -  | ++    |      | +    |       |       |         |      |           |
-|[F-PP-16](#fpp16)          | -  |       | +    | +    |       |       | ++      |      |           |
-|[F-PP-17](#fpp17)          | -  | +     |      | +    |       |       | +       |      |           |
-|[F-PP-18](#fpp18)          | -  |       |      |      |       |       | ++++    |      |           |
-|[F-PP-19](#fpp19)          | -  |       | +    |      | +     | +     |         | +    | corde     |
-|[F-PP-20](#fpp20)          | -  |       |      |      |       | ++    | ++      |      |           |
-|[F-PP-21](#fpp21)          | +  |       | +    |      |       | +     |         | ++   |           |
-|[F-PP-22](#fpp22)          | +  |       | +    | +    |       |       |         | +++  |           |
-|[F-PP-23](#fpp23)          |    |       |      |      |       |       |         |      |           |
-|[F-PP-24](#fpp24)          |    |       |      |      |       |       |         |      |           |
-|[F-PP-25](#fpp25)          |    |       |      |      |       |       |         |      |           |
-|[F-PP-26](#fpp26)          |    |       |      |      |       |       |         |      |           |
-|[F-PP-27](#fpp27)          |    |       |      |      |       |       |         |      |           |
-|[F-PP-28](#fpp28)          |    |       |      |      |       |       |         |      |           |
-|[F-PP-29](#fpp29)          |    |       |      |      |       |       |         |      |           |
-|[F-PP-30](#fpp30)          |    |       |      |      |       |       |         |      |           |
-|[F-PP-31](#fpp31)          |    |       |      |      |       |       |         |      |           |
-|[F-PP-32](#fpp32)          |    |       |      |      |       |       |         |      |           |
-|[F-PP-33](#fpp33)          |    |       |      |      |       |       |         |      |           |
-|[F-PP-34](#fpp34)          |    |       |      |      |       |       |         |      |           |
-|[F-PP-35](#fpp35)          |    |       |      |      |       |       |         |      |           |
-|[F-PP-36](#fpp36)          |    |       |      |      |       |       |         |      |           |
-|[F-PP-37](#fpp37)          |    |       |      |      |       |       |         |      |           |
-|[F-PP-38](#fpp38)          |    |       |      |      |       |       |         |      |           |
-|[F-PP-39](#fpp39)          |    |       |      |      |       |       |         |      |           |
-|[F-PP-40](#fpp40)          |    |       |      |      |       |       |         |      |           |
-|[Room1](#r1)               | +  |       | +++++|++    |       |       |         |      | табурет   |
-|[Room2](#r2)               | +  |       |      |      |       |       |         |      |           |
-|[Room3](#r3)               | +  |       |      |      |       |       |         |      |           |
-|[Room4](#r4)               | +  |       |      |      |       |       |         |      |           |
+|Exercise                        |Home|Run    |Pompes|Squats|Abs    |Gainage|Tractions|Others|Gears      |
+|--------------------------------|:--:|:-----:|:----:|:----:|:-----:|:-----:|:-------:|:----:|:---------:|
+|[F-PP-1](#fpp1)                 | +  |       |      | ++   | +     | +     |         | +    |           |
+|[F-PP-2](#fpp2)                 | +  |       | ++   | ++   |       | +     |         |      |           |
+|[F-PP-4](#fpp4)                 | +  |       | +    | +    | +     | +     |         |      |           |
+|[F-PP-5](#fpp5)                 | +  |       | +    | +    | +     | +     |         |      |           |
+|[F-PP-6](#fpp6)                 | +  |       | +    |      |       | ++    |         | +    |           |
+|[F-PP-7](#fpp7)                 | +  |       | ++   | +    |       | +     |         |      |           |
+|[F-PP-8](#fpp8)                 | +  |       | +    |      | ++    | +     |         |      |           |
+|[F-PP-9](#fpp9)                 | +  |       | +    | +    |       |       |         | ++   | elastique |
+|[F-PP-10](#fpp10)               | +  |       | +    | +    | +     |       |         |      |           |
+|[F-PP-11](#fpp11)               | -  | +++   | +    | +    | +     |       |         |      |           |
+|[F-PP-12](#fpp12)               | -  |       |      |      |       |       | ++++    |      |           |
+|[F-PP-13](#fpp13)               | +  |       | +    | +    | +     | +     |         |      |           |
+|[F-PP-14](#fpp14)               | -  | +++   | ++   | +    |       |       |         |      |           |
+|[F-PP-15](#fpp15)               | -  | ++    |      | +    |       |       |         |      |           |
+|[F-PP-16](#fpp16)               | -  |       | +    | +    |       |       | ++      |      |           |
+|[F-PP-17](#fpp17)               | -  | +     |      | +    |       |       | +       |      |           |
+|[F-PP-18](#fpp18)               | -  |       |      |      |       |       | ++++    |      |           |
+|[F-PP-19](#fpp19)               | -  |       | +    |      | +     | +     |         | +    | corde     |
+|[F-PP-20](#fpp20)               | -  |       |      |      |       | ++    | ++      |      |           |
+|[F-PP-21](#fpp21)               | +  |       | +    |      |       | +     |         | ++   |           |
+|[F-PP-22](#fpp22)               | +  |       | +    | +    |       |       |         | +++  |           |
+|[F-PP-23](#fpp23)               |    |       |      |      |       |       |         |      |           |
+|[F-PP-24](#fpp24)               |    |       |      |      |       |       |         |      |           |
+|[F-PP-25](#fpp25)               |    |       |      |      |       |       |         |      |           |
+|[F-PP-26](#fpp26)               |    |       |      |      |       |       |         |      |           |
+|[F-PP-27](#fpp27)               |    |       |      |      |       |       |         |      |           |
+|[F-PP-28](#fpp28)               |    |       |      |      |       |       |         |      |           |
+|[F-PP-29](#fpp29)               |    |       |      |      |       |       |         |      |           |
+|[F-PP-30](#fpp30)               |    |       |      |      |       |       |         |      |           |
+|[F-PP-31](#fpp31)               |    |       |      |      |       |       |         |      |           |
+|[F-PP-32](#fpp32)               |    |       |      |      |       |       |         |      |           |
+|[F-PP-33](#fpp33)               |    |       |      |      |       |       |         |      |           |
+|[F-PP-34](#fpp34)               |    |       |      |      |       |       |         |      |           |
+|[F-PP-35](#fpp35)               |    |       |      |      |       |       |         |      |           |
+|[F-PP-36](#fpp36)               |    |       |      |      |       |       |         |      |           |
+|[F-PP-37](#fpp37)               |    |       |      |      |       |       |         |      |           |
+|[F-PP-38](#fpp38)               |    |       |      |      |       |       |         |      |           |
+|[F-PP-39](#fpp39)               |    |       |      |      |       |       |         |      |           |
+|[F-PP-40](#fpp40)               |    |       |      |      |       |       |         |      |           |
+|[F-PPR-1](#fppr1)               | +  |       | +++++|++    |       |       |         |      | табурет   |
+|[F-PPR-2](#fppr2)               | +  |       |      |      |       |       |         |      |           |
+|[F-PPR-3](#fppr3)               | +  |       |      |      |       |       |         |      |           |
+|[F-PPR-4](#fppr4)               | +  |       |      |      |       |       |         |      |           |
 
 <a name="fpp1"></a>[Up](#index)
 ## F-PP-1
@@ -496,9 +496,9 @@ Circuit (несколько кругов), R2min:
 
 [Video](https://youtu.be/pq5sPoWoJW0?si=wmIHvknKsQyn5vSy)
 
-<a name="r1"></a>
+<a name="fppr1"></a>
 [Up](#index)
-## Room 1
+## F-PPR-1
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HRuaXeeZGJA?si=O0Q44p2ATk39Rsmc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -526,22 +526,22 @@ Circuit 2 (20 min без остановки) (debutant/intermediaire/confirme)
 - Pompes larges (широкие отжимания) - 10 / 15 / 20
 - Squats jump - 15 / 20 / 25
 
-<a name="r2"></a>[Up](#index)
-## Room 2
+<a name="fppr2"></a>[Up](#index)
+## F-PPR-2
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GD7LIsIuptA?si=_9kmpJvtph_pl3VP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 [Video](https://youtu.be/GD7LIsIuptA?si=_9kmpJvtph_pl3VP)
 
-<a name="r3"></a>[Up](#index)
-## Room 3
+<a name="fppr3"></a>[Up](#index)
+## F-PPR-3
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sDyv_GwsUq0?si=9DTwTORKs8epd-ui" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 [Video](https://youtu.be/sDyv_GwsUq0?si=9DTwTORKs8epd-ui)
 
-<a name="r4"></a>[Up](#index)
-## Room 4
+<a name="fppr4"></a>[Up](#index)
+## F-PPR-4
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Na1hhILi534?si=NX9n-pRRGH2_0epX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
