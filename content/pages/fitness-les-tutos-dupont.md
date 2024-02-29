@@ -10,6 +10,8 @@ tags:
 - LesTutosDupont
 ---
 
+<a name="index"></a>
+
 ## Index
 
 |Exercise     |Home|Run    |Pompes|Squats|Abs |Gainage|Tractions|Others|Gears      |
@@ -33,8 +35,8 @@ tags:
 |[n.18](#n18) | -  |       |      |      |    |       | ++++    |      |           |
 |[n.19](#n19) | -  |       | +    |      | +  | +     |         | +    | corde     |
 |[n.20](#n20) | -  |       |      |      |    | ++    | ++      |      |           |
-|[n.21](#n21) |    |       |      |      |    |       |         |      |           |
-|[n.22](#n22) |    |       |      |      |    |       |         |      |           |
+|[n.21](#n21) | +  |       | +    |      |    | +     |         | ++   |           |
+|[n.22](#n22) | +  |       | +    | +    |    |       |         | +++  |           |
 |[n.23](#n23) |    |       |      |      |    |       |         |      |           |
 |[n.24](#n24) |    |       |      |      |    |       |         |      |           |
 |[n.25](#n25) |    |       |      |      |    |       |         |      |           |
@@ -53,6 +55,10 @@ tags:
 |[n.38](#n38) |    |       |      |      |    |       |         |      |           |
 |[n.39](#n39) |    |       |      |      |    |       |         |      |           |
 |[n.40](#n40) |    |       |      |      |    |       |         |      |           |
+|[Room1](#r1) | +  |       | +++++|++    |    |       |         |      | табурет   |
+|[Room2](#r2) | +  |       |      |      |    |       |         |      |           |
+|[Room3](#r3) | +  |       |      |      |    |       |         |      |           |
+|[Room4](#r4) | +  |       |      |      |    |       |         |      |           |
 
 <a name="n1"></a>
 
@@ -68,6 +74,7 @@ tags:
 - Sit Ups (подъем корпуса в положении сидя, с вытягиванием рук) - 3x10, R: 1m.
 - Jumping Jacks - 3x20, R: 1m.
 
+[Up](#index)
 <a name="n2"></a>
 
 ## n.2
@@ -81,6 +88,7 @@ tags:
 - Jump fentes (выпады с выпрыгиванием) - 3x16, R 1m.
 - Mountain Climbers - 3x20, R 1m.
 
+[Up](#index)
 <a name="n4"></a>
 
 ## n.4
@@ -94,6 +102,7 @@ tags:
 - Gainage Actif (планка на локтях с попеременным подъемом противоположных руки и ноги) - 4x12, R 30s.
 - Sit Ups (подъем корпуса в положении сидя с вытянутыми руками и касанием пола) - 4x20, R 30s.
 
+[Up](#index)
 <a name="n5"></a>
 
 ## n.5
@@ -107,6 +116,7 @@ tags:
 - Jump Fentes (выпады с выпрыгиванием) - 4x15, R30s.
 - Gainage (планка на локтях) - 4x1m, R30s.
 
+[Up](#index)
 <a name="n6"></a>
 
 ## n.6
@@ -121,6 +131,7 @@ tags:
 - Pompes releves de Jambes (полу-берпи, упор лежа, подтягивание ног, выпрямление, отжимание) - 4x45s, R30s.
 
 
+[Up](#index)
 <a name="n7"></a>
 
 ## n.7
@@ -135,6 +146,7 @@ tags:
 - Pompes triceps (отжимания из положение упор на локти в упор лежа) - 4x10, R30s
 
 <a name="n8"></a>
+[Up](#index)
 
 ## n.8
 
@@ -148,6 +160,7 @@ tags:
 - Sit up (пресс, с руками стрелочкой) - 2x50, R30s.
 
 <a name="n9"></a>
+[Up](#index)
 
 ## n.9
 
@@ -161,6 +174,7 @@ tags:
 - Curl (бицепс с резиной) - 4x14, R1m.
 
 <a name="n10"></a>
+[Up](#index)
 
 ## n.10
 
@@ -174,6 +188,7 @@ Circuit (N=3, Ne = [15, 10, 5], R30s):
 - Sit up - Ne, R0
 
 <a name="n11"></a>
+[Up](#index)
 
 ## n.11
 
@@ -191,6 +206,7 @@ Circuit (repetez ce circuit autant de fois que possible, повторяйте ц
 - Mountain climbers - 40
 
 <a name="n12"></a>
+[Up](#index)
 
 ## n.12
 
@@ -206,6 +222,7 @@ Circuit (повторять круг с минимальным отдыхом, �
 
 
 <a name="n13"></a>
+[Up](#index)
 
 ## n.13
 
@@ -220,6 +237,7 @@ Circuit (N>=3, R1min30sec)
 - Gainage actif (активная планка с переменным подъемом разноименных руки и ноги) - 20sec, R10sec
 
 <a name="n14"></a>
+[Up](#index)
 
 ## n.14
 
@@ -236,6 +254,7 @@ Circuit (N>=max, R1min30sec), дистанцию бега и кол-во пов�
 - Pompes "Araignee" (отжимания паука) - 12, R0
 
 <a name="n15"></a>
+[Up](#index)
 
 ## n.15
 
@@ -249,6 +268,7 @@ Circuit (N>=max, R0), дистанцию бега и кол-во повторе�
 - Squat - 20, R0
 
 <a name="n16"></a>
+[Up](#index)
 
 ## n.16
 
@@ -266,6 +286,7 @@ Repetez ce circuit autant de fois que possible en diminuant le nombre de repetit
 nt количество повторений в каждом цикле)
 
 <a name="n17"></a>
+[Up](#index)
 
 ## n.17
 
@@ -279,6 +300,7 @@ Circuit
 - Fractione court (короткие отрезки), 1 aller-retour tranquille 8km/h, 1 retour accelere 12 km/h (1 раз туда-обратно - 8км/ч, 1 туда - 12 км/ч), т.е. 3 отрезка. 2 - 8 км/ч, 1 - 12 км/ч.
 
 <a name="n18"></a>
+[Up](#index)
 
 ## n.18
 
@@ -294,6 +316,7 @@ Circuit (сколько сможешь кругов):
 - Traction main inversee (разноименные хваты) x2 -  3+, R30sec
 
 <a name="n19"></a>
+[Up](#index)
 
 ## n.19
 
@@ -308,7 +331,7 @@ Circuit:
 - Gainage actif (планка с попеременным подъемом разноименных руки и ноги) - 2x1min+, R10sec
 
 <a name="n20"></a>
-
+[Up](#index)
 ## n.20
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I6eoVQH_pgc?si=jBhDOw-p6brg2JYa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -320,4 +343,65 @@ Circuit:
 - Sprawl (переход в упор лежа с прогибом) - 4x5+, R30sec
 - Hollow (стрелочка лежа на спине, ноги и руки подняты) - 3x45, R10sec
 - Traction supination - 2x4+, R30sec
+
+<a name="n21"></a>
+[Up](#index)
+## n.21
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fM2HEiwQ2o8?si=O7RVN5RHp2R5yzn4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[Video](https://youtu.be/fM2HEiwQ2o8?si=O7RVN5RHp2R5yzn4)
+
+- Dips (обратные отжимания) - 4x10+, R15sec
+- Jumping Jack - 2x50+, R15sec
+- Mogul Jump (см. видео) - 4x10+, R20sec
+- Active Gainage (планка парашютист) - 2x10+, R20sec
+
+<a name="n22"></a>
+[Up](#index)
+## n.22
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VUBx_uAg1aI?si=Swn6Fv3OJF1gFncJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[Video](https://youtu.be/VUBx_uAg1aI?si=Swn6Fv3OJF1gFncJ)
+
+Circuit (несколько кругов), R2min:
+- Jumping Jack - 30
+- Tipping - 1min
+- Squat Jump - 15
+- Tipping - 1min
+- Burpees - 15
+
+
+
+<a name="r1"></a>
+[Up](#index)
+## Room 1
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HRuaXeeZGJA?si=O0Q44p2ATk39Rsmc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[Video](https://youtu.be/HRuaXeeZGJA?si=O0Q44p2ATk39Rsmc)
+
+Echauffement (30 sec par exercice) - N=2, R=1min
+- Tipping
+- Jumping Jacks
+- 1/2 Burpee
+- Tipping
+- Jumping Jacks
+- 1/2 Burpee
+
+Circuit 1 (20 min без остановки) (новичок/средний/продвинутый)
+
+- Montee de chaise (зашагивание на табурет, ступеньку) - 20 / 30 / 40
+- Dips (обратные отжимания) - 10 / 15 / 20
+- Pompes epaules (отжимания с вытягиванием рук) - 10 / 15 / 20
+- Burpees - 5 / 10 / 15
+
+5 min rest
+
+Circuit 2 (20 min без остановки) (debutant/intermediaire/confirme)
+- Burpees jump - 10 / 15 / 20
+- Pompes larges (широкие отжимания) - 10 / 15 / 20
+- Squats jump - 15 / 20 / 25
+
 
