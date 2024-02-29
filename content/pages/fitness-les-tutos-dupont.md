@@ -527,4 +527,25 @@ Circuit 2 (20 min без остановки) (debutant/intermediaire/confirme)
 - Pompes larges (широкие отжимания) - 10 / 15 / 20
 - Squats jump - 15 / 20 / 25
 
+<a name="r2"></a>[Up](#index)
+## Room 2
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GD7LIsIuptA?si=_9kmpJvtph_pl3VP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[Video](https://youtu.be/GD7LIsIuptA?si=_9kmpJvtph_pl3VP)
+
+<a name="r3"></a>[Up](#index)
+## Room 3
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sDyv_GwsUq0?si=9DTwTORKs8epd-ui" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[Video](https://youtu.be/sDyv_GwsUq0?si=9DTwTORKs8epd-ui)
+
+<a name="r4"></a>[Up](#index)
+## Room 4
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Na1hhILi534?si=NX9n-pRRGH2_0epX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[Video](https://youtu.be/Na1hhILi534?si=NX9n-pRRGH2_0epX)
+
 
