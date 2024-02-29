@@ -372,7 +372,130 @@ Circuit (несколько кругов), R2min:
 - Tipping - 1min
 - Burpees - 15
 
+<a name="n23"></a>[Up](#index)
+## n.23
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P-Z_uv2PErw?si=HkA3za9qmr1ooe5r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+[Video](https://youtu.be/P-Z_uv2PErw?si=HkA3za9qmr1ooe5r)
+
+<a name="n24"></a>[Up](#index)
+## n.24
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nAQsv8CXobQ?si=ZvqD6NyJeJXrLcgr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[Video](https://youtu.be/nAQsv8CXobQ?si=ZvqD6NyJeJXrLcgr)
+
+<a name="n25"></a>[Up](#index)
+## n.25
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6fAExW_uSEM?si=M93I0Y0P7blWasNW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[Video](https://youtu.be/6fAExW_uSEM?si=M93I0Y0P7blWasNW)
+
+<a name="n26"></a>[Up](#index)
+## n.26
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OgB_wHn6Zn0?si=l4raGElgUNY696gq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[Video](https://youtu.be/OgB_wHn6Zn0?si=l4raGElgUNY696gq)
+
+<a name="n27"></a>[Up](#index)
+## n.27
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-7G9k89y0w0?si=jV0yttCANpfGt66A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[Video](https://youtu.be/-7G9k89y0w0?si=jV0yttCANpfGt66A)
+
+<a name="n28"></a>[Up](#index)
+## n.28
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tFJdLbmh9d8?si=sVb5ar23YR8g2LyQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[Video](https://youtu.be/tFJdLbmh9d8?si=sVb5ar23YR8g2LyQ)
+
+<a name="n29"></a>[Up](#index)
+## n.29
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YzA0zAHC-TY?si=eFmb6NGciVjMmDFO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[Video](https://youtu.be/YzA0zAHC-TY?si=eFmb6NGciVjMmDFO)
+
+<a name="n30"></a>[Up](#index)
+## n.30
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Uye-T3R4UiY?si=82-ZgB1vkunSqlth" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[Video](https://youtu.be/Uye-T3R4UiY?si=82-ZgB1vkunSqlth)
+
+<a name="n31"></a>[Up](#index)
+## n.31
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wYLAGMh9NcA?si=nscYNokCGuC_5DtW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[Video](https://youtu.be/wYLAGMh9NcA?si=nscYNokCGuC_5DtW)
+
+<a name="n32"></a>[Up](#index)
+## n.32
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y0gCXYP_mEA?si=hXzPApikZTUHgYku" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[Video](https://youtu.be/Y0gCXYP_mEA?si=hXzPApikZTUHgYku)
+
+<a name="n33"></a>[Up](#index)
+## n.33
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bMvu1O3ylHw?si=xhdsCNT03kH7LyY3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[Video](https://youtu.be/bMvu1O3ylHw?si=xhdsCNT03kH7LyY3)
+
+<a name="n34"></a>[Up](#index)
+## n.34
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B3KrRWNgBKU?si=0hGeanRB5-TJ2Weu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[Video](https://youtu.be/B3KrRWNgBKU?si=0hGeanRB5-TJ2Weu)
+
+<a name="n35"></a>[Up](#index)
+## n.35
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k0dQQbidRXw?si=n5c2VfnB-GZMTInk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[Video](https://youtu.be/k0dQQbidRXw?si=n5c2VfnB-GZMTInk)
+
+<a name="n36"></a>[Up](#index)
+## n.36
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HHM39HmFZ7k?si=wO6povxZdAbzQi2H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[Video](https://youtu.be/HHM39HmFZ7k?si=wO6povxZdAbzQi2H)
+
+<a name="n37"></a>[Up](#index)
+## n.37
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w_eMXHSS17U?si=yxAd8yU-Lflonv7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[Video](https://youtu.be/w_eMXHSS17U?si=yxAd8yU-Lflonv7f)
+
+<a name="n38"></a>[Up](#index)
+## n.38
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rNcsw-4Mf5E?si=Zyn2nKEHN68hA-aS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[Video](https://youtu.be/rNcsw-4Mf5E?si=Zyn2nKEHN68hA-aS)
+
+<a name="n39"></a>[Up](#index)
+## n.39
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c02iOPGjzxM?si=0Oht5XT8RzZQIV20" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[Video](https://youtu.be/c02iOPGjzxM?si=0Oht5XT8RzZQIV20)
+
+<a name="n40"></a>[Up](#index)
+## n.40
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pq5sPoWoJW0?si=wmIHvknKsQyn5vSy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[Video](https://youtu.be/pq5sPoWoJW0?si=wmIHvknKsQyn5vSy)
 
 <a name="r1"></a>
 [Up](#index)
