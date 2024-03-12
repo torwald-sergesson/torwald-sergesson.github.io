@@ -37,7 +37,7 @@ tags:
 |[F-PP-20](#fpp20)               | -  |       |      |      |       | ++    | ++      |      |           |
 |[F-PP-21](#fpp21)               | +  |       | +    |      |       | +     |         | ++   |           |
 |[F-PP-22](#fpp22)               | +  |       | +    | +    |       |       |         | +++  |           |
-|[F-PP-23](#fpp23)               |    |       |      |      |       |       |         |      |           |
+|[F-PP-23](#fpp23)               | +  |       | +    | +    | +     | +     |         |      |           |
 |[F-PP-24](#fpp24)               |    |       |      |      |       |       |         |      |           |
 |[F-PP-25](#fpp25)               |    |       |      |      |       |       |         |      |           |
 |[F-PP-26](#fpp26)               |    |       |      |      |       |       |         |      |           |
@@ -376,6 +376,13 @@ Circuit (несколько кругов), R2min:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P-Z_uv2PErw?si=HkA3za9qmr1ooe5r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 [Video](https://youtu.be/P-Z_uv2PErw?si=HkA3za9qmr1ooe5r)
+
+Circuit (3 круга, 1 минута отдыха между кругами):
+- Burpees - 10, R0
+- Lever de jambes - 20, R0 (медленный подъем и опускание ног из положения лежа)
+- Fentes avant - 20, R0 (выпады вперед)
+- Gainage frontal - 1m, R0 (планка на прямых руках)
+
 
 <a name="fpp24"></a>[Up](#index)
 ## F-PP-24
