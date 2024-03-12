@@ -38,7 +38,7 @@ tags:
 |[F-PP-21](#fpp21)               | +  |       | +    |      |       | +     |         | ++   |           |
 |[F-PP-22](#fpp22)               | +  |       | +    | +    |       |       |         | +++  |           |
 |[F-PP-23](#fpp23)               | +  |       | +    | +    | +     | +     |         |      |           |
-|[F-PP-24](#fpp24)               |    |       |      |      |       |       |         |      |           |
+|[F-PP-24](#fpp24)               | +  |       | +++  |      |       |       |         |      |           |
 |[F-PP-25](#fpp25)               |    |       |      |      |       |       |         |      |           |
 |[F-PP-26](#fpp26)               |    |       |      |      |       |       |         |      |           |
 |[F-PP-27](#fpp27)               |    |       |      |      |       |       |         |      |           |
@@ -390,6 +390,10 @@ Circuit (3 круга, 1 минута отдыха между кругами):
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nAQsv8CXobQ?si=ZvqD6NyJeJXrLcgr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 [Video](https://youtu.be/nAQsv8CXobQ?si=ZvqD6NyJeJXrLcgr)
+
+- Les pompes en prise large - 2x8+, R20s (отжимания широкой стойкой)
+- Les pompes diamants - 2x8+, R20s (алмазные отжимания)
+- Les pompes classiques - 2x8+, R30s (обычные отжимания)
 
 <a name="fpp25"></a>[Up](#index)
 ## F-PP-25
