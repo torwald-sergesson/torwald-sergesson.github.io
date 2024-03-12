@@ -39,7 +39,7 @@ tags:
 |[F-PP-22](#fpp22)               | +  |       | +    | +    |       |       |         | +++  |           |
 |[F-PP-23](#fpp23)               | +  |       | +    | +    | +     | +     |         |      |           |
 |[F-PP-24](#fpp24)               | +  |       | +++  |      |       |       |         |      |           |
-|[F-PP-25](#fpp25)               |    |       |      |      |       |       |         |      |           |
+|[F-PP-25](#fpp25)               | +  |       | ++   | +    |       | +     |         |      |           |
 |[F-PP-26](#fpp26)               |    |       |      |      |       |       |         |      |           |
 |[F-PP-27](#fpp27)               |    |       |      |      |       |       |         |      |           |
 |[F-PP-28](#fpp28)               |    |       |      |      |       |       |         |      |           |
@@ -401,6 +401,12 @@ Circuit (3 круга, 1 минута отдыха между кругами):
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6fAExW_uSEM?si=M93I0Y0P7blWasNW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 [Video](https://youtu.be/6fAExW_uSEM?si=M93I0Y0P7blWasNW)
+
+Circuit (3 круга, без отдыха):
+- Les pompes en prise large genoux au sol - 15s, (широкие отжимания, с колен)
+- Squats - 15s
+- Les pompes diamants genoux au sol - 15s
+- Gainage - 15s (планка на локтях)
 
 <a name="fpp26"></a>[Up](#index)
 ## F-PP-26
