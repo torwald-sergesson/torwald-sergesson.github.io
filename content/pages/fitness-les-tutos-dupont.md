@@ -480,6 +480,12 @@ Circuit (refaire le circuit 3 fois):
 
 [Video](https://youtu.be/wYLAGMh9NcA?si=nscYNokCGuC_5DtW)
 
+Circuit (4 круга, R1 между кругами)
+- Burpees Decompose - 10 (недоберпи, ложишься на пол, поднимаешь руки, встаешь, выпрыгивание)
+- Montain climber - 40
+- Squat jumps - 20
+- Gainage - 1min
+
 <a name="fpp32"></a>[Up](#index)
 ## F-PP-32
 
@@ -487,12 +493,25 @@ Circuit (refaire le circuit 3 fois):
 
 [Video](https://youtu.be/Y0gCXYP_mEA?si=hXzPApikZTUHgYku)
 
+Circuit (4 круга, R1 между кругами):
+- Jumping jack - 30
+- Sit up - 15
+- Fente sautes - 20 (выпады с выпрыгиванием)
+- Gainage actif - 1min (упор лежа, поочередные касания руками плеч)
+
+
 <a name="fpp33"></a>[Up](#index)
 ## F-PP-33
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bMvu1O3ylHw?si=xhdsCNT03kH7LyY3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 [Video](https://youtu.be/bMvu1O3ylHw?si=xhdsCNT03kH7LyY3)
+
+Circuit (3+ круга, R1min):
+- Pompes - 15
+- Abdos rameur - 20 (пресс, иммитация гребли)
+- Gainage actif - 45s (прыжком расставить-собрать ноги)
+- Tipping - 45s
 
 <a name="fpp34"></a>[Up](#index)
 ## F-PP-34
