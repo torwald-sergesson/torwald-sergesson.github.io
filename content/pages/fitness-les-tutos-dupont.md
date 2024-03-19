@@ -41,8 +41,8 @@ tags:
 |[F-PP-24](#fpp24)               | +  |       | +++  |      |       |       |         |      |           |
 |[F-PP-25](#fpp25)               | +  |       | ++   | +    |       | +     |         |      |           |
 |[F-PP-26](#fpp26)               | +  |       | ++   | +    |       | +     |         |      |           |
-|[F-PP-27](#fpp27)               |    |       |      |      |       |       |         |      |           |
-|[F-PP-28](#fpp28)               |    |       |      |      |       |       |         |      |           |
+|[F-PP-27](#fpp27)               | -  |       |      | +    | +     |       | ++      |      | брусья    |
+|[F-PP-28](#fpp28)               | -  |       | +    | ++   |       | +     |         |      | брусья    |
 |[F-PP-29](#fpp29)               |    |       |      |      |       |       |         |      |           |
 |[F-PP-30](#fpp30)               |    |       |      |      |       |       |         |      |           |
 |[F-PP-31](#fpp31)               |    |       |      |      |       |       |         |      |           |
@@ -440,6 +440,12 @@ Circuit (refaire le circuit 3 fois):
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tFJdLbmh9d8?si=sVb5ar23YR8g2LyQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 [Video](https://youtu.be/tFJdLbmh9d8?si=sVb5ar23YR8g2LyQ)
+
+Circuit (refaire le circuit 3 fois):
+- Dips - 15s (отжимания на брусьях)
+- Gainage actif - 30s (переход с упора лежа на локти и обратно с отжиманием)
+- Exercise de la chaise - 15s (статика, присед с упором спины в стену, ноги 90град)
+- Fente avant - 30s
 
 <a name="fpp29"></a>[Up](#index)
 ## F-PP-29
