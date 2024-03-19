@@ -7,3 +7,4 @@ themes/hugo-xmin/exampleSite
 .DS_Store
 .idea
 .hugo_build.lock
+*.swp
