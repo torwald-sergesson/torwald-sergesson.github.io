@@ -557,12 +557,24 @@ Circuit (N=4, R1min):
 
 [Video](https://youtu.be/w_eMXHSS17U?si=yxAd8yU-Lflonv7f)
 
+Circuit (N=3, R30s):
+- Abdos obliquee - 20
+- Gainage jambes levee - 20 (планка на локтях с подниманием ног)
+- Gainage pompes - 20 (планка с переходом на локти и на прямые руки)
+- Gainage dorsal levee de jambe - 20 (лежа уголком на спине подъем ног, как в 4C)
+
 <a name="fpp38"></a>[Up](#index)
 ## F-PP-38
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rNcsw-4Mf5E?si=Zyn2nKEHN68hA-aS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 [Video](https://youtu.be/rNcsw-4Mf5E?si=Zyn2nKEHN68hA-aS)
+
+Circuit (N=3, R30s):
+- Abdos crunch - 20
+- Burpees - 10
+- Fente sautees - 20
+- Gainage lateral - 2x45s chaque cote (боковая планка, 45 сек на каждой стороне)
 
 <a name="fpp39"></a>[Up](#index)
 ## F-PP-39
