@@ -41,7 +41,7 @@ tags:
 |[F-PP-24](#fpp24)               | +  |       | +++  |      |       |       |         |      |           |
 |[F-PP-25](#fpp25)               | +  |       | ++   | +    |       | +     |         |      |           |
 |[F-PP-26](#fpp26)               | +  |       | ++   | +    |       | +     |         |      |           |
-|[F-PP-27](#fpp27)               | -  |       |      | +    | +     |       | ++      |      | брусья    |
+|[F-PP-27](#fpp27)               | -  |       |      | +    | +     |       | +       | +    | брусья    |
 |[F-PP-28](#fpp28)               | -  |       | +    | ++   |       | +     |         |      | брусья    |
 |[F-PP-29](#fpp29)               |    |       |      |      |       |       |         |      |           |
 |[F-PP-30](#fpp30)               |    |       |      |      |       |       |         |      |           |
@@ -453,6 +453,12 @@ Circuit (refaire le circuit 3 fois):
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YzA0zAHC-TY?si=eFmb6NGciVjMmDFO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 [Video](https://youtu.be/YzA0zAHC-TY?si=eFmb6NGciVjMmDFO)
+
+Circuit (refaire le circuit 3 fois):
+- Echelle horizontale et traction - 1 aller (рукоход с подтягиваниями, в одну сторону)
+- Jumping Jack - 10
+- Pompes saute - 15s (отжимания с хлопком)
+- Releve de jambes - 10 (подъем прямых ног на брусьях)
 
 <a name="fpp30"></a>[Up](#index)
 ## F-PP-30
