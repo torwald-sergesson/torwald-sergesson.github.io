@@ -520,6 +520,12 @@ Circuit (3+ круга, R1min):
 
 [Video](https://youtu.be/B3KrRWNgBKU?si=0hGeanRB5-TJ2Weu)
 
+Circuit (N=4, R1min):
+- Pompes triceps - 10 (отжимания с перекрещенными руками)
+- Levees de jambes - 20 (подъем ног)
+- Gainage superman - 45s (планка парашютист)
+- Squats - 20
+
 <a name="fpp35"></a>[Up](#index)
 ## F-PP-35
 
@@ -527,12 +533,22 @@ Circuit (3+ круга, R1min):
 
 [Video](https://youtu.be/k0dQQbidRXw?si=n5c2VfnB-GZMTInk)
 
+- Gainage actif - 3x10+, R30s (планка с подъемом руки через сторону)
+- Abdos obliques - 3x10+, R30s (пресс, боковые скручивания)
+- Gainage chaise - 3x30s+, R30s (статика, присед у стены)
+- Jumping Jack - 3x10+, R30s
+
 <a name="fpp36"></a>[Up](#index)
 ## F-PP-36
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HHM39HmFZ7k?si=wO6povxZdAbzQi2H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 [Video](https://youtu.be/HHM39HmFZ7k?si=wO6povxZdAbzQi2H)
+
+- Pompes genoux - 3x10+, R30s (отжимания с колен)
+- Kick-ups - 3x10+, R30s (из положения на четвереньках подъем согнутой ноги вверх)
+- Sit-ups - 3x30s+, R30s
+- Gainage actif - 3x10+, R30s (планка с подъемом рук в сторону)
 
 <a name="fpp37"></a>[Up](#index)
 ## F-PP-37
