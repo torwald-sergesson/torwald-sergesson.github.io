@@ -40,7 +40,7 @@ tags:
 |[F-PP-23](#fpp23)               | +  |       | +    | +    | +     | +     |         |      |           |
 |[F-PP-24](#fpp24)               | +  |       | +++  |      |       |       |         |      |           |
 |[F-PP-25](#fpp25)               | +  |       | ++   | +    |       | +     |         |      |           |
-|[F-PP-26](#fpp26)               |    |       |      |      |       |       |         |      |           |
+|[F-PP-26](#fpp26)               | +  |       | ++   | +    |       | +     |         |      |           |
 |[F-PP-27](#fpp27)               |    |       |      |      |       |       |         |      |           |
 |[F-PP-28](#fpp28)               |    |       |      |      |       |       |         |      |           |
 |[F-PP-29](#fpp29)               |    |       |      |      |       |       |         |      |           |
@@ -415,12 +415,24 @@ Circuit (3 круга, без отдыха):
 
 [Video](https://youtu.be/OgB_wHn6Zn0?si=l4raGElgUNY696gq)
 
+Circuit (refaire le circuit d'execrices 3 fois) - 3 круга без отдыха:
+- Pompes en prise large - 15s
+- Squat saute - 30s
+- Les pompes diamant - 15s
+- Gainage (с поднятой рукой и разноименной ногой) - 15s
+
 <a name="fpp27"></a>[Up](#index)
 ## F-PP-27
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-7G9k89y0w0?si=jV0yttCANpfGt66A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 [Video](https://youtu.be/-7G9k89y0w0?si=jV0yttCANpfGt66A)
+
+Circuit (refaire le circuit 3 fois):
+- Traction pronation - 15s
+- Souleve de genoux - 30s (подъем коленей на брусьях)
+- Fente avant - 30s
+- Echelle horizontale - 1 aller-retour (рукоход, туда-обратно)
 
 <a name="fpp28"></a>[Up](#index)
 ## F-PP-28
