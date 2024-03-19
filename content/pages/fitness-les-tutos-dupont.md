@@ -555,12 +555,24 @@ Circuit (3+ круга, R1min):
 
 [Video](https://youtu.be/c02iOPGjzxM?si=0Oht5XT8RzZQIV20)
 
+Circuit (N=3, R30s);
+- Pompes - 10 (грудь на землю, руки отрываются от земли)
+- Abdos Rameur - 20 (пресс, подтягивания ног к груди)
+- Squat sautees - 20
+- Gainage frontale - 1min (планка на локтях)
+
 <a name="fpp40"></a>[Up](#index)
 ## F-PP-40
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pq5sPoWoJW0?si=wmIHvknKsQyn5vSy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 [Video](https://youtu.be/pq5sPoWoJW0?si=wmIHvknKsQyn5vSy)
+
+Circuit (N=3, R30s):
+- Tipping - 45s
+- Gainage actif - 1min (поочередное вытягивание рук в упоре лежа)
+- Jumping Jack - 20
+- Montain climber - 40
 
 <a name="fppr1"></a>
 [Up](#index)
