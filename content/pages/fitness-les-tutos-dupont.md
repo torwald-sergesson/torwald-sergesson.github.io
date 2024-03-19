@@ -467,6 +467,12 @@ Circuit (refaire le circuit 3 fois):
 
 [Video](https://youtu.be/Uye-T3R4UiY?si=82-ZgB1vkunSqlth)
 
+Circuit (refaire le circuit 3 fois):
+- Traction de escalade - 1 aller-retour (подтягивание с подъемом на лестнице)
+- Souleve de genoux - 10 (подъем коленей на брусьях)
+- Jumping Jack - 10
+- Dips - 10
+
 <a name="fpp31"></a>[Up](#index)
 ## F-PP-31
 
