@@ -14,6 +14,15 @@ tags:
 ## Index
 
 - [Séance 1/10](#s1)
+- [Séance 2/10](#s2)
+- [Séance 3/10](#s3)
+- [Séance 4/10](#s4)
+- [Séance 5/10](#s5)
+- [Séance 6/10](#s6)
+- [Séance 7/10](#s7)
+- [Séance 8/10](#s8)
+- [Séance 9/10](#s9)
+- [Séance 10/10](#s10)
 
 <a name="s1"></a>
 ## Séance 1/10
@@ -61,4 +70,64 @@ tags:
 | 11      | 17   |
 | 12      | 18   |
 
+<a name="s2"></a>
+## Séance 2/10
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cTxGRuPCT60?si=hG_F14cxT2CKU6dH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[Video](https://youtu.be/cTxGRuPCT60?si=hG_F14cxT2CKU6dH)
+
+<a name="s3"></a>
+## Séance 3/10
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zt256KSKA8Q?si=N1xxGOYOMdowM6Jx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[Video](https://youtu.be/Zt256KSKA8Q?si=N1xxGOYOMdowM6Jx)
+
+<a name="s4"></a>
+## Séance 4/10
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a91TTGsPu60?si=R6BrjP0STJJToi8i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[Video](https://youtu.be/a91TTGsPu60?si=R6BrjP0STJJToi8i)
+
+<a name="s5"></a>
+## Séance 5/10
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jXZzfIpSkc8?si=leyxLiWw8NAhxa2C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[Video](https://youtu.be/jXZzfIpSkc8?si=leyxLiWw8NAhxa2C)
+
+<a name="s6"></a>
+## Séance 6/10
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BnvsvWNHkLQ?si=QsDgHMmAbXo08yzc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[Video](https://youtu.be/BnvsvWNHkLQ?si=QsDgHMmAbXo08yzc)
+
+<a name="s7"></a>
+## Séance 7/10
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YJ3q6Yrd4H4?si=Mg-eCkTKS0PR0TQv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[Video](https://youtu.be/YJ3q6Yrd4H4?si=Mg-eCkTKS0PR0TQv)
+
+<a name="s8"></a>
+## Séance 8/10
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pvtlMgNrI2Q?si=xkzKUrgJxGp6cTJt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[Video](https://youtu.be/pvtlMgNrI2Q?si=xkzKUrgJxGp6cTJt)
+
+<a name="s9"></a>
+## Séance 9/10
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G7I5tXcZVqs?si=KeaC2QsyUTvC7vEo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[Video](https://youtu.be/G7I5tXcZVqs?si=KeaC2QsyUTvC7vEo)
+
+<a name="s10"></a>
+## Séance 10/10
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s0_JdHGLnic?si=W7cwl2LIQbHNtLNa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[Video](https://youtu.be/s0_JdHGLnic?si=W7cwl2LIQbHNtLNa)
+
+
+<a name="beep"></a>
+## Luc Leger Beep
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gVp9kx8RKH0?si=tQ3briZGv5e71uMs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[Video](https://youtu.be/gVp9kx8RKH0?si=tQ3briZGv5e71uMs)
 
