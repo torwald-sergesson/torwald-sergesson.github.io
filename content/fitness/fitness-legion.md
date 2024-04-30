@@ -8,6 +8,9 @@ tags:
 - army
 - fitness
 - legion
+params:
+  skipAtHome: true
+description: Упражнения с канала Иностранного Легиона
 ---
 
 ## Index

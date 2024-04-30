@@ -1,5 +1,5 @@
 ---
-title: LesTutosDupont - Programme d'entraînement au luc léger
+title: Programme d'entraînement au luc léger
 slug: luc-leger
 categories:
 - Fitness
@@ -9,6 +9,10 @@ tags:
 - fitness
 - LesTutosDupont
 - running
+params:
+  skipAtHome: true
+description: |
+  Подготовка к тесту Luc Leger (интервальный бег)
 ---
 
 ## Index

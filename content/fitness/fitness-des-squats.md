@@ -1,5 +1,5 @@
 ---
-title: LesTutosDupont - Programme d'entraînement pour l’épreuve des squats
+title: Programme d'entraînement pour l’épreuve des squats
 slug: des-squats
 categories:
 - Fitness
@@ -7,7 +7,9 @@ tags:
 - france
 - army
 - fitness
-- LesTutosDupont
+params:
+  skipAtHome: true
+description: Программа подготовки к приседаниям
 ---
 ## Index
 
