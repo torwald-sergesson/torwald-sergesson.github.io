@@ -1,6 +1,6 @@
 ---
-title: Circuit de préparation physique (FPP-01)
-slug: fpp-01
+title: FPP-37
+slug: fpp-37
 categories:
 - Fitness
 tags:
@@ -10,13 +10,12 @@ tags:
 params:
   skipAtHome: true
 description: |
-    - Squat (3x12), R: 1m.
-    - Fentes Avant (Выпады вперед) - 3x16, R: 1m.
-    - Gainage (планка, на локтях) - 3x1m, R: 30s.
-    - Sit Ups (подъем корпуса в положении сидя, с вытягиванием рук) - 3x10, R: 1m.
-    - Jumping Jacks - 3x20, R: 1m.
+    Circuit (N=3, R30s):
+    - Abdos obliquee - 20
+    - Gainage jambes levee - 20 (планка на локтях с подниманием ног)
+    - Gainage pompes - 20 (планка с переходом на локти и на прямые руки)
+    - Gainage dorsal levee de jambe - 20 (лежа уголком на спине подъем ног, как в 4C)
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w_eMXHSS17U?si=yxAd8yU-Lflonv7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vwGtyKKX0Rs?si=mDf4raHqLGrx4jNd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-[Video](https://youtu.be/vwGtyKKX0Rs?si=bG_Tud5B8Uv3JiUl)
+[Video](https://youtu.be/w_eMXHSS17U?si=yxAd8yU-Lflonv7f)

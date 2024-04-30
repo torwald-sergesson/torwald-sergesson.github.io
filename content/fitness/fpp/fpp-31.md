@@ -1,6 +1,6 @@
 ---
-title: Circuit de préparation physique (FPP-01)
-slug: fpp-01
+title: FPP-31
+slug: fpp-31
 categories:
 - Fitness
 tags:
@@ -10,13 +10,12 @@ tags:
 params:
   skipAtHome: true
 description: |
-    - Squat (3x12), R: 1m.
-    - Fentes Avant (Выпады вперед) - 3x16, R: 1m.
-    - Gainage (планка, на локтях) - 3x1m, R: 30s.
-    - Sit Ups (подъем корпуса в положении сидя, с вытягиванием рук) - 3x10, R: 1m.
-    - Jumping Jacks - 3x20, R: 1m.
+    Circuit (4 круга, R1 между кругами)
+    - Burpees Decompose - 10 (недоберпи, ложишься на пол, поднимаешь руки, встаешь, выпрыгивание)
+    - Montain climber - 40
+    - Squat jumps - 20
+    - Gainage - 1min
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wYLAGMh9NcA?si=nscYNokCGuC_5DtW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vwGtyKKX0Rs?si=mDf4raHqLGrx4jNd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-[Video](https://youtu.be/vwGtyKKX0Rs?si=bG_Tud5B8Uv3JiUl)
+[Video](https://youtu.be/wYLAGMh9NcA?si=nscYNokCGuC_5DtW)
