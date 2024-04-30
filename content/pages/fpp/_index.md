@@ -7,6 +7,7 @@ tags:
 - france
 - army
 - fitness
+description: A list of French Army exercises for physical preparation
 ---
 
 |Exercise                       |Home|Pompes|Squats|Abs    |Gainage|Tractions|Run    |Others|Gears                   |
@@ -54,4 +55,5 @@ tags:
 |[FPP-R2](fpp-r2)               | +  |      |      |       |       |         |       |      |                        |
 |[FPP-R3](fpp-r3)               | +  |      |      |       |       |         |       |      |                        |
 |[FPP-R4](fpp-r4)               | +  |      |      |       |       |         |       |      |                        |
+
 
