@@ -1,6 +1,6 @@
 ---
-title: Circuit de préparation physique (FPP-01)
-slug: fpp-01
+title: FPP-17
+slug: fpp-17
 categories:
 - Fitness
 tags:
@@ -10,13 +10,11 @@ tags:
 params:
   skipAtHome: true
 description: |
-    - Squat (3x12), R: 1m.
-    - Fentes Avant (Выпады вперед) - 3x16, R: 1m.
-    - Gainage (планка, на локтях) - 3x1m, R: 30s.
-    - Sit Ups (подъем корпуса в положении сидя, с вытягиванием рук) - 3x10, R: 1m.
-    - Jumping Jacks - 3x20, R: 1m.
+    Circuit
+    - Squat, 3x50, R30sec
+    - Traction pronation (прям. подтягивания), 2x4, R30sec
+    - Fractione court (короткие отрезки), 1 aller-retour tranquille 8km/h, 1 retour accelere 12 km/h (1 раз туда-обратно - 8км/ч, 1 туда - 12 км/ч), т.е. 3 отрезка. 2 - 8 км/ч, 1 - 12 км/ч.
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YH3KN2xhBzM?si=n1Bm9KUkjTItMC1G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vwGtyKKX0Rs?si=mDf4raHqLGrx4jNd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-[Video](https://youtu.be/vwGtyKKX0Rs?si=bG_Tud5B8Uv3JiUl)
+[Video](https://youtu.be/YH3KN2xhBzM?si=n1Bm9KUkjTItMC1G)

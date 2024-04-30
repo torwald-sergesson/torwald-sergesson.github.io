@@ -1,5 +1,5 @@
 ---
-title: Circuit de préparation physique (FPP-02)
+title: FPP-02
 slug: fpp-02
 categories:
 - Fitness

@@ -1,6 +1,6 @@
 ---
-title: Circuit de préparation physique (FPP-01)
-slug: fpp-01
+title: FPP-19
+slug: fpp-19
 categories:
 - Fitness
 tags:
@@ -10,13 +10,12 @@ tags:
 params:
   skipAtHome: true
 description: |
-    - Squat (3x12), R: 1m.
-    - Fentes Avant (Выпады вперед) - 3x16, R: 1m.
-    - Gainage (планка, на локтях) - 3x1m, R: 30s.
-    - Sit Ups (подъем корпуса в положении сидя, с вытягиванием рук) - 3x10, R: 1m.
-    - Jumping Jacks - 3x20, R: 1m.
+    Circuit:
+    - Pompes inclinees (отжимания уголком) - 3x10+, R30sec
+    - Corde a sauter (прыжки на скакалке) - 3x1min+, R30sec
+    - Sit-ups - 3x20+, R20sec
+    - Gainage actif (планка с попеременным подъемом разноименных руки и ноги) - 2x1min+, R10sec
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ysYCD1Q8Ep0?si=peENfpg4ZpaKY4Jl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vwGtyKKX0Rs?si=mDf4raHqLGrx4jNd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-[Video](https://youtu.be/vwGtyKKX0Rs?si=bG_Tud5B8Uv3JiUl)
+[Video](https://youtu.be/ysYCD1Q8Ep0?si=peENfpg4ZpaKY4Jl)

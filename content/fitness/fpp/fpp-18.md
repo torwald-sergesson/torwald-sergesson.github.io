@@ -1,6 +1,6 @@
 ---
-title: Circuit de préparation physique (FPP-01)
-slug: fpp-01
+title: FPP-18
+slug: fpp-18
 categories:
 - Fitness
 tags:
@@ -10,13 +10,12 @@ tags:
 params:
   skipAtHome: true
 description: |
-    - Squat (3x12), R: 1m.
-    - Fentes Avant (Выпады вперед) - 3x16, R: 1m.
-    - Gainage (планка, на локтях) - 3x1m, R: 30s.
-    - Sit Ups (подъем корпуса в положении сидя, с вытягиванием рук) - 3x10, R: 1m.
-    - Jumping Jacks - 3x20, R: 1m.
+    Circuit (сколько сможешь кругов):
+    - Traction pronations largeur d'epaule (подтягивания прямым хватом на ширине плеч) - 3+, R30sec
+    - Traction supination largeur d'epaule (обратный хват) - 3 repetitions et plus si mon niveau le permet (3 повторения и более, если мой уровень позволяет это), 3+ R30sec
+    - Traction pronation serre (прям хват, руки узко) - 3+, R30sec
+    - Traction main inversee (разноименные хваты) x2 -  3+, R30sec
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f5nsF4yn6NQ?si=QehNZsolqls0taWi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vwGtyKKX0Rs?si=mDf4raHqLGrx4jNd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-[Video](https://youtu.be/vwGtyKKX0Rs?si=bG_Tud5B8Uv3JiUl)
+[Video](https://youtu.be/f5nsF4yn6NQ?si=QehNZsolqls0taWi)
