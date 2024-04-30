@@ -7,6 +7,8 @@ tags:
 - france
 - army
 - fitness
+params:
+  skipAtHome: true
 description: |
     - Squat (3x12), R: 1m.
     - Fentes Avant (Выпады вперед) - 3x16, R: 1m.

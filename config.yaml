@@ -35,6 +35,9 @@ menu:
   - name: "Pages"
     url: "/pages"
     weight: 4
+  - name: "Fitness"
+    url: "/categories/fitness"
+    weight: 4
   - name: "Tags"
     url: "/tags"
     weight: 6

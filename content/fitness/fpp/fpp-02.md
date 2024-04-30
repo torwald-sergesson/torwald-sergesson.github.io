@@ -7,6 +7,8 @@ tags:
 - france
 - army
 - fitness
+params:
+  skipAtHome: true
 description: |
     - Pompes diamand - 3x8, R: 1m.
     - Jumping squat (выпрыгивания) - 3x12, R 1m.
