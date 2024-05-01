@@ -2,7 +2,7 @@
 title: "Interesting links"
 slug: interesting-it-links
 categories:
-- IT
+- Dev
 tags:
 - chip8
 - console

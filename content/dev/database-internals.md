@@ -2,7 +2,7 @@
 title: "Databases internals"
 slug: databases_internals
 categories:
-- IT
+- Dev
 tags:
 - c
 - databases

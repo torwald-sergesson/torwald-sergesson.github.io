@@ -2,7 +2,7 @@
 title: DNS
 slug: dns-links
 categories:
-- IT
+- Dev
 tags:
 - dns
 - linux

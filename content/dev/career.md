@@ -2,7 +2,7 @@
 title: Career
 slug: career
 categories:
-- IT
+- Dev
 tags:
 - career 
 ---

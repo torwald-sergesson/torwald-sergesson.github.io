@@ -2,7 +2,7 @@
 title:  "Copy files from/to Kubernetes"
 date:   "2021-03-19"
 categories:
-- IT
+- Dev
 tags: 
 - kubernetes
 - cheatsheet

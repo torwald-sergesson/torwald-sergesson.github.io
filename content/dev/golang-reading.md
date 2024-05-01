@@ -2,7 +2,7 @@
 title: Golang Reading List from Mail.ru cources
 slug: golang-mail-ru
 categories:
-- IT
+- Dev
 tags:
 - golang
 - lists

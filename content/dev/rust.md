@@ -2,7 +2,7 @@
 title: Rust
 slug: rust-links
 categories:
-- IT
+- Dev
 tags:
 - rust
 ---

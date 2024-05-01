@@ -2,7 +2,7 @@
 title: ZSH config files
 slug: zsh-configs 
 categories:
-- IT
+- Dev
 tags:
 - shell
 - linux

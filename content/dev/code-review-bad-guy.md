@@ -2,8 +2,9 @@
 title: "Как загнобить человека на код-ревью"
 slug: code-review
 categories:
-- Humor
+- Dev
 tags:
+- humor
 - external
 ---
 

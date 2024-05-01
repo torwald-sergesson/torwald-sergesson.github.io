@@ -2,7 +2,7 @@
 title: Security
 slug: security-links
 categories:
-- IT
+- Dev
 tags:
 - security
 ---

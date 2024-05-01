@@ -1,8 +1,9 @@
 ---
 title: Make Chromebook Super_L key Control 
+date: "2024-04-20"
 slug: xmodmap-chromebook
 categories:
-- IT
+- Dev
 tags:
 - shell
 - linux

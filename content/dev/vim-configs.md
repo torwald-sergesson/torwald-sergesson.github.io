@@ -2,7 +2,7 @@
 title: Vim config files
 slug: vim-configs 
 categories:
-- IT
+- Dev
 tags:
 - shell
 - linux

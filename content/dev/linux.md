@@ -2,7 +2,7 @@
 title: Linux and C
 slug: linux-and-c
 categories:
-- IT
+- Dev
 tags:
 - linux
 - c

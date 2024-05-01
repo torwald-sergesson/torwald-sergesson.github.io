@@ -3,7 +3,7 @@ title:  "IT Telegram Channels"
 author: "Torwald Sergesson"
 slug: "it-telegram-channels"
 categories:
-- IT
+- Dev
 tags: 
 - telegram
 - lists
