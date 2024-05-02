@@ -9,7 +9,7 @@ footnotereturnlinkcontents: "↩"
 
 permalinks:
   note: "/pages/:slug/"
-  post: "/posts/:year/:month/:day/:slug/"
+  post: "/blog/:year/:month/:day/:slug/"
 
 params:
   description: "Torwald Sergesson log"
@@ -26,22 +26,25 @@ menu:
   - name: "Home"
     url: "/"
     weight: 1
-  - name: "About"
-    url: "/about"
-    weight: 2
-  - name: "Posts"
-    url: "/posts"
+  - name: "Blog"
+    url: "/blog"
     weight: 3
-  - name: "Pages"
-    url: "/pages"
+  - name: "Dev"
+    url: "/dev"
     weight: 4
+  - name: "Games"
+    url: "/games"
+    weight: 5
   - name: "Fitness"
     url: "/fitness"
     weight: 4
   - name: "Tags"
     url: "/tags"
-    weight: 6
+    weight: 9
   - name: "Categories"
     url: "categories/"
-    weight: 5
+    weight: 8
+  - name: "About me"
+    url: "/about"
+    weight: 10
 
