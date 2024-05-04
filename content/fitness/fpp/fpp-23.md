@@ -4,6 +4,7 @@ slug: fpp-23
 categories:
 - Fitness
 tags:
+- workouts
 - armee
 - fitness
 params:

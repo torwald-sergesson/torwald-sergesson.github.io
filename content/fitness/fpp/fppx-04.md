@@ -4,6 +4,7 @@ slug: fppx-04
 categories:
 - Fitness
 tags:
+- workouts
 - armee
 - fitness
 params:
