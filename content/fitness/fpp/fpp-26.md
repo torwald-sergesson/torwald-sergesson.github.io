@@ -4,7 +4,6 @@ slug: fpp-26
 categories:
 - Fitness
 tags:
-- france
 - army
 - fitness
 params:

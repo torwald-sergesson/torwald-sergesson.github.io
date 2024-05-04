@@ -4,7 +4,6 @@ slug: fpp-33
 categories:
 - Fitness
 tags:
-- france
 - army
 - fitness
 params:
