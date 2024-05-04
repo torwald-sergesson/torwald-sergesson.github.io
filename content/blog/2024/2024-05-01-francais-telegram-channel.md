@@ -5,6 +5,7 @@ slug: francais-telegram-channels
 categories:
 - Francais
 tags:
+- France
 - lists
 - telegram
 ---
