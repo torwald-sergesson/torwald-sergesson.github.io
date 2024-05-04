@@ -8,6 +8,8 @@ tags:
 - linux
 - zsh
 - config
+params:
+  skipAtHome: true
 ---
 
 ```

@@ -7,6 +7,8 @@ tags:
 - dns
 - linux
 - network
+params:
+  skipAtHome: true
 ---
 
 ## Why is DNS still hard to learn?

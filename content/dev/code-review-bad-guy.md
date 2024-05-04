@@ -6,6 +6,8 @@ categories:
 tags:
 - humor
 - external
+params:
+  skipAtHome: true
 ---
 
 **This is not mine text, but I like it. You you are its author - please, let me know.**

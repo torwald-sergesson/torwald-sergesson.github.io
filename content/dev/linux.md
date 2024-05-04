@@ -6,6 +6,8 @@ categories:
 tags:
 - linux
 - c
+params:
+  skipAtHome: true
 ---
 
 ## Linux From Scratch (Linux для себя) 

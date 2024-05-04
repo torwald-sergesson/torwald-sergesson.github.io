@@ -5,6 +5,8 @@ categories:
 - Dev
 tags:
 - career 
+params:
+  skipAtHome: true
 ---
 
 ## Roadmaps

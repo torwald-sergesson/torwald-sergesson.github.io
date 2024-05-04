@@ -8,6 +8,8 @@ tags:
 - databases
 - go
 - internals
+params:
+  skipAtHome: true
 ---
 
 - https://cstack.github.io/db_tutorial/ Let's Build a Simple Database

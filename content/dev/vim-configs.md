@@ -8,6 +8,8 @@ tags:
 - linux
 - vim
 - config
+params:
+  skipAtHome: true
 ---
 
 ```

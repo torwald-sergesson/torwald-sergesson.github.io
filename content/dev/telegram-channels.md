@@ -7,6 +7,8 @@ categories:
 tags: 
 - telegram
 - lists
+params:
+  skipAtHome: true
 ---
 
 There are some useful IT Telegram Channels

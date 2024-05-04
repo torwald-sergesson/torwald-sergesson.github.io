@@ -15,6 +15,8 @@ tags:
 - performance
 - sql
 - vim
+params:
+  skipAtHome: true
 ---
 
 - https://github.com/ivanceras/svgbob Convert your ascii diagram scribbles into happy little SVG

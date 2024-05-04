@@ -4,8 +4,10 @@ slug: golang-mail-ru
 categories:
 - Dev
 tags:
-- golang
+- go
 - lists
+params:
+  skipAtHome: true
 ---
 
 ## Reading Week 1
