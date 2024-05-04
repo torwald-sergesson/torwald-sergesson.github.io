@@ -4,10 +4,8 @@ slug: luc-leger
 categories:
 - Fitness
 tags:
-- france
-- army
-- fitness
-- LesTutosDupont
+- armee
+- workouts
 - running
 params:
   skipAtHome: true

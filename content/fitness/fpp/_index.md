@@ -4,9 +4,8 @@ slug: fpp
 categories:
 - Fitness
 tags:
-- france
-- army
-- fitness
+- armee
+- workouts
 description: A list of French Army exercises for physical preparation
 ---
 

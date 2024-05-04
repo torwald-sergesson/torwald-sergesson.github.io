@@ -4,9 +4,8 @@ slug: legion-entranger-fitness
 categories:
 - Fitness
 tags:
-- france
-- army
-- fitness
+- armee
+- workouts
 - legion
 params:
   skipAtHome: true

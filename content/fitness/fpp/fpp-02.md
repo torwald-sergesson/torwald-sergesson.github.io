@@ -4,9 +4,8 @@ slug: fpp-02
 categories:
 - Fitness
 tags:
-- france
-- army
-- fitness
+- armee
+- workouts
 params:
   skipAtHome: true
 description: |

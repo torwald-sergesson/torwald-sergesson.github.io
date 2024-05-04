@@ -4,9 +4,8 @@ slug: des-squats
 categories:
 - Fitness
 tags:
-- france
-- army
-- fitness
+- armee
+- workouts
 params:
   skipAtHome: true
 description: Программа подготовки к приседаниям
