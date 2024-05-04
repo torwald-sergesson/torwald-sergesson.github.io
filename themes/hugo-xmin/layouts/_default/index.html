@@ -5,7 +5,13 @@
 {{ end }}
 
 {{ .Content }}
-
+{{ if .IsHome }}
+<ul>
+{{ range .Site.Sections }}
+<li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li> 
+{{ end}}
+</ul>
+{{ end }}
 <ul>
   {{ $pages := .Pages }}
   {{ if .IsHome }}{{ $pages = .Site.RegularPages }}{{ end }}
