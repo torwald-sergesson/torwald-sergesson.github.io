@@ -6,7 +6,6 @@ categories:
 tags:
 - workouts
 - armee
-- fitness
 params:
   skipAtHome: true
 description: |
