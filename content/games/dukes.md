@@ -6,6 +6,8 @@ categories:
 tags:
 - boardgames 
 - ancient rus
+params:
+  skipAtHome: true
 ---
 
 ## Города
