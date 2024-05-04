@@ -1,5 +1,5 @@
 ---
-title: Programme d'entraînement au luc léger - Séance 1/10
+title: Programme d'entraînement au luc léger - Séance 01/10
 slug: luc-leger-01
 categories:
 - Fitness
