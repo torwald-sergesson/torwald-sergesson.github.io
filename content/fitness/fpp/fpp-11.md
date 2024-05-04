@@ -4,7 +4,7 @@ slug: fpp-11
 categories:
 - Fitness
 tags:
-- army
+- armee
 - fitness
 params:
   skipAtHome: true

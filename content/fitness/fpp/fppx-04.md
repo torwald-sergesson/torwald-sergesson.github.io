@@ -4,7 +4,7 @@ slug: fppx-04
 categories:
 - Fitness
 tags:
-- army
+- armee
 - fitness
 params:
   skipAtHome: true
