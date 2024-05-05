@@ -19,7 +19,10 @@ markup:
   goldmark:
     renderer:
       unsafe: true
-
+  tableOfContents:
+    endLevel: 3
+    ordered: false
+    startLevel: 2
 # Main menu which appears below site header.
 menu:
   main:

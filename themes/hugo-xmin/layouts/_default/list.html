@@ -15,25 +15,25 @@
 
 {{ .Content }}
 
-<ul>
-  {{ $pages := .Pages }}
-  {{ if .IsHome }}{{ $pages = .Site.RegularPages }}{{ end }}
-  {{ range (where $pages "Section" "!=" "") }}
-  {{ $tags := .GetTerms "tags" }}
-  <li>
-    {{ if .Description }}
-			<p>{{ if not .Date.IsZero }}<span class="date">{{ .Date.Format "2006/01/02" }}</span>{{ end }}
-			<a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
-			{{ range $tags }}<span>#{{ .LinkTitle | lower }}</span>{{ end }}
-			</p>
-			<p>{{ .Description | markdownify }}</p>
-	{{ else }}
-        {{ if not .Date.IsZero }}<span class="date">{{ .Date.Format "2006/01/02" }}</span>{{ end }}
-        <a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
-		{{ range $tags }}<span>#{{ .Title | lower }}</span> {{ end }}
-	{{ end }}
-  </li>
-  {{ end }}
-</ul>
+{{ $pages := .Pages }}
+{{ if .IsHome }}{{ $pages = .Site.RegularPages }}{{ end }}
+
+{{ range (where $pages "Section" "!=" "") }}
+{{ $tags := .GetTerms "tags" }}
+{{ if .Description }}
+	<h2>
+		{{ if not .Date.IsZero }}<span class="date">{{ .Date.Format "2006/01/02" }}</span>{{ end }}
+		<a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
+	</h2>
+	<div>{{ range $tags }}<span>#{{ .LinkTitle | lower }}</span> {{ end }}</div>
+	<div>{{ .Description | markdownify }}</div>
+{{ else }}
+	<h2>
+		{{ if not .Date.IsZero }}<span class="date">{{ .Date.Format "2006/01/02" }}</span>{{ end }}
+		<a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
+	</h2>
+	<div>{{ range $tags }}<span>#{{ .Title | lower }}</span> {{ end }}</div>
+{{ end }}
+{{ end }}
 
 {{ partial "footer.html" . }}

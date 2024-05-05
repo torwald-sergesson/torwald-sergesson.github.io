@@ -1,5 +1,5 @@
 ---
-title: Programme d'entraînement au luc léger
+title: FLL - Programme d'entraînement au luc léger
 slug: luc-leger
 categories:
 - Fitness

@@ -1,5 +1,5 @@
 ---
-title: Legion Entranger Fitness (LE)
+title: LE - Legion Entranger Fitness
 slug: legion-entranger-fitness
 categories:
 - Fitness
@@ -11,13 +11,4 @@ params:
   skipAtHome: true
 description: Упражнения с канала Иностранного Легиона
 ---
-
-## Index
-
-|Session                                 | Home |
-|----------------------------------------|------|
-|[LE-ABS](#le-abs)                       |      |
-
-<a name="le-abs"></a>
-## LE-ABS
 
