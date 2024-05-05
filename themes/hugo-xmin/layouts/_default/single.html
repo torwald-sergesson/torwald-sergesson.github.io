@@ -14,7 +14,7 @@
 </div>
 
 <main>
-{{ if .Description }}{{ .Description | markdownify }}{{ end }}
+<div> {{ if .Description }}{{ .Description | markdownify }}{{ end }}</div>
 {{ .Content }}
 </main>
 
