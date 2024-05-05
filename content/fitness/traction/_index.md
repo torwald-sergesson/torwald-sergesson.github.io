@@ -8,6 +8,7 @@ tags:
 - workouts
 params:
   skipAtHome: true
+  showContentTable: true
 description: Программа подготовки к подтягиваниям
 ---
 [Playlist](https://www.youtube.com/playlist?list=PLePB1BEtiZ_0mzNE9c4RXG9QRhAPsI6U3)

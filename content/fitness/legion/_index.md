@@ -9,6 +9,7 @@ tags:
 - legion
 params:
   skipAtHome: true
+  showContentTable: true
 description: Упражнения с канала Иностранного Легиона
 ---
 

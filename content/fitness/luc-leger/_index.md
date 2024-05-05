@@ -9,6 +9,7 @@ tags:
 - running
 params:
   skipAtHome: true
+  showContentTable: true
 description: |
   Подготовка к тесту Luc Leger (интервальный бег)
 ---

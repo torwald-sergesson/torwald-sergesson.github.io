@@ -1,5 +1,5 @@
 ---
-title: Programme d'entraînement au luc léger - Séance 04/10
+title: FLL-04 - Programme d'entraînement au luc léger - Séance 04/10
 slug: luc-leger-04
 categories:
 - Fitness

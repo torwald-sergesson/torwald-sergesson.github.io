@@ -13,14 +13,24 @@
 </div>
 {{ end }}
 
+{{ $pages := .Pages }}
+
+{{ if .Params.showContentTable }}
+<ul>
+{{ range (where $pages "Section" "!=" "") }}
+  <li><a href="#{{ .Slug }}">{{ .Title }}</a></li>
+{{ end }}
+</ul>
+{{ end }}
+
 {{ .Content }}
 
-{{ $pages := .Pages }}
 {{ if .IsHome }}{{ $pages = .Site.RegularPages }}{{ end }}
 
 {{ range (where $pages "Section" "!=" "") }}
 {{ $tags := .GetTerms "tags" }}
 {{ if .Description }}
+    <a name="{{ .Slug }}">
 	<h2>
 		{{ if not .Date.IsZero }}<span class="date">{{ .Date.Format "2006/01/02" }}</span>{{ end }}
 		<a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
@@ -28,6 +38,7 @@
 	<div>{{ range $tags }}<span>#{{ .LinkTitle | lower }}</span> {{ end }}</div>
 	<div>{{ .Description | markdownify }}</div>
 {{ else }}
+    <a name="{{ .Slug }}">
 	<h2>
 		{{ if not .Date.IsZero }}<span class="date">{{ .Date.Format "2006/01/02" }}</span>{{ end }}
 		<a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
