@@ -73,3 +73,8 @@ Don't forget to update .xmodmap config in your $HOME folder:
 xmodmap -pke > ~/.xmodmap
 ```
 
+Add following to .bashrc or .zshrc to apply changes on terminal enabling:
+
+```shell
+xmodmap ~/.xmodmap
+```
