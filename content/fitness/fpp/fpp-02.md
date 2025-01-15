@@ -9,6 +9,8 @@ tags:
 params:
   skipAtHome: true
 description: |
+    Time: 16 min
+
     - Pompes diamand - 3x8, R: 1m.
     - Jumping squat (выпрыгивания) - 3x12, R 1m.
     - Jump fentes (выпады с выпрыгиванием) - 3x16, R 1m.

@@ -9,6 +9,8 @@ tags:
 params:
   skipAtHome: true
 description: |
+    Time: 20 min
+
     - Squat (3x12), R: 1m.
     - Fentes Avant (Выпады вперед) - 3x16, R: 1m.
     - Gainage (планка, на локтях) - 3x1m, R: 30s.
