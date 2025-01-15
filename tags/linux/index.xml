@@ -1,5 +1,444 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Linux on Torwald Log</title><link>https://torwald-sergesson.github.io/tags/linux/</link><description>Recent content in Linux on Torwald Log</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 20 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://torwald-sergesson.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml"/><item><title>Make Chromebook Super_L key Control</title><link>https://torwald-sergesson.github.io/blog/2024/xmodmap-chromebook/</link><pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/blog/2024/xmodmap-chromebook/</guid><description>➜ ~ xmodmap xmodmap: up to 3 keys per modifier, (keycodes in parentheses): shift Shift_L (0x32), Shift_R (0x3e) lock Caps_Lock (0x42) control Control_L (0x25), Control_R (0x69) mod1 Alt_L (0x40), Alt_R (0x6c), Meta_L (0xcd) mod2 Num_Lock (0x4d) mod3 mod4 Super_L (0x85), Super_L (0xce), Hyper_L (0xcf) mod5 ISO_Level3_Shift (0x5c), Mode_switch (0xcb) Copy current xmodmap config:
-xmodmap -pke &amp;gt; ~/.xmodmap Do its backup just in case
-cp ~/.xmodmap ~/.xmodmap.bak Drop Super_L from mod4:</description></item><item><title>DNS</title><link>https://torwald-sergesson.github.io/dev/dns-links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/dev/dns-links/</guid><description>Why is DNS still hard to learn? https://jvns.ca/blog/2023/07/28/why-is-dns-still-hard-to-learn/ Мне нравится как Julia Evans пишет о DNS, нравится что попадаются вопросы, на которые нельзя ответить сразу, без погружения. Ещё одна заметка на этот счёт&amp;hellip;</description></item><item><title>Interesting links</title><link>https://torwald-sergesson.github.io/dev/interesting-it-links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/dev/interesting-it-links/</guid><description>https://github.com/ivanceras/svgbob Convert your ascii diagram scribbles into happy little SVG https://ohmygit.org/ An open source game about learning Git https://github.com/dolthub/dolt It&amp;rsquo;s Git for Data https://betterprogramming.pub/git-commands-to-live-by-349ab1fe3139 Git Commands to Live By. The cheat sheet that goes beyond Git basics https://github.com/uber-go/gopatch Refactoring and code transformation tool for Go. https://github.com/jroimartin/gocui Minimalist Go package aimed at creating Console User Interfaces. https://justine.lol/index.html - Justine Tunney&amp;rsquo;s Web Page (printvideo, cosmopolitan, nesemu1 and etc) https://github.com/xo/xo - Command line tool to generate idiomatic Go code for SQL databases supporting PostgreSQL, MySQL, SQLite, Oracle, and Microsoft SQL Server https://thevaluable.</description></item><item><title>Linux and C</title><link>https://torwald-sergesson.github.io/dev/linux-and-c/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/dev/linux-and-c/</guid><description>Linux From Scratch (Linux для себя) https://lx4u.ru Linux для себя - русскоязычное подробное руководство по созданию Linux-системы, используя лишь исходные тексты необходимого программного обеспечения. Это руководство - самостоятельное ответвление от проекта Linux From Scratch.
-Linux Kernel Defence Map https://github.com/a13xp0p0v/linux-kernel-defence-map Linux Kernel Defence Map shows the relationships between vulnerability classes, exploitation techniques, bug detection mechanisms, and defence technologies
-A quick intro to basic debugging tools for Linux systems https://www.petermcconnell.com/posts/linuxtools/</description></item><item><title>Vim config files</title><link>https://torwald-sergesson.github.io/dev/vim-configs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/dev/vim-configs/</guid><description>set number set nocompatible filetype off set rtp+=~/.vim/bundle/Vundle.vim call vundle#begin() Plugin &amp;#39;VundleVim/Vundle.vim&amp;#39; &amp;#34; ----------============ Code/project navigation =============----------- &amp;#34; plugin on GitHub repo Plugin &amp;#39;scrooloose/nerdtree&amp;#39; &amp;#34; Project and file navigation Plugin &amp;#39;majutsushi/tagbar&amp;#39; &amp;#34; Class/module browser &amp;#34; ----------============ Other =============----------- Plugin &amp;#39;bling/vim-airline&amp;#39; &amp;#34; Lean &amp;amp; mean status/tabline for vim Plugin &amp;#39;fisadev/FixedTaskList.vim&amp;#39; &amp;#34; Pending tasks list Plugin &amp;#39;rosenfeld/conque-term&amp;#39; &amp;#34; Consoles as buffers Plugin &amp;#39;tpope/vim-surround&amp;#39; &amp;#34; Parentheses, brackets, quotes, XML tags, and more Plugin &amp;#39;flazz/vim-colorschemes&amp;#39;	&amp;#34; Colorschemes &amp;#34; ----------============ Snippets support =============----------- Plugin &amp;#39;garbas/vim-snipmate&amp;#39;	&amp;#34; Snippets manager Plugin &amp;#39;MarcWeber/vim-addon-mw-utils&amp;#39;	&amp;#34; dependentcies #1 Plugin &amp;#39;tomtom/tlib_vim&amp;#39;	&amp;#34; dependentcies #2 Plugin &amp;#39;honza/vim-snippets&amp;#39;	&amp;#34; snippets repo &amp;#34; ----------============ Languages support =============----------- Plugin &amp;#39;klen/python-mode&amp;#39;	&amp;#34; Python mode (docs, refactor, lints, highlighting, run and ipdb and more Plugin &amp;#39;davidhalter/jedi-vim&amp;#39;	&amp;#34; Jedi-vim autocomplete plugin Plugin &amp;#39;mitsuhiko/vim-jinja&amp;#39;	&amp;#34; Jinja support for vim Plugin &amp;#39;mitsuhiko/vim-python-combined&amp;#39;	&amp;#34; Combined Python 2/3 for Vim Plugin &amp;#39;fatih/vim-go&amp;#39; &amp;#34; Plugin &amp;#39;Shougo/neocomplete.</description></item><item><title>ZSH config files</title><link>https://torwald-sergesson.github.io/dev/zsh-configs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/dev/zsh-configs/</guid><description># Path to your oh-my-zsh installation. export ZSH=$HOME/.oh-my-zsh # Set name of the theme to load. # Look in ~/.oh-my-zsh/themes/ # Optionally, if you set this to &amp;#34;random&amp;#34;, it&amp;#39;ll load a random theme each # time that oh-my-zsh is loaded. #ZSH_THEME=&amp;#34;robbyrussell&amp;#34; ZSH_THEME=&amp;#34;candy&amp;#34; #ZSH_THEME=&amp;#34;crunch&amp;#34; # Uncomment the following line to use case-sensitive completion. # CASE_SENSITIVE=&amp;#34;true&amp;#34; # Uncomment the following line to disable bi-weekly auto-update checks. # DISABLE_AUTO_UPDATE=&amp;#34;true&amp;#34; # Uncomment the following line to change how often to auto-update (in days).</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Linux on Torwald Log</title><link>https://torwald-sergesson.github.io/tags/linux/</link><description>Recent content in Linux on Torwald Log</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 20 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://torwald-sergesson.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml"/><item><title>Make Chromebook Super_L key Control</title><link>https://torwald-sergesson.github.io/blog/2024/xmodmap-chromebook/</link><pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/blog/2024/xmodmap-chromebook/</guid><description>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-shell" data-lang="shell">&lt;span style="display:flex;">&lt;span>➜ ~ xmodmap
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>xmodmap: up to &lt;span style="color:#ae81ff">3&lt;/span> keys per modifier, &lt;span style="color:#f92672">(&lt;/span>keycodes in parentheses&lt;span style="color:#f92672">)&lt;/span>:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>shift Shift_L &lt;span style="color:#f92672">(&lt;/span>0x32&lt;span style="color:#f92672">)&lt;/span>, Shift_R &lt;span style="color:#f92672">(&lt;/span>0x3e&lt;span style="color:#f92672">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>lock Caps_Lock &lt;span style="color:#f92672">(&lt;/span>0x42&lt;span style="color:#f92672">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>control Control_L &lt;span style="color:#f92672">(&lt;/span>0x25&lt;span style="color:#f92672">)&lt;/span>, Control_R &lt;span style="color:#f92672">(&lt;/span>0x69&lt;span style="color:#f92672">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>mod1 Alt_L &lt;span style="color:#f92672">(&lt;/span>0x40&lt;span style="color:#f92672">)&lt;/span>, Alt_R &lt;span style="color:#f92672">(&lt;/span>0x6c&lt;span style="color:#f92672">)&lt;/span>, Meta_L &lt;span style="color:#f92672">(&lt;/span>0xcd&lt;span style="color:#f92672">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>mod2 Num_Lock &lt;span style="color:#f92672">(&lt;/span>0x4d&lt;span style="color:#f92672">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>mod3
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>mod4 Super_L &lt;span style="color:#f92672">(&lt;/span>0x85&lt;span style="color:#f92672">)&lt;/span>, Super_L &lt;span style="color:#f92672">(&lt;/span>0xce&lt;span style="color:#f92672">)&lt;/span>, Hyper_L &lt;span style="color:#f92672">(&lt;/span>0xcf&lt;span style="color:#f92672">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>mod5 ISO_Level3_Shift &lt;span style="color:#f92672">(&lt;/span>0x5c&lt;span style="color:#f92672">)&lt;/span>, Mode_switch &lt;span style="color:#f92672">(&lt;/span>0xcb&lt;span style="color:#f92672">)&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Copy current xmodmap config:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-shell" data-lang="shell">&lt;span style="display:flex;">&lt;span>xmodmap -pke &amp;gt; ~/.xmodmap
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Do its backup just in case&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-shell" data-lang="shell">&lt;span style="display:flex;">&lt;span>cp ~/.xmodmap ~/.xmodmap.bak
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Drop &lt;code>Super_L&lt;/code> from &lt;code>mod4&lt;/code>:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-shell" data-lang="shell">&lt;span style="display:flex;">&lt;span>xmodmap -e &lt;span style="color:#e6db74">&amp;#34;remove mod4 = Super_L&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>And add it to Control:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-shell" data-lang="shell">&lt;span style="display:flex;">&lt;span>xmodmap -e &lt;span style="color:#e6db74">&amp;#34;add Control = Super_L&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>As a result:&lt;/p></description></item><item><title>DNS</title><link>https://torwald-sergesson.github.io/dev/dns-links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/dev/dns-links/</guid><description>&lt;h2 id="why-is-dns-still-hard-to-learn">Why is DNS still hard to learn?&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://jvns.ca/blog/2023/07/28/why-is-dns-still-hard-to-learn/">https://jvns.ca/blog/2023/07/28/why-is-dns-still-hard-to-learn/&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>Мне нравится как Julia Evans пишет о DNS, нравится что попадаются вопросы, на которые нельзя ответить сразу, без погружения. Ещё одна заметка на этот счёт&amp;hellip;&lt;/p></description></item><item><title>Interesting links</title><link>https://torwald-sergesson.github.io/dev/interesting-it-links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/dev/interesting-it-links/</guid><description>&lt;ul>
+&lt;li>&lt;a href="https://github.com/ivanceras/svgbob">https://github.com/ivanceras/svgbob&lt;/a> Convert your ascii diagram scribbles into happy little SVG&lt;/li>
+&lt;li>&lt;a href="https://ohmygit.org/">https://ohmygit.org/&lt;/a> An open source game about learning Git&lt;/li>
+&lt;li>&lt;a href="https://github.com/dolthub/dolt">https://github.com/dolthub/dolt&lt;/a> It&amp;rsquo;s Git for Data&lt;/li>
+&lt;li>&lt;a href="https://betterprogramming.pub/git-commands-to-live-by-349ab1fe3139">https://betterprogramming.pub/git-commands-to-live-by-349ab1fe3139&lt;/a> Git Commands to Live By. The cheat sheet that goes beyond Git basics&lt;/li>
+&lt;li>&lt;a href="https://github.com/uber-go/gopatch">https://github.com/uber-go/gopatch&lt;/a> Refactoring and code transformation tool for Go.&lt;/li>
+&lt;li>&lt;a href="https://github.com/jroimartin/gocui">https://github.com/jroimartin/gocui&lt;/a> Minimalist Go package aimed at creating Console User Interfaces.&lt;/li>
+&lt;li>&lt;a href="https://justine.lol/index.html">https://justine.lol/index.html&lt;/a> - Justine Tunney&amp;rsquo;s Web Page (printvideo, cosmopolitan, nesemu1 and etc)&lt;/li>
+&lt;li>&lt;a href="https://github.com/xo/xo">https://github.com/xo/xo&lt;/a> - Command line tool to generate idiomatic Go code for SQL databases supporting PostgreSQL, MySQL, SQLite, Oracle, and Microsoft SQL Server&lt;/li>
+&lt;li>&lt;a href="https://thevaluable.dev/vim-advanced/">https://thevaluable.dev/vim-advanced/&lt;/a> A Vim Guide for Advanced Users&lt;/li>
+&lt;li>&lt;a href="https://chip-8.github.io/links/">https://chip-8.github.io/links/&lt;/a> Awesome CHIP-8&lt;/li>
+&lt;li>&lt;a href="https://tobiasvl.github.io/blog/write-a-chip-8-emulator/">https://tobiasvl.github.io/blog/write-a-chip-8-emulator/&lt;/a> A high-level guide to making a CHIP-8 emulator.&lt;/li>
+&lt;li>&lt;a href="https://github.com/AkihiroSuda/lima/">https://github.com/AkihiroSuda/lima/&lt;/a> Linux virtual machines, on macOS (aka &amp;ldquo;Linux-on-Mac&amp;rdquo;, &amp;ldquo;macOS subsystem for Linux&amp;rdquo;, &amp;ldquo;containerd for Mac&amp;rdquo;, unofficially)&lt;/li>
+&lt;li>&lt;a href="http://www.brendangregg.com/">http://www.brendangregg.com/&lt;/a> - Brendan Gregg&amp;rsquo;s homepage (Linux and Performance)&lt;/li>
+&lt;li>&lt;a href="https://github.com/syncthing/syncthing">https://github.com/syncthing/syncthing&lt;/a> - Open Source Continuous File Synchronization.&lt;/li>
+&lt;li>&lt;a href="https://github.com/google/gops">https://github.com/google/gops&lt;/a> - A tool to list and diagnose Go processes currently running on your system.&lt;/li>
+&lt;li>&lt;a href="https://github.com/adonovan/spaghetti">https://github.com/adonovan/spaghetti&lt;/a> - Spaghetti: a dependency analysis tool for Go packages&lt;/li>
+&lt;li>&lt;a href="https://github.com/pterm/pterm/">https://github.com/pterm/pterm/&lt;/a> - PTerm is a modern go module to beautify console output. Featuring charts, progressbars, tables, trees, and many more. It&amp;rsquo;s completely configurable and 100% cross-platform compatible.&lt;/li>
+&lt;li>&lt;a href="https://github.com/cheggaaa/pb">https://github.com/cheggaaa/pb&lt;/a> Console progress bar for Golang.&lt;/li>
+&lt;li>&lt;a href="https://github.com/spf13/afero">https://github.com/spf13/afero&lt;/a> A FileSystem Abstraction System for Go.&lt;/li>
+&lt;li>&lt;a href="https://github.com/google/go-github">https://github.com/google/go-github&lt;/a> Go library for accessing the GitHub API.&lt;/li>
+&lt;li>&lt;a href="https://github.com/brianvoe/gofakeit">https://github.com/brianvoe/gofakeit&lt;/a> Random fake data generator written in go.&lt;/li>
+&lt;li>&lt;a href="https://github.com/bcicen/ctop">https://github.com/bcicen/ctop&lt;/a> Top-like interface for container metrics.&lt;/li>
+&lt;li>&lt;a href="https://github.com/goccy/go-json">https://github.com/goccy/go-json&lt;/a> goccy/go-json Fast JSON encoder/decoder compatible with encoding/json for Go.&lt;/li>
+&lt;li>&lt;a href="https://github.com/irevenko/tsukae">https://github.com/irevenko/tsukae&lt;/a> Show off your most used shell commands.&lt;/li>
+&lt;li>&lt;a href="https://github.com/orbitdb/orbit-db">https://github.com/orbitdb/orbit-db&lt;/a> Peer-to-Peer Databases for the Decentralized Web.&lt;/li>
+&lt;li>&lt;a href="https://themagicsmoke.ru/books/c_for_embedded_systems/">https://themagicsmoke.ru/books/c_for_embedded_systems/&lt;/a> Книга «Си для встраиваемых систем»&lt;/li>
+&lt;li>&lt;a href="https://github.com/hashicorp/go-version">https://github.com/hashicorp/go-version&lt;/a> A Go (golang) library for parsing and verifying versions and version constraints.&lt;/li>
+&lt;li>&lt;a href="https://github.com/neilotoole/sq">https://github.com/neilotoole/sq&lt;/a> swiss-army knife for data.&lt;/li>
+&lt;li>&lt;a href="https://github.com/kyleconroy/sqlc">https://github.com/kyleconroy/sqlc&lt;/a> Generate type safe Go from SQL.&lt;/li>
+&lt;li>&lt;a href="https://github.com/gohugoio/hugo">https://github.com/gohugoio/hugo&lt;/a> The world’s fastest framework for building websites.&lt;/li>
+&lt;li>&lt;a href="https://github.com/boyter/scc">https://github.com/boyter/scc&lt;/a> Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go&lt;/li>
+&lt;li>&lt;a href="https://github.com/golang/mock">https://github.com/golang/mock&lt;/a> GoMock is a mocking framework for the Go programming language.&lt;/li>
+&lt;li>&lt;a href="https://github.com/charmbracelet/glow">https://github.com/charmbracelet/glow&lt;/a> Render markdown on the CLI, with pizzazz!&lt;/li>
+&lt;li>&lt;a href="https://github.com/jmattheis/goverter">https://github.com/jmattheis/goverter&lt;/a> Generate type-safe Go converters by simply defining an interface&lt;/li>
+&lt;li>&lt;a href="https://github.com/volatiletech/sqlboiler">https://github.com/volatiletech/sqlboiler&lt;/a> Generate a Go ORM tailored to your database schema.&lt;/li>
+&lt;li>&lt;a href="https://github.com/system-pclub/GCatch">https://github.com/system-pclub/GCatch&lt;/a> Statically Detecting Go Concurrency Bugs.&lt;/li>
+&lt;li>&lt;a href="https://github.com/RetroShare/RetroShare">https://github.com/RetroShare/RetroShare&lt;/a> RetroShare is a Free and Open Source cross-platform, Friend-2-Friend and secure decentralised communication platform.&lt;/li>
+&lt;li>&lt;a href="https://www.howtodeal.dev/">https://www.howtodeal.dev/&lt;/a> How to Deal with Difficult People on Software Projects&lt;/li>
+&lt;li>&lt;a href="https://github.com/pemistahl/grex">https://github.com/pemistahl/grex&lt;/a> A command-line tool and library for generating regular expressions from user-provided test cases - pemistahl/grex.&lt;/li>
+&lt;li>&lt;a href="https://github.com/denisidoro/navi">https://github.com/denisidoro/navi&lt;/a> An interactive cheatsheet tool for the command-line.&lt;/li>
+&lt;li>&lt;a href="https://madaidans-insecurities.github.io/guides/linux-hardening.html">https://madaidans-insecurities.github.io/guides/linux-hardening.html&lt;/a> Linux Hardening Guide&lt;/li>
+&lt;li>&lt;a href="https://mysqlserverteam.com/mysql-shell-dump-load-part-1-demo/">https://mysqlserverteam.com/mysql-shell-dump-load-part-1-demo/&lt;/a> MySQL Shell Dump &amp;amp; Load.&lt;/li>
+&lt;li>&lt;a href="https://i3wm.org/docs/userguide.html">https://i3wm.org/docs/userguide.html&lt;/a> i3wm&lt;/li>
+&lt;li>&lt;a href="https://libre.life/7522/0105/1/ru">https://libre.life/7522/0105/1/ru&lt;/a> Cписок децентрализованных сервисов.&lt;/li>
+&lt;li>&lt;a href="https://github.com/lucasepe/modgv">https://github.com/lucasepe/modgv&lt;/a> Converts &amp;lsquo;go mod graph&amp;rsquo; output into Graphviz&amp;rsquo;s DOT language.&lt;/li>
+&lt;li>&lt;a href="http://www.stolyarov.info/books">http://www.stolyarov.info/books&lt;/a> Книги Столярова про программирование&lt;/li>
+&lt;li>&lt;a href="https://github.com/leozide/leocad">https://github.com/leozide/leocad&lt;/a> A CAD application for creating virtual LEGO models.&lt;/li>
+&lt;li>&lt;a href="https://github.com/cockroachdb/copyist">https://github.com/cockroachdb/copyist&lt;/a> Mocking your SQL database in Go tests has never been easier.&lt;/li>
+&lt;li>&lt;a href="https://github.com/rqlite/rqlite">https://github.com/rqlite/rqlite&lt;/a> The lightweight, distributed relational database built on SQLite.&lt;/li>
+&lt;li>&lt;a href="https://github.com/360EntSecGroup-Skylar/excelize">https://github.com/360EntSecGroup-Skylar/excelize&lt;/a> Golang library for reading and writing Microsoft Excel™ (XLSX) files.&lt;/li>
+&lt;li>&lt;a href="https://github.com/gotranspile/cxgo">https://github.com/gotranspile/cxgo&lt;/a> Another tool for transpiling C to Go.&lt;/li>
+&lt;li>&lt;a href="https://github.com/muesli/termenv">https://github.com/muesli/termenv&lt;/a> Advanced ANSI style &amp;amp; color support for your terminal applications.&lt;/li>
+&lt;li>&lt;a href="https://github.com/spf13/cobra">https://github.com/spf13/cobra&lt;/a> A Commander for modern Go CLI interactions&lt;/li>
+&lt;li>&lt;a href="https://github.com/blockloop/scan">https://github.com/blockloop/scan&lt;/a> Scan database/sql rows directly to structs, slices, and primitive types&lt;/li>
+&lt;li>&lt;a href="https://github.com/maaslalani/slides">https://github.com/maaslalani/slides&lt;/a> Terminal based presentation tool&lt;/li>
+&lt;li>&lt;a href="https://github.com/ardanlabs/gotraining/tree/master/reading">https://github.com/ardanlabs/gotraining/tree/master/reading&lt;/a> There is a ton of links to extra reading and videos through out the material. Occasionally we run into material that we feel is important and don&amp;rsquo;t have an exact place to put it. This is a section place for that material.&lt;/li>
+&lt;li>&lt;a href="https://github.com/nikolaydubina/go-recipes">https://github.com/nikolaydubina/go-recipes&lt;/a> Handy commands to run in Go projects&lt;/li>
+&lt;li>&lt;a href="https://github.com/gojuno/minimock">https://github.com/gojuno/minimock&lt;/a> Powerful mock generation tool for Go programming language&lt;/li>
+&lt;li>&lt;a href="https://github.com/vbauerster/mpb">https://github.com/vbauerster/mpb&lt;/a> multi progress bar for Go cli applications&lt;/li>
+&lt;li>&lt;a href="https://github.com/MarvinJWendt/testza">https://github.com/MarvinJWendt/testza&lt;/a> Full-featured test framework for Go! Assertions, mocking, input testing, output capturing, and much more!&lt;/li>
+&lt;li>&lt;a href="https://github.com/go101/go101">https://github.com/go101/go101&lt;/a> An online book focusing on Go syntax/semantics and runtime related things&lt;/li>
+&lt;li>&lt;a href="https://github.com/nanovms/ops">https://github.com/nanovms/ops&lt;/a> ops - build and run nanos unikernels&lt;/li>
+&lt;li>&lt;a href="https://github.com/kris-nova/naml">https://github.com/kris-nova/naml&lt;/a> Not another markup language. Framework for replacing Kubernetes YAML with Go.&lt;/li>
+&lt;li>&lt;a href="https://github.com/AlecAivazis/survey">https://github.com/AlecAivazis/survey&lt;/a> A golang library for building interactive and accessible prompts with full support for windows and posix terminals.&lt;/li>
+&lt;li>&lt;a href="https://github.com/pokemium/Worldwide">https://github.com/pokemium/Worldwide&lt;/a> GameBoy Color emulator written in golang.&lt;/li>
+&lt;li>&lt;a href="https://github.com/qax-os/excelize">https://github.com/qax-os/excelize&lt;/a> Golang library for reading and writing Microsoft Excel™ (XLSX) files.&lt;/li>
+&lt;li>&lt;a href="https://github.com/buraksezer/connpool">https://github.com/buraksezer/connpool&lt;/a> Connection pool for Go&amp;rsquo;s net.Conn interface&lt;/li>
+&lt;li>&lt;a href="https://github.com/saurabh0719/go-hashlru">https://github.com/saurabh0719/go-hashlru&lt;/a> A simple thread-safe and fixed size LRU. Based on the Hashlru Algorithm&lt;/li>
+&lt;li>&lt;a href="https://github.com/tmrts/go-patterns">https://github.com/tmrts/go-patterns&lt;/a> Curated list of Go design patterns, recipes and idioms&lt;/li>
+&lt;li>&lt;a href="https://github.com/mathaou/termdbms">https://github.com/mathaou/termdbms&lt;/a> A TUI for viewing and editing database files.&lt;/li>
+&lt;li>&lt;a href="https://github.com/tomnomnom/gron">https://github.com/tomnomnom/gron&lt;/a> Make JSON greppable!&lt;/li>
+&lt;li>&lt;a href="https://github.com/FiloSottile/age">https://github.com/FiloSottile/age&lt;/a> A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.&lt;/li>
+&lt;li>&lt;a href="https://github.com/DataDog/go-profiler-notes">https://github.com/DataDog/go-profiler-notes&lt;/a> felixge&amp;rsquo;s notes on the various go profiling methods that are available.&lt;/li>
+&lt;li>&lt;a href="https://github.com/PuerkitoBio/goquery">https://github.com/PuerkitoBio/goquery&lt;/a> goquery brings a syntax and a set of features similar to jQuery to the Go language.&lt;/li>
+&lt;/ul></description></item><item><title>Linux and C</title><link>https://torwald-sergesson.github.io/dev/linux-and-c/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/dev/linux-and-c/</guid><description>&lt;h2 id="linux-from-scratch-linux-для-себя">Linux From Scratch (Linux для себя)&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://lx4u.ru">https://lx4u.ru&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>Linux для себя - русскоязычное подробное руководство по созданию Linux-системы, используя лишь исходные тексты необходимого программного обеспечения. Это руководство - самостоятельное ответвление от проекта &lt;a href="https://www.linuxfromscratch.org">Linux From Scratch&lt;/a>.&lt;/p>
+&lt;h2 id="linux-kernel-defence-map">Linux Kernel Defence Map&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/a13xp0p0v/linux-kernel-defence-map">https://github.com/a13xp0p0v/linux-kernel-defence-map&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>Linux Kernel Defence Map shows the relationships between vulnerability classes, exploitation techniques, bug detection mechanisms, and defence technologies&lt;/p>
+&lt;h2 id="a-quick-intro-to-basic-debugging-tools-for-linux-systems">A quick intro to basic debugging tools for Linux systems&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://www.petermcconnell.com/posts/linuxtools/">https://www.petermcconnell.com/posts/linuxtools/&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Vim config files</title><link>https://torwald-sergesson.github.io/dev/vim-configs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/dev/vim-configs/</guid><description>&lt;pre tabindex="0">&lt;code>set number
+
+set nocompatible
+filetype off
+
+set rtp+=~/.vim/bundle/Vundle.vim
+call vundle#begin()
+
+Plugin &amp;#39;VundleVim/Vundle.vim&amp;#39;
+
+
+&amp;#34; ----------============ Code/project navigation =============-----------
+&amp;#34; plugin on GitHub repo
+Plugin &amp;#39;scrooloose/nerdtree&amp;#39; 		&amp;#34; Project and file navigation
+Plugin &amp;#39;majutsushi/tagbar&amp;#39; 		&amp;#34; Class/module browser
+
+&amp;#34; ----------============ Other =============-----------
+Plugin &amp;#39;bling/vim-airline&amp;#39; 	&amp;#34; Lean &amp;amp; mean status/tabline for vim
+Plugin &amp;#39;fisadev/FixedTaskList.vim&amp;#39; 	&amp;#34; Pending tasks list
+Plugin &amp;#39;rosenfeld/conque-term&amp;#39; 	&amp;#34; Consoles as buffers
+Plugin &amp;#39;tpope/vim-surround&amp;#39; 	&amp;#34; Parentheses, brackets, quotes, XML tags, and more
+Plugin &amp;#39;flazz/vim-colorschemes&amp;#39;		&amp;#34; Colorschemes
+
+&amp;#34; ----------============ Snippets support =============-----------
+Plugin &amp;#39;garbas/vim-snipmate&amp;#39;		&amp;#34; Snippets manager
+Plugin &amp;#39;MarcWeber/vim-addon-mw-utils&amp;#39;	&amp;#34; dependentcies #1
+Plugin &amp;#39;tomtom/tlib_vim&amp;#39;		&amp;#34; dependentcies #2
+Plugin &amp;#39;honza/vim-snippets&amp;#39;		&amp;#34; snippets repo
+
+&amp;#34; ----------============ Languages support =============-----------
+Plugin &amp;#39;klen/python-mode&amp;#39;		&amp;#34; Python mode (docs, refactor, lints, highlighting, run and ipdb and more
+Plugin &amp;#39;davidhalter/jedi-vim&amp;#39;		&amp;#34; Jedi-vim autocomplete plugin
+Plugin &amp;#39;mitsuhiko/vim-jinja&amp;#39;		&amp;#34; Jinja support for vim 
+Plugin &amp;#39;mitsuhiko/vim-python-combined&amp;#39;	&amp;#34; Combined Python 2/3 for Vim
+Plugin &amp;#39;fatih/vim-go&amp;#39;
+&amp;#34; Plugin &amp;#39;Shougo/neocomplete.vim&amp;#39;
+
+Plugin &amp;#39;tpope/vim-fugitive&amp;#39;
+call vundle#end()
+&amp;#34; filetype plugin indent on &amp;#34; required 
+&amp;#34; filetype on
+&amp;#34; filetype plugin on
+filetype plugin indent on
+
+set backspace=indent,eol,start
+aunmenu Help.
+aunmenu Window.
+let no_buffers_menu=1
+set mousemodel=popup
+
+set ruler
+set completeopt-=preview
+set gcr=a:blinkon0
+if has(&amp;#34;gui_running&amp;#34;)
+	set cursorline
+endif
+set ttyfast
+
+&amp;#34; highligh
+syntax on
+if has(&amp;#34;gui_running&amp;#34;)
+	&amp;#34; GUI? set theme and size of window
+	set lines=50 columns=125
+	coloscheme molokai
+	&amp;#34;&amp;#34; NERDTree
+	autocmd vimenter * TagbarToggle
+	autocmd vimenter * NERDTree
+	autocmd vimenter * if !argc() | NERDTree | endif
+
+	&amp;#34; vim MacOS X
+	if has(&amp;#34;mac&amp;#34;)
+		set guifont=Consolas:h13
+		set guoptions=maxvert,maxhorz
+	else
+		&amp;#34; default GUI
+		set guifont=Ubuntu\ Mono\ derivative\ Powerline\ 10
+	endif
+else
+	&amp;#34; terms?
+	&amp;#34; coloscheme myterm
+	&amp;#34; colorscheme 3dglasses
+	&amp;#34; colorscheme campfire
+ &amp;#34; colorscheme zenburn
+ &amp;#34; colorscheme railscasts
+	&amp;#34; colorscheme ChocolateLiquor
+ colorscheme 256_noir
+ &amp;#34; colorscheme MountainDew
+ &amp;#34; colorscheme vividchalk
+ &amp;#34; colorscheme 0x7A69_dark
+ &amp;#34; colorscheme CodeFactoryv3 
+ colorscheme 256-jungle
+ &amp;#34; colorscheme adam
+ &amp;#34; colorscheme Monokai
+ &amp;#34; colorscheme gentooish
+ colorscheme 1989
+ &amp;#34; colorscheme monoacc
+ &amp;#34; colorscheme material
+endif
+
+tab sball
+set switchbuf=useopen
+
+&amp;#34; disable beeper
+set visualbell t_vb=
+set novisualbell
+
+set enc=utf-8
+set ls=2
+set incsearch
+set hlsearch
+set nu
+set scrolloff=5
+
+set nobackup
+set nowritebackup
+set noswapfile
+
+&amp;#34; hide panels
+set guioptions-=m &amp;#34; menu
+set guioptions-=T &amp;#34; toolbar
+set guioptions-=r &amp;#34; scrollbar
+
+&amp;#34; tab settings
+set smarttab
+set tabstop=4
+set shiftwidth=4
+set expandtab
+set softtabstop=4
+
+augroup vimrc_autocmds
+	autocmd!
+	autocmd FileType ruby,python,javascript,c,cpp highlight Excess ctermbg=DarkGrey guibg=Black
+	autocmd FileType ruby,python,javascript,c,cpp match Excess /\%80v.*/
+	autocmd FileType ruby,python,javascript,c,cpp set nowrap
+augroup END
+
+&amp;#34; set directory with SnipMate settings
+let g:snippets_dir=&amp;#34;~/.vim/vim-snippets/snippets&amp;#34;
+
+&amp;#34; set Airline
+set laststatus=2
+&amp;#34; let g:airline_theme=&amp;#39;bubblegum&amp;#39;
+&amp;#34; let g:airline_theme=&amp;#39;badwolf&amp;#39;
+let g:airline_powerline_fonts=1
+let g:airline#extensions#tabline#enabled=1
+let g:airline#extensions#tabline#formatter = &amp;#39;unique_tail&amp;#39;
+
+&amp;#34; TagBar settings
+map &amp;lt;F4&amp;gt; :TagbarToggle&amp;lt;CR&amp;gt;
+let g:tagbar_autofocus = 0 &amp;#34; autofocus on Tagbar when open
+
+&amp;#34; NerdTree settings
+&amp;#34; show NERDTree on F3
+map &amp;lt;F3&amp;gt; :NERDTreeToggle&amp;lt;CR&amp;gt;
+&amp;#34; ignoring file with extention
+let NERDTreeIgnore=[&amp;#39;\~$&amp;#39;, &amp;#39;\.pyc$&amp;#39;, &amp;#39;\.pyo$&amp;#39;, &amp;#39;\.class$&amp;#39;, &amp;#39;pip-log\.txt$&amp;#39;, &amp;#39;\.o$&amp;#39;]
+
+&amp;#34; TaskList settings
+map &amp;lt;F2&amp;gt; :TaskList&amp;lt;CR&amp;gt; &amp;#34; show list tasks on F2
+
+&amp;#34; Work with buffers
+map &amp;lt;C-q&amp;gt; :bd&amp;lt;CR&amp;gt; 
+
+&amp;#34;================================
+&amp;#34; Python-mode settings
+&amp;#34;=============================
+&amp;#34; disable autocomplete on code (between it jedi-vim)
+let g:pymode_rope = 0
+let g:pymode_rope_completion = 0
+let g:pymode_rope_comple_on_dot = 0
+
+&amp;#34; Documents
+let g:pymode_doc = 0
+let g:pymode_doc_key = &amp;#39;K&amp;#39;
+&amp;#34; check code
+let g:pymode_lint = 1
+let g:pymode_lint_checker = &amp;#34;pyflakes,pep8&amp;#34;
+let g:pymode_lint_ignore = &amp;#34;E501,W601,C0110&amp;#34;
+&amp;#34; checking code after saving
+let g:pymode_lint_write = 1
+
+&amp;#34; support virtualenv
+let g:pymode_virtualenv = 1
+
+&amp;#34; set breakpoints
+let g:pymode_breakpoint = 1
+let g:pymode_breakpoint_key = &amp;#39;&amp;lt;leader&amp;gt;b&amp;#39;
+
+&amp;#34; highlight synax
+let g:pymode_syntax = 1
+let g:pymode_syntax_all = 1
+let g:pymode_syntax_indent_errors = g:pymode_syntax_all
+let g:pymode_syntax_space_errors = g:pymode_syntax_all
+
+&amp;#34; disable autofold on code
+let g:pymode_folding = 0
+
+&amp;#34; возможность запускать код
+let g:pymode_run = 0
+
+&amp;#34; Disable choose first function/method at autocomplete
+let g:jedi#popup_select_first = 0
+
+let &amp;amp;path.=&amp;#34;/usr/include,/usr/include/x86_64-linux-gnu&amp;#34;
+&lt;/code>&lt;/pre></description></item><item><title>ZSH config files</title><link>https://torwald-sergesson.github.io/dev/zsh-configs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/dev/zsh-configs/</guid><description>&lt;pre tabindex="0">&lt;code># Path to your oh-my-zsh installation.
+export ZSH=$HOME/.oh-my-zsh
+
+# Set name of the theme to load.
+# Look in ~/.oh-my-zsh/themes/
+# Optionally, if you set this to &amp;#34;random&amp;#34;, it&amp;#39;ll load a random theme each
+# time that oh-my-zsh is loaded.
+#ZSH_THEME=&amp;#34;robbyrussell&amp;#34;
+ZSH_THEME=&amp;#34;candy&amp;#34;
+#ZSH_THEME=&amp;#34;crunch&amp;#34;
+
+# Uncomment the following line to use case-sensitive completion.
+# CASE_SENSITIVE=&amp;#34;true&amp;#34;
+
+# Uncomment the following line to disable bi-weekly auto-update checks.
+# DISABLE_AUTO_UPDATE=&amp;#34;true&amp;#34;
+
+# Uncomment the following line to change how often to auto-update (in days).
+# export UPDATE_ZSH_DAYS=13
+
+# Uncomment the following line to disable colors in ls.
+# DISABLE_LS_COLORS=&amp;#34;true&amp;#34;
+
+# Uncomment the following line to disable auto-setting terminal title.
+# DISABLE_AUTO_TITLE=&amp;#34;true&amp;#34;
+
+# Uncomment the following line to enable command auto-correction.
+# ENABLE_CORRECTION=&amp;#34;true&amp;#34;
+
+# Uncomment the following line to display red dots whilst waiting for completion.
+# COMPLETION_WAITING_DOTS=&amp;#34;true&amp;#34;
+
+# Uncomment the following line if you want to disable marking untracked files
+# under VCS as dirty. This makes repository status check for large repositories
+# much, much faster.
+# DISABLE_UNTRACKED_FILES_DIRTY=&amp;#34;true&amp;#34;
+
+# Uncomment the following line if you want to change the command execution time
+# stamp shown in the history command output.
+# The optional three formats: &amp;#34;mm/dd/yyyy&amp;#34;|&amp;#34;dd.mm.yyyy&amp;#34;|&amp;#34;yyyy-mm-dd&amp;#34;
+# HIST_STAMPS=&amp;#34;mm/dd/yyyy&amp;#34;
+
+# Would you like to use another custom folder than $ZSH/custom?
+# ZSH_CUSTOM=/path/to/new-custom-folder
+
+# Which plugins would you like to load? (plugins can be found in ~/.oh-my-zsh/plugins/*)
+# Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
+# Example format: plugins=(rails git textmate ruby lighthouse)
+# Add wisely, as too many plugins slow down shell startup.
+plugins=(git)
+
+source $ZSH/oh-my-zsh.sh
+
+# User configuration
+
+# export MANPATH=&amp;#34;/usr/local/man:$MANPATH&amp;#34;
+
+# You may need to manually set your language environment
+# export LANG=en_US.UTF-8
+
+# Preferred editor for local and remote sessions
+# if [[ -n $SSH_CONNECTION ]]; then
+# export EDITOR=&amp;#39;vim&amp;#39;
+# else
+# export EDITOR=&amp;#39;mvim&amp;#39;
+# fi
+
+# Compilation flags
+# export ARCHFLAGS=&amp;#34;-arch x86_64&amp;#34;
+
+# ssh
+# export SSH_KEY_PATH=&amp;#34;~/.ssh/dsa_id&amp;#34;
+
+# Set personal aliases, overriding those provided by oh-my-zsh libs,
+# plugins, and themes. Aliases can be placed here, though oh-my-zsh
+# users are encouraged to define aliases within the ZSH_CUSTOM folder.
+# For a full list of active aliases, run `alias`.
+#
+# Example aliases
+# alias zshconfig=&amp;#34;mate ~/.zshrc&amp;#34;
+# alias ohmyzsh=&amp;#34;mate ~/.oh-my-zsh&amp;#34;
+#
+export LS_COLORS=&amp;#39;&amp;#39;
+export EDITOR=&amp;#39;vim&amp;#39;
+export TERMINAL=&amp;#39;urxvt256c-ml&amp;#39;
+export GOPATH=&amp;#39;/home/user/distfiles/goos&amp;#39;
+export GOROOT=&amp;#39;/usr/local/go&amp;#39;
+# pyenv
+export PYENV_ROOT=&amp;#34;$HOME/.pyenv&amp;#34;
+export PATH=&amp;#34;$PATH:$PYENV_ROOT/bin:$GOPATH/bin:/home/user/distfiles/src.bin/apache-maven-3.5.0/bin&amp;#34;
+#eval &amp;#34;$(pyenv init -)&amp;#34;
+#eval &amp;#34;$(pyenv virtualenv-init -)&amp;#34;
+export IGNITE_HOME=&amp;#39;/home/user/distfiles/src.bin/ignite/apache-mirror.rbc.ru/pub/apache/ignite/1.8.0/apache-ignite-fabric-1.8.0-bin&amp;#39;
+export JAVA_HOME=&amp;#39;/usr/lib/jvm/java-8-openjdk-amd64&amp;#39;
+export CATALINA_HOME=&amp;#39;/home/user/distfiles/src.bin/apache-tomcat-7.0.75&amp;#39;
+export KAFKA_HOME=/home/user/distfiles/src.bin/kafka_2.11-0.10.1.0/
+export PATH=$HOME/bin:/usr/sbin:/sbin:/usr/local/bin:$KAFKA_HOME/bin:$GOROOT/bin:$PATH
+
+alias gdbpd=&amp;#39;gdb python_debug&amp;#39;
+
+# Proxy
+export http_proxy=&amp;#34;&amp;#34;
+export https_proxy=$http_proxy
+
+# aliases
+alias cat=&amp;#39;pygmentize -g&amp;#39;
+alias mc=&amp;#39;mc -b&amp;#39;
+alias ddg=&amp;#39;w3m https://duckduckgo.com&amp;#39;
+alias inosmi=&amp;#39;w3m http://inosmi.ru&amp;#39;
+alias mirror=&amp;#39;w3m http://mirror.yandex.ru&amp;#39;
+alias minix=&amp;#39;w3m http://www.minix3.org&amp;#39;
+alias erldoc=&amp;#39;w3m /usr/lib/erlang/doc/index.html&amp;#39;
+alias github=&amp;#39;w3m https://github.com&amp;#39;
+alias apache=&amp;#39;w3m http://apache-mirror.rbc.ru/pub/apache&amp;#39;
+alias gcc=&amp;#39;colorgcc&amp;#39;
+alias cc=&amp;#39;colorgcc&amp;#39;
+#alias g++=&amp;#39;colorg++&amp;#39;
+alias gdb=&amp;#39;gdb -q&amp;#39;
+alias h=&amp;#39;history&amp;#39;
+alias z=&amp;#39;zathura&amp;#39;
+alias up=&amp;#39;sudo apt-get update; sudo apt-get upgrade&amp;#39;
+alias vi=&amp;#39;vim&amp;#39;
+alias emacs=&amp;#39;emacs -nw&amp;#39;
+alias pdf=&amp;#39;mupdf&amp;#39;
+alias gh=&amp;#39;w3m https://github.com&amp;#39;
+alias tpb=&amp;#39;w3m https://piratebay.to&amp;#39;
+alias mcm=&amp;#39;make clean; make&amp;#39;
+alias lor=&amp;#39;w3m http://linux.org.ru&amp;#39;
+&lt;/code>&lt;/pre></description></item></channel></rss>

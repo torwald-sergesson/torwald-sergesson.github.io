@@ -1,16 +1,896 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on Torwald Log</title><link>https://torwald-sergesson.github.io/</link><description>Recent content in Home on Torwald Log</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://torwald-sergesson.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Francais Telegram Channels</title><link>https://torwald-sergesson.github.io/blog/2024/francais-telegram-channels/</link><pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/blog/2024/francais-telegram-channels/</guid><description>https://t.me/francais_avec_kail - Французский с Кайл https://t.me/avefrance - Ваша Франция https://t.me/le_francais_french - Французский язык / Francais https://t.me/le_francais_french_0 - Французский с нуля | Française https://t.me/magazinesfrancais - magazines &amp;amp; livres en français https://t.me/frenchyfox - Живой французский/Français https://t.me/news_in_french - Новости en français https://t.me/marie_paris - А как там в Париже? https://t.me/SoFrenchSchool - Французский онлайн SoFrench https://t.me/francomania - Франкомания https://t.me/francaissodvora - Французский со двора https://t.me/fuckingfrench - Fucking French https://t.me/france_danslapoche - Франция в кармане https://t.me/fransaise - Французский в удовольствие https://t.</description></item><item><title>Make Chromebook Super_L key Control</title><link>https://torwald-sergesson.github.io/blog/2024/xmodmap-chromebook/</link><pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/blog/2024/xmodmap-chromebook/</guid><description>➜ ~ xmodmap xmodmap: up to 3 keys per modifier, (keycodes in parentheses): shift Shift_L (0x32), Shift_R (0x3e) lock Caps_Lock (0x42) control Control_L (0x25), Control_R (0x69) mod1 Alt_L (0x40), Alt_R (0x6c), Meta_L (0xcd) mod2 Num_Lock (0x4d) mod3 mod4 Super_L (0x85), Super_L (0xce), Hyper_L (0xcf) mod5 ISO_Level3_Shift (0x5c), Mode_switch (0xcb) Copy current xmodmap config:
-xmodmap -pke &amp;gt; ~/.xmodmap Do its backup just in case
-cp ~/.xmodmap ~/.xmodmap.bak Drop Super_L from mod4:</description></item><item><title>Copy files from/to Kubernetes</title><link>https://torwald-sergesson.github.io/blog/2021/2021-03-19-copy-files-from-to-k8s/</link><pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/blog/2021/2021-03-19-copy-files-from-to-k8s/</guid><description>This is kind of analogue of scp command for copying files from/to K8s pods.
-There are a command:
-kubectl cp &amp;lt;from&amp;gt; &amp;lt;to&amp;gt; Copy file from Pod to local machine:
-kubectl cp my-namespace/some-pod:/path/to/file /path/to/file/at/my/laptop Copy file from the local machine to Pod:
-kubectl cp /path/to/my/local/file my-namespace/some-pod:/path/to/file</description></item><item><title>А.Н. Энгельгардт - Письма из деревни</title><link>https://torwald-sergesson.github.io/blog/2020/letters-from-village/</link><pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/blog/2020/letters-from-village/</guid><description>Читая про ведение дневников случайно наткнулся на статью из журнала Maxim (внезапно) со списком дневников, которые стоит прочесть. Я несколько предвзято к подобным рекомендациям, но вот конкретно “Письма из деревни” меня зацепили.
-В этих “Письмах” автор - ссыльный профессор химии - рассказывал о жизни и ведении хозяйства в российской деревне спустя десяток-другой лет после отмены крепостного права. Некоторые персонажи там ещё помнили, как наполеоновских кавалеристов на вилы поднимали.
-Книга написана очень живым языком.</description></item><item><title>About me</title><link>https://torwald-sergesson.github.io/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/about/</guid><description>I&amp;rsquo;m a man with no plan.</description></item><item><title>Career</title><link>https://torwald-sergesson.github.io/dev/career/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/dev/career/</guid><description>Roadmaps Mobile Developer iOS https://github.com/BohdanOrlov/iOS-Developer-Roadmap Low-Level Developer https://github.com/gurugio/lowlevelprogramming-university Web Developer https://github.com/kamranahmedse/developer-roadmap Архитектор ПО https://medium.com/@nvashanin серия статей по архитектуре https://habr.com/company/softline/blog/319814/ Профессия архитектора: ожидание и реальность https://habr.com/company/technoserv/blog/350170/ - системный архитектор https://medium.com/@nvashanin/books-in-software-architecture-6ad974e524ce - клевые книги по архитектуре https://www.ibm.com/developerworks/ru/library/ws-soa-proarch1/index.html - специалист по архитектуре ПО TA (Technical Architect) Необходимый минимум:
-Алгоритмы и структуры данных https://proglib.io/p/awesome-algorithms/ http://edu.nstu.ru/courses/saod/content.htm https://vk.com/page-54530371_48795618 Паттерны проектирования
-https://sourcemaking.com/ http://forcoder.ru/developing/priemy-obektno-orientirovannogo-proektirovaniya-patterny-proektirovaniya-1372 Dependency Injection https://www.manning.com/books/dependency-injection-in-dot-net (RU: https://smarly.net/dependency-injection-in-net) MVC, MVVM, MVP https://habrahabr.ru/post/215605/ S.O.L.I.D. https://en.wikipedia.org/wiki/SOLID_(object-oriented_design) Теория баз данных</description></item><item><title>Databases internals</title><link>https://torwald-sergesson.github.io/dev/databases_internals/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/dev/databases_internals/</guid><description> https://cstack.github.io/db_tutorial/ Let&amp;rsquo;s Build a Simple Database https://github.com/auxten/go-sqldb A pure golang SQL database for database theory research</description></item><item><title>DNS</title><link>https://torwald-sergesson.github.io/dev/dns-links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/dev/dns-links/</guid><description>Why is DNS still hard to learn? https://jvns.ca/blog/2023/07/28/why-is-dns-still-hard-to-learn/ Мне нравится как Julia Evans пишет о DNS, нравится что попадаются вопросы, на которые нельзя ответить сразу, без погружения. Ещё одна заметка на этот счёт&amp;hellip;</description></item><item><title>FLL - Programme d'entraînement au luc léger - Timer</title><link>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-timer/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-timer/</guid><description>Video</description></item><item><title>FLL-01 - Programme d'entraînement au luc léger - Séance 01/10</title><link>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-01/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-01/</guid><description>Video</description></item><item><title>FLL-02 - Programme d'entraînement au luc léger - Séance 02/10</title><link>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-02/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-02/</guid><description>Video</description></item><item><title>FLL-03 - Programme d'entraînement au luc léger - Séance 03/10</title><link>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-03/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-03/</guid><description>Video</description></item><item><title>FLL-04 - Programme d'entraînement au luc léger - Séance 04/10</title><link>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-04/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-04/</guid><description>Video</description></item><item><title>FLL-05 - Programme d'entraînement au luc léger - Séance 05/10</title><link>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-05/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-05/</guid><description>Video</description></item><item><title>FLL-06 - Programme d'entraînement au luc léger - Séance 06/10</title><link>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-06/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-06/</guid><description>Video</description></item><item><title>FLL-07 - Programme d'entraînement au luc léger - Séance 07/10</title><link>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-07/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-07/</guid><description>Video</description></item><item><title>FLL-08 - Programme d'entraînement au luc léger - Séance 08/10</title><link>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-08/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-08/</guid><description>Video</description></item><item><title>FLL-09 - Programme d'entraînement au luc léger - Séance 09/10</title><link>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-09/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-09/</guid><description>Video</description></item><item><title>FLL-10 - Programme d'entraînement au luc léger - Séance 10/10</title><link>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-10/</guid><description>Video</description></item><item><title>FPP-01</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-01/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-01/</guid><description>Video</description></item><item><title>FPP-02</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-02/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-02/</guid><description>Video</description></item><item><title>FPP-04</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-04/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-04/</guid><description>Video</description></item><item><title>FPP-05</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-05/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-05/</guid><description>Video</description></item><item><title>FPP-06</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-06/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-06/</guid><description>Video</description></item><item><title>FPP-07</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-07/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-07/</guid><description>Video</description></item><item><title>FPP-08</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-08/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-08/</guid><description>Video</description></item><item><title>FPP-09</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-09/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-09/</guid><description>Video</description></item><item><title>FPP-10</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-10/</guid><description>Video</description></item><item><title>FPP-11</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-11/</guid><description>Video</description></item><item><title>FPP-12</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-12/</guid><description>Video</description></item><item><title>FPP-13</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-13/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-13/</guid><description>Video</description></item><item><title>FPP-14</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-14/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-14/</guid><description>Video</description></item><item><title>FPP-15</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-15/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-15/</guid><description>Video</description></item><item><title>FPP-16</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-16/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-16/</guid><description>Video</description></item><item><title>FPP-17</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-17/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-17/</guid><description>Video</description></item><item><title>FPP-18</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-18/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-18/</guid><description>Video</description></item><item><title>FPP-19</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-19/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-19/</guid><description>Video</description></item><item><title>FPP-20</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-20/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-20/</guid><description>Video</description></item><item><title>FPP-21</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-21/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-21/</guid><description>Video</description></item><item><title>FPP-22</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-22/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-22/</guid><description>Video</description></item><item><title>FPP-23</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-23/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-23/</guid><description>Video</description></item><item><title>FPP-24</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-24/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-24/</guid><description>Video</description></item><item><title>FPP-25</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-25/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-25/</guid><description>Video</description></item><item><title>FPP-26</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-26/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-26/</guid><description>Video</description></item><item><title>FPP-27</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-27/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-27/</guid><description>Video</description></item><item><title>FPP-28</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-28/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-28/</guid><description>Video</description></item><item><title>FPP-29</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-29/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-29/</guid><description>Video</description></item><item><title>FPP-30</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-30/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-30/</guid><description>Video</description></item><item><title>FPP-31</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-31/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-31/</guid><description>Video</description></item><item><title>FPP-32</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-32/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-32/</guid><description>Video</description></item><item><title>FPP-33</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-33/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-33/</guid><description>Video</description></item><item><title>FPP-34</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-34/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-34/</guid><description>Video</description></item><item><title>FPP-35</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-35/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-35/</guid><description>Video</description></item><item><title>FPP-36</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-36/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-36/</guid><description>Video</description></item><item><title>FPP-37</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-37/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-37/</guid><description>Video</description></item><item><title>FPP-38</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-38/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-38/</guid><description>Video</description></item><item><title>FPP-39</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-39/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-39/</guid><description>Video</description></item><item><title>FPP-40</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-40/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-40/</guid><description>Video</description></item><item><title>FPPX-01</title><link>https://torwald-sergesson.github.io/fitness/fpp/fppx-01/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fppx-01/</guid><description>Video</description></item><item><title>FPPX-02</title><link>https://torwald-sergesson.github.io/fitness/fpp/fppx-02/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fppx-02/</guid><description>Video</description></item><item><title>FPPX-03</title><link>https://torwald-sergesson.github.io/fitness/fpp/fppx-03/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fppx-03/</guid><description>Video</description></item><item><title>FPPX-04</title><link>https://torwald-sergesson.github.io/fitness/fpp/fppx-04/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fppx-04/</guid><description>Video</description></item><item><title>FSQT-01 - Programme d'entraînement pour l’épreuve des squats - Séance 1/10</title><link>https://torwald-sergesson.github.io/fitness/squats/fsqt-01/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/squats/fsqt-01/</guid><description>Video</description></item><item><title>FSQT-02 - Programme d'entraînement pour l’épreuve des squats - Séance 2/10</title><link>https://torwald-sergesson.github.io/fitness/squats/fsqt-02/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/squats/fsqt-02/</guid><description>Video</description></item><item><title>FSQT-03 - Programme d'entraînement pour l’épreuve des squats - Séance 3/10</title><link>https://torwald-sergesson.github.io/fitness/squats/fsqt-03/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/squats/fsqt-03/</guid><description>Video</description></item><item><title>FSQT-04 - Programme d'entraînement pour l’épreuve des squats - Séance 4/10</title><link>https://torwald-sergesson.github.io/fitness/squats/fsqt-04/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/squats/fsqt-04/</guid><description>Video</description></item><item><title>FSQT-05 - Programme d'entraînement pour l’épreuve des squats - Séance 5/10</title><link>https://torwald-sergesson.github.io/fitness/squats/fsqt-05/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/squats/fsqt-05/</guid><description>Video</description></item><item><title>FSQT-06 - Programme d'entraînement pour l’épreuve des squats - Séance 6/10</title><link>https://torwald-sergesson.github.io/fitness/squats/fsqt-06/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/squats/fsqt-06/</guid><description>Video</description></item><item><title>FSQT-07 - Programme d'entraînement pour l’épreuve des squats - Séance 7/10</title><link>https://torwald-sergesson.github.io/fitness/squats/fsqt-07/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/squats/fsqt-07/</guid><description>Video</description></item><item><title>FSQT-08 - Programme d'entraînement pour l’épreuve des squats - Séance 8/10</title><link>https://torwald-sergesson.github.io/fitness/squats/fsqt-08/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/squats/fsqt-08/</guid><description>Video</description></item><item><title>FSQT-09 - Programme d'entraînement pour l’épreuve des squats - Séance 9/10</title><link>https://torwald-sergesson.github.io/fitness/squats/fsqt-09/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/squats/fsqt-09/</guid><description>Video</description></item><item><title>FSQT-10 - Programme d'entraînement pour l’épreuve des squats - Séance 10/10</title><link>https://torwald-sergesson.github.io/fitness/squats/fsqt-10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/squats/fsqt-10/</guid><description>Video</description></item><item><title>FTR-01 - Programme d'entraînement pour l’épreuve de tractions</title><link>https://torwald-sergesson.github.io/fitness/traction/ftr-01/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/traction/ftr-01/</guid><description>Playlist</description></item><item><title>FTR-02 - Programme d'entraînement pour l’épreuve de tractions</title><link>https://torwald-sergesson.github.io/fitness/traction/ftr-02/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/traction/ftr-02/</guid><description>Playlist</description></item><item><title>FTR-03 - Programme d'entraînement pour l’épreuve de tractions</title><link>https://torwald-sergesson.github.io/fitness/traction/ftr-03/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/traction/ftr-03/</guid><description>Playlist</description></item><item><title>FTR-04 - Programme d'entraînement pour l’épreuve de tractions</title><link>https://torwald-sergesson.github.io/fitness/traction/ftr-04/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/traction/ftr-04/</guid><description>Playlist</description></item><item><title>FTR-05 - Programme d'entraînement pour l’épreuve de tractions</title><link>https://torwald-sergesson.github.io/fitness/traction/ftr-05/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/traction/ftr-05/</guid><description>Playlist</description></item><item><title>FTR-06 - Programme d'entraînement pour l’épreuve de tractions</title><link>https://torwald-sergesson.github.io/fitness/traction/ftr-06/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/traction/ftr-06/</guid><description>Playlist</description></item><item><title>FTR-07 - Programme d'entraînement pour l’épreuve de tractions</title><link>https://torwald-sergesson.github.io/fitness/traction/ftr-07/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/traction/ftr-07/</guid><description>Playlist</description></item><item><title>FTR-08 - Programme d'entraînement pour l’épreuve de tractions</title><link>https://torwald-sergesson.github.io/fitness/traction/ftr-08/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/traction/ftr-08/</guid><description>Playlist</description></item><item><title>Golang Reading List from Mail.ru cources</title><link>https://torwald-sergesson.github.io/dev/golang-mail-ru/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/dev/golang-mail-ru/</guid><description>Reading Week 1 Материалы для дополнительного чтения на английском:
-[-] https://golang.org/ref/spec - спецификация по язык [-] https://golang.org/ref/mem - модель памяти го. на начальном этапе не надо, но знать полезно [-] https://golang.org/doc/code.html - про организацию кода. GOPATH и пакеты [-] https://golang.org/cmd/go/ [-] https://blog.golang.org/strings [-] https://blog.golang.org/slices [-] https://blog.golang.org/go-slices-usage-and-internals [-] https://github.com/golang/go/wiki - вики го на гитхабе. очень много полезной информации [-] https://blog.golang.org/go-maps-in-action [-] https://blog.golang.org/organizing-go-code [-] https://golang.org/doc/effective_go.html - основной сборник тайного знания, сюда вы будуте обращатсья в первое время часто [-] https://github.</description></item><item><title>Interesting links</title><link>https://torwald-sergesson.github.io/dev/interesting-it-links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/dev/interesting-it-links/</guid><description>https://github.com/ivanceras/svgbob Convert your ascii diagram scribbles into happy little SVG https://ohmygit.org/ An open source game about learning Git https://github.com/dolthub/dolt It&amp;rsquo;s Git for Data https://betterprogramming.pub/git-commands-to-live-by-349ab1fe3139 Git Commands to Live By. The cheat sheet that goes beyond Git basics https://github.com/uber-go/gopatch Refactoring and code transformation tool for Go. https://github.com/jroimartin/gocui Minimalist Go package aimed at creating Console User Interfaces. https://justine.lol/index.html - Justine Tunney&amp;rsquo;s Web Page (printvideo, cosmopolitan, nesemu1 and etc) https://github.com/xo/xo - Command line tool to generate idiomatic Go code for SQL databases supporting PostgreSQL, MySQL, SQLite, Oracle, and Microsoft SQL Server https://thevaluable.</description></item><item><title>IT Telegram Channels</title><link>https://torwald-sergesson.github.io/dev/it-telegram-channels/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/dev/it-telegram-channels/</guid><description>There are some useful IT Telegram Channels
-https://t.me/rxd_txd - rxd_txd https://t.me/Social_engineering - Social Engineering https://t.me/geekexport - GEEK EXPORT https://t.me/docops - DocOps https://t.me/refactor_later - Потом отрефакторим https://t.me/golanglibrary - Go Library https://t.me/devopslibrary - DevOps&amp;amp;SRE Library https://t.me/gophernews - 4gophers https://t.me/generictalks - Generic Talks https://t.me/go_perf - Go performance channel https://t.me/goproglib - Библиотека Go разработчика https://t.me/PINE64_News - PINE64 News https://t.me/SysadminNotes - Записки админа https://t.me/microservices_arch - Микросервисы https://t.me/meta_it - Свалка ссылок на чаты и каналы о IT.</description></item><item><title>Linux and C</title><link>https://torwald-sergesson.github.io/dev/linux-and-c/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/dev/linux-and-c/</guid><description>Linux From Scratch (Linux для себя) https://lx4u.ru Linux для себя - русскоязычное подробное руководство по созданию Linux-системы, используя лишь исходные тексты необходимого программного обеспечения. Это руководство - самостоятельное ответвление от проекта Linux From Scratch.
-Linux Kernel Defence Map https://github.com/a13xp0p0v/linux-kernel-defence-map Linux Kernel Defence Map shows the relationships between vulnerability classes, exploitation techniques, bug detection mechanisms, and defence technologies
-A quick intro to basic debugging tools for Linux systems https://www.petermcconnell.com/posts/linuxtools/</description></item><item><title>Programme d'entraînement pour l’épreuve des squats - Technic</title><link>https://torwald-sergesson.github.io/fitness/squats/fsqt-tech/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/squats/fsqt-tech/</guid><description>Video</description></item><item><title>Rust</title><link>https://torwald-sergesson.github.io/dev/rust-links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/dev/rust-links/</guid><description> https://google.github.io/comprehensive-rust/ Comprehensive Rust</description></item><item><title>Security</title><link>https://torwald-sergesson.github.io/dev/security-links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/dev/security-links/</guid><description> https://github.com/ashemery/exploitation-course Offensive Software Exploitation (OSE) Course</description></item><item><title>Vim config files</title><link>https://torwald-sergesson.github.io/dev/vim-configs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/dev/vim-configs/</guid><description>set number set nocompatible filetype off set rtp+=~/.vim/bundle/Vundle.vim call vundle#begin() Plugin &amp;#39;VundleVim/Vundle.vim&amp;#39; &amp;#34; ----------============ Code/project navigation =============----------- &amp;#34; plugin on GitHub repo Plugin &amp;#39;scrooloose/nerdtree&amp;#39; &amp;#34; Project and file navigation Plugin &amp;#39;majutsushi/tagbar&amp;#39; &amp;#34; Class/module browser &amp;#34; ----------============ Other =============----------- Plugin &amp;#39;bling/vim-airline&amp;#39; &amp;#34; Lean &amp;amp; mean status/tabline for vim Plugin &amp;#39;fisadev/FixedTaskList.vim&amp;#39; &amp;#34; Pending tasks list Plugin &amp;#39;rosenfeld/conque-term&amp;#39; &amp;#34; Consoles as buffers Plugin &amp;#39;tpope/vim-surround&amp;#39; &amp;#34; Parentheses, brackets, quotes, XML tags, and more Plugin &amp;#39;flazz/vim-colorschemes&amp;#39;	&amp;#34; Colorschemes &amp;#34; ----------============ Snippets support =============----------- Plugin &amp;#39;garbas/vim-snipmate&amp;#39;	&amp;#34; Snippets manager Plugin &amp;#39;MarcWeber/vim-addon-mw-utils&amp;#39;	&amp;#34; dependentcies #1 Plugin &amp;#39;tomtom/tlib_vim&amp;#39;	&amp;#34; dependentcies #2 Plugin &amp;#39;honza/vim-snippets&amp;#39;	&amp;#34; snippets repo &amp;#34; ----------============ Languages support =============----------- Plugin &amp;#39;klen/python-mode&amp;#39;	&amp;#34; Python mode (docs, refactor, lints, highlighting, run and ipdb and more Plugin &amp;#39;davidhalter/jedi-vim&amp;#39;	&amp;#34; Jedi-vim autocomplete plugin Plugin &amp;#39;mitsuhiko/vim-jinja&amp;#39;	&amp;#34; Jinja support for vim Plugin &amp;#39;mitsuhiko/vim-python-combined&amp;#39;	&amp;#34; Combined Python 2/3 for Vim Plugin &amp;#39;fatih/vim-go&amp;#39; &amp;#34; Plugin &amp;#39;Shougo/neocomplete.</description></item><item><title>ZSH config files</title><link>https://torwald-sergesson.github.io/dev/zsh-configs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/dev/zsh-configs/</guid><description># Path to your oh-my-zsh installation. export ZSH=$HOME/.oh-my-zsh # Set name of the theme to load. # Look in ~/.oh-my-zsh/themes/ # Optionally, if you set this to &amp;#34;random&amp;#34;, it&amp;#39;ll load a random theme each # time that oh-my-zsh is loaded. #ZSH_THEME=&amp;#34;robbyrussell&amp;#34; ZSH_THEME=&amp;#34;candy&amp;#34; #ZSH_THEME=&amp;#34;crunch&amp;#34; # Uncomment the following line to use case-sensitive completion. # CASE_SENSITIVE=&amp;#34;true&amp;#34; # Uncomment the following line to disable bi-weekly auto-update checks. # DISABLE_AUTO_UPDATE=&amp;#34;true&amp;#34; # Uncomment the following line to change how often to auto-update (in days).</description></item><item><title>Как загнобить человека на код-ревью</title><link>https://torwald-sergesson.github.io/dev/code-review/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/dev/code-review/</guid><description>This is not mine text, but I like it. You you are its author - please, let me know.
-Код говно. Это надо переписать. Ты чем вообще думаешь? Так никто не пишет. Ебанёт. И как это поддерживать? Пиздец! Пиздец[2]! Мы же полгода назад устно договаривались не делать так. Я это ревьюить больше не буду, ищи кого-нибудь ещё. Ты этот говнокод из своего днк взял? Обезьяну посади - сделает лучше Ты вообще чтоли животное?</description></item><item><title>Карты к игре Великий князь</title><link>https://torwald-sergesson.github.io/games/boardgame-grand-duke/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/games/boardgame-grand-duke/</guid><description>Грамоты Беглые (оставь себе) - прослышав про вашу мудрость и доброту к вам прибежали крестьяне из соседних княжеств (соседи справа и слева должны отдать по одному крестьянину) Вече - жители самого крупного вашего города на вече решили перейти под власть другого князя - тот кому передается эта грамота, должен отдать карты города и всех его горожан тому игроку, который передал эту грамоту. Голод - в княжестве случился неурожай и некоторые ваши горожане убежали в другие княжества.</description></item><item><title>Карты к игре Князья</title><link>https://torwald-sergesson.github.io/games/boardgame-dukes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/games/boardgame-dukes/</guid><description>Города Киев - 3 Новгород - 3 Чернигов - 3 Псков - 2 Владимир - 2 Суздаль - 2 Галич - 2 Муром - 1 Полоцк - 1 Смоленск - 1 Тмутаракань - 1 Постройки Ров - любая стена в этом городе получает +1 к силе Княжеский престол (2 шт)- слава города с постройками утраивается пока нет другого престола Монастырь (5 шт) - +2 к славе Церковь (10 шт) - +1 к славе Ремесленная слобода - удваивается слава города без построек Собор (3 шт) - +3 к славе Золотые ворота - Добавьте к славе города силу городских стен Постройки v2 Школа - +1 к славе Библиотека - +2 к славе Стена Деревянные стены (2 шт) - 3 Кремль - 5 Каменные стены - 4 Частокол (2 шт) - 2 Летописи Русские богатыри - при обороне ваши дружины получают +2 к силе Помощь Византии - играя эту карту, положите на нее любое войско, кроме ополчения.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on Torwald Log</title><link>https://torwald-sergesson.github.io/</link><description>Recent content in Home on Torwald Log</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://torwald-sergesson.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Francais Telegram Channels</title><link>https://torwald-sergesson.github.io/blog/2024/francais-telegram-channels/</link><pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/blog/2024/francais-telegram-channels/</guid><description>&lt;ul>
+&lt;li>&lt;a href="https://t.me/francais_avec_kail">https://t.me/francais_avec_kail&lt;/a> - Французский с Кайл&lt;/li>
+&lt;li>&lt;a href="https://t.me/avefrance">https://t.me/avefrance&lt;/a> - Ваша Франция&lt;/li>
+&lt;li>&lt;a href="https://t.me/le_francais_french">https://t.me/le_francais_french&lt;/a> - Французский язык / Francais&lt;/li>
+&lt;li>&lt;a href="https://t.me/le_francais_french_0">https://t.me/le_francais_french_0&lt;/a> - Французский с нуля | Française&lt;/li>
+&lt;li>&lt;a href="https://t.me/magazinesfrancais">https://t.me/magazinesfrancais&lt;/a> - magazines &amp;amp; livres en français&lt;/li>
+&lt;li>&lt;a href="https://t.me/frenchyfox">https://t.me/frenchyfox&lt;/a> - Живой французский/Français&lt;/li>
+&lt;li>&lt;a href="https://t.me/news_in_french">https://t.me/news_in_french&lt;/a> - Новости en français&lt;/li>
+&lt;li>&lt;a href="https://t.me/marie_paris">https://t.me/marie_paris&lt;/a> - А как там в Париже?&lt;/li>
+&lt;li>&lt;a href="https://t.me/SoFrenchSchool">https://t.me/SoFrenchSchool&lt;/a> - Французский онлайн SoFrench&lt;/li>
+&lt;li>&lt;a href="https://t.me/francomania">https://t.me/francomania&lt;/a> - Франкомания&lt;/li>
+&lt;li>&lt;a href="https://t.me/francaissodvora">https://t.me/francaissodvora&lt;/a> - Французский со двора&lt;/li>
+&lt;li>&lt;a href="https://t.me/fuckingfrench">https://t.me/fuckingfrench&lt;/a> - Fucking French&lt;/li>
+&lt;li>&lt;a href="https://t.me/france_danslapoche">https://t.me/france_danslapoche&lt;/a> - Франция в кармане&lt;/li>
+&lt;li>&lt;a href="https://t.me/fransaise">https://t.me/fransaise&lt;/a> - Французский в удовольствие&lt;/li>
+&lt;li>&lt;a href="https://t.me/my_france_daily">https://t.me/my_france_daily&lt;/a> - My France Daily&lt;/li>
+&lt;li>&lt;a href="https://t.me/lovelyfrench">https://t.me/lovelyfrench&lt;/a> - Lovely French Paris, France&lt;/li>
+&lt;li>&lt;a href="https://t.me/intoulon">https://t.me/intoulon&lt;/a> - Тулонские мидии&lt;/li>
+&lt;li>&lt;a href="https://t.me/MusFrance">https://t.me/MusFrance&lt;/a> - Musique Française&lt;/li>
+&lt;li>&lt;a href="https://t.me/jaimelefrancais">https://t.me/jaimelefrancais&lt;/a> - J&amp;rsquo;aime le français / французский&lt;/li>
+&lt;li>&lt;a href="https://t.me/FranceProvence">https://t.me/FranceProvence&lt;/a> - Окно в Прованс&lt;/li>
+&lt;li>&lt;a href="https://t.me/katdale">https://t.me/katdale&lt;/a> - Парижские заметки.&lt;/li>
+&lt;/ul></description></item><item><title>Make Chromebook Super_L key Control</title><link>https://torwald-sergesson.github.io/blog/2024/xmodmap-chromebook/</link><pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/blog/2024/xmodmap-chromebook/</guid><description>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-shell" data-lang="shell">&lt;span style="display:flex;">&lt;span>➜ ~ xmodmap
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>xmodmap: up to &lt;span style="color:#ae81ff">3&lt;/span> keys per modifier, &lt;span style="color:#f92672">(&lt;/span>keycodes in parentheses&lt;span style="color:#f92672">)&lt;/span>:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>shift Shift_L &lt;span style="color:#f92672">(&lt;/span>0x32&lt;span style="color:#f92672">)&lt;/span>, Shift_R &lt;span style="color:#f92672">(&lt;/span>0x3e&lt;span style="color:#f92672">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>lock Caps_Lock &lt;span style="color:#f92672">(&lt;/span>0x42&lt;span style="color:#f92672">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>control Control_L &lt;span style="color:#f92672">(&lt;/span>0x25&lt;span style="color:#f92672">)&lt;/span>, Control_R &lt;span style="color:#f92672">(&lt;/span>0x69&lt;span style="color:#f92672">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>mod1 Alt_L &lt;span style="color:#f92672">(&lt;/span>0x40&lt;span style="color:#f92672">)&lt;/span>, Alt_R &lt;span style="color:#f92672">(&lt;/span>0x6c&lt;span style="color:#f92672">)&lt;/span>, Meta_L &lt;span style="color:#f92672">(&lt;/span>0xcd&lt;span style="color:#f92672">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>mod2 Num_Lock &lt;span style="color:#f92672">(&lt;/span>0x4d&lt;span style="color:#f92672">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>mod3
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>mod4 Super_L &lt;span style="color:#f92672">(&lt;/span>0x85&lt;span style="color:#f92672">)&lt;/span>, Super_L &lt;span style="color:#f92672">(&lt;/span>0xce&lt;span style="color:#f92672">)&lt;/span>, Hyper_L &lt;span style="color:#f92672">(&lt;/span>0xcf&lt;span style="color:#f92672">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>mod5 ISO_Level3_Shift &lt;span style="color:#f92672">(&lt;/span>0x5c&lt;span style="color:#f92672">)&lt;/span>, Mode_switch &lt;span style="color:#f92672">(&lt;/span>0xcb&lt;span style="color:#f92672">)&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Copy current xmodmap config:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-shell" data-lang="shell">&lt;span style="display:flex;">&lt;span>xmodmap -pke &amp;gt; ~/.xmodmap
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Do its backup just in case&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-shell" data-lang="shell">&lt;span style="display:flex;">&lt;span>cp ~/.xmodmap ~/.xmodmap.bak
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Drop &lt;code>Super_L&lt;/code> from &lt;code>mod4&lt;/code>:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-shell" data-lang="shell">&lt;span style="display:flex;">&lt;span>xmodmap -e &lt;span style="color:#e6db74">&amp;#34;remove mod4 = Super_L&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>And add it to Control:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-shell" data-lang="shell">&lt;span style="display:flex;">&lt;span>xmodmap -e &lt;span style="color:#e6db74">&amp;#34;add Control = Super_L&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>As a result:&lt;/p></description></item><item><title>Copy files from/to Kubernetes</title><link>https://torwald-sergesson.github.io/blog/2021/2021-03-19-copy-files-from-to-k8s/</link><pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/blog/2021/2021-03-19-copy-files-from-to-k8s/</guid><description>&lt;p>This is kind of analogue of &lt;code>scp&lt;/code> command for copying files from/to K8s pods.&lt;/p>
+&lt;p>There are a command:&lt;/p>
+&lt;pre tabindex="0">&lt;code>kubectl cp &amp;lt;from&amp;gt; &amp;lt;to&amp;gt;
+&lt;/code>&lt;/pre>&lt;p>Copy file from Pod to local machine:&lt;/p>
+&lt;pre tabindex="0">&lt;code>kubectl cp my-namespace/some-pod:/path/to/file /path/to/file/at/my/laptop
+&lt;/code>&lt;/pre>&lt;p>Copy file from the local machine to Pod:&lt;/p>
+&lt;pre tabindex="0">&lt;code>kubectl cp /path/to/my/local/file my-namespace/some-pod:/path/to/file
+&lt;/code>&lt;/pre></description></item><item><title>А.Н. Энгельгардт - Письма из деревни</title><link>https://torwald-sergesson.github.io/blog/2020/letters-from-village/</link><pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/blog/2020/letters-from-village/</guid><description>&lt;p>Читая про ведение дневников случайно наткнулся на статью из журнала Maxim (внезапно) со списком дневников, которые стоит прочесть. Я несколько предвзято к подобным рекомендациям, но вот конкретно “Письма из деревни” меня зацепили.&lt;/p>
+&lt;p>В этих “Письмах” автор - ссыльный профессор химии - рассказывал о жизни и ведении хозяйства в российской деревне спустя десяток-другой лет после отмены крепостного права. Некоторые персонажи там ещё помнили, как наполеоновских кавалеристов на вилы поднимали.&lt;/p>
+&lt;p>Книга написана очень живым языком. Множество моментов, отмеченных автором в поведении местных жителей (как правило крестьян) можно с легкостью узнать и в современных наших соотечественниках.
+Это и положительные качества, такие как терпение, честность (хотя и несколько своеобразная, “божеская”), готовность помочь ближнему последним (одни только истории про “хождение в кусочки” чего стоят), смекалка и трудолюбие. Так и отрицательные - взять, что “плохо лежит”, незнание и игнорирование законов (кроме “божьего закона”), суеверия и фатализм, преклонение перед начальством и т.д.&lt;/p></description></item><item><title>About me</title><link>https://torwald-sergesson.github.io/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/about/</guid><description>&lt;p>I&amp;rsquo;m a man with no plan.&lt;/p></description></item><item><title>Career</title><link>https://torwald-sergesson.github.io/dev/career/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/dev/career/</guid><description>&lt;h2 id="roadmaps">Roadmaps&lt;/h2>
+&lt;ul>
+&lt;li>Mobile Developer iOS &lt;a href="https://github.com/BohdanOrlov/iOS-Developer-Roadmap">https://github.com/BohdanOrlov/iOS-Developer-Roadmap&lt;/a>&lt;/li>
+&lt;li>Low-Level Developer &lt;a href="https://github.com/gurugio/lowlevelprogramming-university">https://github.com/gurugio/lowlevelprogramming-university&lt;/a>&lt;/li>
+&lt;li>Web Developer &lt;a href="https://github.com/kamranahmedse/developer-roadmap">https://github.com/kamranahmedse/developer-roadmap&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="архитектор-по">Архитектор ПО&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://medium.com/@nvashanin">https://medium.com/@nvashanin&lt;/a> серия статей по архитектуре&lt;/li>
+&lt;li>&lt;a href="https://habr.com/company/softline/blog/319814/">https://habr.com/company/softline/blog/319814/&lt;/a> Профессия архитектора: ожидание и реальность&lt;/li>
+&lt;li>&lt;a href="https://habr.com/company/technoserv/blog/350170/">https://habr.com/company/technoserv/blog/350170/&lt;/a> - системный архитектор&lt;/li>
+&lt;li>&lt;a href="https://medium.com/@nvashanin/books-in-software-architecture-6ad974e524ce">https://medium.com/@nvashanin/books-in-software-architecture-6ad974e524ce&lt;/a> - клевые книги по архитектуре&lt;/li>
+&lt;li>&lt;a href="https://www.ibm.com/developerworks/ru/library/ws-soa-proarch1/index.html">https://www.ibm.com/developerworks/ru/library/ws-soa-proarch1/index.html&lt;/a> - специалист по архитектуре ПО&lt;/li>
+&lt;/ul>
+&lt;h2 id="ta-technical-architect">TA (Technical Architect)&lt;/h2>
+&lt;p>Необходимый минимум:&lt;/p>
+&lt;ul>
+&lt;li>Алгоритмы и структуры данных&lt;/li>
+&lt;li>&lt;a href="https://proglib.io/p/awesome-algorithms/">https://proglib.io/p/awesome-algorithms/&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://edu.nstu.ru/courses/saod/content.htm">http://edu.nstu.ru/courses/saod/content.htm&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://vk.com/page-54530371_48795618">https://vk.com/page-54530371_48795618&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>Паттерны проектирования&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://sourcemaking.com/">https://sourcemaking.com/&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://forcoder.ru/developing/priemy-obektno-orientirovannogo-proektirovaniya-patterny-proektirovaniya-1372">http://forcoder.ru/developing/priemy-obektno-orientirovannogo-proektirovaniya-patterny-proektirovaniya-1372&lt;/a>&lt;/li>
+&lt;li>Dependency Injection &lt;a href="https://www.manning.com/books/dependency-injection-in-dot-net">https://www.manning.com/books/dependency-injection-in-dot-net&lt;/a>  (RU: &lt;a href="https://smarly.net/dependency-injection-in-net">https://smarly.net/dependency-injection-in-net&lt;/a>)&lt;/li>
+&lt;li>MVC, MVVM, MVP &lt;a href="https://habrahabr.ru/post/215605/">https://habrahabr.ru/post/215605/&lt;/a>&lt;/li>
+&lt;li>S.O.L.I.D. &lt;a href="https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)">https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>Теория баз данных&lt;/p>
+&lt;ul>
+&lt;li>Вообще для ТА лучше всего, если была соответствующая профильная подготовка в ВУЗе. Для освежения памяти можно использовать любой источник, напр.&lt;/li>
+&lt;li>&lt;a href="http://www.mstu.edu.ru/study/materials/zelenkov/toc.html">http://www.mstu.edu.ru/study/materials/zelenkov/toc.html&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>Горизонтальное масштабирование систем&lt;/p></description></item><item><title>Databases internals</title><link>https://torwald-sergesson.github.io/dev/databases_internals/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/dev/databases_internals/</guid><description>&lt;ul>
+&lt;li>&lt;a href="https://cstack.github.io/db_tutorial/">https://cstack.github.io/db_tutorial/&lt;/a> Let&amp;rsquo;s Build a Simple Database&lt;/li>
+&lt;li>&lt;a href="https://github.com/auxten/go-sqldb">https://github.com/auxten/go-sqldb&lt;/a> A pure golang SQL database for database theory research&lt;/li>
+&lt;/ul></description></item><item><title>DNS</title><link>https://torwald-sergesson.github.io/dev/dns-links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/dev/dns-links/</guid><description>&lt;h2 id="why-is-dns-still-hard-to-learn">Why is DNS still hard to learn?&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://jvns.ca/blog/2023/07/28/why-is-dns-still-hard-to-learn/">https://jvns.ca/blog/2023/07/28/why-is-dns-still-hard-to-learn/&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>Мне нравится как Julia Evans пишет о DNS, нравится что попадаются вопросы, на которые нельзя ответить сразу, без погружения. Ещё одна заметка на этот счёт&amp;hellip;&lt;/p></description></item><item><title>FLL - Programme d'entraînement au luc léger - Timer</title><link>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-timer/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-timer/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/gVp9kx8RKH0?si=tQ3briZGv5e71uMs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>&lt;/iframe>
+&lt;p>&lt;a href="https://youtu.be/gVp9kx8RKH0?si=tQ3briZGv5e71uMs">Video&lt;/a>&lt;/p></description></item><item><title>FLL-01 - Programme d'entraînement au luc léger - Séance 01/10</title><link>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-01/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-01/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/IeFsRgx9pq0?si=6cAZFeLeU0bwMQTE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
+&lt;p>&lt;a href="https://youtu.be/IeFsRgx9pq0?si=6cAZFeLeU0bwMQTE">Video&lt;/a>&lt;/p></description></item><item><title>FLL-02 - Programme d'entraînement au luc léger - Séance 02/10</title><link>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-02/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-02/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/cTxGRuPCT60?si=hG_F14cxT2CKU6dH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>&lt;/iframe>
+&lt;p>&lt;a href="https://youtu.be/cTxGRuPCT60?si=hG_F14cxT2CKU6dH">Video&lt;/a>&lt;/p></description></item><item><title>FLL-03 - Programme d'entraînement au luc léger - Séance 03/10</title><link>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-03/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-03/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Zt256KSKA8Q?si=N1xxGOYOMdowM6Jx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>&lt;/iframe>
+&lt;p>&lt;a href="https://youtu.be/Zt256KSKA8Q?si=N1xxGOYOMdowM6Jx">Video&lt;/a>&lt;/p></description></item><item><title>FLL-04 - Programme d'entraînement au luc léger - Séance 04/10</title><link>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-04/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-04/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/a91TTGsPu60?si=R6BrjP0STJJToi8i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>&lt;/iframe>
+&lt;p>&lt;a href="https://youtu.be/a91TTGsPu60?si=R6BrjP0STJJToi8i">Video&lt;/a>&lt;/p></description></item><item><title>FLL-05 - Programme d'entraînement au luc léger - Séance 05/10</title><link>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-05/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-05/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/jXZzfIpSkc8?si=leyxLiWw8NAhxa2C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>&lt;/iframe>
+&lt;p>&lt;a href="https://youtu.be/jXZzfIpSkc8?si=leyxLiWw8NAhxa2C">Video&lt;/a>&lt;/p></description></item><item><title>FLL-06 - Programme d'entraînement au luc léger - Séance 06/10</title><link>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-06/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-06/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/BnvsvWNHkLQ?si=QsDgHMmAbXo08yzc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>&lt;/iframe>
+&lt;p>&lt;a href="https://youtu.be/BnvsvWNHkLQ?si=QsDgHMmAbXo08yzc">Video&lt;/a>&lt;/p></description></item><item><title>FLL-07 - Programme d'entraînement au luc léger - Séance 07/10</title><link>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-07/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-07/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/YJ3q6Yrd4H4?si=Mg-eCkTKS0PR0TQv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>&lt;/iframe>
+&lt;p>&lt;a href="https://youtu.be/YJ3q6Yrd4H4?si=Mg-eCkTKS0PR0TQv">Video&lt;/a>&lt;/p></description></item><item><title>FLL-08 - Programme d'entraînement au luc léger - Séance 08/10</title><link>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-08/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-08/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/pvtlMgNrI2Q?si=xkzKUrgJxGp6cTJt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>&lt;/iframe>
+&lt;p>&lt;a href="https://youtu.be/pvtlMgNrI2Q?si=xkzKUrgJxGp6cTJt">Video&lt;/a>&lt;/p></description></item><item><title>FLL-09 - Programme d'entraînement au luc léger - Séance 09/10</title><link>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-09/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-09/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/G7I5tXcZVqs?si=KeaC2QsyUTvC7vEo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>&lt;/iframe>
+&lt;p>&lt;a href="https://youtu.be/G7I5tXcZVqs?si=KeaC2QsyUTvC7vEo">Video&lt;/a>&lt;/p></description></item><item><title>FLL-10 - Programme d'entraînement au luc léger - Séance 10/10</title><link>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-10/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/s0_JdHGLnic?si=W7cwl2LIQbHNtLNa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>&lt;/iframe>
+&lt;p>&lt;a href="https://youtu.be/s0_JdHGLnic?si=W7cwl2LIQbHNtLNa">Video&lt;/a>&lt;/p></description></item><item><title>FPP-01</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-01/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-01/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/vwGtyKKX0Rs?si=mDf4raHqLGrx4jNd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
+&lt;p>&lt;a href="https://youtu.be/vwGtyKKX0Rs?si=bG_Tud5B8Uv3JiUl">Video&lt;/a>&lt;/p></description></item><item><title>FPP-02</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-02/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-02/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/FUrwmOjsd1U?si=QjMgdx2jb4aQwUR0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
+&lt;p>&lt;a href="https://youtu.be/FUrwmOjsd1U?si=QjMgdx2jb4aQwUR0">Video&lt;/a>&lt;/p></description></item><item><title>FPP-04</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-04/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-04/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/VAX_RujBR_Q?si=nDVenQvjkVczuaXF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
+&lt;p>&lt;a href="https://youtu.be/VAX_RujBR_Q?si=nDVenQvjkVczuaXF">Video&lt;/a>&lt;/p></description></item><item><title>FPP-05</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-05/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-05/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/MGqpSgFGxXw?si=CBZ32ldQGiuWp4J8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
+&lt;p>&lt;a href="https://youtu.be/MGqpSgFGxXw?si=CBZ32ldQGiuWp4J8">Video&lt;/a>&lt;/p></description></item><item><title>FPP-06</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-06/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-06/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/rgUC0KzziYc?si=8ieXZpuHc77fqLoT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
+&lt;p>&lt;a href="https://youtu.be/rgUC0KzziYc?si=8ieXZpuHc77fqLoT">Video&lt;/a>&lt;/p></description></item><item><title>FPP-07</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-07/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-07/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/cSBa3o8cckM?si=4VtqqnNj-JS2_FV2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
+&lt;p>&lt;a href="https://youtu.be/cSBa3o8cckM?si=4VtqqnNj-JS2_FV2">Video&lt;/a>&lt;/p></description></item><item><title>FPP-08</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-08/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-08/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/bmNrENTLHRA?si=OYs8dkPvmzaG_Lcx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
+&lt;p>&lt;a href="https://youtu.be/bmNrENTLHRA?si=OYs8dkPvmzaG_Lcx">Video&lt;/a>&lt;/p></description></item><item><title>FPP-09</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-09/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-09/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/JD0g6c0IJrY?si=JL8ObMfsSB2KfSUJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
+&lt;p>&lt;a href="https://youtu.be/JD0g6c0IJrY?si=JL8ObMfsSB2KfSUJ">Video&lt;/a>&lt;/p></description></item><item><title>FPP-10</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-10/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/mL-q-4leskY?si=E7mIUauswsyf6WFB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
+&lt;p>&lt;a href="https://youtu.be/mL-q-4leskY?si=E7mIUauswsyf6WFB">Video&lt;/a>&lt;/p></description></item><item><title>FPP-11</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-11/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/pbuKiqRGYzM?si=cbcO9u37yASjzZos" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
+&lt;p>&lt;a href="https://youtu.be/pbuKiqRGYzM?si=cbcO9u37yASjzZos">Video&lt;/a>&lt;/p></description></item><item><title>FPP-12</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-12/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/3C0nCfRw9y8?si=tuCFkR0qEBqaegFU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
+&lt;p>&lt;a href="https://youtu.be/3C0nCfRw9y8?si=tuCFkR0qEBqaegFU">Video&lt;/a>&lt;/p></description></item><item><title>FPP-13</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-13/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-13/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/0A8c9E8x87U?si=tWtzw5n8d9ovtmS1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
+&lt;p>&lt;a href="https://youtu.be/0A8c9E8x87U?si=tWtzw5n8d9ovtmS1">Video&lt;/a>&lt;/p></description></item><item><title>FPP-14</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-14/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-14/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/j98DMX9n5Yg?si=QiGNbCmgMVhrZiR1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
+&lt;p>&lt;a href="https://youtu.be/j98DMX9n5Yg?si=QiGNbCmgMVhrZiR1">Video&lt;/a>&lt;/p></description></item><item><title>FPP-15</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-15/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-15/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/mNrTF0NaQJg?si=nJVhBcD7FIV069vt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
+&lt;p>&lt;a href="https://youtu.be/mNrTF0NaQJg?si=nJVhBcD7FIV069vt">Video&lt;/a>&lt;/p></description></item><item><title>FPP-16</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-16/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-16/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/p6zAoDbE__s?si=r_AE1-fKOHc49A4i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
+&lt;p>&lt;a href="https://youtu.be/p6zAoDbE__s?si=r_AE1-fKOHc49A4i">Video&lt;/a>&lt;/p></description></item><item><title>FPP-17</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-17/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-17/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/YH3KN2xhBzM?si=n1Bm9KUkjTItMC1G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
+&lt;p>&lt;a href="https://youtu.be/YH3KN2xhBzM?si=n1Bm9KUkjTItMC1G">Video&lt;/a>&lt;/p></description></item><item><title>FPP-18</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-18/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-18/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/f5nsF4yn6NQ?si=QehNZsolqls0taWi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
+&lt;p>&lt;a href="https://youtu.be/f5nsF4yn6NQ?si=QehNZsolqls0taWi">Video&lt;/a>&lt;/p></description></item><item><title>FPP-19</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-19/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-19/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ysYCD1Q8Ep0?si=peENfpg4ZpaKY4Jl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
+&lt;p>&lt;a href="https://youtu.be/ysYCD1Q8Ep0?si=peENfpg4ZpaKY4Jl">Video&lt;/a>&lt;/p></description></item><item><title>FPP-20</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-20/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-20/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/I6eoVQH_pgc?si=jBhDOw-p6brg2JYa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
+&lt;p>&lt;a href="https://youtu.be/I6eoVQH_pgc?si=jBhDOw-p6brg2JYa">Video&lt;/a>&lt;/p></description></item><item><title>FPP-21</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-21/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-21/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/fM2HEiwQ2o8?si=O7RVN5RHp2R5yzn4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
+&lt;p>&lt;a href="https://youtu.be/fM2HEiwQ2o8?si=O7RVN5RHp2R5yzn4">Video&lt;/a>&lt;/p></description></item><item><title>FPP-22</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-22/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-22/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/VUBx_uAg1aI?si=Swn6Fv3OJF1gFncJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
+&lt;p>&lt;a href="https://youtu.be/VUBx_uAg1aI?si=Swn6Fv3OJF1gFncJ">Video&lt;/a>&lt;/p></description></item><item><title>FPP-23</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-23/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-23/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/P-Z_uv2PErw?si=HkA3za9qmr1ooe5r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
+&lt;p>&lt;a href="https://youtu.be/P-Z_uv2PErw?si=HkA3za9qmr1ooe5r">Video&lt;/a>&lt;/p></description></item><item><title>FPP-24</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-24/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-24/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/nAQsv8CXobQ?si=ZvqD6NyJeJXrLcgr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
+&lt;p>&lt;a href="https://youtu.be/nAQsv8CXobQ?si=ZvqD6NyJeJXrLcgr">Video&lt;/a>&lt;/p></description></item><item><title>FPP-25</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-25/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-25/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/6fAExW_uSEM?si=M93I0Y0P7blWasNW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
+&lt;p>&lt;a href="https://youtu.be/6fAExW_uSEM?si=M93I0Y0P7blWasNW">Video&lt;/a>&lt;/p></description></item><item><title>FPP-26</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-26/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-26/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/OgB_wHn6Zn0?si=l4raGElgUNY696gq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
+&lt;p>&lt;a href="https://youtu.be/OgB_wHn6Zn0?si=l4raGElgUNY696gq">Video&lt;/a>&lt;/p></description></item><item><title>FPP-27</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-27/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-27/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/-7G9k89y0w0?si=jV0yttCANpfGt66A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
+&lt;p>&lt;a href="https://youtu.be/-7G9k89y0w0?si=jV0yttCANpfGt66A">Video&lt;/a>&lt;/p></description></item><item><title>FPP-28</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-28/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-28/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/tFJdLbmh9d8?si=sVb5ar23YR8g2LyQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
+&lt;p>&lt;a href="https://youtu.be/tFJdLbmh9d8?si=sVb5ar23YR8g2LyQ">Video&lt;/a>&lt;/p></description></item><item><title>FPP-29</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-29/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-29/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/YzA0zAHC-TY?si=eFmb6NGciVjMmDFO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
+&lt;p>&lt;a href="https://youtu.be/YzA0zAHC-TY?si=eFmb6NGciVjMmDFO">Video&lt;/a>&lt;/p></description></item><item><title>FPP-30</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-30/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-30/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Uye-T3R4UiY?si=82-ZgB1vkunSqlth" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
+&lt;p>&lt;a href="https://youtu.be/Uye-T3R4UiY?si=82-ZgB1vkunSqlth">Video&lt;/a>&lt;/p></description></item><item><title>FPP-31</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-31/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-31/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/wYLAGMh9NcA?si=nscYNokCGuC_5DtW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
+&lt;p>&lt;a href="https://youtu.be/wYLAGMh9NcA?si=nscYNokCGuC_5DtW">Video&lt;/a>&lt;/p></description></item><item><title>FPP-32</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-32/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-32/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Y0gCXYP_mEA?si=hXzPApikZTUHgYku" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
+&lt;p>&lt;a href="https://youtu.be/Y0gCXYP_mEA?si=hXzPApikZTUHgYku">Video&lt;/a>&lt;/p></description></item><item><title>FPP-33</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-33/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-33/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/bMvu1O3ylHw?si=xhdsCNT03kH7LyY3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
+&lt;p>&lt;a href="https://youtu.be/bMvu1O3ylHw?si=xhdsCNT03kH7LyY3">Video&lt;/a>&lt;/p></description></item><item><title>FPP-34</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-34/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-34/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/B3KrRWNgBKU?si=0hGeanRB5-TJ2Weu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
+&lt;p>&lt;a href="https://youtu.be/B3KrRWNgBKU?si=0hGeanRB5-TJ2Weu">Video&lt;/a>&lt;/p></description></item><item><title>FPP-35</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-35/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-35/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/k0dQQbidRXw?si=n5c2VfnB-GZMTInk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
+&lt;p>&lt;a href="https://youtu.be/k0dQQbidRXw?si=n5c2VfnB-GZMTInk">Video&lt;/a>&lt;/p></description></item><item><title>FPP-36</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-36/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-36/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/HHM39HmFZ7k?si=wO6povxZdAbzQi2H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
+&lt;p>&lt;a href="https://youtu.be/HHM39HmFZ7k?si=wO6povxZdAbzQi2H">Video&lt;/a>&lt;/p></description></item><item><title>FPP-37</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-37/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-37/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/w_eMXHSS17U?si=yxAd8yU-Lflonv7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
+&lt;p>&lt;a href="https://youtu.be/w_eMXHSS17U?si=yxAd8yU-Lflonv7f">Video&lt;/a>&lt;/p></description></item><item><title>FPP-38</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-38/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-38/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/rNcsw-4Mf5E?si=Zyn2nKEHN68hA-aS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
+&lt;p>&lt;a href="https://youtu.be/rNcsw-4Mf5E?si=Zyn2nKEHN68hA-aS">Video&lt;/a>&lt;/p></description></item><item><title>FPP-39</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-39/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-39/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/c02iOPGjzxM?si=0Oht5XT8RzZQIV20" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
+&lt;p>&lt;a href="https://youtu.be/c02iOPGjzxM?si=0Oht5XT8RzZQIV20">Video&lt;/a>&lt;/p></description></item><item><title>FPP-40</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-40/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-40/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/pq5sPoWoJW0?si=wmIHvknKsQyn5vSy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
+&lt;p>&lt;a href="https://youtu.be/pq5sPoWoJW0?si=wmIHvknKsQyn5vSy">Video&lt;/a>&lt;/p></description></item><item><title>FPPX-01</title><link>https://torwald-sergesson.github.io/fitness/fpp/fppx-01/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fppx-01/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/HRuaXeeZGJA?si=O0Q44p2ATk39Rsmc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
+&lt;p>&lt;a href="https://youtu.be/HRuaXeeZGJA?si=O0Q44p2ATk39Rsmc">Video&lt;/a>&lt;/p></description></item><item><title>FPPX-02</title><link>https://torwald-sergesson.github.io/fitness/fpp/fppx-02/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fppx-02/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/GD7LIsIuptA?si=_9kmpJvtph_pl3VP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
+&lt;p>&lt;a href="https://youtu.be/GD7LIsIuptA?si=_9kmpJvtph_pl3VP">Video&lt;/a>&lt;/p></description></item><item><title>FPPX-03</title><link>https://torwald-sergesson.github.io/fitness/fpp/fppx-03/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fppx-03/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/sDyv_GwsUq0?si=9DTwTORKs8epd-ui" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
+&lt;p>&lt;a href="https://youtu.be/sDyv_GwsUq0?si=9DTwTORKs8epd-ui">Video&lt;/a>&lt;/p></description></item><item><title>FPPX-04</title><link>https://torwald-sergesson.github.io/fitness/fpp/fppx-04/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fppx-04/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Na1hhILi534?si=NX9n-pRRGH2_0epX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
+&lt;p>&lt;a href="https://youtu.be/Na1hhILi534?si=NX9n-pRRGH2_0epX">Video&lt;/a>&lt;/p></description></item><item><title>FSQT-01 - Programme d'entraînement pour l’épreuve des squats - Séance 1/10</title><link>https://torwald-sergesson.github.io/fitness/squats/fsqt-01/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/squats/fsqt-01/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/EbLtHcYHy7U?si=bDnU0MHlx4by24-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
+&lt;p>&lt;a href="https://youtu.be/EbLtHcYHy7U?si=bDnU0MHlx4by24-E">Video&lt;/a>&lt;/p></description></item><item><title>FSQT-02 - Programme d'entraînement pour l’épreuve des squats - Séance 2/10</title><link>https://torwald-sergesson.github.io/fitness/squats/fsqt-02/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/squats/fsqt-02/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/UErLoMPIdUM?si=N7oGaa9cV-HC_v12" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
+&lt;p>&lt;a href="https://youtu.be/UErLoMPIdUM?si=N7oGaa9cV-HC_v12">Video&lt;/a>&lt;/p></description></item><item><title>FSQT-03 - Programme d'entraînement pour l’épreuve des squats - Séance 3/10</title><link>https://torwald-sergesson.github.io/fitness/squats/fsqt-03/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/squats/fsqt-03/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/c16OW5EgSoI?si=uW_8CIIhkfhziEmY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
+&lt;p>&lt;a href="https://youtu.be/c16OW5EgSoI?si=uW_8CIIhkfhziEmY">Video&lt;/a>&lt;/p></description></item><item><title>FSQT-04 - Programme d'entraînement pour l’épreuve des squats - Séance 4/10</title><link>https://torwald-sergesson.github.io/fitness/squats/fsqt-04/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/squats/fsqt-04/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/6bHTMzNqpXM?si=9iTbv6lAVV6y45HJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
+&lt;p>&lt;a href="https://youtu.be/6bHTMzNqpXM?si=9iTbv6lAVV6y45HJ">Video&lt;/a>&lt;/p></description></item><item><title>FSQT-05 - Programme d'entraînement pour l’épreuve des squats - Séance 5/10</title><link>https://torwald-sergesson.github.io/fitness/squats/fsqt-05/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/squats/fsqt-05/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/mLAK0mhD-g0?si=0ofXnR_bKtq423tL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
+&lt;p>&lt;a href="https://youtu.be/mLAK0mhD-g0?si=9m1pgWynHuxYEzA3">Video&lt;/a>&lt;/p></description></item><item><title>FSQT-06 - Programme d'entraînement pour l’épreuve des squats - Séance 6/10</title><link>https://torwald-sergesson.github.io/fitness/squats/fsqt-06/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/squats/fsqt-06/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/kmi9zkO6kGg?si=NtQw4wcUUmMe3igc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
+&lt;p>&lt;a href="https://youtu.be/kmi9zkO6kGg?si=o3fCCwx0jKzXAnDJ">Video&lt;/a>&lt;/p></description></item><item><title>FSQT-07 - Programme d'entraînement pour l’épreuve des squats - Séance 7/10</title><link>https://torwald-sergesson.github.io/fitness/squats/fsqt-07/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/squats/fsqt-07/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/By7h5nvIkvk?si=bt_6FZm6zOvaNBr_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
+&lt;p>&lt;a href="https://youtu.be/By7h5nvIkvk?si=b0AZQaxflN5G0Ox9">Video&lt;/a>&lt;/p></description></item><item><title>FSQT-08 - Programme d'entraînement pour l’épreuve des squats - Séance 8/10</title><link>https://torwald-sergesson.github.io/fitness/squats/fsqt-08/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/squats/fsqt-08/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/doMQQoLerLA?si=sd44x_H4Jsfr1tv7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
+&lt;p>&lt;a href="https://youtu.be/doMQQoLerLA?si=sd44x_H4Jsfr1tv7">Video&lt;/a>&lt;/p></description></item><item><title>FSQT-09 - Programme d'entraînement pour l’épreuve des squats - Séance 9/10</title><link>https://torwald-sergesson.github.io/fitness/squats/fsqt-09/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/squats/fsqt-09/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/yf9ioSvkBTQ?si=i-03ESzpgOBTRvB0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
+&lt;p>&lt;a href="https://youtu.be/yf9ioSvkBTQ?si=i-03ESzpgOBTRvB0">Video&lt;/a>&lt;/p></description></item><item><title>FSQT-10 - Programme d'entraînement pour l’épreuve des squats - Séance 10/10</title><link>https://torwald-sergesson.github.io/fitness/squats/fsqt-10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/squats/fsqt-10/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/m3lHGQX8Yl0?si=TattfggW_FaxV86O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
+&lt;p>&lt;a href="https://youtu.be/m3lHGQX8Yl0?si=TattfggW_FaxV86O">Video&lt;/a>&lt;/p></description></item><item><title>FTR-01 - Programme d'entraînement pour l’épreuve de tractions</title><link>https://torwald-sergesson.github.io/fitness/traction/ftr-01/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/traction/ftr-01/</guid><description>&lt;p>&lt;a href="https://www.youtube.com/playlist?list=PLePB1BEtiZ_0mzNE9c4RXG9QRhAPsI6U3">Playlist&lt;/a>&lt;/p></description></item><item><title>FTR-02 - Programme d'entraînement pour l’épreuve de tractions</title><link>https://torwald-sergesson.github.io/fitness/traction/ftr-02/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/traction/ftr-02/</guid><description>&lt;p>&lt;a href="https://www.youtube.com/playlist?list=PLePB1BEtiZ_0mzNE9c4RXG9QRhAPsI6U3">Playlist&lt;/a>&lt;/p></description></item><item><title>FTR-03 - Programme d'entraînement pour l’épreuve de tractions</title><link>https://torwald-sergesson.github.io/fitness/traction/ftr-03/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/traction/ftr-03/</guid><description>&lt;p>&lt;a href="https://www.youtube.com/playlist?list=PLePB1BEtiZ_0mzNE9c4RXG9QRhAPsI6U3">Playlist&lt;/a>&lt;/p></description></item><item><title>FTR-04 - Programme d'entraînement pour l’épreuve de tractions</title><link>https://torwald-sergesson.github.io/fitness/traction/ftr-04/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/traction/ftr-04/</guid><description>&lt;p>&lt;a href="https://www.youtube.com/playlist?list=PLePB1BEtiZ_0mzNE9c4RXG9QRhAPsI6U3">Playlist&lt;/a>&lt;/p></description></item><item><title>FTR-05 - Programme d'entraînement pour l’épreuve de tractions</title><link>https://torwald-sergesson.github.io/fitness/traction/ftr-05/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/traction/ftr-05/</guid><description>&lt;p>&lt;a href="https://www.youtube.com/playlist?list=PLePB1BEtiZ_0mzNE9c4RXG9QRhAPsI6U3">Playlist&lt;/a>&lt;/p></description></item><item><title>FTR-06 - Programme d'entraînement pour l’épreuve de tractions</title><link>https://torwald-sergesson.github.io/fitness/traction/ftr-06/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/traction/ftr-06/</guid><description>&lt;p>&lt;a href="https://www.youtube.com/playlist?list=PLePB1BEtiZ_0mzNE9c4RXG9QRhAPsI6U3">Playlist&lt;/a>&lt;/p></description></item><item><title>FTR-07 - Programme d'entraînement pour l’épreuve de tractions</title><link>https://torwald-sergesson.github.io/fitness/traction/ftr-07/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/traction/ftr-07/</guid><description>&lt;p>&lt;a href="https://www.youtube.com/playlist?list=PLePB1BEtiZ_0mzNE9c4RXG9QRhAPsI6U3">Playlist&lt;/a>&lt;/p></description></item><item><title>FTR-08 - Programme d'entraînement pour l’épreuve de tractions</title><link>https://torwald-sergesson.github.io/fitness/traction/ftr-08/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/traction/ftr-08/</guid><description>&lt;p>&lt;a href="https://www.youtube.com/playlist?list=PLePB1BEtiZ_0mzNE9c4RXG9QRhAPsI6U3">Playlist&lt;/a>&lt;/p></description></item><item><title>Golang Reading List from Mail.ru cources</title><link>https://torwald-sergesson.github.io/dev/golang-mail-ru/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/dev/golang-mail-ru/</guid><description>&lt;h2 id="reading-week-1">Reading Week 1&lt;/h2>
+&lt;p>Материалы для дополнительного чтения на английском:&lt;/p>
+&lt;ul>
+&lt;li>[-] &lt;a href="https://golang.org/ref/spec">https://golang.org/ref/spec&lt;/a> - спецификация по язык&lt;/li>
+&lt;li>[-] &lt;a href="https://golang.org/ref/mem">https://golang.org/ref/mem&lt;/a> - модель памяти го. на начальном этапе не надо, но знать полезно&lt;/li>
+&lt;li>[-] &lt;a href="https://golang.org/doc/code.html">https://golang.org/doc/code.html&lt;/a> - про организацию кода. GOPATH и пакеты&lt;/li>
+&lt;li>[-] &lt;a href="https://golang.org/cmd/go/">https://golang.org/cmd/go/&lt;/a>&lt;/li>
+&lt;li>[-] &lt;a href="https://blog.golang.org/strings">https://blog.golang.org/strings&lt;/a>&lt;/li>
+&lt;li>[-] &lt;a href="https://blog.golang.org/slices">https://blog.golang.org/slices&lt;/a>&lt;/li>
+&lt;li>[-] &lt;a href="https://blog.golang.org/go-slices-usage-and-internals">https://blog.golang.org/go-slices-usage-and-internals&lt;/a>&lt;/li>
+&lt;li>[-] &lt;a href="https://github.com/golang/go/wiki">https://github.com/golang/go/wiki&lt;/a> - вики го на гитхабе. очень много полезной информации&lt;/li>
+&lt;li>[-] &lt;a href="https://blog.golang.org/go-maps-in-action">https://blog.golang.org/go-maps-in-action&lt;/a>&lt;/li>
+&lt;li>[-] &lt;a href="https://blog.golang.org/organizing-go-code">https://blog.golang.org/organizing-go-code&lt;/a>&lt;/li>
+&lt;li>[-] &lt;a href="https://golang.org/doc/effective_go.html">https://golang.org/doc/effective_go.html&lt;/a> - основной сборник тайного знания, сюда вы будуте обращатсья в первое время часто&lt;/li>
+&lt;li>[-] &lt;a href="https://github.com/golang/go/wiki/CodeReviewComments">https://github.com/golang/go/wiki/CodeReviewComments&lt;/a> как ревьювить (и писать код). обязательно к прочтению&lt;/li>
+&lt;li>[-] &lt;a href="https://divan.github.io/posts/avoid_gotchas/">https://divan.github.io/posts/avoid_gotchas/&lt;/a> - материал аналогичный 50 оттенков го&lt;/li>
+&lt;li>[-] &lt;a href="https://research.swtch.com/interfaces">https://research.swtch.com/interfaces&lt;/a>&lt;/li>
+&lt;li>[-] &lt;a href="https://research.swtch.com/godata">https://research.swtch.com/godata&lt;/a>&lt;/li>
+&lt;li>[-] &lt;a href="http://jordanorelli.com/post/42369331748/function-types-in-go-golang">http://jordanorelli.com/post/42369331748/function-types-in-go-golang&lt;/a>&lt;/li>
+&lt;li>[-] &lt;a href="https://www.devdungeon.com/content/working-files-go">https://www.devdungeon.com/content/working-files-go&lt;/a> - работа с файлами&lt;/li>
+&lt;li>[-] &lt;a href="http://www.golangprograms.com">http://www.golangprograms.com&lt;/a> - много how-to касательно базовых вещей в go&lt;/li>
+&lt;li>[-] &lt;a href="http://yourbasic.org/golang/">http://yourbasic.org/golang/&lt;/a> - ещё большой набор how-to где можно получить углублённую информацию по всем базовым вещам. очень полезны http://yourbasic.org/golang/blueprint/&lt;/li>
+&lt;li>[-] &lt;a href="https://github.com/Workiva/go-datastructures">https://github.com/Workiva/go-datastructures&lt;/a>&lt;/li>
+&lt;li>[-] &lt;a href="https://github.com/enocom/gopher-reading-list">https://github.com/enocom/gopher-reading-list&lt;/a> - большая подборка статей по многим темам ( не только данной лекции )&lt;/li>
+&lt;li>[-] &lt;a href="https://www.youtube.com/watch?v=MzTcsI6tn-0">https://www.youtube.com/watch?v=MzTcsI6tn-0&lt;/a> - как организовать код&lt;/li>
+&lt;li>[-] &lt;a href="https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1">https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1&lt;/a> - статья на предыдущую тему
+Материалы для дополнительного чтения на русском:&lt;/li>
+&lt;li>[-] &lt;a href="https://habrahabr.ru/company/mailru/blog/314804/">https://habrahabr.ru/company/mailru/blog/314804/&lt;/a> - 50 оттенков го. обязательно к прочтению. многое оттуда мы ещё не проходили, но на будущее - имейте ввиду&lt;/li>
+&lt;li>[-] &lt;a href="https://habrahabr.ru/post/306914/">https://habrahabr.ru/post/306914/&lt;/a> - Разбираемся в Go: пакет io&lt;/li>
+&lt;li>[-] &lt;a href="https://habrahabr.ru/post/272383/">https://habrahabr.ru/post/272383/&lt;/a> - постулаты go. Маленькая статья об основными принципах языка&lt;/li>
+&lt;li>[-] &lt;a href="https://habrahabr.ru/company/mailru/blog/301036/">https://habrahabr.ru/company/mailru/blog/301036/&lt;/a> - лучшие практики go&lt;/li>
+&lt;li>[-] &lt;a href="https://habrahabr.ru/post/308198/">https://habrahabr.ru/post/308198/&lt;/a> - организация кода в go&lt;/li>
+&lt;li>[-] &lt;a href="https://habrahabr.ru/post/339192/">https://habrahabr.ru/post/339192/&lt;/a> - Зачем в Go амперсанд и звёздочка (&amp;amp; и *)&lt;/li>
+&lt;li>[-] &lt;a href="https://habrahabr.ru/post/325468/">https://habrahabr.ru/post/325468/&lt;/a> - как не наступать на грабли в Go&lt;/li>
+&lt;li>[-] &lt;a href="https://habrahabr.ru/post/276981/">https://habrahabr.ru/post/276981/&lt;/a> - Краш-курс по интерфейсам в Go&lt;/li>
+&lt;li>[-] &lt;a href="http://golang-book.ru">http://golang-book.ru&lt;/a>
+Литература по го на русском языке:&lt;/li>
+&lt;li>[-] Язык программирования Go, Алан А. А. Донован, Брайан У. Керниган&lt;/li>
+&lt;li>[-] Go на практике, Matt Butcher, Мэтт Фарина Мэтт&lt;/li>
+&lt;li>[-] Программирование на Go. Разработка приложений XXI века, Марк Саммерфильд
+Дополнительные упражнения:&lt;/li>
+&lt;li>[-] &lt;a href="https://go-tour-ru-ru.appspot.com/list">https://go-tour-ru-ru.appspot.com/list&lt;/a> - упражнения на овладение базовым синтаксисом, на случай если вам нужна небольшая практика перед первым заданием курса&lt;/li>
+&lt;/ul>
+&lt;h2 id="reading-week-2">Reading Week 2&lt;/h2>
+&lt;p>На английском:&lt;/p></description></item><item><title>Interesting links</title><link>https://torwald-sergesson.github.io/dev/interesting-it-links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/dev/interesting-it-links/</guid><description>&lt;ul>
+&lt;li>&lt;a href="https://github.com/ivanceras/svgbob">https://github.com/ivanceras/svgbob&lt;/a> Convert your ascii diagram scribbles into happy little SVG&lt;/li>
+&lt;li>&lt;a href="https://ohmygit.org/">https://ohmygit.org/&lt;/a> An open source game about learning Git&lt;/li>
+&lt;li>&lt;a href="https://github.com/dolthub/dolt">https://github.com/dolthub/dolt&lt;/a> It&amp;rsquo;s Git for Data&lt;/li>
+&lt;li>&lt;a href="https://betterprogramming.pub/git-commands-to-live-by-349ab1fe3139">https://betterprogramming.pub/git-commands-to-live-by-349ab1fe3139&lt;/a> Git Commands to Live By. The cheat sheet that goes beyond Git basics&lt;/li>
+&lt;li>&lt;a href="https://github.com/uber-go/gopatch">https://github.com/uber-go/gopatch&lt;/a> Refactoring and code transformation tool for Go.&lt;/li>
+&lt;li>&lt;a href="https://github.com/jroimartin/gocui">https://github.com/jroimartin/gocui&lt;/a> Minimalist Go package aimed at creating Console User Interfaces.&lt;/li>
+&lt;li>&lt;a href="https://justine.lol/index.html">https://justine.lol/index.html&lt;/a> - Justine Tunney&amp;rsquo;s Web Page (printvideo, cosmopolitan, nesemu1 and etc)&lt;/li>
+&lt;li>&lt;a href="https://github.com/xo/xo">https://github.com/xo/xo&lt;/a> - Command line tool to generate idiomatic Go code for SQL databases supporting PostgreSQL, MySQL, SQLite, Oracle, and Microsoft SQL Server&lt;/li>
+&lt;li>&lt;a href="https://thevaluable.dev/vim-advanced/">https://thevaluable.dev/vim-advanced/&lt;/a> A Vim Guide for Advanced Users&lt;/li>
+&lt;li>&lt;a href="https://chip-8.github.io/links/">https://chip-8.github.io/links/&lt;/a> Awesome CHIP-8&lt;/li>
+&lt;li>&lt;a href="https://tobiasvl.github.io/blog/write-a-chip-8-emulator/">https://tobiasvl.github.io/blog/write-a-chip-8-emulator/&lt;/a> A high-level guide to making a CHIP-8 emulator.&lt;/li>
+&lt;li>&lt;a href="https://github.com/AkihiroSuda/lima/">https://github.com/AkihiroSuda/lima/&lt;/a> Linux virtual machines, on macOS (aka &amp;ldquo;Linux-on-Mac&amp;rdquo;, &amp;ldquo;macOS subsystem for Linux&amp;rdquo;, &amp;ldquo;containerd for Mac&amp;rdquo;, unofficially)&lt;/li>
+&lt;li>&lt;a href="http://www.brendangregg.com/">http://www.brendangregg.com/&lt;/a> - Brendan Gregg&amp;rsquo;s homepage (Linux and Performance)&lt;/li>
+&lt;li>&lt;a href="https://github.com/syncthing/syncthing">https://github.com/syncthing/syncthing&lt;/a> - Open Source Continuous File Synchronization.&lt;/li>
+&lt;li>&lt;a href="https://github.com/google/gops">https://github.com/google/gops&lt;/a> - A tool to list and diagnose Go processes currently running on your system.&lt;/li>
+&lt;li>&lt;a href="https://github.com/adonovan/spaghetti">https://github.com/adonovan/spaghetti&lt;/a> - Spaghetti: a dependency analysis tool for Go packages&lt;/li>
+&lt;li>&lt;a href="https://github.com/pterm/pterm/">https://github.com/pterm/pterm/&lt;/a> - PTerm is a modern go module to beautify console output. Featuring charts, progressbars, tables, trees, and many more. It&amp;rsquo;s completely configurable and 100% cross-platform compatible.&lt;/li>
+&lt;li>&lt;a href="https://github.com/cheggaaa/pb">https://github.com/cheggaaa/pb&lt;/a> Console progress bar for Golang.&lt;/li>
+&lt;li>&lt;a href="https://github.com/spf13/afero">https://github.com/spf13/afero&lt;/a> A FileSystem Abstraction System for Go.&lt;/li>
+&lt;li>&lt;a href="https://github.com/google/go-github">https://github.com/google/go-github&lt;/a> Go library for accessing the GitHub API.&lt;/li>
+&lt;li>&lt;a href="https://github.com/brianvoe/gofakeit">https://github.com/brianvoe/gofakeit&lt;/a> Random fake data generator written in go.&lt;/li>
+&lt;li>&lt;a href="https://github.com/bcicen/ctop">https://github.com/bcicen/ctop&lt;/a> Top-like interface for container metrics.&lt;/li>
+&lt;li>&lt;a href="https://github.com/goccy/go-json">https://github.com/goccy/go-json&lt;/a> goccy/go-json Fast JSON encoder/decoder compatible with encoding/json for Go.&lt;/li>
+&lt;li>&lt;a href="https://github.com/irevenko/tsukae">https://github.com/irevenko/tsukae&lt;/a> Show off your most used shell commands.&lt;/li>
+&lt;li>&lt;a href="https://github.com/orbitdb/orbit-db">https://github.com/orbitdb/orbit-db&lt;/a> Peer-to-Peer Databases for the Decentralized Web.&lt;/li>
+&lt;li>&lt;a href="https://themagicsmoke.ru/books/c_for_embedded_systems/">https://themagicsmoke.ru/books/c_for_embedded_systems/&lt;/a> Книга «Си для встраиваемых систем»&lt;/li>
+&lt;li>&lt;a href="https://github.com/hashicorp/go-version">https://github.com/hashicorp/go-version&lt;/a> A Go (golang) library for parsing and verifying versions and version constraints.&lt;/li>
+&lt;li>&lt;a href="https://github.com/neilotoole/sq">https://github.com/neilotoole/sq&lt;/a> swiss-army knife for data.&lt;/li>
+&lt;li>&lt;a href="https://github.com/kyleconroy/sqlc">https://github.com/kyleconroy/sqlc&lt;/a> Generate type safe Go from SQL.&lt;/li>
+&lt;li>&lt;a href="https://github.com/gohugoio/hugo">https://github.com/gohugoio/hugo&lt;/a> The world’s fastest framework for building websites.&lt;/li>
+&lt;li>&lt;a href="https://github.com/boyter/scc">https://github.com/boyter/scc&lt;/a> Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go&lt;/li>
+&lt;li>&lt;a href="https://github.com/golang/mock">https://github.com/golang/mock&lt;/a> GoMock is a mocking framework for the Go programming language.&lt;/li>
+&lt;li>&lt;a href="https://github.com/charmbracelet/glow">https://github.com/charmbracelet/glow&lt;/a> Render markdown on the CLI, with pizzazz!&lt;/li>
+&lt;li>&lt;a href="https://github.com/jmattheis/goverter">https://github.com/jmattheis/goverter&lt;/a> Generate type-safe Go converters by simply defining an interface&lt;/li>
+&lt;li>&lt;a href="https://github.com/volatiletech/sqlboiler">https://github.com/volatiletech/sqlboiler&lt;/a> Generate a Go ORM tailored to your database schema.&lt;/li>
+&lt;li>&lt;a href="https://github.com/system-pclub/GCatch">https://github.com/system-pclub/GCatch&lt;/a> Statically Detecting Go Concurrency Bugs.&lt;/li>
+&lt;li>&lt;a href="https://github.com/RetroShare/RetroShare">https://github.com/RetroShare/RetroShare&lt;/a> RetroShare is a Free and Open Source cross-platform, Friend-2-Friend and secure decentralised communication platform.&lt;/li>
+&lt;li>&lt;a href="https://www.howtodeal.dev/">https://www.howtodeal.dev/&lt;/a> How to Deal with Difficult People on Software Projects&lt;/li>
+&lt;li>&lt;a href="https://github.com/pemistahl/grex">https://github.com/pemistahl/grex&lt;/a> A command-line tool and library for generating regular expressions from user-provided test cases - pemistahl/grex.&lt;/li>
+&lt;li>&lt;a href="https://github.com/denisidoro/navi">https://github.com/denisidoro/navi&lt;/a> An interactive cheatsheet tool for the command-line.&lt;/li>
+&lt;li>&lt;a href="https://madaidans-insecurities.github.io/guides/linux-hardening.html">https://madaidans-insecurities.github.io/guides/linux-hardening.html&lt;/a> Linux Hardening Guide&lt;/li>
+&lt;li>&lt;a href="https://mysqlserverteam.com/mysql-shell-dump-load-part-1-demo/">https://mysqlserverteam.com/mysql-shell-dump-load-part-1-demo/&lt;/a> MySQL Shell Dump &amp;amp; Load.&lt;/li>
+&lt;li>&lt;a href="https://i3wm.org/docs/userguide.html">https://i3wm.org/docs/userguide.html&lt;/a> i3wm&lt;/li>
+&lt;li>&lt;a href="https://libre.life/7522/0105/1/ru">https://libre.life/7522/0105/1/ru&lt;/a> Cписок децентрализованных сервисов.&lt;/li>
+&lt;li>&lt;a href="https://github.com/lucasepe/modgv">https://github.com/lucasepe/modgv&lt;/a> Converts &amp;lsquo;go mod graph&amp;rsquo; output into Graphviz&amp;rsquo;s DOT language.&lt;/li>
+&lt;li>&lt;a href="http://www.stolyarov.info/books">http://www.stolyarov.info/books&lt;/a> Книги Столярова про программирование&lt;/li>
+&lt;li>&lt;a href="https://github.com/leozide/leocad">https://github.com/leozide/leocad&lt;/a> A CAD application for creating virtual LEGO models.&lt;/li>
+&lt;li>&lt;a href="https://github.com/cockroachdb/copyist">https://github.com/cockroachdb/copyist&lt;/a> Mocking your SQL database in Go tests has never been easier.&lt;/li>
+&lt;li>&lt;a href="https://github.com/rqlite/rqlite">https://github.com/rqlite/rqlite&lt;/a> The lightweight, distributed relational database built on SQLite.&lt;/li>
+&lt;li>&lt;a href="https://github.com/360EntSecGroup-Skylar/excelize">https://github.com/360EntSecGroup-Skylar/excelize&lt;/a> Golang library for reading and writing Microsoft Excel™ (XLSX) files.&lt;/li>
+&lt;li>&lt;a href="https://github.com/gotranspile/cxgo">https://github.com/gotranspile/cxgo&lt;/a> Another tool for transpiling C to Go.&lt;/li>
+&lt;li>&lt;a href="https://github.com/muesli/termenv">https://github.com/muesli/termenv&lt;/a> Advanced ANSI style &amp;amp; color support for your terminal applications.&lt;/li>
+&lt;li>&lt;a href="https://github.com/spf13/cobra">https://github.com/spf13/cobra&lt;/a> A Commander for modern Go CLI interactions&lt;/li>
+&lt;li>&lt;a href="https://github.com/blockloop/scan">https://github.com/blockloop/scan&lt;/a> Scan database/sql rows directly to structs, slices, and primitive types&lt;/li>
+&lt;li>&lt;a href="https://github.com/maaslalani/slides">https://github.com/maaslalani/slides&lt;/a> Terminal based presentation tool&lt;/li>
+&lt;li>&lt;a href="https://github.com/ardanlabs/gotraining/tree/master/reading">https://github.com/ardanlabs/gotraining/tree/master/reading&lt;/a> There is a ton of links to extra reading and videos through out the material. Occasionally we run into material that we feel is important and don&amp;rsquo;t have an exact place to put it. This is a section place for that material.&lt;/li>
+&lt;li>&lt;a href="https://github.com/nikolaydubina/go-recipes">https://github.com/nikolaydubina/go-recipes&lt;/a> Handy commands to run in Go projects&lt;/li>
+&lt;li>&lt;a href="https://github.com/gojuno/minimock">https://github.com/gojuno/minimock&lt;/a> Powerful mock generation tool for Go programming language&lt;/li>
+&lt;li>&lt;a href="https://github.com/vbauerster/mpb">https://github.com/vbauerster/mpb&lt;/a> multi progress bar for Go cli applications&lt;/li>
+&lt;li>&lt;a href="https://github.com/MarvinJWendt/testza">https://github.com/MarvinJWendt/testza&lt;/a> Full-featured test framework for Go! Assertions, mocking, input testing, output capturing, and much more!&lt;/li>
+&lt;li>&lt;a href="https://github.com/go101/go101">https://github.com/go101/go101&lt;/a> An online book focusing on Go syntax/semantics and runtime related things&lt;/li>
+&lt;li>&lt;a href="https://github.com/nanovms/ops">https://github.com/nanovms/ops&lt;/a> ops - build and run nanos unikernels&lt;/li>
+&lt;li>&lt;a href="https://github.com/kris-nova/naml">https://github.com/kris-nova/naml&lt;/a> Not another markup language. Framework for replacing Kubernetes YAML with Go.&lt;/li>
+&lt;li>&lt;a href="https://github.com/AlecAivazis/survey">https://github.com/AlecAivazis/survey&lt;/a> A golang library for building interactive and accessible prompts with full support for windows and posix terminals.&lt;/li>
+&lt;li>&lt;a href="https://github.com/pokemium/Worldwide">https://github.com/pokemium/Worldwide&lt;/a> GameBoy Color emulator written in golang.&lt;/li>
+&lt;li>&lt;a href="https://github.com/qax-os/excelize">https://github.com/qax-os/excelize&lt;/a> Golang library for reading and writing Microsoft Excel™ (XLSX) files.&lt;/li>
+&lt;li>&lt;a href="https://github.com/buraksezer/connpool">https://github.com/buraksezer/connpool&lt;/a> Connection pool for Go&amp;rsquo;s net.Conn interface&lt;/li>
+&lt;li>&lt;a href="https://github.com/saurabh0719/go-hashlru">https://github.com/saurabh0719/go-hashlru&lt;/a> A simple thread-safe and fixed size LRU. Based on the Hashlru Algorithm&lt;/li>
+&lt;li>&lt;a href="https://github.com/tmrts/go-patterns">https://github.com/tmrts/go-patterns&lt;/a> Curated list of Go design patterns, recipes and idioms&lt;/li>
+&lt;li>&lt;a href="https://github.com/mathaou/termdbms">https://github.com/mathaou/termdbms&lt;/a> A TUI for viewing and editing database files.&lt;/li>
+&lt;li>&lt;a href="https://github.com/tomnomnom/gron">https://github.com/tomnomnom/gron&lt;/a> Make JSON greppable!&lt;/li>
+&lt;li>&lt;a href="https://github.com/FiloSottile/age">https://github.com/FiloSottile/age&lt;/a> A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.&lt;/li>
+&lt;li>&lt;a href="https://github.com/DataDog/go-profiler-notes">https://github.com/DataDog/go-profiler-notes&lt;/a> felixge&amp;rsquo;s notes on the various go profiling methods that are available.&lt;/li>
+&lt;li>&lt;a href="https://github.com/PuerkitoBio/goquery">https://github.com/PuerkitoBio/goquery&lt;/a> goquery brings a syntax and a set of features similar to jQuery to the Go language.&lt;/li>
+&lt;/ul></description></item><item><title>IT Telegram Channels</title><link>https://torwald-sergesson.github.io/dev/it-telegram-channels/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/dev/it-telegram-channels/</guid><description>&lt;p>There are some useful IT Telegram Channels&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://t.me/rxd_txd">https://t.me/rxd_txd&lt;/a> - rxd_txd&lt;/li>
+&lt;li>&lt;a href="https://t.me/Social_engineering">https://t.me/Social_engineering&lt;/a> - Social Engineering&lt;/li>
+&lt;li>&lt;a href="https://t.me/geekexport">https://t.me/geekexport&lt;/a> - GEEK EXPORT&lt;/li>
+&lt;li>&lt;a href="https://t.me/docops">https://t.me/docops&lt;/a> - DocOps&lt;/li>
+&lt;li>&lt;a href="https://t.me/refactor_later">https://t.me/refactor_later&lt;/a> - Потом отрефакторим&lt;/li>
+&lt;li>&lt;a href="https://t.me/golanglibrary">https://t.me/golanglibrary&lt;/a> - Go Library&lt;/li>
+&lt;li>&lt;a href="https://t.me/devopslibrary">https://t.me/devopslibrary&lt;/a> - DevOps&amp;amp;SRE Library&lt;/li>
+&lt;li>&lt;a href="https://t.me/gophernews">https://t.me/gophernews&lt;/a> - 4gophers&lt;/li>
+&lt;li>&lt;a href="https://t.me/generictalks">https://t.me/generictalks&lt;/a> - Generic Talks&lt;/li>
+&lt;li>&lt;a href="https://t.me/go_perf">https://t.me/go_perf&lt;/a> - Go performance channel&lt;/li>
+&lt;li>&lt;a href="https://t.me/goproglib">https://t.me/goproglib&lt;/a> - Библиотека Go разработчика&lt;/li>
+&lt;li>&lt;a href="https://t.me/PINE64_News">https://t.me/PINE64_News&lt;/a> - PINE64 News&lt;/li>
+&lt;li>&lt;a href="https://t.me/SysadminNotes">https://t.me/SysadminNotes&lt;/a> - Записки админа&lt;/li>
+&lt;li>&lt;a href="https://t.me/microservices_arch">https://t.me/microservices_arch&lt;/a> - Микросервисы&lt;/li>
+&lt;li>&lt;a href="https://t.me/meta_it">https://t.me/meta_it&lt;/a> - Свалка ссылок на чаты и каналы о IT.&lt;/li>
+&lt;li>&lt;a href="https://t.me/catops">https://t.me/catops&lt;/a> - DevOps and other issues by Yurii Rochniak&lt;/li>
+&lt;li>&lt;a href="https://t.me/count0_digest">https://t.me/count0_digest&lt;/a> - Пятничный деплой&lt;/li>
+&lt;li>&lt;a href="https://t.me/avitotech">https://t.me/avitotech&lt;/a> - AvitoTech&lt;/li>
+&lt;li>&lt;a href="https://t.me/dataleak">https://t.me/dataleak&lt;/a> - Утечки информации&lt;/li>
+&lt;li>&lt;a href="https://t.me/consensus_io">https://t.me/consensus_io&lt;/a> - Consensus&lt;/li>
+&lt;li>&lt;a href="https://t.me/golangdigest">https://t.me/golangdigest&lt;/a> - Go (Golang) Дайджест&lt;/li>
+&lt;li>&lt;a href="https://t.me/bzd_channel">https://t.me/bzd_channel&lt;/a> - BZD • Книги для программистов&lt;/li>
+&lt;li>&lt;a href="https://t.me/HighLoadChannel">https://t.me/HighLoadChannel&lt;/a> - Важные объявления, организационные изменения, изменения в программе конференции HighLoad++&lt;/li>
+&lt;li>&lt;a href="https://t.me/quizcpp">https://t.me/quizcpp&lt;/a> - С++ задачи и вопросы&lt;/li>
+&lt;li>&lt;a href="https://t.me/golangquiz">https://t.me/golangquiz&lt;/a> - Golang задачи с собеседований&lt;/li>
+&lt;li>&lt;a href="https://t.me/podlodkanews">https://t.me/podlodkanews&lt;/a> - Podlodka Podcast&lt;/li>
+&lt;/ul></description></item><item><title>Linux and C</title><link>https://torwald-sergesson.github.io/dev/linux-and-c/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/dev/linux-and-c/</guid><description>&lt;h2 id="linux-from-scratch-linux-для-себя">Linux From Scratch (Linux для себя)&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://lx4u.ru">https://lx4u.ru&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>Linux для себя - русскоязычное подробное руководство по созданию Linux-системы, используя лишь исходные тексты необходимого программного обеспечения. Это руководство - самостоятельное ответвление от проекта &lt;a href="https://www.linuxfromscratch.org">Linux From Scratch&lt;/a>.&lt;/p>
+&lt;h2 id="linux-kernel-defence-map">Linux Kernel Defence Map&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/a13xp0p0v/linux-kernel-defence-map">https://github.com/a13xp0p0v/linux-kernel-defence-map&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>Linux Kernel Defence Map shows the relationships between vulnerability classes, exploitation techniques, bug detection mechanisms, and defence technologies&lt;/p>
+&lt;h2 id="a-quick-intro-to-basic-debugging-tools-for-linux-systems">A quick intro to basic debugging tools for Linux systems&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://www.petermcconnell.com/posts/linuxtools/">https://www.petermcconnell.com/posts/linuxtools/&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Programme d'entraînement pour l’épreuve des squats - Technic</title><link>https://torwald-sergesson.github.io/fitness/squats/fsqt-tech/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/squats/fsqt-tech/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/pdlsX9yGOHE?si=OYiKtQ9gqHG_Mfyh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
+&lt;p>&lt;a href="https://youtu.be/pdlsX9yGOHE?si=OYiKtQ9gqHG_Mfyh">Video&lt;/a>&lt;/p></description></item><item><title>Rust</title><link>https://torwald-sergesson.github.io/dev/rust-links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/dev/rust-links/</guid><description>&lt;ul>
+&lt;li>&lt;a href="https://google.github.io/comprehensive-rust/">https://google.github.io/comprehensive-rust/&lt;/a> Comprehensive Rust&lt;/li>
+&lt;/ul></description></item><item><title>Security</title><link>https://torwald-sergesson.github.io/dev/security-links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/dev/security-links/</guid><description>&lt;ul>
+&lt;li>&lt;a href="https://github.com/ashemery/exploitation-course">https://github.com/ashemery/exploitation-course&lt;/a> Offensive Software Exploitation (OSE) Course&lt;/li>
+&lt;/ul></description></item><item><title>Vim config files</title><link>https://torwald-sergesson.github.io/dev/vim-configs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/dev/vim-configs/</guid><description>&lt;pre tabindex="0">&lt;code>set number
+
+set nocompatible
+filetype off
+
+set rtp+=~/.vim/bundle/Vundle.vim
+call vundle#begin()
+
+Plugin &amp;#39;VundleVim/Vundle.vim&amp;#39;
+
+
+&amp;#34; ----------============ Code/project navigation =============-----------
+&amp;#34; plugin on GitHub repo
+Plugin &amp;#39;scrooloose/nerdtree&amp;#39; 		&amp;#34; Project and file navigation
+Plugin &amp;#39;majutsushi/tagbar&amp;#39; 		&amp;#34; Class/module browser
+
+&amp;#34; ----------============ Other =============-----------
+Plugin &amp;#39;bling/vim-airline&amp;#39; 	&amp;#34; Lean &amp;amp; mean status/tabline for vim
+Plugin &amp;#39;fisadev/FixedTaskList.vim&amp;#39; 	&amp;#34; Pending tasks list
+Plugin &amp;#39;rosenfeld/conque-term&amp;#39; 	&amp;#34; Consoles as buffers
+Plugin &amp;#39;tpope/vim-surround&amp;#39; 	&amp;#34; Parentheses, brackets, quotes, XML tags, and more
+Plugin &amp;#39;flazz/vim-colorschemes&amp;#39;		&amp;#34; Colorschemes
+
+&amp;#34; ----------============ Snippets support =============-----------
+Plugin &amp;#39;garbas/vim-snipmate&amp;#39;		&amp;#34; Snippets manager
+Plugin &amp;#39;MarcWeber/vim-addon-mw-utils&amp;#39;	&amp;#34; dependentcies #1
+Plugin &amp;#39;tomtom/tlib_vim&amp;#39;		&amp;#34; dependentcies #2
+Plugin &amp;#39;honza/vim-snippets&amp;#39;		&amp;#34; snippets repo
+
+&amp;#34; ----------============ Languages support =============-----------
+Plugin &amp;#39;klen/python-mode&amp;#39;		&amp;#34; Python mode (docs, refactor, lints, highlighting, run and ipdb and more
+Plugin &amp;#39;davidhalter/jedi-vim&amp;#39;		&amp;#34; Jedi-vim autocomplete plugin
+Plugin &amp;#39;mitsuhiko/vim-jinja&amp;#39;		&amp;#34; Jinja support for vim 
+Plugin &amp;#39;mitsuhiko/vim-python-combined&amp;#39;	&amp;#34; Combined Python 2/3 for Vim
+Plugin &amp;#39;fatih/vim-go&amp;#39;
+&amp;#34; Plugin &amp;#39;Shougo/neocomplete.vim&amp;#39;
+
+Plugin &amp;#39;tpope/vim-fugitive&amp;#39;
+call vundle#end()
+&amp;#34; filetype plugin indent on &amp;#34; required 
+&amp;#34; filetype on
+&amp;#34; filetype plugin on
+filetype plugin indent on
+
+set backspace=indent,eol,start
+aunmenu Help.
+aunmenu Window.
+let no_buffers_menu=1
+set mousemodel=popup
+
+set ruler
+set completeopt-=preview
+set gcr=a:blinkon0
+if has(&amp;#34;gui_running&amp;#34;)
+	set cursorline
+endif
+set ttyfast
+
+&amp;#34; highligh
+syntax on
+if has(&amp;#34;gui_running&amp;#34;)
+	&amp;#34; GUI? set theme and size of window
+	set lines=50 columns=125
+	coloscheme molokai
+	&amp;#34;&amp;#34; NERDTree
+	autocmd vimenter * TagbarToggle
+	autocmd vimenter * NERDTree
+	autocmd vimenter * if !argc() | NERDTree | endif
+
+	&amp;#34; vim MacOS X
+	if has(&amp;#34;mac&amp;#34;)
+		set guifont=Consolas:h13
+		set guoptions=maxvert,maxhorz
+	else
+		&amp;#34; default GUI
+		set guifont=Ubuntu\ Mono\ derivative\ Powerline\ 10
+	endif
+else
+	&amp;#34; terms?
+	&amp;#34; coloscheme myterm
+	&amp;#34; colorscheme 3dglasses
+	&amp;#34; colorscheme campfire
+ &amp;#34; colorscheme zenburn
+ &amp;#34; colorscheme railscasts
+	&amp;#34; colorscheme ChocolateLiquor
+ colorscheme 256_noir
+ &amp;#34; colorscheme MountainDew
+ &amp;#34; colorscheme vividchalk
+ &amp;#34; colorscheme 0x7A69_dark
+ &amp;#34; colorscheme CodeFactoryv3 
+ colorscheme 256-jungle
+ &amp;#34; colorscheme adam
+ &amp;#34; colorscheme Monokai
+ &amp;#34; colorscheme gentooish
+ colorscheme 1989
+ &amp;#34; colorscheme monoacc
+ &amp;#34; colorscheme material
+endif
+
+tab sball
+set switchbuf=useopen
+
+&amp;#34; disable beeper
+set visualbell t_vb=
+set novisualbell
+
+set enc=utf-8
+set ls=2
+set incsearch
+set hlsearch
+set nu
+set scrolloff=5
+
+set nobackup
+set nowritebackup
+set noswapfile
+
+&amp;#34; hide panels
+set guioptions-=m &amp;#34; menu
+set guioptions-=T &amp;#34; toolbar
+set guioptions-=r &amp;#34; scrollbar
+
+&amp;#34; tab settings
+set smarttab
+set tabstop=4
+set shiftwidth=4
+set expandtab
+set softtabstop=4
+
+augroup vimrc_autocmds
+	autocmd!
+	autocmd FileType ruby,python,javascript,c,cpp highlight Excess ctermbg=DarkGrey guibg=Black
+	autocmd FileType ruby,python,javascript,c,cpp match Excess /\%80v.*/
+	autocmd FileType ruby,python,javascript,c,cpp set nowrap
+augroup END
+
+&amp;#34; set directory with SnipMate settings
+let g:snippets_dir=&amp;#34;~/.vim/vim-snippets/snippets&amp;#34;
+
+&amp;#34; set Airline
+set laststatus=2
+&amp;#34; let g:airline_theme=&amp;#39;bubblegum&amp;#39;
+&amp;#34; let g:airline_theme=&amp;#39;badwolf&amp;#39;
+let g:airline_powerline_fonts=1
+let g:airline#extensions#tabline#enabled=1
+let g:airline#extensions#tabline#formatter = &amp;#39;unique_tail&amp;#39;
+
+&amp;#34; TagBar settings
+map &amp;lt;F4&amp;gt; :TagbarToggle&amp;lt;CR&amp;gt;
+let g:tagbar_autofocus = 0 &amp;#34; autofocus on Tagbar when open
+
+&amp;#34; NerdTree settings
+&amp;#34; show NERDTree on F3
+map &amp;lt;F3&amp;gt; :NERDTreeToggle&amp;lt;CR&amp;gt;
+&amp;#34; ignoring file with extention
+let NERDTreeIgnore=[&amp;#39;\~$&amp;#39;, &amp;#39;\.pyc$&amp;#39;, &amp;#39;\.pyo$&amp;#39;, &amp;#39;\.class$&amp;#39;, &amp;#39;pip-log\.txt$&amp;#39;, &amp;#39;\.o$&amp;#39;]
+
+&amp;#34; TaskList settings
+map &amp;lt;F2&amp;gt; :TaskList&amp;lt;CR&amp;gt; &amp;#34; show list tasks on F2
+
+&amp;#34; Work with buffers
+map &amp;lt;C-q&amp;gt; :bd&amp;lt;CR&amp;gt; 
+
+&amp;#34;================================
+&amp;#34; Python-mode settings
+&amp;#34;=============================
+&amp;#34; disable autocomplete on code (between it jedi-vim)
+let g:pymode_rope = 0
+let g:pymode_rope_completion = 0
+let g:pymode_rope_comple_on_dot = 0
+
+&amp;#34; Documents
+let g:pymode_doc = 0
+let g:pymode_doc_key = &amp;#39;K&amp;#39;
+&amp;#34; check code
+let g:pymode_lint = 1
+let g:pymode_lint_checker = &amp;#34;pyflakes,pep8&amp;#34;
+let g:pymode_lint_ignore = &amp;#34;E501,W601,C0110&amp;#34;
+&amp;#34; checking code after saving
+let g:pymode_lint_write = 1
+
+&amp;#34; support virtualenv
+let g:pymode_virtualenv = 1
+
+&amp;#34; set breakpoints
+let g:pymode_breakpoint = 1
+let g:pymode_breakpoint_key = &amp;#39;&amp;lt;leader&amp;gt;b&amp;#39;
+
+&amp;#34; highlight synax
+let g:pymode_syntax = 1
+let g:pymode_syntax_all = 1
+let g:pymode_syntax_indent_errors = g:pymode_syntax_all
+let g:pymode_syntax_space_errors = g:pymode_syntax_all
+
+&amp;#34; disable autofold on code
+let g:pymode_folding = 0
+
+&amp;#34; возможность запускать код
+let g:pymode_run = 0
+
+&amp;#34; Disable choose first function/method at autocomplete
+let g:jedi#popup_select_first = 0
+
+let &amp;amp;path.=&amp;#34;/usr/include,/usr/include/x86_64-linux-gnu&amp;#34;
+&lt;/code>&lt;/pre></description></item><item><title>ZSH config files</title><link>https://torwald-sergesson.github.io/dev/zsh-configs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/dev/zsh-configs/</guid><description>&lt;pre tabindex="0">&lt;code># Path to your oh-my-zsh installation.
+export ZSH=$HOME/.oh-my-zsh
+
+# Set name of the theme to load.
+# Look in ~/.oh-my-zsh/themes/
+# Optionally, if you set this to &amp;#34;random&amp;#34;, it&amp;#39;ll load a random theme each
+# time that oh-my-zsh is loaded.
+#ZSH_THEME=&amp;#34;robbyrussell&amp;#34;
+ZSH_THEME=&amp;#34;candy&amp;#34;
+#ZSH_THEME=&amp;#34;crunch&amp;#34;
+
+# Uncomment the following line to use case-sensitive completion.
+# CASE_SENSITIVE=&amp;#34;true&amp;#34;
+
+# Uncomment the following line to disable bi-weekly auto-update checks.
+# DISABLE_AUTO_UPDATE=&amp;#34;true&amp;#34;
+
+# Uncomment the following line to change how often to auto-update (in days).
+# export UPDATE_ZSH_DAYS=13
+
+# Uncomment the following line to disable colors in ls.
+# DISABLE_LS_COLORS=&amp;#34;true&amp;#34;
+
+# Uncomment the following line to disable auto-setting terminal title.
+# DISABLE_AUTO_TITLE=&amp;#34;true&amp;#34;
+
+# Uncomment the following line to enable command auto-correction.
+# ENABLE_CORRECTION=&amp;#34;true&amp;#34;
+
+# Uncomment the following line to display red dots whilst waiting for completion.
+# COMPLETION_WAITING_DOTS=&amp;#34;true&amp;#34;
+
+# Uncomment the following line if you want to disable marking untracked files
+# under VCS as dirty. This makes repository status check for large repositories
+# much, much faster.
+# DISABLE_UNTRACKED_FILES_DIRTY=&amp;#34;true&amp;#34;
+
+# Uncomment the following line if you want to change the command execution time
+# stamp shown in the history command output.
+# The optional three formats: &amp;#34;mm/dd/yyyy&amp;#34;|&amp;#34;dd.mm.yyyy&amp;#34;|&amp;#34;yyyy-mm-dd&amp;#34;
+# HIST_STAMPS=&amp;#34;mm/dd/yyyy&amp;#34;
+
+# Would you like to use another custom folder than $ZSH/custom?
+# ZSH_CUSTOM=/path/to/new-custom-folder
+
+# Which plugins would you like to load? (plugins can be found in ~/.oh-my-zsh/plugins/*)
+# Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
+# Example format: plugins=(rails git textmate ruby lighthouse)
+# Add wisely, as too many plugins slow down shell startup.
+plugins=(git)
+
+source $ZSH/oh-my-zsh.sh
+
+# User configuration
+
+# export MANPATH=&amp;#34;/usr/local/man:$MANPATH&amp;#34;
+
+# You may need to manually set your language environment
+# export LANG=en_US.UTF-8
+
+# Preferred editor for local and remote sessions
+# if [[ -n $SSH_CONNECTION ]]; then
+# export EDITOR=&amp;#39;vim&amp;#39;
+# else
+# export EDITOR=&amp;#39;mvim&amp;#39;
+# fi
+
+# Compilation flags
+# export ARCHFLAGS=&amp;#34;-arch x86_64&amp;#34;
+
+# ssh
+# export SSH_KEY_PATH=&amp;#34;~/.ssh/dsa_id&amp;#34;
+
+# Set personal aliases, overriding those provided by oh-my-zsh libs,
+# plugins, and themes. Aliases can be placed here, though oh-my-zsh
+# users are encouraged to define aliases within the ZSH_CUSTOM folder.
+# For a full list of active aliases, run `alias`.
+#
+# Example aliases
+# alias zshconfig=&amp;#34;mate ~/.zshrc&amp;#34;
+# alias ohmyzsh=&amp;#34;mate ~/.oh-my-zsh&amp;#34;
+#
+export LS_COLORS=&amp;#39;&amp;#39;
+export EDITOR=&amp;#39;vim&amp;#39;
+export TERMINAL=&amp;#39;urxvt256c-ml&amp;#39;
+export GOPATH=&amp;#39;/home/user/distfiles/goos&amp;#39;
+export GOROOT=&amp;#39;/usr/local/go&amp;#39;
+# pyenv
+export PYENV_ROOT=&amp;#34;$HOME/.pyenv&amp;#34;
+export PATH=&amp;#34;$PATH:$PYENV_ROOT/bin:$GOPATH/bin:/home/user/distfiles/src.bin/apache-maven-3.5.0/bin&amp;#34;
+#eval &amp;#34;$(pyenv init -)&amp;#34;
+#eval &amp;#34;$(pyenv virtualenv-init -)&amp;#34;
+export IGNITE_HOME=&amp;#39;/home/user/distfiles/src.bin/ignite/apache-mirror.rbc.ru/pub/apache/ignite/1.8.0/apache-ignite-fabric-1.8.0-bin&amp;#39;
+export JAVA_HOME=&amp;#39;/usr/lib/jvm/java-8-openjdk-amd64&amp;#39;
+export CATALINA_HOME=&amp;#39;/home/user/distfiles/src.bin/apache-tomcat-7.0.75&amp;#39;
+export KAFKA_HOME=/home/user/distfiles/src.bin/kafka_2.11-0.10.1.0/
+export PATH=$HOME/bin:/usr/sbin:/sbin:/usr/local/bin:$KAFKA_HOME/bin:$GOROOT/bin:$PATH
+
+alias gdbpd=&amp;#39;gdb python_debug&amp;#39;
+
+# Proxy
+export http_proxy=&amp;#34;&amp;#34;
+export https_proxy=$http_proxy
+
+# aliases
+alias cat=&amp;#39;pygmentize -g&amp;#39;
+alias mc=&amp;#39;mc -b&amp;#39;
+alias ddg=&amp;#39;w3m https://duckduckgo.com&amp;#39;
+alias inosmi=&amp;#39;w3m http://inosmi.ru&amp;#39;
+alias mirror=&amp;#39;w3m http://mirror.yandex.ru&amp;#39;
+alias minix=&amp;#39;w3m http://www.minix3.org&amp;#39;
+alias erldoc=&amp;#39;w3m /usr/lib/erlang/doc/index.html&amp;#39;
+alias github=&amp;#39;w3m https://github.com&amp;#39;
+alias apache=&amp;#39;w3m http://apache-mirror.rbc.ru/pub/apache&amp;#39;
+alias gcc=&amp;#39;colorgcc&amp;#39;
+alias cc=&amp;#39;colorgcc&amp;#39;
+#alias g++=&amp;#39;colorg++&amp;#39;
+alias gdb=&amp;#39;gdb -q&amp;#39;
+alias h=&amp;#39;history&amp;#39;
+alias z=&amp;#39;zathura&amp;#39;
+alias up=&amp;#39;sudo apt-get update; sudo apt-get upgrade&amp;#39;
+alias vi=&amp;#39;vim&amp;#39;
+alias emacs=&amp;#39;emacs -nw&amp;#39;
+alias pdf=&amp;#39;mupdf&amp;#39;
+alias gh=&amp;#39;w3m https://github.com&amp;#39;
+alias tpb=&amp;#39;w3m https://piratebay.to&amp;#39;
+alias mcm=&amp;#39;make clean; make&amp;#39;
+alias lor=&amp;#39;w3m http://linux.org.ru&amp;#39;
+&lt;/code>&lt;/pre></description></item><item><title>Как загнобить человека на код-ревью</title><link>https://torwald-sergesson.github.io/dev/code-review/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/dev/code-review/</guid><description>&lt;p>&lt;strong>This is not mine text, but I like it. You you are its author - please, let me know.&lt;/strong>&lt;/p>
+&lt;ol>
+&lt;li>Код говно.&lt;/li>
+&lt;li>Это надо переписать.&lt;/li>
+&lt;li>Ты чем вообще думаешь?&lt;/li>
+&lt;li>Так никто не пишет.&lt;/li>
+&lt;li>Ебанёт.&lt;/li>
+&lt;li>И как это поддерживать?&lt;/li>
+&lt;li>Пиздец!&lt;/li>
+&lt;li>Пиздец[2]!&lt;/li>
+&lt;li>Мы же полгода назад устно договаривались не делать так.&lt;/li>
+&lt;li>Я это ревьюить больше не буду, ищи кого-нибудь ещё.&lt;/li>
+&lt;li>Ты этот говнокод из своего днк взял?&lt;/li>
+&lt;li>Обезьяну посади - сделает лучше&lt;/li>
+&lt;li>Ты вообще чтоли животное?&lt;/li>
+&lt;li>Господь дал нам интеллект, но ты, я смотрю, от подарков отказываешься&lt;/li>
+&lt;li>Ещё раз так сделаешь - я тебя найду&lt;/li>
+&lt;li>Маме твоей вечером покажу это, если не исправишь&lt;/li>
+&lt;li>Неудивительно, что от тебя отец ушёл&lt;/li>
+&lt;li>Если бы я просто на клавиатуру сел- было бы также, как у тебя&lt;/li>
+&lt;li>Если ты считаешь, что это ок, то как ты вообще дверь открываешь?&lt;/li>
+&lt;li>Буду просить, чтобы тебя повысили, так как тебе нужны деньги на лечение&lt;/li>
+&lt;li>Да я о твоей ориентации давно догадался, можешь расслабиться&lt;/li>
+&lt;li>Из KFC сбежал какой-то недожаренный петух и пытается это вкомитить&lt;/li>
+&lt;li>Из-за тебя я всегда работу найду, спасибо&lt;/li>
+&lt;li>А сначала казался нормальным человеком&lt;/li>
+&lt;li>Твои пр- это первые автобаны в России&lt;/li>
+&lt;li>В следующий раз буду смотреть это до обеда&lt;/li>
+&lt;li>У меня от этого говна зрение на единицу село&lt;/li>
+&lt;li>Твои пр- это артхаус&lt;/li>
+&lt;li>Давай ты больше не будешь шутить в пулл реквестах?&lt;/li>
+&lt;li>У твоих родителей есть живые дети?&lt;/li>
+&lt;li>Если бы мы сидели в комнате с в комнате с Гитлером и Сталиным,у меня было бы два патрона,то я бы за такое выстрелил в тебя дважды&lt;/li>
+&lt;li>Что общего между художественным фильмом &amp;ldquo;two girls one cup&amp;rdquo; и этим ПР? И там,и тут жрут говно&lt;/li>
+&lt;li>Жаль отменили смертную казнь&lt;/li>
+&lt;li>Тебе вообще людей не жалко?&lt;/li>
+&lt;li>Когда читаю твой код, то постоянно чихаю, потому что у меня аллергия на чушб&lt;/li>
+&lt;li>Я, конечно, не гинеколог, но это пизда&lt;/li>
+&lt;li>Ты вообще в курсе, что это все видят?&lt;/li>
+&lt;li>Ты не говорил, что с цирковым прошлым&lt;/li>
+&lt;li>После этого пр не забудь руки помыть&lt;/li>
+&lt;li>И давно это с тобой?&lt;/li>
+&lt;li>Уважаемый, еб вашу мать, вам там нормально?&lt;/li>
+&lt;li>Извините, а адекватность выйдет?&lt;/li>
+&lt;li>Ну, ты хотя бы пытался!&lt;/li>
+&lt;li>Лучше бы собаку завели&lt;/li>
+&lt;li>Думать - не твоя сильная сторона&lt;/li>
+&lt;li>Ты молодец(нет)&lt;/li>
+&lt;li>Когда бог раздавал мозги, то ты, похоже, стоял между утконосом и голубем&lt;/li>
+&lt;li>Когда я говорю, что это говнокод даже голуби головой кивают&lt;/li>
+&lt;li>Твои пулл реквесты - это комедия, а последний и вовсе триллер&lt;/li>
+&lt;li>Кошечка говорит мяу, коровка говорит му, я говорю саша ты ебанулся такое писать?&lt;/li>
+&lt;li>H-водород, С-углерод, O- иди переписывай, урод&lt;/li>
+&lt;li>Ты не узнавал, этот стиль и подход - заразный?&lt;/li>
+&lt;li>Если бы у меня не было высшего образования, я бы не понял ни строчки, молодец!&lt;/li>
+&lt;li>Ты на 1xbet за машин против человечества поставил?&lt;/li>
+&lt;li>Ты доказательство того, что человечество обречено&lt;/li>
+&lt;li>Открыл сейчас этот твой код и в городе ввели чрезвычайные ситуации техногенного характера&lt;/li>
+&lt;li>Жаль, что у тебя кончился испытательный срок!&lt;/li>
+&lt;li>Я бы мог сейчас с тобой согласиться, но тогда мы оба будем не правы&lt;/li>
+&lt;li>Ты, я смотрю, и с дипломом, программер хуевый, иди на завод делать рубанок новы&lt;/li>
+&lt;li>У нас в проекте была проблема с производительностью, но я смотрю у нас есть кое-что хуже&lt;/li>
+&lt;li>Я понимаю, тяжелое детство, никто не любил, но нас то за что?&lt;/li>
+&lt;li>Ты читал вообще то, что написал? Или тоже не смог?&lt;/li>
+&lt;li>Твой код как лук, когда смотрю на него - плакать хочется&lt;/li>
+&lt;li>В каком переходе диплом покупал - там и жить будешь после такого&lt;/li>
+&lt;li>Если это увидит тимлид, то на его похороны ты будешь скидываться&lt;/li>
+&lt;li>В этой программе я вижу только одну ошибку - ее автора&lt;/li>
+&lt;li>Понял почему ты вечно в наушниках - чтобы окончательно не потерять остатки мозгов&lt;/li>
+&lt;li>Твой код, как мой любимый сериал - это просто клиника&lt;/li>
+&lt;li>Я смотрю ты думаешь, что эксепшон - не зубы, вылетит, не поймаешь?&lt;/li>
+&lt;li>Продолжай коммитить, когда нибудь тебе повезет&lt;/li>
+&lt;li>Твой пулл реквест - это компост&lt;/li>
+&lt;li>Это кодогенеарция?&lt;/li>
+&lt;li>Верни обратно как было, пока никто не видел&lt;/li>
+&lt;li>Мы пишем в парадигме, где тебе, похоже не место&lt;/li>
+&lt;li>Не буду писать ничего плохого, так как иначе это будет расценено как жёсткое обращение с животными&lt;/li>
+&lt;li>Ты талант! Так плохо написать не каждый может.Да и не каждому надо&lt;/li>
+&lt;li>Ни на что не намекаю, но ты тупой?&lt;/li>
+&lt;li>Судя по тому, что я увидел, секрет твоей диеты в том, что ты вилкой суп ешь&lt;/li>
+&lt;li>Можешь назвать год, когда ты последний раз думал? Это было до рождества Христова?&lt;/li>
+&lt;li>Тех, кто так таски закрывает, я бы сам на пару лет бы закрыл&lt;/li>
+&lt;li>Сань, вот поэтому горшок и умер&lt;/li>
+&lt;li>Знаешь, есть такой принцип AHA, так вот ты пошёл дальше и все что я могу написать это AHAHAHA&lt;/li>
+&lt;li>В тихом омуте, как говорится&lt;/li>
+&lt;li>Александр, рекомендую прочесть книжку по архитектуре до того, как она физически в вашу голову войдёт&lt;/li>
+&lt;li>Если бы я писал тебе характеристику, то в слове &amp;ldquo;профнепригодность&amp;rdquo; я бы &amp;ldquo;проф&amp;rdquo; вообще убрал бы&lt;/li>
+&lt;li>Все мы, кто смотрел на эту работу, получили практически физический ущерб организму.&lt;/li>
+&lt;li>Когда смотрел пр выключили электричество, но код настолько плох, что напряжение осталось&lt;/li>
+&lt;li>14&lt;/li>
+&lt;li>Есть разные виды инъекций, dependency injection, sql injection, так вот после того, что я прочитал - по ебалу injection хочется сделать&lt;/li>
+&lt;li>Если не удалишь этот кусок, то я принесу соломы и будет точно как в хлеву.&lt;/li>
+&lt;li>Мне импонирует твой стиль разработки &amp;ldquo;смотрите как не надо делать&amp;rdquo;, но даже это уже перебор&lt;/li>
+&lt;li>Интеллектуальное поражение&lt;/li>
+&lt;li>Это фиаско, господа&lt;/li>
+&lt;li>Хуже, чем очень плохо&lt;/li>
+&lt;li>Если ты так и дальше продолжишь писать, то при следующей major сборки тебя garbage collector соберет&lt;/li>
+&lt;li>Лучше бы ты просто выгорел&lt;/li>
+&lt;li>У тебя есть inteliji idea, у меня есть idea и моя идея - вообще это не мерджить&lt;/li>
+&lt;li>Сань, ты первый человек на земле с однозначным значением IQ? Других объяснений этому я пока не вижу.&lt;/li>
+&lt;li>Такое впечатление, что сюда ядерная ракета попала, что вообще здесь произошло?&lt;/li>
+&lt;li>Этот код не завелся, но зато завел меня.&lt;/li>
+&lt;li>Саня, пора заканчивать это блядство.&lt;/li>
+&lt;/ol></description></item><item><title>Карты к игре Великий князь</title><link>https://torwald-sergesson.github.io/games/boardgame-grand-duke/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/games/boardgame-grand-duke/</guid><description>&lt;h2 id="грамоты">Грамоты&lt;/h2>
+&lt;ul>
+&lt;li>Беглые (оставь себе) - прослышав про вашу мудрость и доброту к вам прибежали крестьяне из соседних княжеств (соседи справа и слева должны отдать по одному крестьянину)&lt;/li>
+&lt;li>Вече - жители самого крупного вашего города на вече решили перейти под власть другого князя - тот кому передается эта грамота, должен отдать карты города и всех его горожан тому игроку, который передал эту грамоту.&lt;/li>
+&lt;li>Голод - в княжестве случился неурожай и некоторые ваши горожане убежали в другие княжества. Отдай по 1 карте ремесленника другим игрокам. Если у них нет места - убери в общую колоду.&lt;/li>
+&lt;li>Дурная слава - из-за вашего самодурства от вас бежит народ - отдай 1 крестьянина тому, кто передал тебе грамоту&lt;/li>
+&lt;li>Именины (оставь себе)- у вас именины и ваши соседи делают вам подарки - каждый игрок по одному крестьянину&lt;/li>
+&lt;li>Заложник - вашего близкого родственника взял в заложники соседский князь - отдай три войска тому, кто передал грамоту.&lt;/li>
+&lt;li>Капище - в соседнем княжестве построено языческое капище - отдай волхва тому, кто передал грамоту&lt;/li>
+&lt;li>Купцы (оставь себе) - к вам приехали византийские купцы и скупили все изделия ваших ремесленников - цена карт ремесленников удваивается (грамота остается до конца игры)&lt;/li>
+&lt;li>Лазутчик - вражеский лазутчик проник в гридницу и подмешал отраву в питье дружинникам - убери не глядя 3 карты дружинников в общую колоду&lt;/li>
+&lt;li>Милостыня - вы решили раздать нищим милостыню - уменьшается в два раза стоимость одного города со всеми горожанами (карта сохраняется до конца игры)&lt;/li>
+&lt;li>Набег - на ваше княжество совершили набег степняки и увели в плен часть горожан - отдайте по 1 карте горожанина с каждого города.&lt;/li>
+&lt;li>Наговор - ваш сосед распространяет про вас грязные слухи - вы обязаны напасть на того игрока, на которого укажет тот, кто передал грамоту&lt;/li>
+&lt;li>Мир - между княжествами заключается мир на все времена - тот кому передали грамоту не имеет права нападать на княжество передавшего грамоту&lt;/li>
+&lt;li>Мор - в княжестве вспыхнуло моровое поветрие из-за которого погибло много народа: отдай в общую колоду по одному горожанину с каждого города&lt;/li>
+&lt;li>Обида - волхв обиделся на ваше негостеприимство и покинул ваше княжество - убери вохва в общую колоду&lt;/li>
+&lt;li>Пир - Княжий пир, устроенный вами потребовал больших затрат - положи в общую колоду одного крестьянина&lt;/li>
+&lt;li>Подкуп - соседский князь сманил нескольких дружинников и те перебежали к нему (отдай 2 дружинника тому, кто передал грамоту)&lt;/li>
+&lt;li>Пожар - в самом маленьком городе вспыхнул пожар и спалил его дотла - убери город в общую колоду, а карты горожан распределить по другим городам или убрать в общую колоду если нет мест.&lt;/li>
+&lt;li>Разбойники (оставь себе) - на ваш купеческий обоз напали разбойники и ограбили его - тот кто получил эту грамоту должен убрать в общую колоду одного купца&lt;/li>
+&lt;li>Рождение наследника (оставь себе) - у вас родился наследник и соседи выслали вам богатые подарки - у того, кто получил эту грамоту удваивается стоимость одного из городов со всеми его жителями (сохраняется до конца игры)&lt;/li>
+&lt;li>Свадьба - вы выдаете замуж свою дочь и даете богатое приданое - отдай 1 горожанина и дружинника тому, кто передал грамоту&lt;/li>
+&lt;li>Скупость - из-за вашей скупости в дружине растет недовольство и некоторые дружинники её покидают - отдай негодяя одну карту дружинника тому, кто передал тебе карту&lt;/li>
+&lt;li>Союз - вам предложили заключить военный союз - передай 2 карты войск тому, кто передал грамоту.&lt;/li>
+&lt;li>Ссора - вы рассорились со своим старшим сыном и тот решил отделиться и забрать свое наследство - отдайте самый маленький город со всеми горожанами в общую колоду&lt;/li>
+&lt;li>Тайна ремесла (оставь себе) - ваши ремесленники открыли секрет булатной стали - стоимость ремесленников утраивается (карта сохраняется до конца игры)&lt;/li>
+&lt;li>Торговый - все купцы отправились в торговое путешествие в Византию - положи всех купцов в общую колоду&lt;/li>
+&lt;li>Урожай (оставь себе) - в княжестве случился небывалый урожай - возьми из общей колоды столько горожан, сколько есть пустых мест в городах&lt;/li>
+&lt;/ul>
+&lt;h2 id="народ">Народ&lt;/h2>
+&lt;ul>
+&lt;li>12 крестьян&lt;/li>
+&lt;li>9 ремесленников&lt;/li>
+&lt;li>6 купцов&lt;/li>
+&lt;li>3 волхва&lt;/li>
+&lt;li>3 воеводы (1, 2, 3 дружинника уводит)&lt;/li>
+&lt;li>3 хазарина (1,2,3 крестьянина в плен)&lt;/li>
+&lt;/ul></description></item><item><title>Карты к игре Князья</title><link>https://torwald-sergesson.github.io/games/boardgame-dukes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/games/boardgame-dukes/</guid><description>&lt;h2 id="города">Города&lt;/h2>
+&lt;ul>
+&lt;li>Киев - 3&lt;/li>
+&lt;li>Новгород - 3&lt;/li>
+&lt;li>Чернигов - 3&lt;/li>
+&lt;li>Псков - 2&lt;/li>
+&lt;li>Владимир - 2&lt;/li>
+&lt;li>Суздаль - 2&lt;/li>
+&lt;li>Галич - 2&lt;/li>
+&lt;li>Муром - 1&lt;/li>
+&lt;li>Полоцк - 1&lt;/li>
+&lt;li>Смоленск - 1&lt;/li>
+&lt;li>Тмутаракань - 1&lt;/li>
+&lt;/ul>
+&lt;h2 id="постройки">Постройки&lt;/h2>
+&lt;ul>
+&lt;li>Ров - любая стена в этом городе получает +1 к силе&lt;/li>
+&lt;li>Княжеский престол (2 шт)- слава города с постройками утраивается пока нет другого престола&lt;/li>
+&lt;li>Монастырь (5 шт) - +2 к славе&lt;/li>
+&lt;li>Церковь (10 шт) - +1 к славе&lt;/li>
+&lt;li>Ремесленная слобода - удваивается слава города без построек&lt;/li>
+&lt;li>Собор (3 шт) - +3 к славе&lt;/li>
+&lt;li>Золотые ворота - Добавьте к славе города силу городских стен&lt;/li>
+&lt;/ul>
+&lt;h2 id="постройки-v2">Постройки v2&lt;/h2>
+&lt;ul>
+&lt;li>Школа - +1 к славе&lt;/li>
+&lt;li>Библиотека - +2 к славе&lt;/li>
+&lt;/ul>
+&lt;h2 id="стена">Стена&lt;/h2>
+&lt;ul>
+&lt;li>Деревянные стены (2 шт) - 3&lt;/li>
+&lt;li>Кремль - 5&lt;/li>
+&lt;li>Каменные стены - 4&lt;/li>
+&lt;li>Частокол (2 шт) - 2&lt;/li>
+&lt;/ul>
+&lt;h2 id="летописи">Летописи&lt;/h2>
+&lt;ul>
+&lt;li>Русские богатыри - при обороне ваши дружины получают +2 к силе&lt;/li>
+&lt;li>Помощь Византии - играя эту карту, положите на нее любое войско, кроме ополчения. В конце игры вы получите столько очков Славы, какова сила данного войска. Это войско больше ни для чего не используется. Добавлять другие войска нельзя.&lt;/li>
+&lt;li>Татарское нашествие - Нельзя играть во время первого хода! Игра завешается. Каждый игрок делает последний ход. Вы действуете последним.&lt;/li>
+&lt;li>Мудрый воевода - Вы можете сразу использовать несколько карт войска, суммируя их силу. Отбить такие отряды по-одиночке нельзя. Противник отбивает их одной картой войска. Используется при атаке и защите.&lt;/li>
+&lt;li>Скитский старец - Каждый ход, когда вы берете карту, смотрите две верхние карты из колоды, выбирайте ту, что вам больше нравится. Ненужную карту кладите под колоду.&lt;/li>
+&lt;li>Анна Ярославна - любые иноземные войска, используемые против игрока, получают -2 к силе.&lt;/li>
+&lt;li>Бысть тишина - Карта отменяет татарское нашествие. Игра продолжается до конца колоды. Если карта сыграна после того, как закончилась колода, игроки делают ещё по одному ходу, но последним ходит сыгравший эту карту.&lt;/li>
+&lt;li>Ослепление Василька - Игрок получивший эту карту лишается 4 очков славы.&lt;/li>
+&lt;li>Съезд князей - тот, на кого сыграли эту карту, должен отдать любой свой город тому, у кого меньше всех городов. Если таких игроков несколько, он сам решит, кому отдать город, а затем сбросит “Съезд князей”. Если игрок не отдал город, “Съезд князей” остается у него, а в конце игры он лишается 4 очков Славы.&lt;/li>
+&lt;li>Поход на половцев - играя эту карту, сбросьте любое войско, кроме ополчения. В конце игры поход приносит вам три очка славы.&lt;/li>
+&lt;li>Святополк Окаянный - Возьмите себе любой чужой город и лишитесь 4 очка славы&lt;/li>
+&lt;li>Поход князя Игоря - Запустите карту по кругу, начиная с игрока, сидящего слева от вас. Каждый к кому она пришла, должен либо сбросить любое войско, кроме ополчения и передать карту дальше по кругу, либо оставить ее у себя. Если карта доходит до разыгравшего её, она уходит в отбой. Оставивший карту себе, выкладывает её перед собой, а в конце игры он лишается 4 очков славы.&lt;/li>
+&lt;/ul>
+&lt;h2 id="летописи-v2">Летописи v2&lt;/h2>
+&lt;ul>
+&lt;li>Щит на вратах Царьграда - возьмите в руку три карты из колоды&lt;/li>
+&lt;/ul>
+&lt;h2 id="событие">Событие&lt;/h2>
+&lt;ul>
+&lt;li>Городская стража - отменяет действие карт Обманное сватовство, Пожар, Предательство&lt;/li>
+&lt;li>Приданое - Тот, на кого сыграна эта карта, выкладывает один свой город на середину стола. Все желающие, и он тоже, по кругу выкладывают по одному войску, кроме ополчения. Войска должны лежать рубашкой вверх. Давший сильнейшее войско, получает город с постройками. Все выложенные войска сбрасываются. Русские богатыри и Анна Ярославна не учитываются.&lt;/li>
+&lt;li>Обманное сватовство - уничтожьте все стены и ров в одном городе&lt;/li>
+&lt;li>Советник-клеветник - заберите себе любую карту летописи из тех, что уже сыграны. Карту можно взять “в руку” или сразу выложить перед собой.&lt;/li>
+&lt;li>Митрополичий суд - верните себе город вместе с постройками, любой из тех что были отняты у вас в игре.&lt;/li>
+&lt;li>Набег на княжество (2 шт) - не глядя вытяните и заберите себе “на руку” 2 карты “из руки” любого игрока&lt;/li>
+&lt;li>Налет на город - объявите войну, противник первым выкладывает войско. Теперь решайте, нападать вам или нет. Выложенная карта войск в любом случае отправляется в отбой.&lt;/li>
+&lt;li>Пожар - уничтожьте все постройки в одном городе, кроме стен и рва&lt;/li>
+&lt;li>Подкуп - заберите себе “в руку” одну выложенную карту войска противника, кроме дружины и ополчения. Он может выложить новую карту войска.&lt;/li>
+&lt;li>Моровое поветрие - Сбросьте все сыгранные карты летописи одного из игроков&lt;/li>
+&lt;li>Богатырская застава - отменяет действие карт Набег половцев, Набег на княжество, Налет на город. Богатырскую заставу следует использовать, как только на вас сыграли одну из этих карт.&lt;/li>
+&lt;li>Из варяг в греки - возьмите из колоды три карты себе “в руку”&lt;/li>
+&lt;li>Разгром Волжской Болгарии - сбросьте “с руки” одну карту войска, кроме ополчения. Теперь возьмите “в руку” из колоды столько карт, какова сила этого войска&lt;/li>
+&lt;li>Советник-отравитель - сбросьте любую карту летописи, из тех, что уже сыграны.&lt;/li>
+&lt;li>Набег половцев (2 шт) - вытяните не глядя и сбросьте 3 карты из руки любого из игроков&lt;/li>
+&lt;li>Митрополитское осуждение - Карта отменяет любую войну, начатую любым игроком. Новую войну этот игрок сможет объявить только во время своего следующего хода. Выложенные карты войск отправляются в отбой.&lt;/li>
+&lt;li>Разведка (2 шт) - посмотрите карты в руке одного из игроков&lt;/li>
+&lt;li>Засада (2 шт) - карта только для защиты, она позволяет отбить одну карту войска любой силы. Карта уничтожает все войска, объединенные картой мудрый воевода.&lt;/li>
+&lt;li>Разорение - если по итогам войны вы потеряете город, уничтожьте в нем все постройки.&lt;/li>
+&lt;li>Предательство - возьмите себе любой город вместе с постройками.&lt;/li>
+&lt;li>Подземный ход - уничтожьте все стены в одном городе&lt;/li>
+&lt;li>Сбор дани (2.0) - вытяните у одного из соперников две карты себе в руку&lt;/li>
+&lt;/ul>
+&lt;h2 id="войско">Войско&lt;/h2>
+&lt;ul>
+&lt;li>Дружина - 9&lt;/li>
+&lt;li>Дружина - 10&lt;/li>
+&lt;li>Дружина - 8&lt;/li>
+&lt;li>Дружина - 3&lt;/li>
+&lt;li>Дружина - 5&lt;/li>
+&lt;li>Дружина - 4&lt;/li>
+&lt;li>Дружина - 2&lt;/li>
+&lt;li>Дружина - 6&lt;/li>
+&lt;li>Дружина - 7&lt;/li>
+&lt;li>Дружина - 1&lt;/li>
+&lt;li>Польское войско - 5&lt;/li>
+&lt;li>Варяжское войско - 7&lt;/li>
+&lt;li>Венгерское войско - 6&lt;/li>
+&lt;li>Половецкое войско - 4&lt;/li>
+&lt;li>Половецкое войско - 3&lt;/li>
+&lt;li>Половецкое войско - 2&lt;/li>
+&lt;li>Половецкое войско - 1&lt;/li>
+&lt;li>Ополчение (7 шт) - сила равна славе защищаемого города со всеми постройками. Карта только для защиты.&lt;/li>
+&lt;/ul></description></item></channel></rss>

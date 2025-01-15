@@ -1,2 +1,123 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Go on Torwald Log</title><link>https://torwald-sergesson.github.io/tags/go/</link><description>Recent content in Go on Torwald Log</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://torwald-sergesson.github.io/tags/go/index.xml" rel="self" type="application/rss+xml"/><item><title>Databases internals</title><link>https://torwald-sergesson.github.io/dev/databases_internals/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/dev/databases_internals/</guid><description> https://cstack.github.io/db_tutorial/ Let&amp;rsquo;s Build a Simple Database https://github.com/auxten/go-sqldb A pure golang SQL database for database theory research</description></item><item><title>Golang Reading List from Mail.ru cources</title><link>https://torwald-sergesson.github.io/dev/golang-mail-ru/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/dev/golang-mail-ru/</guid><description>Reading Week 1 Материалы для дополнительного чтения на английском:
-[-] https://golang.org/ref/spec - спецификация по язык [-] https://golang.org/ref/mem - модель памяти го. на начальном этапе не надо, но знать полезно [-] https://golang.org/doc/code.html - про организацию кода. GOPATH и пакеты [-] https://golang.org/cmd/go/ [-] https://blog.golang.org/strings [-] https://blog.golang.org/slices [-] https://blog.golang.org/go-slices-usage-and-internals [-] https://github.com/golang/go/wiki - вики го на гитхабе. очень много полезной информации [-] https://blog.golang.org/go-maps-in-action [-] https://blog.golang.org/organizing-go-code [-] https://golang.org/doc/effective_go.html - основной сборник тайного знания, сюда вы будуте обращатсья в первое время часто [-] https://github.</description></item><item><title>Interesting links</title><link>https://torwald-sergesson.github.io/dev/interesting-it-links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/dev/interesting-it-links/</guid><description>https://github.com/ivanceras/svgbob Convert your ascii diagram scribbles into happy little SVG https://ohmygit.org/ An open source game about learning Git https://github.com/dolthub/dolt It&amp;rsquo;s Git for Data https://betterprogramming.pub/git-commands-to-live-by-349ab1fe3139 Git Commands to Live By. The cheat sheet that goes beyond Git basics https://github.com/uber-go/gopatch Refactoring and code transformation tool for Go. https://github.com/jroimartin/gocui Minimalist Go package aimed at creating Console User Interfaces. https://justine.lol/index.html - Justine Tunney&amp;rsquo;s Web Page (printvideo, cosmopolitan, nesemu1 and etc) https://github.com/xo/xo - Command line tool to generate idiomatic Go code for SQL databases supporting PostgreSQL, MySQL, SQLite, Oracle, and Microsoft SQL Server https://thevaluable.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Go on Torwald Log</title><link>https://torwald-sergesson.github.io/tags/go/</link><description>Recent content in Go on Torwald Log</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://torwald-sergesson.github.io/tags/go/index.xml" rel="self" type="application/rss+xml"/><item><title>Databases internals</title><link>https://torwald-sergesson.github.io/dev/databases_internals/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/dev/databases_internals/</guid><description>&lt;ul>
+&lt;li>&lt;a href="https://cstack.github.io/db_tutorial/">https://cstack.github.io/db_tutorial/&lt;/a> Let&amp;rsquo;s Build a Simple Database&lt;/li>
+&lt;li>&lt;a href="https://github.com/auxten/go-sqldb">https://github.com/auxten/go-sqldb&lt;/a> A pure golang SQL database for database theory research&lt;/li>
+&lt;/ul></description></item><item><title>Golang Reading List from Mail.ru cources</title><link>https://torwald-sergesson.github.io/dev/golang-mail-ru/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/dev/golang-mail-ru/</guid><description>&lt;h2 id="reading-week-1">Reading Week 1&lt;/h2>
+&lt;p>Материалы для дополнительного чтения на английском:&lt;/p>
+&lt;ul>
+&lt;li>[-] &lt;a href="https://golang.org/ref/spec">https://golang.org/ref/spec&lt;/a> - спецификация по язык&lt;/li>
+&lt;li>[-] &lt;a href="https://golang.org/ref/mem">https://golang.org/ref/mem&lt;/a> - модель памяти го. на начальном этапе не надо, но знать полезно&lt;/li>
+&lt;li>[-] &lt;a href="https://golang.org/doc/code.html">https://golang.org/doc/code.html&lt;/a> - про организацию кода. GOPATH и пакеты&lt;/li>
+&lt;li>[-] &lt;a href="https://golang.org/cmd/go/">https://golang.org/cmd/go/&lt;/a>&lt;/li>
+&lt;li>[-] &lt;a href="https://blog.golang.org/strings">https://blog.golang.org/strings&lt;/a>&lt;/li>
+&lt;li>[-] &lt;a href="https://blog.golang.org/slices">https://blog.golang.org/slices&lt;/a>&lt;/li>
+&lt;li>[-] &lt;a href="https://blog.golang.org/go-slices-usage-and-internals">https://blog.golang.org/go-slices-usage-and-internals&lt;/a>&lt;/li>
+&lt;li>[-] &lt;a href="https://github.com/golang/go/wiki">https://github.com/golang/go/wiki&lt;/a> - вики го на гитхабе. очень много полезной информации&lt;/li>
+&lt;li>[-] &lt;a href="https://blog.golang.org/go-maps-in-action">https://blog.golang.org/go-maps-in-action&lt;/a>&lt;/li>
+&lt;li>[-] &lt;a href="https://blog.golang.org/organizing-go-code">https://blog.golang.org/organizing-go-code&lt;/a>&lt;/li>
+&lt;li>[-] &lt;a href="https://golang.org/doc/effective_go.html">https://golang.org/doc/effective_go.html&lt;/a> - основной сборник тайного знания, сюда вы будуте обращатсья в первое время часто&lt;/li>
+&lt;li>[-] &lt;a href="https://github.com/golang/go/wiki/CodeReviewComments">https://github.com/golang/go/wiki/CodeReviewComments&lt;/a> как ревьювить (и писать код). обязательно к прочтению&lt;/li>
+&lt;li>[-] &lt;a href="https://divan.github.io/posts/avoid_gotchas/">https://divan.github.io/posts/avoid_gotchas/&lt;/a> - материал аналогичный 50 оттенков го&lt;/li>
+&lt;li>[-] &lt;a href="https://research.swtch.com/interfaces">https://research.swtch.com/interfaces&lt;/a>&lt;/li>
+&lt;li>[-] &lt;a href="https://research.swtch.com/godata">https://research.swtch.com/godata&lt;/a>&lt;/li>
+&lt;li>[-] &lt;a href="http://jordanorelli.com/post/42369331748/function-types-in-go-golang">http://jordanorelli.com/post/42369331748/function-types-in-go-golang&lt;/a>&lt;/li>
+&lt;li>[-] &lt;a href="https://www.devdungeon.com/content/working-files-go">https://www.devdungeon.com/content/working-files-go&lt;/a> - работа с файлами&lt;/li>
+&lt;li>[-] &lt;a href="http://www.golangprograms.com">http://www.golangprograms.com&lt;/a> - много how-to касательно базовых вещей в go&lt;/li>
+&lt;li>[-] &lt;a href="http://yourbasic.org/golang/">http://yourbasic.org/golang/&lt;/a> - ещё большой набор how-to где можно получить углублённую информацию по всем базовым вещам. очень полезны http://yourbasic.org/golang/blueprint/&lt;/li>
+&lt;li>[-] &lt;a href="https://github.com/Workiva/go-datastructures">https://github.com/Workiva/go-datastructures&lt;/a>&lt;/li>
+&lt;li>[-] &lt;a href="https://github.com/enocom/gopher-reading-list">https://github.com/enocom/gopher-reading-list&lt;/a> - большая подборка статей по многим темам ( не только данной лекции )&lt;/li>
+&lt;li>[-] &lt;a href="https://www.youtube.com/watch?v=MzTcsI6tn-0">https://www.youtube.com/watch?v=MzTcsI6tn-0&lt;/a> - как организовать код&lt;/li>
+&lt;li>[-] &lt;a href="https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1">https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1&lt;/a> - статья на предыдущую тему
+Материалы для дополнительного чтения на русском:&lt;/li>
+&lt;li>[-] &lt;a href="https://habrahabr.ru/company/mailru/blog/314804/">https://habrahabr.ru/company/mailru/blog/314804/&lt;/a> - 50 оттенков го. обязательно к прочтению. многое оттуда мы ещё не проходили, но на будущее - имейте ввиду&lt;/li>
+&lt;li>[-] &lt;a href="https://habrahabr.ru/post/306914/">https://habrahabr.ru/post/306914/&lt;/a> - Разбираемся в Go: пакет io&lt;/li>
+&lt;li>[-] &lt;a href="https://habrahabr.ru/post/272383/">https://habrahabr.ru/post/272383/&lt;/a> - постулаты go. Маленькая статья об основными принципах языка&lt;/li>
+&lt;li>[-] &lt;a href="https://habrahabr.ru/company/mailru/blog/301036/">https://habrahabr.ru/company/mailru/blog/301036/&lt;/a> - лучшие практики go&lt;/li>
+&lt;li>[-] &lt;a href="https://habrahabr.ru/post/308198/">https://habrahabr.ru/post/308198/&lt;/a> - организация кода в go&lt;/li>
+&lt;li>[-] &lt;a href="https://habrahabr.ru/post/339192/">https://habrahabr.ru/post/339192/&lt;/a> - Зачем в Go амперсанд и звёздочка (&amp;amp; и *)&lt;/li>
+&lt;li>[-] &lt;a href="https://habrahabr.ru/post/325468/">https://habrahabr.ru/post/325468/&lt;/a> - как не наступать на грабли в Go&lt;/li>
+&lt;li>[-] &lt;a href="https://habrahabr.ru/post/276981/">https://habrahabr.ru/post/276981/&lt;/a> - Краш-курс по интерфейсам в Go&lt;/li>
+&lt;li>[-] &lt;a href="http://golang-book.ru">http://golang-book.ru&lt;/a>
+Литература по го на русском языке:&lt;/li>
+&lt;li>[-] Язык программирования Go, Алан А. А. Донован, Брайан У. Керниган&lt;/li>
+&lt;li>[-] Go на практике, Matt Butcher, Мэтт Фарина Мэтт&lt;/li>
+&lt;li>[-] Программирование на Go. Разработка приложений XXI века, Марк Саммерфильд
+Дополнительные упражнения:&lt;/li>
+&lt;li>[-] &lt;a href="https://go-tour-ru-ru.appspot.com/list">https://go-tour-ru-ru.appspot.com/list&lt;/a> - упражнения на овладение базовым синтаксисом, на случай если вам нужна небольшая практика перед первым заданием курса&lt;/li>
+&lt;/ul>
+&lt;h2 id="reading-week-2">Reading Week 2&lt;/h2>
+&lt;p>На английском:&lt;/p></description></item><item><title>Interesting links</title><link>https://torwald-sergesson.github.io/dev/interesting-it-links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/dev/interesting-it-links/</guid><description>&lt;ul>
+&lt;li>&lt;a href="https://github.com/ivanceras/svgbob">https://github.com/ivanceras/svgbob&lt;/a> Convert your ascii diagram scribbles into happy little SVG&lt;/li>
+&lt;li>&lt;a href="https://ohmygit.org/">https://ohmygit.org/&lt;/a> An open source game about learning Git&lt;/li>
+&lt;li>&lt;a href="https://github.com/dolthub/dolt">https://github.com/dolthub/dolt&lt;/a> It&amp;rsquo;s Git for Data&lt;/li>
+&lt;li>&lt;a href="https://betterprogramming.pub/git-commands-to-live-by-349ab1fe3139">https://betterprogramming.pub/git-commands-to-live-by-349ab1fe3139&lt;/a> Git Commands to Live By. The cheat sheet that goes beyond Git basics&lt;/li>
+&lt;li>&lt;a href="https://github.com/uber-go/gopatch">https://github.com/uber-go/gopatch&lt;/a> Refactoring and code transformation tool for Go.&lt;/li>
+&lt;li>&lt;a href="https://github.com/jroimartin/gocui">https://github.com/jroimartin/gocui&lt;/a> Minimalist Go package aimed at creating Console User Interfaces.&lt;/li>
+&lt;li>&lt;a href="https://justine.lol/index.html">https://justine.lol/index.html&lt;/a> - Justine Tunney&amp;rsquo;s Web Page (printvideo, cosmopolitan, nesemu1 and etc)&lt;/li>
+&lt;li>&lt;a href="https://github.com/xo/xo">https://github.com/xo/xo&lt;/a> - Command line tool to generate idiomatic Go code for SQL databases supporting PostgreSQL, MySQL, SQLite, Oracle, and Microsoft SQL Server&lt;/li>
+&lt;li>&lt;a href="https://thevaluable.dev/vim-advanced/">https://thevaluable.dev/vim-advanced/&lt;/a> A Vim Guide for Advanced Users&lt;/li>
+&lt;li>&lt;a href="https://chip-8.github.io/links/">https://chip-8.github.io/links/&lt;/a> Awesome CHIP-8&lt;/li>
+&lt;li>&lt;a href="https://tobiasvl.github.io/blog/write-a-chip-8-emulator/">https://tobiasvl.github.io/blog/write-a-chip-8-emulator/&lt;/a> A high-level guide to making a CHIP-8 emulator.&lt;/li>
+&lt;li>&lt;a href="https://github.com/AkihiroSuda/lima/">https://github.com/AkihiroSuda/lima/&lt;/a> Linux virtual machines, on macOS (aka &amp;ldquo;Linux-on-Mac&amp;rdquo;, &amp;ldquo;macOS subsystem for Linux&amp;rdquo;, &amp;ldquo;containerd for Mac&amp;rdquo;, unofficially)&lt;/li>
+&lt;li>&lt;a href="http://www.brendangregg.com/">http://www.brendangregg.com/&lt;/a> - Brendan Gregg&amp;rsquo;s homepage (Linux and Performance)&lt;/li>
+&lt;li>&lt;a href="https://github.com/syncthing/syncthing">https://github.com/syncthing/syncthing&lt;/a> - Open Source Continuous File Synchronization.&lt;/li>
+&lt;li>&lt;a href="https://github.com/google/gops">https://github.com/google/gops&lt;/a> - A tool to list and diagnose Go processes currently running on your system.&lt;/li>
+&lt;li>&lt;a href="https://github.com/adonovan/spaghetti">https://github.com/adonovan/spaghetti&lt;/a> - Spaghetti: a dependency analysis tool for Go packages&lt;/li>
+&lt;li>&lt;a href="https://github.com/pterm/pterm/">https://github.com/pterm/pterm/&lt;/a> - PTerm is a modern go module to beautify console output. Featuring charts, progressbars, tables, trees, and many more. It&amp;rsquo;s completely configurable and 100% cross-platform compatible.&lt;/li>
+&lt;li>&lt;a href="https://github.com/cheggaaa/pb">https://github.com/cheggaaa/pb&lt;/a> Console progress bar for Golang.&lt;/li>
+&lt;li>&lt;a href="https://github.com/spf13/afero">https://github.com/spf13/afero&lt;/a> A FileSystem Abstraction System for Go.&lt;/li>
+&lt;li>&lt;a href="https://github.com/google/go-github">https://github.com/google/go-github&lt;/a> Go library for accessing the GitHub API.&lt;/li>
+&lt;li>&lt;a href="https://github.com/brianvoe/gofakeit">https://github.com/brianvoe/gofakeit&lt;/a> Random fake data generator written in go.&lt;/li>
+&lt;li>&lt;a href="https://github.com/bcicen/ctop">https://github.com/bcicen/ctop&lt;/a> Top-like interface for container metrics.&lt;/li>
+&lt;li>&lt;a href="https://github.com/goccy/go-json">https://github.com/goccy/go-json&lt;/a> goccy/go-json Fast JSON encoder/decoder compatible with encoding/json for Go.&lt;/li>
+&lt;li>&lt;a href="https://github.com/irevenko/tsukae">https://github.com/irevenko/tsukae&lt;/a> Show off your most used shell commands.&lt;/li>
+&lt;li>&lt;a href="https://github.com/orbitdb/orbit-db">https://github.com/orbitdb/orbit-db&lt;/a> Peer-to-Peer Databases for the Decentralized Web.&lt;/li>
+&lt;li>&lt;a href="https://themagicsmoke.ru/books/c_for_embedded_systems/">https://themagicsmoke.ru/books/c_for_embedded_systems/&lt;/a> Книга «Си для встраиваемых систем»&lt;/li>
+&lt;li>&lt;a href="https://github.com/hashicorp/go-version">https://github.com/hashicorp/go-version&lt;/a> A Go (golang) library for parsing and verifying versions and version constraints.&lt;/li>
+&lt;li>&lt;a href="https://github.com/neilotoole/sq">https://github.com/neilotoole/sq&lt;/a> swiss-army knife for data.&lt;/li>
+&lt;li>&lt;a href="https://github.com/kyleconroy/sqlc">https://github.com/kyleconroy/sqlc&lt;/a> Generate type safe Go from SQL.&lt;/li>
+&lt;li>&lt;a href="https://github.com/gohugoio/hugo">https://github.com/gohugoio/hugo&lt;/a> The world’s fastest framework for building websites.&lt;/li>
+&lt;li>&lt;a href="https://github.com/boyter/scc">https://github.com/boyter/scc&lt;/a> Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go&lt;/li>
+&lt;li>&lt;a href="https://github.com/golang/mock">https://github.com/golang/mock&lt;/a> GoMock is a mocking framework for the Go programming language.&lt;/li>
+&lt;li>&lt;a href="https://github.com/charmbracelet/glow">https://github.com/charmbracelet/glow&lt;/a> Render markdown on the CLI, with pizzazz!&lt;/li>
+&lt;li>&lt;a href="https://github.com/jmattheis/goverter">https://github.com/jmattheis/goverter&lt;/a> Generate type-safe Go converters by simply defining an interface&lt;/li>
+&lt;li>&lt;a href="https://github.com/volatiletech/sqlboiler">https://github.com/volatiletech/sqlboiler&lt;/a> Generate a Go ORM tailored to your database schema.&lt;/li>
+&lt;li>&lt;a href="https://github.com/system-pclub/GCatch">https://github.com/system-pclub/GCatch&lt;/a> Statically Detecting Go Concurrency Bugs.&lt;/li>
+&lt;li>&lt;a href="https://github.com/RetroShare/RetroShare">https://github.com/RetroShare/RetroShare&lt;/a> RetroShare is a Free and Open Source cross-platform, Friend-2-Friend and secure decentralised communication platform.&lt;/li>
+&lt;li>&lt;a href="https://www.howtodeal.dev/">https://www.howtodeal.dev/&lt;/a> How to Deal with Difficult People on Software Projects&lt;/li>
+&lt;li>&lt;a href="https://github.com/pemistahl/grex">https://github.com/pemistahl/grex&lt;/a> A command-line tool and library for generating regular expressions from user-provided test cases - pemistahl/grex.&lt;/li>
+&lt;li>&lt;a href="https://github.com/denisidoro/navi">https://github.com/denisidoro/navi&lt;/a> An interactive cheatsheet tool for the command-line.&lt;/li>
+&lt;li>&lt;a href="https://madaidans-insecurities.github.io/guides/linux-hardening.html">https://madaidans-insecurities.github.io/guides/linux-hardening.html&lt;/a> Linux Hardening Guide&lt;/li>
+&lt;li>&lt;a href="https://mysqlserverteam.com/mysql-shell-dump-load-part-1-demo/">https://mysqlserverteam.com/mysql-shell-dump-load-part-1-demo/&lt;/a> MySQL Shell Dump &amp;amp; Load.&lt;/li>
+&lt;li>&lt;a href="https://i3wm.org/docs/userguide.html">https://i3wm.org/docs/userguide.html&lt;/a> i3wm&lt;/li>
+&lt;li>&lt;a href="https://libre.life/7522/0105/1/ru">https://libre.life/7522/0105/1/ru&lt;/a> Cписок децентрализованных сервисов.&lt;/li>
+&lt;li>&lt;a href="https://github.com/lucasepe/modgv">https://github.com/lucasepe/modgv&lt;/a> Converts &amp;lsquo;go mod graph&amp;rsquo; output into Graphviz&amp;rsquo;s DOT language.&lt;/li>
+&lt;li>&lt;a href="http://www.stolyarov.info/books">http://www.stolyarov.info/books&lt;/a> Книги Столярова про программирование&lt;/li>
+&lt;li>&lt;a href="https://github.com/leozide/leocad">https://github.com/leozide/leocad&lt;/a> A CAD application for creating virtual LEGO models.&lt;/li>
+&lt;li>&lt;a href="https://github.com/cockroachdb/copyist">https://github.com/cockroachdb/copyist&lt;/a> Mocking your SQL database in Go tests has never been easier.&lt;/li>
+&lt;li>&lt;a href="https://github.com/rqlite/rqlite">https://github.com/rqlite/rqlite&lt;/a> The lightweight, distributed relational database built on SQLite.&lt;/li>
+&lt;li>&lt;a href="https://github.com/360EntSecGroup-Skylar/excelize">https://github.com/360EntSecGroup-Skylar/excelize&lt;/a> Golang library for reading and writing Microsoft Excel™ (XLSX) files.&lt;/li>
+&lt;li>&lt;a href="https://github.com/gotranspile/cxgo">https://github.com/gotranspile/cxgo&lt;/a> Another tool for transpiling C to Go.&lt;/li>
+&lt;li>&lt;a href="https://github.com/muesli/termenv">https://github.com/muesli/termenv&lt;/a> Advanced ANSI style &amp;amp; color support for your terminal applications.&lt;/li>
+&lt;li>&lt;a href="https://github.com/spf13/cobra">https://github.com/spf13/cobra&lt;/a> A Commander for modern Go CLI interactions&lt;/li>
+&lt;li>&lt;a href="https://github.com/blockloop/scan">https://github.com/blockloop/scan&lt;/a> Scan database/sql rows directly to structs, slices, and primitive types&lt;/li>
+&lt;li>&lt;a href="https://github.com/maaslalani/slides">https://github.com/maaslalani/slides&lt;/a> Terminal based presentation tool&lt;/li>
+&lt;li>&lt;a href="https://github.com/ardanlabs/gotraining/tree/master/reading">https://github.com/ardanlabs/gotraining/tree/master/reading&lt;/a> There is a ton of links to extra reading and videos through out the material. Occasionally we run into material that we feel is important and don&amp;rsquo;t have an exact place to put it. This is a section place for that material.&lt;/li>
+&lt;li>&lt;a href="https://github.com/nikolaydubina/go-recipes">https://github.com/nikolaydubina/go-recipes&lt;/a> Handy commands to run in Go projects&lt;/li>
+&lt;li>&lt;a href="https://github.com/gojuno/minimock">https://github.com/gojuno/minimock&lt;/a> Powerful mock generation tool for Go programming language&lt;/li>
+&lt;li>&lt;a href="https://github.com/vbauerster/mpb">https://github.com/vbauerster/mpb&lt;/a> multi progress bar for Go cli applications&lt;/li>
+&lt;li>&lt;a href="https://github.com/MarvinJWendt/testza">https://github.com/MarvinJWendt/testza&lt;/a> Full-featured test framework for Go! Assertions, mocking, input testing, output capturing, and much more!&lt;/li>
+&lt;li>&lt;a href="https://github.com/go101/go101">https://github.com/go101/go101&lt;/a> An online book focusing on Go syntax/semantics and runtime related things&lt;/li>
+&lt;li>&lt;a href="https://github.com/nanovms/ops">https://github.com/nanovms/ops&lt;/a> ops - build and run nanos unikernels&lt;/li>
+&lt;li>&lt;a href="https://github.com/kris-nova/naml">https://github.com/kris-nova/naml&lt;/a> Not another markup language. Framework for replacing Kubernetes YAML with Go.&lt;/li>
+&lt;li>&lt;a href="https://github.com/AlecAivazis/survey">https://github.com/AlecAivazis/survey&lt;/a> A golang library for building interactive and accessible prompts with full support for windows and posix terminals.&lt;/li>
+&lt;li>&lt;a href="https://github.com/pokemium/Worldwide">https://github.com/pokemium/Worldwide&lt;/a> GameBoy Color emulator written in golang.&lt;/li>
+&lt;li>&lt;a href="https://github.com/qax-os/excelize">https://github.com/qax-os/excelize&lt;/a> Golang library for reading and writing Microsoft Excel™ (XLSX) files.&lt;/li>
+&lt;li>&lt;a href="https://github.com/buraksezer/connpool">https://github.com/buraksezer/connpool&lt;/a> Connection pool for Go&amp;rsquo;s net.Conn interface&lt;/li>
+&lt;li>&lt;a href="https://github.com/saurabh0719/go-hashlru">https://github.com/saurabh0719/go-hashlru&lt;/a> A simple thread-safe and fixed size LRU. Based on the Hashlru Algorithm&lt;/li>
+&lt;li>&lt;a href="https://github.com/tmrts/go-patterns">https://github.com/tmrts/go-patterns&lt;/a> Curated list of Go design patterns, recipes and idioms&lt;/li>
+&lt;li>&lt;a href="https://github.com/mathaou/termdbms">https://github.com/mathaou/termdbms&lt;/a> A TUI for viewing and editing database files.&lt;/li>
+&lt;li>&lt;a href="https://github.com/tomnomnom/gron">https://github.com/tomnomnom/gron&lt;/a> Make JSON greppable!&lt;/li>
+&lt;li>&lt;a href="https://github.com/FiloSottile/age">https://github.com/FiloSottile/age&lt;/a> A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.&lt;/li>
+&lt;li>&lt;a href="https://github.com/DataDog/go-profiler-notes">https://github.com/DataDog/go-profiler-notes&lt;/a> felixge&amp;rsquo;s notes on the various go profiling methods that are available.&lt;/li>
+&lt;li>&lt;a href="https://github.com/PuerkitoBio/goquery">https://github.com/PuerkitoBio/goquery&lt;/a> goquery brings a syntax and a set of features similar to jQuery to the Go language.&lt;/li>
+&lt;/ul></description></item></channel></rss>
