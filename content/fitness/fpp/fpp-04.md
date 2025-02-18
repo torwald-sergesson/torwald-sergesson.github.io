@@ -9,6 +9,8 @@ tags:
 params:
   skipAtHome: true
 description: |
+    Time: 18:00
+
     - Pompe incline (отжимания в уклон, ноги на возвышенность выше головы) - 4x10, R 30s.
     - Fente avant (выпады вперед) - 4x20, R 30s.
     - Gainage Actif (планка на локтях с попеременным подъемом противоположных руки и ноги) - 4x12, R 30s.
