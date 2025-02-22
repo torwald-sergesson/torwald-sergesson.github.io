@@ -9,6 +9,8 @@ tags:
 params:
   skipAtHome: true
 description: |
+    Time 18:00 
+
     - Pompes largeur d'epaule (отжимания на ширине плеч) - 4x10, R30s.
     - Releves de Jambes (подъем ног) - 4x20, R30s.
     - Jump Fentes (выпады с выпрыгиванием) - 4x15, R30s.
