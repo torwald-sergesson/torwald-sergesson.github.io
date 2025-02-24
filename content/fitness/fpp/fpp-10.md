@@ -9,6 +9,7 @@ tags:
 params:
   skipAtHome: true
 description: |
+    Time 05:00
     Circuit (N=3, Ne = [15, 10, 5], R30s):
     - Pompes classiques (классич. отжимания) - Ne, R0 (без отдыха - pas de repo avant le prochain exercice)
     - Jump squats - Ne, R0
