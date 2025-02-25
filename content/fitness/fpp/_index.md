@@ -15,7 +15,7 @@ description: A list of French Army exercises for physical preparation
 |[FPP-02](fpp-02)               | +  | 16:00    | ++   | ++   |       | +     |         |       |      |                        |
 |[FPP-04](fpp-04)               | +  | 18:00    | +    | +    | +     | +     |         |       |      |                        |
 |[FPP-05](fpp-05)               | +  | 18:00    | +    | +    | +     | +     |         |       |      |                        |
-|[FPP-06](fpp-06)               | +  |          | +    |      |       | ++    |         |       | +    |                        |
+|[FPP-06](fpp-06)               | +  | 20:00    | +    |      |       | ++    |         |       | +    |                        |
 |[FPP-07](fpp-07)               | +  |          | ++   | +    |       | +     |         |       |      |                        |
 |[FPP-08](fpp-08)               | +  |          | +    |      | ++    | +     |         |       |      |                        |
 |[FPP-09](fpp-09)               | +  |          | +    | +    |       |       |         |       | ++   | elastique              |
