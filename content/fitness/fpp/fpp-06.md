@@ -9,6 +9,7 @@ tags:
 params:
   skipAtHome: true
 description: |
+    Time 20:00
     - Gainage actif (повороты с вытягиванием одной руки в планке) - 4x20, R30s.
     - Tipping - 4x30s, R30s.
     - Gainage Superman (планка-супермен) - 4x45s, R30s.
