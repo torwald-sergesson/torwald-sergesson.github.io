@@ -9,6 +9,8 @@ tags:
 params:
   skipAtHome: true
 description: |
+    Time 16:00
+
     - Abdos rameur (пресс, вытягивание и подтягивания ног не опуская, имитация гребли) - 3x20, R30s.
     - Dips (обратные отжимания на трицепс) - 4x20, R30s.
     - Gaingage (планка на локтях) - 2x40s, R30s.
