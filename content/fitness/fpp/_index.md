@@ -33,7 +33,7 @@ description: A list of French Army exercises for physical preparation
 |[FPP-21](fpp-21)               | +  |          | +    |      |       | +     |         |       | ++   |                        |
 |[FPP-22](fpp-22)               | +  |          | +    | +    |       |       |         |       | +++  |                        |
 |[FPP-23](fpp-23)               | +  |          | +    | +    | +     | +     |         |       |      |                        |
-|[FPP-24](fpp-24)               | +  |          | +++  |      |       |       |         |       |      |                        |
+|[FPP-24](fpp-24)               | +  | 4:00     | +++  |      |       |       |         |       |      |                        |
 |[FPP-25](fpp-25)               | +  |          | ++   | +    |       | +     |         |       |      |                        |
 |[FPP-26](fpp-26)               | +  |          | ++   | +    |       | +     |         |       |      |                        |
 |[FPP-27](fpp-27)               | -  |          |      | +    | +     |       | +       |       | +    | брусья                 |
