@@ -9,6 +9,7 @@ tags:
 params:
   skipAtHome: true
 description: |
+    Time 4:00
     - Les pompes en prise large - 2x8+, R20s (отжимания широкой стойкой)
     - Les pompes diamants - 2x8+, R20s (алмазные отжимания)
     - Les pompes classiques - 2x8+, R30s (обычные отжимания)
