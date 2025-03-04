@@ -10,6 +10,7 @@ params:
   skipAtHome: true
 description: |
     Time 3:00
+
     Circuit (3 круга, без отдыха):
     - Les pompes en prise large genoux au sol - 15s, (широкие отжимания, с колен)
     - Squats - 15s
