@@ -9,6 +9,8 @@ tags:
 params:
   skipAtHome: true
 description: |
+    Time 10:00
+
     Circuit (3+ круга, R1min):
     - Pompes - 15
     - Abdos rameur - 20 (пресс, иммитация гребли)
