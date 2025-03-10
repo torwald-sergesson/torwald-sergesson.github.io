@@ -49,7 +49,79 @@
 &lt;/code>&lt;/pre></description></item><item><title>А.Н. Энгельгардт - Письма из деревни</title><link>https://torwald-sergesson.github.io/blog/2020/letters-from-village/</link><pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/blog/2020/letters-from-village/</guid><description>&lt;p>Читая про ведение дневников случайно наткнулся на статью из журнала Maxim (внезапно) со списком дневников, которые стоит прочесть. Я несколько предвзято к подобным рекомендациям, но вот конкретно “Письма из деревни” меня зацепили.&lt;/p>
 &lt;p>В этих “Письмах” автор - ссыльный профессор химии - рассказывал о жизни и ведении хозяйства в российской деревне спустя десяток-другой лет после отмены крепостного права. Некоторые персонажи там ещё помнили, как наполеоновских кавалеристов на вилы поднимали.&lt;/p>
 &lt;p>Книга написана очень живым языком. Множество моментов, отмеченных автором в поведении местных жителей (как правило крестьян) можно с легкостью узнать и в современных наших соотечественниках.
-Это и положительные качества, такие как терпение, честность (хотя и несколько своеобразная, “божеская”), готовность помочь ближнему последним (одни только истории про “хождение в кусочки” чего стоят), смекалка и трудолюбие. Так и отрицательные - взять, что “плохо лежит”, незнание и игнорирование законов (кроме “божьего закона”), суеверия и фатализм, преклонение перед начальством и т.д.&lt;/p></description></item><item><title>About me</title><link>https://torwald-sergesson.github.io/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/about/</guid><description>&lt;p>I&amp;rsquo;m a man with no plan.&lt;/p></description></item><item><title>Career</title><link>https://torwald-sergesson.github.io/dev/career/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/dev/career/</guid><description>&lt;h2 id="roadmaps">Roadmaps&lt;/h2>
+Это и положительные качества, такие как терпение, честность (хотя и несколько своеобразная, “божеская”), готовность помочь ближнему последним (одни только истории про “хождение в кусочки” чего стоят), смекалка и трудолюбие. Так и отрицательные - взять, что “плохо лежит”, незнание и игнорирование законов (кроме “божьего закона”), суеверия и фатализм, преклонение перед начальством и т.д.&lt;/p></description></item><item><title>About me</title><link>https://torwald-sergesson.github.io/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/about/</guid><description>&lt;p>I&amp;rsquo;m a man with no plan.&lt;/p></description></item><item><title>Calisthenics Exercise Catalog</title><link>https://torwald-sergesson.github.io/fitness/calisthenics-exercise-catalog/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/calisthenics-exercise-catalog/</guid><description>&lt;h2 id="psh-push-ups">PSH (Push-Ups)&lt;/h2>
+&lt;p>Push (Chest, Shoulders, Triceps) / Pompes (Poitrine, Épaules, Triceps) / Жимовые (Грудь, Плечи, Трицепс)&lt;/p>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Code&lt;/th>
+ &lt;th>English Name&lt;/th>
+ &lt;th>Nom Français&lt;/th>
+ &lt;th>Русское название&lt;/th>
+ &lt;th>Level&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>PSH-STD&lt;/td>
+ &lt;td>Standard Push-Ups&lt;/td>
+ &lt;td>Pompes classiques&lt;/td>
+ &lt;td>Отжимания классические&lt;/td>
+ &lt;td>2&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>PSH-KNE&lt;/td>
+ &lt;td>Knee Push-Ups&lt;/td>
+ &lt;td>Pompes sur les genoux&lt;/td>
+ &lt;td>Отжимания с колен&lt;/td>
+ &lt;td>1&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>PSH-WAL&lt;/td>
+ &lt;td>Wall Push-Ups&lt;/td>
+ &lt;td>Pompes contre un mur&lt;/td>
+ &lt;td>Отжимания от стены&lt;/td>
+ &lt;td>1&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>PSH-DIP&lt;/td>
+ &lt;td>Bench Dips&lt;/td>
+ &lt;td>Dips sur banc&lt;/td>
+ &lt;td>Обратные отжимания на скамье&lt;/td>
+ &lt;td>2&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>PSH-DIA&lt;/td>
+ &lt;td>Diamond Push-Ups&lt;/td>
+ &lt;td>Pompes diamant&lt;/td>
+ &lt;td>Алмазные отжимания&lt;/td>
+ &lt;td>2&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>PSH-DEC&lt;/td>
+ &lt;td>Decline Push-Ups&lt;/td>
+ &lt;td>Pompes déclinées&lt;/td>
+ &lt;td>Отжимания с ногами на высоте&lt;/td>
+ &lt;td>2&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>PSH-INC&lt;/td>
+ &lt;td>Incline Push-Ups&lt;/td>
+ &lt;td>Pompes inclinées&lt;/td>
+ &lt;td>Отжимания с руками на высоте&lt;/td>
+ &lt;td>1&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>PSH-OAR&lt;/td>
+ &lt;td>One-Arm Push-Ups&lt;/td>
+ &lt;td>Pompes à un bras&lt;/td>
+ &lt;td>Отжимания на одной руке&lt;/td>
+ &lt;td>3&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="bar-pull-ups">BAR (Pull-Ups)&lt;/h2>
+&lt;p>Pull (Back, Biceps) | Tractions (Dos, Biceps) | Тяговые (Спина, Бицепс)&lt;/p></description></item><item><title>Career</title><link>https://torwald-sergesson.github.io/dev/career/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/dev/career/</guid><description>&lt;h2 id="roadmaps">Roadmaps&lt;/h2>
 &lt;ul>
 &lt;li>Mobile Developer iOS &lt;a href="https://github.com/BohdanOrlov/iOS-Developer-Roadmap">https://github.com/BohdanOrlov/iOS-Developer-Roadmap&lt;/a>&lt;/li>
 &lt;li>Low-Level Developer &lt;a href="https://github.com/gurugio/lowlevelprogramming-university">https://github.com/gurugio/lowlevelprogramming-university&lt;/a>&lt;/li>
