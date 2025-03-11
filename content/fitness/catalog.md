@@ -7,96 +7,83 @@ tags:
 - workouts
 params:
   skipAtHome: false
-description: "Calisthenics Exercise Catalog | Catalogue des exercices | Каталог упражнений"
+description: 'Calisthenics Exercise Catalog | Каталог упражнений'
 ---
 
-## PSH (Push-Ups)
+## PSH – Push (Chest, Shoulders, Triceps) | Жимовые (Грудь, Плечи, Трицепс)  
 
-Push (Chest, Shoulders, Triceps) / Pompes (Poitrine, Épaules, Triceps) / Жимовые (Грудь, Плечи, Трицепс)  
+| Code     | Level | English Name         | Русское название             |
+|----------|-------|----------------------|------------------------------|
+| PSH-STD  | 2     | Standard Push-Ups    | Отжимания классические       |
+| PSH-KNE  | 1     | Knee Push-Ups        | Отжимания с колен            |
+| PSH-WAL  | 1     | Wall Push-Ups        | Отжимания от стены           |
+| PSH-DIP  | 2     | Bench Dips           | Обратные отжимания на скамье |
+| PSH-DIA  | 2     | Diamond Push-Ups     | Алмазные отжимания           |
+| PSH-DEC  | 2     | Decline Push-Ups     | Отжимания с ногами на высоте |
+| PSH-INC  | 1     | Incline Push-Ups     | Отжимания с руками на высоте |
+| PSH-OAR  | 3     | One-Arm Push-Ups     | Отжимания на одной руке      |
 
-| Code     | English Name            | Nom Français                | Русское название             | Level |
-|----------|-------------------------|-----------------------------|------------------------------|-------|
-| PSH-STD  | Standard Push-Ups       | Pompes classiques           | Отжимания классические       | 2     |
-| PSH-KNE  | Knee Push-Ups           | Pompes sur les genoux       | Отжимания с колен            | 1     |
-| PSH-WAL  | Wall Push-Ups           | Pompes contre un mur        | Отжимания от стены           | 1     |
-| PSH-DIP  | Bench Dips              | Dips sur banc               | Обратные отжимания на скамье | 2     |
-| PSH-DIA  | Diamond Push-Ups        | Pompes diamant              | Алмазные отжимания           | 2     |
-| PSH-DEC  | Decline Push-Ups        | Pompes déclinées            | Отжимания с ногами на высоте | 2     |
-| PSH-INC  | Incline Push-Ups        | Pompes inclinées            | Отжимания с руками на высоте | 1     |
-| PSH-OAR  | One-Arm Push-Ups        | Pompes à un bras            | Отжимания на одной руке      | 3     |
+---
 
-## BAR (Pull-Ups)
+## BAR – Pull (Back, Biceps) | Тяговые (Спина, Бицепс)  
 
-Pull (Back, Biceps) | Tractions (Dos, Biceps) | Тяговые (Спина, Бицепс)
+| Code     | Level | English Name         | Русское название             |
+|----------|-------|----------------------|------------------------------|
+| BAR-INV  | 1     | Australian Pull-Ups  | Австралийские подтягивания   |
+| BAR-NEG  | 2     | Negative Pull-Ups    | Негативные подтягивания      |
+| BAR-BAN  | 1     | Band-Assisted Pull-Ups | Подтягивания с резинкой    |
+| BAR-WID  | 2     | Wide-Grip Pull-Ups   | Подтягивания широким хватом  |
+| BAR-NAR  | 2     | Narrow-Grip Pull-Ups | Подтягивания узким хватом    |
+| BAR-CHI  | 2     | Chin-Ups             | Подтягивания обратным хватом |
+| BAR-OAR  | 3     | One-Arm Pull-Ups     | Подтягивания на одной руке   |
 
-| Code     | English Name            | Nom Français                | Русское название             | Level |
-|----------|-------------------------|-----------------------------|------------------------------|-------|
-| BAR-INV  | Australian Pull-Ups     | Tractions australiennes     | Австралийские подтягивания   | 1     |
-| BAR-NEG  | Negative Pull-Ups       | Tractions négatives         | Негативные подтягивания      | 2     |
-| BAR-BAN  | Band-Assisted Pull-Ups  | Tractions assistées         | Подтягивания с резинкой      | 1     |
-| BAR-WID  | Wide-Grip Pull-Ups      | Tractions prise large       | Подтягивания широким хватом  | 2     |
-| BAR-NAR  | Narrow-Grip Pull-Ups    | Tractions prise serrée      | Подтягивания узким хватом    | 2     |
-| BAR-CHI  | Chin-Ups                | Tractions supination        | Подтягивания обратным хватом | 2     |
-| BAR-OAR  | One-Arm Pull-Ups        | Traction à un bras          | Подтягивания на одной руке   | 3     |
+## LEG – Legs | Ноги  
 
-## LEG (Squats, Lunges)
+| Code     | Level | English Name         | Русское название             |
+|----------|-------|----------------------|------------------------------|
+| LEG-SQU  | 1     | Bodyweight Squats    | Приседания с весом тела      |
+| LEG-WAL  | 1     | Wall Sit             | Статический присед у стены   |
+| LEG-LUN  | 1     | Static Lunges        | Выпады на месте              |
+| LEG-JSQ  | 2     | Jump Squats          | Прыжковые приседания         |
+| LEG-BUL  | 2     | Bulgarian Lunges     | Болгарские выпады            |
+| LEG-PIS  | 3     | Pistol Squats        | Приседания "пистолетик"      |
 
-Legs | Jambes | Ноги
+## ABS – Core (Active) | Пресс (Активные упражнения)  
 
-| Code     | English Name            | Nom Français                | Русское название             | Level |
-|----------|-------------------------|-----------------------------|------------------------------|-------|
-| LEG-SQU  | Bodyweight Squats       | Squats poids du corps       | Приседания с весом тела      | 1     |
-| LEG-WAL  | Wall Sit                | Chaise contre le mur        | Статический присед у стены   | 1     |
-| LEG-LUN  | Static Lunges           | Fentes statiques            | Выпады на месте              | 1     |
-| LEG-JSQ  | Jump Squats             | Squats sautés               | Прыжковые приседания         | 2     |
-| LEG-BUL  | Bulgarian Lunges        | Fentes bulgares             | Болгарские выпады            | 2     |
-| LEG-PIS  | Pistol Squats           | Pistols squats              | Приседания "пистолетик"      | 3     |
+| Code     | Level | English Name         | Русское название            |
+|----------|-------|----------------------|-----------------------------|
+| ABS-CRN  | 1     | Crunches             | Скручивания                 |
+| ABS-LRS  | 2     | Leg Raises           | Подъём ног лёжа             |
+| ABS-BIK  | 2     | Bicycle Crunches     | Велосипед                   |
+| ABS-RUS  | 2     | Russian Twists       | Русские скручивания         |
+| ABS-HLR  | 3     | Hanging Leg Raises   | Подъём ног в висе           |
 
-## ABS (Core Active)
+## PLK – Core (Planks) | Пресс (Планки – статические и динамические)  
 
-Core (Active) | Abdominaux (Actifs) | Пресс (Активные упражнения)
+| Code     | Level | English Name         | Русское название            |
+|----------|-------|----------------------|-----------------------------|
+| PLK-STE  | 1     | Elbow Plank          | Планка на локтях            |
+| PLK-STH  | 1     | High Plank           | Планка на руках             |
+| PLK-SIE  | 1     | Side Plank (Elbow)   | Боковая планка (локти)      |
+| PLK-SIH  | 1     | Side Plank (Hands)   | Боковая планка (руки)       |
+| PLK-RKE  | 3     | RKC Plank (Elbow)    | RKC планка на локтях        |
+| PLK-RKH  | 3     | RKC Plank (Hands)    | RKC планка на руках         |
 
-| Code     | English Name            | Nom Français                    | Русское название             | Level |
-|----------|-------------------------|---------------------------------|------------------------------|-------|
-| ABS-CRN  | Crunches                | Crunchs classiques              | Скручивания                  | 1     |
-| ABS-LRS  | Leg Raises              | Relevés de jambes allongé       | Подъём ног лёжа              | 2     |
-| ABS-BIK  | Bicycle Crunches        | Crunchs bicyclettes             | Велосипед                    | 2     |
-| ABS-RUS  | Russian Twists          | Twists russes                   | Русские скручивания          | 2     |
-| ABS-HLR  | Hanging Leg Raises      | Relevés de jambes en suspension | Подъём ног в висе            | 3     |
+## BRP – Burpees | Бурпи  
 
-## PLK (Planks)
+| Code     | Level | English Name         | Русское название            |
+|----------|-------|----------------------|-----------------------------|
+| BRP-STD  | 2     | Standard Burpees     | Бурпи классические          |
+| BRP-JMP  | 2     | Jump Burpees         | Бурпи с прыжком             |
+| BRP-HLF  | 1     | Half Burpees         | Половинные бурпи            |
+| BRP-PUP  | 2     | Push-Up Burpees      | Бурпи с отжиманием          |
+| BRP-NSL  | 3     | Navy Seal Burpees    | Бурпи "морской котик"       |
 
-Core (Planks) | Gainage (Planches) | Пресс (Планки – статические и динамические)
+## FUN – Functional Movements | Функциональные движения  
 
-| Code     | English Name            | Nom Français                | Русское название            | Level |
-|----------|-------------------------|-----------------------------|-----------------------------|-------|
-| PLK-STE  | Elbow Plank             | Planche sur les coudes      | Планка на локтях            | 1     |
-| PLK-STH  | High Plank              | Planche sur les mains       | Планка на руках             | 1     |
-| PLK-SIE  | Side Plank (Elbow)      | Planche latérale (coudes)   | Боковая планка (локти)      | 1     |
-| PLK-SIH  | Side Plank (Hands)      | Planche latérale (mains)    | Боковая планка (руки)       | 1     |
-| PLK-RKE  | RKC Plank (Elbow)       | Planche RKC (coudes)        | RKC планка на локтях        | 3     |
-| PLK-RKH  | RKC Plank (Hands)       | Planche RKC (mains)         | RKC планка на руках         | 3     |
-
-## BRP (Burpess)
-
-Burpees | Burpees | Бурпи
-
-| Code     | English Name            | Nom Français                | Русское название            | Level |
-|----------|-------------------------|-----------------------------|-----------------------------|-------|
-| BRP-STD  | Standard Burpees        | Burpees classiques          | Бурпи классические          | 2     |
-| BRP-JMP  | Jump Burpees            | Burpees avec saut           | Бурпи с прыжком             | 2     |
-| BRP-HLF  | Half Burpees            | Demi-burpees                | Половинные бурпи            | 1     |
-| BRP-PUP  | Push-Up Burpees         | Burpees avec pompe          | Бурпи с отжиманием          | 2     |
-| BRP-NSL  | Navy Seal Burpees       | Burpees Navy Seal           | Бурпи "морской котик"       | 3     |
-
-## FUN (Functional) 
-
-Functional Movements | Mouvements Fonctionnels | Функциональные движения
-
-| Code     | English Name            | Nom Français                | Русское название             | Level |
-|----------|-------------------------|-----------------------------|------------------------------|-------|
-| FUN-JMP  | Jumping Jacks           | Jumping Jacks               | Прыжки "звездочка"           | 1     |
-| FUN-HSK  | High Knees              | Montées de genoux           | Бег с высоким подъемом колен | 1     |
-| FUN-BUN  | Butt Kicks              | Talons-fesses               | Забегание пяток за ягодицы   | 1     |
-| FUN-MTN  | Mountain Climbers       | Alpinistes                  | Альпинист                    | 2     |
-
+| Code     | Level | English Name         | Русское название             |
+|----------|-------|----------------------|------------------------------|
+| FUN-JMP  | 1     | Jumping Jacks        | Прыжки "звездочка"           |
+| FUN-HSK  | 1     | High Knees           | Бег с высоким подъемом колен |
+| FUN-BUN  | 1     | Butt Kicks           | Забегание пяток за ягодицы   |
+| FUN-MTN  | 2     | Mountain Climbers    | Альпинист                    |
