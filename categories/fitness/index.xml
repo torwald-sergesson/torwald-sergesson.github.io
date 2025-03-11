@@ -10,12 +10,6 @@
  &lt;/thead>
  &lt;tbody>
  &lt;tr>
- &lt;td>PSH-STD&lt;/td>
- &lt;td>2&lt;/td>
- &lt;td>Standard Push-Ups&lt;/td>
- &lt;td>Отжимания классические&lt;/td>
- &lt;/tr>
- &lt;tr>
  &lt;td>PSH-KNE&lt;/td>
  &lt;td>1&lt;/td>
  &lt;td>Knee Push-Ups&lt;/td>
@@ -26,6 +20,18 @@
  &lt;td>1&lt;/td>
  &lt;td>Wall Push-Ups&lt;/td>
  &lt;td>Отжимания от стены&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>PSH-INC&lt;/td>
+ &lt;td>1&lt;/td>
+ &lt;td>Incline Push-Ups&lt;/td>
+ &lt;td>Отжимания с руками на высоте&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>PSH-STD&lt;/td>
+ &lt;td>2&lt;/td>
+ &lt;td>Standard Push-Ups&lt;/td>
+ &lt;td>Отжимания классические&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>PSH-DIP&lt;/td>
@@ -44,12 +50,6 @@
  &lt;td>2&lt;/td>
  &lt;td>Decline Push-Ups&lt;/td>
  &lt;td>Отжимания с ногами на высоте&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>PSH-INC&lt;/td>
- &lt;td>1&lt;/td>
- &lt;td>Incline Push-Ups&lt;/td>
- &lt;td>Отжимания с руками на высоте&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>PSH-OAR&lt;/td>
@@ -78,16 +78,16 @@
  &lt;td>Австралийские подтягивания&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td>BAR-NEG&lt;/td>
- &lt;td>2&lt;/td>
- &lt;td>Negative Pull-Ups&lt;/td>
- &lt;td>Негативные подтягивания&lt;/td>
- &lt;/tr>
- &lt;tr>
  &lt;td>BAR-BAN&lt;/td>
  &lt;td>1&lt;/td>
  &lt;td>Band-Assisted Pull-Ups&lt;/td>
  &lt;td>Подтягивания с резинкой&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>BAR-NEG&lt;/td>
+ &lt;td>2&lt;/td>
+ &lt;td>Negative Pull-Ups&lt;/td>
+ &lt;td>Негативные подтягивания&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>BAR-WID&lt;/td>
@@ -268,6 +268,12 @@
  &lt;/thead>
  &lt;tbody>
  &lt;tr>
+ &lt;td>BRP-HLF&lt;/td>
+ &lt;td>1&lt;/td>
+ &lt;td>Half Burpees&lt;/td>
+ &lt;td>Половинные бурпи&lt;/td>
+ &lt;/tr>
+ &lt;tr>
  &lt;td>BRP-STD&lt;/td>
  &lt;td>2&lt;/td>
  &lt;td>Standard Burpees&lt;/td>
@@ -278,12 +284,6 @@
  &lt;td>2&lt;/td>
  &lt;td>Jump Burpees&lt;/td>
  &lt;td>Бурпи с прыжком&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>BRP-HLF&lt;/td>
- &lt;td>1&lt;/td>
- &lt;td>Half Burpees&lt;/td>
- &lt;td>Половинные бурпи&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>BRP-PUP&lt;/td>
