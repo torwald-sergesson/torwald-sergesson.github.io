@@ -178,7 +178,7 @@
  &lt;/thead>
  &lt;tbody>
  &lt;tr>
- &lt;td>LEG-SQU&lt;/td>
+ &lt;td>LEG-SQT&lt;/td>
  &lt;td>1&lt;/td>
  &lt;td>Bodyweight Squats&lt;/td>
  &lt;td>Приседания с весом тела&lt;/td>
@@ -237,6 +237,12 @@
  &lt;td>2&lt;/td>
  &lt;td>Leg Raises&lt;/td>
  &lt;td>Подъём ног лёжа&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>ABS-FLK&lt;/td>
+ &lt;td>2&lt;/td>
+ &lt;td>Flutter Kick&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>ABS-BIK&lt;/td>
