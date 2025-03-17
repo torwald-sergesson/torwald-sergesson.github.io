@@ -41,7 +41,7 @@ description: 'Calisthenics Exercise Catalog | Каталог упражнени�
 
 | Code     | Level | English Name         | Русское название             |
 |----------|-------|----------------------|------------------------------|
-| LEG-SQU  | 1     | Bodyweight Squats    | Приседания с весом тела      |
+| LEG-SQT  | 1     | Bodyweight Squats    | Приседания с весом тела      |
 | LEG-WAL  | 1     | Wall Sit             | Статический присед у стены   |
 | LEG-LUN  | 1     | Static Lunges        | Выпады на месте              |
 | LEG-JSQ  | 2     | Jump Squats          | Прыжковые приседания         |
@@ -54,6 +54,7 @@ description: 'Calisthenics Exercise Catalog | Каталог упражнени�
 |----------|-------|----------------------|-----------------------------|
 | ABS-CRN  | 1     | Crunches             | Скручивания                 |
 | ABS-LRS  | 2     | Leg Raises           | Подъём ног лёжа             |
+| ABS-FLK  | 2     | Flutter Kick         |                             |
 | ABS-BIK  | 2     | Bicycle Crunches     | Велосипед                   |
 | ABS-RUS  | 2     | Russian Twists       | Русские скручивания         |
 | ABS-HLR  | 3     | Hanging Leg Raises   | Подъём ног в висе           |
