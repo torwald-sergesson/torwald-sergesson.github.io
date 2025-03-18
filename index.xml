@@ -97,6 +97,18 @@
  &lt;td>Алмазные отжимания&lt;/td>
  &lt;/tr>
  &lt;tr>
+ &lt;td>PSH-TRV&lt;/td>
+ &lt;td>2&lt;/td>
+ &lt;td>Travel Push-Ups&lt;/td>
+ &lt;td>Путешествующие отжимания&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>PSH-JMP&lt;/td>
+ &lt;td>2&lt;/td>
+ &lt;td>Jump Push-Ups&lt;/td>
+ &lt;td>Отжимания со взрывом&lt;/td>
+ &lt;/tr>
+ &lt;tr>
  &lt;td>PSH-DEC&lt;/td>
  &lt;td>2&lt;/td>
  &lt;td>Decline Push-Ups&lt;/td>
@@ -190,25 +202,31 @@
  &lt;td>Статический присед у стены&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td>LEG-LUN&lt;/td>
+ &lt;td>LEG-LNG&lt;/td>
  &lt;td>1&lt;/td>
  &lt;td>Static Lunges&lt;/td>
  &lt;td>Выпады на месте&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td>LEG-JSQ&lt;/td>
+ &lt;td>LEG-SQJ&lt;/td>
  &lt;td>2&lt;/td>
  &lt;td>Jump Squats&lt;/td>
  &lt;td>Прыжковые приседания&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td>LEG-BUL&lt;/td>
+ &lt;td>LEG-LNJ&lt;/td>
+ &lt;td>2&lt;/td>
+ &lt;td>Jump Lunges&lt;/td>
+ &lt;td>Прыжковые выпады&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>LEG-LBG&lt;/td>
  &lt;td>2&lt;/td>
  &lt;td>Bulgarian Lunges&lt;/td>
  &lt;td>Болгарские выпады&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td>LEG-PIS&lt;/td>
+ &lt;td>LEG-SPS&lt;/td>
  &lt;td>3&lt;/td>
  &lt;td>Pistol Squats&lt;/td>
  &lt;td>Приседания &amp;ldquo;пистолетик&amp;rdquo;&lt;/td>
@@ -233,7 +251,7 @@
  &lt;td>Скручивания&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td>ABS-LRS&lt;/td>
+ &lt;td>ABS-LGR&lt;/td>
  &lt;td>2&lt;/td>
  &lt;td>Leg Raises&lt;/td>
  &lt;td>Подъём ног лёжа&lt;/td>
@@ -298,6 +316,30 @@
  &lt;td>1&lt;/td>
  &lt;td>Side Plank (Hands)&lt;/td>
  &lt;td>Боковая планка (руки)&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>PLK-3SE&lt;/td>
+ &lt;td>1&lt;/td>
+ &lt;td>3-Side Plank (Elbow)&lt;/td>
+ &lt;td>3-стороны планка (локти)&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>PLK-3SH&lt;/td>
+ &lt;td>1&lt;/td>
+ &lt;td>3-Side Plank (Hands)&lt;/td>
+ &lt;td>3-стороны планка (руки)&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>PLK-4SE&lt;/td>
+ &lt;td>1&lt;/td>
+ &lt;td>4-Side Plank (Elbow)&lt;/td>
+ &lt;td>4-стороны планка (локти)&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>PLK-4SH&lt;/td>
+ &lt;td>1&lt;/td>
+ &lt;td>4-Side Plank (Hands)&lt;/td>
+ &lt;td>4-стороны планка (руки)&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>PLK-RKE&lt;/td>
@@ -368,25 +410,25 @@
  &lt;/thead>
  &lt;tbody>
  &lt;tr>
- &lt;td>FUN-JMP&lt;/td>
+ &lt;td>FUN-JJ&lt;/td>
  &lt;td>1&lt;/td>
  &lt;td>Jumping Jacks&lt;/td>
  &lt;td>Прыжки &amp;ldquo;звездочка&amp;rdquo;&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td>FUN-HSK&lt;/td>
+ &lt;td>FUN-HKN&lt;/td>
  &lt;td>1&lt;/td>
  &lt;td>High Knees&lt;/td>
  &lt;td>Бег с высоким подъемом колен&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td>FUN-BUN&lt;/td>
+ &lt;td>FUN-BUT&lt;/td>
  &lt;td>1&lt;/td>
  &lt;td>Butt Kicks&lt;/td>
  &lt;td>Забегание пяток за ягодицы&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td>FUN-MTN&lt;/td>
+ &lt;td>FUN-MCL&lt;/td>
  &lt;td>2&lt;/td>
  &lt;td>Mountain Climbers&lt;/td>
  &lt;td>Альпинист&lt;/td>
