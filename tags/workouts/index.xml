@@ -145,6 +145,18 @@
  &lt;td>Приседания с весом тела&lt;/td>
  &lt;/tr>
  &lt;tr>
+ &lt;td>LEG-SUM&lt;/td>
+ &lt;td>1&lt;/td>
+ &lt;td>Sumo squats&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>LEG-SMS&lt;/td>
+ &lt;td>1&lt;/td>
+ &lt;td>Sumo static&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
  &lt;td>LEG-WAL&lt;/td>
  &lt;td>1&lt;/td>
  &lt;td>Wall Sit&lt;/td>
@@ -381,6 +393,12 @@
  &lt;td>2&lt;/td>
  &lt;td>Mountain Climbers&lt;/td>
  &lt;td>Альпинист&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>FUN-TIP&lt;/td>
+ &lt;td>2&lt;/td>
+ &lt;td>Tipping&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;/tbody>
 &lt;/table></description></item><item><title>FLL - Programme d'entraînement au luc léger</title><link>https://torwald-sergesson.github.io/fitness/luc-leger/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/luc-leger/</guid><description/></item><item><title>FLL - Programme d'entraînement au luc léger - Timer</title><link>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-timer/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-timer/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/gVp9kx8RKH0?si=tQ3briZGv5e71uMs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>&lt;/iframe>

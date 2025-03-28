@@ -145,6 +145,18 @@
  &lt;td>Приседания с весом тела&lt;/td>
  &lt;/tr>
  &lt;tr>
+ &lt;td>LEG-SUM&lt;/td>
+ &lt;td>1&lt;/td>
+ &lt;td>Sumo squats&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>LEG-SMS&lt;/td>
+ &lt;td>1&lt;/td>
+ &lt;td>Sumo static&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
  &lt;td>LEG-WAL&lt;/td>
  &lt;td>1&lt;/td>
  &lt;td>Wall Sit&lt;/td>
@@ -381,6 +393,12 @@
  &lt;td>2&lt;/td>
  &lt;td>Mountain Climbers&lt;/td>
  &lt;td>Альпинист&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>FUN-TIP&lt;/td>
+ &lt;td>2&lt;/td>
+ &lt;td>Tipping&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;/tbody>
 &lt;/table></description></item></channel></rss>
