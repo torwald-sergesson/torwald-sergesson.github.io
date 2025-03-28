@@ -44,6 +44,8 @@ description: 'Calisthenics Exercise Catalog | Каталог упражнени�
 | Code     | Level | English Name         | Русское название             |
 |----------|-------|----------------------|------------------------------|
 | LEG-SQT  | 1     | Bodyweight Squats    | Приседания с весом тела      |
+| LEG-SUM  | 1      | Sumo squats          |                                |
+| LEG-SMS  | 1      | Sumo static          |                                |
 | LEG-WAL  | 1     | Wall Sit             | Статический присед у стены   |
 | LEG-LNG  | 1     | Static Lunges        | Выпады на месте              |
 | LEG-SQJ  | 2     | Jump Squats          | Прыжковые приседания         |
@@ -95,3 +97,4 @@ description: 'Calisthenics Exercise Catalog | Каталог упражнени�
 | FUN-HKN  | 1     | High Knees           | Бег с высоким подъемом колен |
 | FUN-BUT  | 1     | Butt Kicks           | Забегание пяток за ягодицы   |
 | FUN-MCL  | 2     | Mountain Climbers    | Альпинист                    |
+| FUN-TIP  | 2     | Tipping              |                              |
