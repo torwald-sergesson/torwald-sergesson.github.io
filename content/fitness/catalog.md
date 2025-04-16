@@ -44,12 +44,13 @@ description: 'Calisthenics Exercise Catalog | Каталог упражнени�
 | Code     | Level | English Name         | Русское название             |
 |----------|-------|----------------------|------------------------------|
 | LEG-SQT  | 1     | Bodyweight Squats    | Приседания с весом тела      |
-| LEG-SUM  | 1      | Sumo squats          |                                |
-| LEG-SMS  | 1      | Sumo static          |                                |
+| LEG-SUM  | 1     | Sumo squats          |                                |
+| LEG-SMS  | 1     | Sumo static          |                                |
 | LEG-WAL  | 1     | Wall Sit             | Статический присед у стены   |
 | LEG-LNG  | 1     | Static Lunges        | Выпады на месте              |
 | LEG-SQJ  | 2     | Jump Squats          | Прыжковые приседания         |
 | LEG-LNJ  | 2     | Jump Lunges          | Прыжковые выпады             |
+| LEG-LAT  | 2     | Squats Lateral       |                              |
 | LEG-LBG  | 2     | Bulgarian Lunges     | Болгарские выпады            |
 | LEG-SPS  | 3     | Pistol Squats        | Приседания "пистолетик"      |
 
