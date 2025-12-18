@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cheatsheet on Torwald Log</title><link>https://torwald-sergesson.github.io/tags/cheatsheet/</link><description>Recent content in Cheatsheet on Torwald Log</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 19 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://torwald-sergesson.github.io/tags/cheatsheet/index.xml" rel="self" type="application/rss+xml"/><item><title>Copy files from/to Kubernetes</title><link>https://torwald-sergesson.github.io/blog/2021/2021-03-19-copy-files-from-to-k8s/</link><pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/blog/2021/2021-03-19-copy-files-from-to-k8s/</guid><description>&lt;p>This is kind of analogue of &lt;code>scp&lt;/code> command for copying files from/to K8s pods.&lt;/p>
-&lt;p>There are a command:&lt;/p>
-&lt;pre tabindex="0">&lt;code>kubectl cp &amp;lt;from&amp;gt; &amp;lt;to&amp;gt;
-&lt;/code>&lt;/pre>&lt;p>Copy file from Pod to local machine:&lt;/p>
-&lt;pre tabindex="0">&lt;code>kubectl cp my-namespace/some-pod:/path/to/file /path/to/file/at/my/laptop
-&lt;/code>&lt;/pre>&lt;p>Copy file from the local machine to Pod:&lt;/p>
-&lt;pre tabindex="0">&lt;code>kubectl cp /path/to/my/local/file my-namespace/some-pod:/path/to/file
-&lt;/code>&lt;/pre></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cheatsheet on Torwald Log</title><link>https://torwald-sergesson.github.io/tags/cheatsheet/</link><description>Recent content in Cheatsheet on Torwald Log</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 19 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://torwald-sergesson.github.io/tags/cheatsheet/index.xml" rel="self" type="application/rss+xml"/><item><title>Copy files from/to Kubernetes</title><link>https://torwald-sergesson.github.io/blog/2021/2021-03-19-copy-files-from-to-k8s/</link><pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/blog/2021/2021-03-19-copy-files-from-to-k8s/</guid><description>&lt;p&gt;This is kind of analogue of &lt;code&gt;scp&lt;/code&gt; command for copying files from/to K8s pods.&lt;/p&gt;
+&lt;p&gt;There are a command:&lt;/p&gt;
+&lt;pre tabindex="0"&gt;&lt;code&gt;kubectl cp &amp;lt;from&amp;gt; &amp;lt;to&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Copy file from Pod to local machine:&lt;/p&gt;
+&lt;pre tabindex="0"&gt;&lt;code&gt;kubectl cp my-namespace/some-pod:/path/to/file /path/to/file/at/my/laptop
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Copy file from the local machine to Pod:&lt;/p&gt;
+&lt;pre tabindex="0"&gt;&lt;code&gt;kubectl cp /path/to/my/local/file my-namespace/some-pod:/path/to/file
+&lt;/code&gt;&lt;/pre&gt;</description></item></channel></rss>

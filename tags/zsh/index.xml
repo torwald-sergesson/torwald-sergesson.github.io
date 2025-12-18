@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Zsh on Torwald Log</title><link>https://torwald-sergesson.github.io/tags/zsh/</link><description>Recent content in Zsh on Torwald Log</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://torwald-sergesson.github.io/tags/zsh/index.xml" rel="self" type="application/rss+xml"/><item><title>ZSH config files</title><link>https://torwald-sergesson.github.io/dev/zsh-configs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/dev/zsh-configs/</guid><description>&lt;pre tabindex="0">&lt;code># Path to your oh-my-zsh installation.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Zsh on Torwald Log</title><link>https://torwald-sergesson.github.io/tags/zsh/</link><description>Recent content in Zsh on Torwald Log</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://torwald-sergesson.github.io/tags/zsh/index.xml" rel="self" type="application/rss+xml"/><item><title>ZSH config files</title><link>https://torwald-sergesson.github.io/dev/zsh-configs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/dev/zsh-configs/</guid><description>&lt;pre tabindex="0"&gt;&lt;code&gt;# Path to your oh-my-zsh installation.
 export ZSH=$HOME/.oh-my-zsh
 
 # Set name of the theme to load.
@@ -126,4 +126,4 @@ alias gh=&amp;#39;w3m https://github.com&amp;#39;
 alias tpb=&amp;#39;w3m https://piratebay.to&amp;#39;
 alias mcm=&amp;#39;make clean; make&amp;#39;
 alias lor=&amp;#39;w3m http://linux.org.ru&amp;#39;
-&lt;/code>&lt;/pre></description></item></channel></rss>
+&lt;/code&gt;&lt;/pre&gt;</description></item></channel></rss>

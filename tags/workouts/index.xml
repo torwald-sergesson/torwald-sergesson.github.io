@@ -1,1052 +1,1199 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Workouts on Torwald Log</title><link>https://torwald-sergesson.github.io/tags/workouts/</link><description>Recent content in Workouts on Torwald Log</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://torwald-sergesson.github.io/tags/workouts/index.xml" rel="self" type="application/rss+xml"/><item><title>Calisthenics Exercise Catalog</title><link>https://torwald-sergesson.github.io/fitness/calisthenics-exercise-catalog/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/calisthenics-exercise-catalog/</guid><description>&lt;h2 id="psh--push-chest-shoulders-triceps--жимовые-грудь-плечи-трицепс">PSH – Push (Chest, Shoulders, Triceps) | Жимовые (Грудь, Плечи, Трицепс)&lt;/h2>
-&lt;table>
- &lt;thead>
- &lt;tr>
- &lt;th>Code&lt;/th>
- &lt;th>Level&lt;/th>
- &lt;th>English Name&lt;/th>
- &lt;th>Русское название&lt;/th>
- &lt;/tr>
- &lt;/thead>
- &lt;tbody>
- &lt;tr>
- &lt;td>PSH-KNE&lt;/td>
- &lt;td>1&lt;/td>
- &lt;td>Knee Push-Ups&lt;/td>
- &lt;td>Отжимания с колен&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>PSH-WAL&lt;/td>
- &lt;td>1&lt;/td>
- &lt;td>Wall Push-Ups&lt;/td>
- &lt;td>Отжимания от стены&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>PSH-INC&lt;/td>
- &lt;td>1&lt;/td>
- &lt;td>Incline Push-Ups&lt;/td>
- &lt;td>Отжимания с руками на высоте&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>PSH-STD&lt;/td>
- &lt;td>2&lt;/td>
- &lt;td>Standard Push-Ups&lt;/td>
- &lt;td>Отжимания классические&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>PSH-DIP&lt;/td>
- &lt;td>2&lt;/td>
- &lt;td>Bench Dips&lt;/td>
- &lt;td>Обратные отжимания на скамье&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>PSH-DIA&lt;/td>
- &lt;td>2&lt;/td>
- &lt;td>Diamond Push-Ups&lt;/td>
- &lt;td>Алмазные отжимания&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>PSH-TRV&lt;/td>
- &lt;td>2&lt;/td>
- &lt;td>Travel Push-Ups&lt;/td>
- &lt;td>Путешествующие отжимания&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>PSH-JMP&lt;/td>
- &lt;td>2&lt;/td>
- &lt;td>Jump Push-Ups&lt;/td>
- &lt;td>Отжимания со взрывом&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>PSH-DEC&lt;/td>
- &lt;td>2&lt;/td>
- &lt;td>Decline Push-Ups&lt;/td>
- &lt;td>Отжимания с ногами на высоте&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>PSH-OAR&lt;/td>
- &lt;td>3&lt;/td>
- &lt;td>One-Arm Push-Ups&lt;/td>
- &lt;td>Отжимания на одной руке&lt;/td>
- &lt;/tr>
- &lt;/tbody>
-&lt;/table>
-&lt;hr>
-&lt;h2 id="bar--pull-back-biceps--тяговые-спина-бицепс">BAR – Pull (Back, Biceps) | Тяговые (Спина, Бицепс)&lt;/h2>
-&lt;table>
- &lt;thead>
- &lt;tr>
- &lt;th>Code&lt;/th>
- &lt;th>Level&lt;/th>
- &lt;th>English Name&lt;/th>
- &lt;th>Русское название&lt;/th>
- &lt;/tr>
- &lt;/thead>
- &lt;tbody>
- &lt;tr>
- &lt;td>BAR-INV&lt;/td>
- &lt;td>1&lt;/td>
- &lt;td>Australian Pull-Ups&lt;/td>
- &lt;td>Австралийские подтягивания&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>BAR-BAN&lt;/td>
- &lt;td>1&lt;/td>
- &lt;td>Band-Assisted Pull-Ups&lt;/td>
- &lt;td>Подтягивания с резинкой&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>BAR-NEG&lt;/td>
- &lt;td>2&lt;/td>
- &lt;td>Negative Pull-Ups&lt;/td>
- &lt;td>Негативные подтягивания&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>BAR-WID&lt;/td>
- &lt;td>2&lt;/td>
- &lt;td>Wide-Grip Pull-Ups&lt;/td>
- &lt;td>Подтягивания широким хватом&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>BAR-NAR&lt;/td>
- &lt;td>2&lt;/td>
- &lt;td>Narrow-Grip Pull-Ups&lt;/td>
- &lt;td>Подтягивания узким хватом&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>BAR-CHI&lt;/td>
- &lt;td>2&lt;/td>
- &lt;td>Chin-Ups&lt;/td>
- &lt;td>Подтягивания обратным хватом&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>BAR-OAR&lt;/td>
- &lt;td>3&lt;/td>
- &lt;td>One-Arm Pull-Ups&lt;/td>
- &lt;td>Подтягивания на одной руке&lt;/td>
- &lt;/tr>
- &lt;/tbody>
-&lt;/table>
-&lt;h2 id="leg--legs--ноги">LEG – Legs | Ноги&lt;/h2>
-&lt;table>
- &lt;thead>
- &lt;tr>
- &lt;th>Code&lt;/th>
- &lt;th>Level&lt;/th>
- &lt;th>English Name&lt;/th>
- &lt;th>Русское название&lt;/th>
- &lt;/tr>
- &lt;/thead>
- &lt;tbody>
- &lt;tr>
- &lt;td>LEG-SQT&lt;/td>
- &lt;td>1&lt;/td>
- &lt;td>Bodyweight Squats&lt;/td>
- &lt;td>Приседания с весом тела&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>LEG-SUM&lt;/td>
- &lt;td>1&lt;/td>
- &lt;td>Sumo squats&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>LEG-SMS&lt;/td>
- &lt;td>1&lt;/td>
- &lt;td>Sumo static&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>LEG-WAL&lt;/td>
- &lt;td>1&lt;/td>
- &lt;td>Wall Sit&lt;/td>
- &lt;td>Статический присед у стены&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>LEG-LNG&lt;/td>
- &lt;td>1&lt;/td>
- &lt;td>Static Lunges&lt;/td>
- &lt;td>Выпады на месте&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>LEG-SQJ&lt;/td>
- &lt;td>2&lt;/td>
- &lt;td>Jump Squats&lt;/td>
- &lt;td>Прыжковые приседания&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>LEG-LNJ&lt;/td>
- &lt;td>2&lt;/td>
- &lt;td>Jump Lunges&lt;/td>
- &lt;td>Прыжковые выпады&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>LEG-LAT&lt;/td>
- &lt;td>2&lt;/td>
- &lt;td>Squats Lateral&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>LEG-LBG&lt;/td>
- &lt;td>2&lt;/td>
- &lt;td>Bulgarian Lunges&lt;/td>
- &lt;td>Болгарские выпады&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>LEG-SPS&lt;/td>
- &lt;td>3&lt;/td>
- &lt;td>Pistol Squats&lt;/td>
- &lt;td>Приседания &amp;ldquo;пистолетик&amp;rdquo;&lt;/td>
- &lt;/tr>
- &lt;/tbody>
-&lt;/table>
-&lt;h2 id="abs--core-active--пресс-активные-упражнения">ABS – Core (Active) | Пресс (Активные упражнения)&lt;/h2>
-&lt;table>
- &lt;thead>
- &lt;tr>
- &lt;th>Code&lt;/th>
- &lt;th>Level&lt;/th>
- &lt;th>English Name&lt;/th>
- &lt;th>Русское название&lt;/th>
- &lt;/tr>
- &lt;/thead>
- &lt;tbody>
- &lt;tr>
- &lt;td>ABS-CRN&lt;/td>
- &lt;td>1&lt;/td>
- &lt;td>Crunches&lt;/td>
- &lt;td>Скручивания&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>ABS-LGR&lt;/td>
- &lt;td>2&lt;/td>
- &lt;td>Leg Raises&lt;/td>
- &lt;td>Подъём ног лёжа&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>ABS-FLK&lt;/td>
- &lt;td>2&lt;/td>
- &lt;td>Flutter Kick&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>ABS-BIK&lt;/td>
- &lt;td>2&lt;/td>
- &lt;td>Bicycle Crunches&lt;/td>
- &lt;td>Велосипед&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>ABS-RUS&lt;/td>
- &lt;td>2&lt;/td>
- &lt;td>Russian Twists&lt;/td>
- &lt;td>Русские скручивания&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>ABS-HLR&lt;/td>
- &lt;td>3&lt;/td>
- &lt;td>Hanging Leg Raises&lt;/td>
- &lt;td>Подъём ног в висе&lt;/td>
- &lt;/tr>
- &lt;/tbody>
-&lt;/table>
-&lt;h2 id="plk--core-planks--пресс-планки--статические-и-динамические">PLK – Core (Planks) | Пресс (Планки – статические и динамические)&lt;/h2>
-&lt;table>
- &lt;thead>
- &lt;tr>
- &lt;th>Code&lt;/th>
- &lt;th>Level&lt;/th>
- &lt;th>English Name&lt;/th>
- &lt;th>Русское название&lt;/th>
- &lt;/tr>
- &lt;/thead>
- &lt;tbody>
- &lt;tr>
- &lt;td>PLK-STE&lt;/td>
- &lt;td>1&lt;/td>
- &lt;td>Elbow Plank&lt;/td>
- &lt;td>Планка на локтях&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>PLK-STH&lt;/td>
- &lt;td>1&lt;/td>
- &lt;td>High Plank&lt;/td>
- &lt;td>Планка на руках&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>PLK-SIE&lt;/td>
- &lt;td>1&lt;/td>
- &lt;td>Side Plank (Elbow)&lt;/td>
- &lt;td>Боковая планка (локти)&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>PLK-SIH&lt;/td>
- &lt;td>1&lt;/td>
- &lt;td>Side Plank (Hands)&lt;/td>
- &lt;td>Боковая планка (руки)&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>PLK-3SE&lt;/td>
- &lt;td>1&lt;/td>
- &lt;td>3-Side Plank (Elbow)&lt;/td>
- &lt;td>3-стороны планка (локти)&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>PLK-3SH&lt;/td>
- &lt;td>1&lt;/td>
- &lt;td>3-Side Plank (Hands)&lt;/td>
- &lt;td>3-стороны планка (руки)&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>PLK-4SE&lt;/td>
- &lt;td>1&lt;/td>
- &lt;td>4-Side Plank (Elbow)&lt;/td>
- &lt;td>4-стороны планка (локти)&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>PLK-4SH&lt;/td>
- &lt;td>1&lt;/td>
- &lt;td>4-Side Plank (Hands)&lt;/td>
- &lt;td>4-стороны планка (руки)&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>PLK-RKE&lt;/td>
- &lt;td>3&lt;/td>
- &lt;td>RKC Plank (Elbow)&lt;/td>
- &lt;td>RKC планка на локтях&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>PLK-RKH&lt;/td>
- &lt;td>3&lt;/td>
- &lt;td>RKC Plank (Hands)&lt;/td>
- &lt;td>RKC планка на руках&lt;/td>
- &lt;/tr>
- &lt;/tbody>
-&lt;/table>
-&lt;h2 id="brp--burpees--бурпи">BRP – Burpees | Бурпи&lt;/h2>
-&lt;table>
- &lt;thead>
- &lt;tr>
- &lt;th>Code&lt;/th>
- &lt;th>Level&lt;/th>
- &lt;th>English Name&lt;/th>
- &lt;th>Русское название&lt;/th>
- &lt;/tr>
- &lt;/thead>
- &lt;tbody>
- &lt;tr>
- &lt;td>BRP-HLF&lt;/td>
- &lt;td>1&lt;/td>
- &lt;td>Half Burpees&lt;/td>
- &lt;td>Половинные бурпи&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>BRP-STD&lt;/td>
- &lt;td>2&lt;/td>
- &lt;td>Standard Burpees&lt;/td>
- &lt;td>Бурпи классические&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>BRP-JMP&lt;/td>
- &lt;td>2&lt;/td>
- &lt;td>Jump Burpees&lt;/td>
- &lt;td>Бурпи с прыжком&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>BRP-PUP&lt;/td>
- &lt;td>2&lt;/td>
- &lt;td>Push-Up Burpees&lt;/td>
- &lt;td>Бурпи с отжиманием&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>BRP-NSL&lt;/td>
- &lt;td>3&lt;/td>
- &lt;td>Navy Seal Burpees&lt;/td>
- &lt;td>Бурпи &amp;ldquo;морской котик&amp;rdquo;&lt;/td>
- &lt;/tr>
- &lt;/tbody>
-&lt;/table>
-&lt;h2 id="fun--functional-movements--функциональные-движения">FUN – Functional Movements | Функциональные движения&lt;/h2>
-&lt;table>
- &lt;thead>
- &lt;tr>
- &lt;th>Code&lt;/th>
- &lt;th>Level&lt;/th>
- &lt;th>English Name&lt;/th>
- &lt;th>Русское название&lt;/th>
- &lt;/tr>
- &lt;/thead>
- &lt;tbody>
- &lt;tr>
- &lt;td>FUN-JJ&lt;/td>
- &lt;td>1&lt;/td>
- &lt;td>Jumping Jacks&lt;/td>
- &lt;td>Прыжки &amp;ldquo;звездочка&amp;rdquo;&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>FUN-HKN&lt;/td>
- &lt;td>1&lt;/td>
- &lt;td>High Knees&lt;/td>
- &lt;td>Бег с высоким подъемом колен&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>FUN-BUT&lt;/td>
- &lt;td>1&lt;/td>
- &lt;td>Butt Kicks&lt;/td>
- &lt;td>Забегание пяток за ягодицы&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>FUN-MCL&lt;/td>
- &lt;td>2&lt;/td>
- &lt;td>Mountain Climbers&lt;/td>
- &lt;td>Альпинист&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>FUN-TIP&lt;/td>
- &lt;td>2&lt;/td>
- &lt;td>Tipping&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;/tbody>
-&lt;/table></description></item><item><title>FLL - Programme d'entraînement au luc léger</title><link>https://torwald-sergesson.github.io/fitness/luc-leger/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/luc-leger/</guid><description/></item><item><title>FLL - Programme d'entraînement au luc léger - Timer</title><link>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-timer/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-timer/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/gVp9kx8RKH0?si=tQ3briZGv5e71uMs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>&lt;/iframe>
-&lt;p>&lt;a href="https://youtu.be/gVp9kx8RKH0?si=tQ3briZGv5e71uMs">Video&lt;/a>&lt;/p></description></item><item><title>FLL-01 - Programme d'entraînement au luc léger - Séance 01/10</title><link>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-01/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-01/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/IeFsRgx9pq0?si=6cAZFeLeU0bwMQTE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
-&lt;p>&lt;a href="https://youtu.be/IeFsRgx9pq0?si=6cAZFeLeU0bwMQTE">Video&lt;/a>&lt;/p></description></item><item><title>FLL-02 - Programme d'entraînement au luc léger - Séance 02/10</title><link>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-02/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-02/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/cTxGRuPCT60?si=hG_F14cxT2CKU6dH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>&lt;/iframe>
-&lt;p>&lt;a href="https://youtu.be/cTxGRuPCT60?si=hG_F14cxT2CKU6dH">Video&lt;/a>&lt;/p></description></item><item><title>FLL-03 - Programme d'entraînement au luc léger - Séance 03/10</title><link>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-03/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-03/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Zt256KSKA8Q?si=N1xxGOYOMdowM6Jx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>&lt;/iframe>
-&lt;p>&lt;a href="https://youtu.be/Zt256KSKA8Q?si=N1xxGOYOMdowM6Jx">Video&lt;/a>&lt;/p></description></item><item><title>FLL-04 - Programme d'entraînement au luc léger - Séance 04/10</title><link>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-04/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-04/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/a91TTGsPu60?si=R6BrjP0STJJToi8i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>&lt;/iframe>
-&lt;p>&lt;a href="https://youtu.be/a91TTGsPu60?si=R6BrjP0STJJToi8i">Video&lt;/a>&lt;/p></description></item><item><title>FLL-05 - Programme d'entraînement au luc léger - Séance 05/10</title><link>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-05/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-05/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/jXZzfIpSkc8?si=leyxLiWw8NAhxa2C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>&lt;/iframe>
-&lt;p>&lt;a href="https://youtu.be/jXZzfIpSkc8?si=leyxLiWw8NAhxa2C">Video&lt;/a>&lt;/p></description></item><item><title>FLL-06 - Programme d'entraînement au luc léger - Séance 06/10</title><link>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-06/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-06/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/BnvsvWNHkLQ?si=QsDgHMmAbXo08yzc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>&lt;/iframe>
-&lt;p>&lt;a href="https://youtu.be/BnvsvWNHkLQ?si=QsDgHMmAbXo08yzc">Video&lt;/a>&lt;/p></description></item><item><title>FLL-07 - Programme d'entraînement au luc léger - Séance 07/10</title><link>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-07/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-07/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/YJ3q6Yrd4H4?si=Mg-eCkTKS0PR0TQv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>&lt;/iframe>
-&lt;p>&lt;a href="https://youtu.be/YJ3q6Yrd4H4?si=Mg-eCkTKS0PR0TQv">Video&lt;/a>&lt;/p></description></item><item><title>FLL-08 - Programme d'entraînement au luc léger - Séance 08/10</title><link>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-08/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-08/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/pvtlMgNrI2Q?si=xkzKUrgJxGp6cTJt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>&lt;/iframe>
-&lt;p>&lt;a href="https://youtu.be/pvtlMgNrI2Q?si=xkzKUrgJxGp6cTJt">Video&lt;/a>&lt;/p></description></item><item><title>FLL-09 - Programme d'entraînement au luc léger - Séance 09/10</title><link>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-09/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-09/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/G7I5tXcZVqs?si=KeaC2QsyUTvC7vEo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>&lt;/iframe>
-&lt;p>&lt;a href="https://youtu.be/G7I5tXcZVqs?si=KeaC2QsyUTvC7vEo">Video&lt;/a>&lt;/p></description></item><item><title>FLL-10 - Programme d'entraînement au luc léger - Séance 10/10</title><link>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-10/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/s0_JdHGLnic?si=W7cwl2LIQbHNtLNa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>&lt;/iframe>
-&lt;p>&lt;a href="https://youtu.be/s0_JdHGLnic?si=W7cwl2LIQbHNtLNa">Video&lt;/a>&lt;/p></description></item><item><title>FPP - Circuit de préparation physique</title><link>https://torwald-sergesson.github.io/fitness/fpp/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/</guid><description>&lt;table>
- &lt;thead>
- &lt;tr>
- &lt;th>Exercise&lt;/th>
- &lt;th style="text-align: center">Home&lt;/th>
- &lt;th style="text-align: center">Time&lt;/th>
- &lt;th style="text-align: center">Pompes&lt;/th>
- &lt;th style="text-align: center">Squats&lt;/th>
- &lt;th style="text-align: center">Abs&lt;/th>
- &lt;th style="text-align: center">Gainage&lt;/th>
- &lt;th style="text-align: center">Tractions&lt;/th>
- &lt;th style="text-align: center">Run&lt;/th>
- &lt;th style="text-align: center">Others&lt;/th>
- &lt;th style="text-align: center">Gears&lt;/th>
- &lt;/tr>
- &lt;/thead>
- &lt;tbody>
- &lt;tr>
- &lt;td>&lt;a href="fpp-01">FPP-01&lt;/a>&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">20:00&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">++&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;a href="fpp-02">FPP-02&lt;/a>&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">16:00&lt;/td>
- &lt;td style="text-align: center">++&lt;/td>
- &lt;td style="text-align: center">++&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;a href="fpp-04">FPP-04&lt;/a>&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">18:00&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;a href="fpp-05">FPP-05&lt;/a>&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">18:00&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;a href="fpp-06">FPP-06&lt;/a>&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">20:00&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">++&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;a href="fpp-07">FPP-07&lt;/a>&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">++&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;a href="fpp-08">FPP-08&lt;/a>&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">16:00&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">++&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;a href="fpp-09">FPP-09&lt;/a>&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">++&lt;/td>
- &lt;td style="text-align: center">elastique&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;a href="fpp-10">FPP-10&lt;/a>&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">05:00&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;a href="fpp-11">FPP-11&lt;/a>&lt;/td>
- &lt;td style="text-align: center">-&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">+++&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;a href="fpp-12">FPP-12&lt;/a>&lt;/td>
- &lt;td style="text-align: center">-&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">++++&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;a href="fpp-13">FPP-13&lt;/a>&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;a href="fpp-14">FPP-14&lt;/a>&lt;/td>
- &lt;td style="text-align: center">-&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">++&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">+++&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;a href="fpp-15">FPP-15&lt;/a>&lt;/td>
- &lt;td style="text-align: center">-&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">++&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;a href="fpp-16">FPP-16&lt;/a>&lt;/td>
- &lt;td style="text-align: center">-&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">++&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;a href="fpp-17">FPP-17&lt;/a>&lt;/td>
- &lt;td style="text-align: center">-&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;a href="fpp-18">FPP-18&lt;/a>&lt;/td>
- &lt;td style="text-align: center">-&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">++++&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;a href="fpp-19">FPP-19&lt;/a>&lt;/td>
- &lt;td style="text-align: center">-&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">corde&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;a href="fpp-20">FPP-20&lt;/a>&lt;/td>
- &lt;td style="text-align: center">-&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">++&lt;/td>
- &lt;td style="text-align: center">++&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;a href="fpp-21">FPP-21&lt;/a>&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">++&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;a href="fpp-22">FPP-22&lt;/a>&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">+++&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;a href="fpp-23">FPP-23&lt;/a>&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;a href="fpp-24">FPP-24&lt;/a>&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">4:00&lt;/td>
- &lt;td style="text-align: center">+++&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;a href="fpp-25">FPP-25&lt;/a>&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">3:00&lt;/td>
- &lt;td style="text-align: center">++&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;a href="fpp-26">FPP-26&lt;/a>&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">++&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;a href="fpp-27">FPP-27&lt;/a>&lt;/td>
- &lt;td style="text-align: center">-&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">брусья&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;a href="fpp-28">FPP-28&lt;/a>&lt;/td>
- &lt;td style="text-align: center">-&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">++&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">брусья&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;a href="fpp-29">FPP-29&lt;/a>&lt;/td>
- &lt;td style="text-align: center">-&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">++&lt;/td>
- &lt;td style="text-align: center">рукоход,брусья&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;a href="fpp-30">FPP-30&lt;/a>&lt;/td>
- &lt;td style="text-align: center">-&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">+++&lt;/td>
- &lt;td style="text-align: center">брусья, рукоход&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;a href="fpp-31">FPP-31&lt;/a>&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">++&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;a href="fpp-32">FPP-32&lt;/a>&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;a href="fpp-33">FPP-33&lt;/a>&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">10:00&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;a href="fpp-34">FPP-34&lt;/a>&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;a href="fpp-35">FPP-35&lt;/a>&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">+++&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;a href="fpp-36">FPP-36&lt;/a>&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;a href="fpp-37">FPP-37&lt;/a>&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">++&lt;/td>
- &lt;td style="text-align: center">++&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;a href="fpp-38">FPP-38&lt;/a>&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;a href="fpp-39">FPP-39&lt;/a>&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;a href="fpp-40">FPP-40&lt;/a>&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">+++&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;a href="fpp-r1">FPP-R1&lt;/a>&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">+++++&lt;/td>
- &lt;td style="text-align: center">++&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">табурет&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;a href="fpp-r2">FPP-R2&lt;/a>&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;a href="fpp-r3">FPP-R3&lt;/a>&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;a href="fpp-r4">FPP-R4&lt;/a>&lt;/td>
- &lt;td style="text-align: center">+&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;td style="text-align: center">&lt;/td>
- &lt;/tr>
- &lt;/tbody>
-&lt;/table></description></item><item><title>FPP-01</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-01/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-01/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/vwGtyKKX0Rs?si=mDf4raHqLGrx4jNd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
-&lt;p>&lt;a href="https://youtu.be/vwGtyKKX0Rs?si=bG_Tud5B8Uv3JiUl">Video&lt;/a>&lt;/p></description></item><item><title>FPP-02</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-02/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-02/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/FUrwmOjsd1U?si=QjMgdx2jb4aQwUR0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
-&lt;p>&lt;a href="https://youtu.be/FUrwmOjsd1U?si=QjMgdx2jb4aQwUR0">Video&lt;/a>&lt;/p></description></item><item><title>FPP-04</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-04/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-04/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/VAX_RujBR_Q?si=nDVenQvjkVczuaXF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
-&lt;p>&lt;a href="https://youtu.be/VAX_RujBR_Q?si=nDVenQvjkVczuaXF">Video&lt;/a>&lt;/p></description></item><item><title>FPP-05</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-05/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-05/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/MGqpSgFGxXw?si=CBZ32ldQGiuWp4J8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
-&lt;p>&lt;a href="https://youtu.be/MGqpSgFGxXw?si=CBZ32ldQGiuWp4J8">Video&lt;/a>&lt;/p></description></item><item><title>FPP-06</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-06/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-06/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/rgUC0KzziYc?si=8ieXZpuHc77fqLoT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
-&lt;p>&lt;a href="https://youtu.be/rgUC0KzziYc?si=8ieXZpuHc77fqLoT">Video&lt;/a>&lt;/p></description></item><item><title>FPP-07</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-07/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-07/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/cSBa3o8cckM?si=4VtqqnNj-JS2_FV2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
-&lt;p>&lt;a href="https://youtu.be/cSBa3o8cckM?si=4VtqqnNj-JS2_FV2">Video&lt;/a>&lt;/p></description></item><item><title>FPP-08</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-08/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-08/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/bmNrENTLHRA?si=OYs8dkPvmzaG_Lcx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
-&lt;p>&lt;a href="https://youtu.be/bmNrENTLHRA?si=OYs8dkPvmzaG_Lcx">Video&lt;/a>&lt;/p></description></item><item><title>FPP-09</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-09/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-09/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/JD0g6c0IJrY?si=JL8ObMfsSB2KfSUJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
-&lt;p>&lt;a href="https://youtu.be/JD0g6c0IJrY?si=JL8ObMfsSB2KfSUJ">Video&lt;/a>&lt;/p></description></item><item><title>FPP-10</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-10/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/mL-q-4leskY?si=E7mIUauswsyf6WFB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
-&lt;p>&lt;a href="https://youtu.be/mL-q-4leskY?si=E7mIUauswsyf6WFB">Video&lt;/a>&lt;/p></description></item><item><title>FPP-11</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-11/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/pbuKiqRGYzM?si=cbcO9u37yASjzZos" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
-&lt;p>&lt;a href="https://youtu.be/pbuKiqRGYzM?si=cbcO9u37yASjzZos">Video&lt;/a>&lt;/p></description></item><item><title>FPP-12</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-12/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/3C0nCfRw9y8?si=tuCFkR0qEBqaegFU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
-&lt;p>&lt;a href="https://youtu.be/3C0nCfRw9y8?si=tuCFkR0qEBqaegFU">Video&lt;/a>&lt;/p></description></item><item><title>FPP-13</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-13/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-13/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/0A8c9E8x87U?si=tWtzw5n8d9ovtmS1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
-&lt;p>&lt;a href="https://youtu.be/0A8c9E8x87U?si=tWtzw5n8d9ovtmS1">Video&lt;/a>&lt;/p></description></item><item><title>FPP-14</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-14/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-14/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/j98DMX9n5Yg?si=QiGNbCmgMVhrZiR1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
-&lt;p>&lt;a href="https://youtu.be/j98DMX9n5Yg?si=QiGNbCmgMVhrZiR1">Video&lt;/a>&lt;/p></description></item><item><title>FPP-15</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-15/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-15/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/mNrTF0NaQJg?si=nJVhBcD7FIV069vt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
-&lt;p>&lt;a href="https://youtu.be/mNrTF0NaQJg?si=nJVhBcD7FIV069vt">Video&lt;/a>&lt;/p></description></item><item><title>FPP-16</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-16/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-16/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/p6zAoDbE__s?si=r_AE1-fKOHc49A4i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
-&lt;p>&lt;a href="https://youtu.be/p6zAoDbE__s?si=r_AE1-fKOHc49A4i">Video&lt;/a>&lt;/p></description></item><item><title>FPP-17</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-17/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-17/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/YH3KN2xhBzM?si=n1Bm9KUkjTItMC1G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
-&lt;p>&lt;a href="https://youtu.be/YH3KN2xhBzM?si=n1Bm9KUkjTItMC1G">Video&lt;/a>&lt;/p></description></item><item><title>FPP-18</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-18/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-18/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/f5nsF4yn6NQ?si=QehNZsolqls0taWi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
-&lt;p>&lt;a href="https://youtu.be/f5nsF4yn6NQ?si=QehNZsolqls0taWi">Video&lt;/a>&lt;/p></description></item><item><title>FPP-19</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-19/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-19/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ysYCD1Q8Ep0?si=peENfpg4ZpaKY4Jl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
-&lt;p>&lt;a href="https://youtu.be/ysYCD1Q8Ep0?si=peENfpg4ZpaKY4Jl">Video&lt;/a>&lt;/p></description></item><item><title>FPP-20</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-20/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-20/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/I6eoVQH_pgc?si=jBhDOw-p6brg2JYa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
-&lt;p>&lt;a href="https://youtu.be/I6eoVQH_pgc?si=jBhDOw-p6brg2JYa">Video&lt;/a>&lt;/p></description></item><item><title>FPP-21</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-21/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-21/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/fM2HEiwQ2o8?si=O7RVN5RHp2R5yzn4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
-&lt;p>&lt;a href="https://youtu.be/fM2HEiwQ2o8?si=O7RVN5RHp2R5yzn4">Video&lt;/a>&lt;/p></description></item><item><title>FPP-22</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-22/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-22/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/VUBx_uAg1aI?si=Swn6Fv3OJF1gFncJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
-&lt;p>&lt;a href="https://youtu.be/VUBx_uAg1aI?si=Swn6Fv3OJF1gFncJ">Video&lt;/a>&lt;/p></description></item><item><title>FPP-23</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-23/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-23/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/P-Z_uv2PErw?si=HkA3za9qmr1ooe5r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
-&lt;p>&lt;a href="https://youtu.be/P-Z_uv2PErw?si=HkA3za9qmr1ooe5r">Video&lt;/a>&lt;/p></description></item><item><title>FPP-24</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-24/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-24/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/nAQsv8CXobQ?si=ZvqD6NyJeJXrLcgr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
-&lt;p>&lt;a href="https://youtu.be/nAQsv8CXobQ?si=ZvqD6NyJeJXrLcgr">Video&lt;/a>&lt;/p></description></item><item><title>FPP-25</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-25/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-25/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/6fAExW_uSEM?si=M93I0Y0P7blWasNW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
-&lt;p>&lt;a href="https://youtu.be/6fAExW_uSEM?si=M93I0Y0P7blWasNW">Video&lt;/a>&lt;/p></description></item><item><title>FPP-26</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-26/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-26/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/OgB_wHn6Zn0?si=l4raGElgUNY696gq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
-&lt;p>&lt;a href="https://youtu.be/OgB_wHn6Zn0?si=l4raGElgUNY696gq">Video&lt;/a>&lt;/p></description></item><item><title>FPP-27</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-27/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-27/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/-7G9k89y0w0?si=jV0yttCANpfGt66A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
-&lt;p>&lt;a href="https://youtu.be/-7G9k89y0w0?si=jV0yttCANpfGt66A">Video&lt;/a>&lt;/p></description></item><item><title>FPP-28</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-28/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-28/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/tFJdLbmh9d8?si=sVb5ar23YR8g2LyQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
-&lt;p>&lt;a href="https://youtu.be/tFJdLbmh9d8?si=sVb5ar23YR8g2LyQ">Video&lt;/a>&lt;/p></description></item><item><title>FPP-29</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-29/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-29/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/YzA0zAHC-TY?si=eFmb6NGciVjMmDFO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
-&lt;p>&lt;a href="https://youtu.be/YzA0zAHC-TY?si=eFmb6NGciVjMmDFO">Video&lt;/a>&lt;/p></description></item><item><title>FPP-30</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-30/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-30/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Uye-T3R4UiY?si=82-ZgB1vkunSqlth" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
-&lt;p>&lt;a href="https://youtu.be/Uye-T3R4UiY?si=82-ZgB1vkunSqlth">Video&lt;/a>&lt;/p></description></item><item><title>FPP-31</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-31/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-31/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/wYLAGMh9NcA?si=nscYNokCGuC_5DtW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
-&lt;p>&lt;a href="https://youtu.be/wYLAGMh9NcA?si=nscYNokCGuC_5DtW">Video&lt;/a>&lt;/p></description></item><item><title>FPP-32</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-32/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-32/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Y0gCXYP_mEA?si=hXzPApikZTUHgYku" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
-&lt;p>&lt;a href="https://youtu.be/Y0gCXYP_mEA?si=hXzPApikZTUHgYku">Video&lt;/a>&lt;/p></description></item><item><title>FPP-33</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-33/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-33/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/bMvu1O3ylHw?si=xhdsCNT03kH7LyY3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
-&lt;p>&lt;a href="https://youtu.be/bMvu1O3ylHw?si=xhdsCNT03kH7LyY3">Video&lt;/a>&lt;/p></description></item><item><title>FPP-34</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-34/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-34/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/B3KrRWNgBKU?si=0hGeanRB5-TJ2Weu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
-&lt;p>&lt;a href="https://youtu.be/B3KrRWNgBKU?si=0hGeanRB5-TJ2Weu">Video&lt;/a>&lt;/p></description></item><item><title>FPP-35</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-35/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-35/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/k0dQQbidRXw?si=n5c2VfnB-GZMTInk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
-&lt;p>&lt;a href="https://youtu.be/k0dQQbidRXw?si=n5c2VfnB-GZMTInk">Video&lt;/a>&lt;/p></description></item><item><title>FPP-36</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-36/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-36/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/HHM39HmFZ7k?si=wO6povxZdAbzQi2H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
-&lt;p>&lt;a href="https://youtu.be/HHM39HmFZ7k?si=wO6povxZdAbzQi2H">Video&lt;/a>&lt;/p></description></item><item><title>FPP-37</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-37/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-37/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/w_eMXHSS17U?si=yxAd8yU-Lflonv7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
-&lt;p>&lt;a href="https://youtu.be/w_eMXHSS17U?si=yxAd8yU-Lflonv7f">Video&lt;/a>&lt;/p></description></item><item><title>FPP-38</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-38/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-38/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/rNcsw-4Mf5E?si=Zyn2nKEHN68hA-aS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
-&lt;p>&lt;a href="https://youtu.be/rNcsw-4Mf5E?si=Zyn2nKEHN68hA-aS">Video&lt;/a>&lt;/p></description></item><item><title>FPP-39</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-39/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-39/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/c02iOPGjzxM?si=0Oht5XT8RzZQIV20" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
-&lt;p>&lt;a href="https://youtu.be/c02iOPGjzxM?si=0Oht5XT8RzZQIV20">Video&lt;/a>&lt;/p></description></item><item><title>FPP-40</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-40/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-40/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/pq5sPoWoJW0?si=wmIHvknKsQyn5vSy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
-&lt;p>&lt;a href="https://youtu.be/pq5sPoWoJW0?si=wmIHvknKsQyn5vSy">Video&lt;/a>&lt;/p></description></item><item><title>FPPX-01</title><link>https://torwald-sergesson.github.io/fitness/fpp/fppx-01/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fppx-01/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/HRuaXeeZGJA?si=O0Q44p2ATk39Rsmc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
-&lt;p>&lt;a href="https://youtu.be/HRuaXeeZGJA?si=O0Q44p2ATk39Rsmc">Video&lt;/a>&lt;/p></description></item><item><title>FPPX-02</title><link>https://torwald-sergesson.github.io/fitness/fpp/fppx-02/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fppx-02/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/GD7LIsIuptA?si=_9kmpJvtph_pl3VP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
-&lt;p>&lt;a href="https://youtu.be/GD7LIsIuptA?si=_9kmpJvtph_pl3VP">Video&lt;/a>&lt;/p></description></item><item><title>FPPX-03</title><link>https://torwald-sergesson.github.io/fitness/fpp/fppx-03/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fppx-03/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/sDyv_GwsUq0?si=9DTwTORKs8epd-ui" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
-&lt;p>&lt;a href="https://youtu.be/sDyv_GwsUq0?si=9DTwTORKs8epd-ui">Video&lt;/a>&lt;/p></description></item><item><title>FPPX-04</title><link>https://torwald-sergesson.github.io/fitness/fpp/fppx-04/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fppx-04/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Na1hhILi534?si=NX9n-pRRGH2_0epX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
-&lt;p>&lt;a href="https://youtu.be/Na1hhILi534?si=NX9n-pRRGH2_0epX">Video&lt;/a>&lt;/p></description></item><item><title>FSQT - Programme d'entraînement pour l’épreuve des squats</title><link>https://torwald-sergesson.github.io/fitness/squats/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/squats/</guid><description>&lt;p>&lt;a href="https://youtube.com/playlist?list=PLePB1BEtiZ_1TdAz13O7XKLwwYDDEMP1i&amp;amp;si=zthnl72anyU33c6s">Playlist&lt;/a>&lt;/p></description></item><item><title>FSQT-01 - Programme d'entraînement pour l’épreuve des squats - Séance 1/10</title><link>https://torwald-sergesson.github.io/fitness/squats/fsqt-01/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/squats/fsqt-01/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/EbLtHcYHy7U?si=bDnU0MHlx4by24-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
-&lt;p>&lt;a href="https://youtu.be/EbLtHcYHy7U?si=bDnU0MHlx4by24-E">Video&lt;/a>&lt;/p></description></item><item><title>FSQT-02 - Programme d'entraînement pour l’épreuve des squats - Séance 2/10</title><link>https://torwald-sergesson.github.io/fitness/squats/fsqt-02/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/squats/fsqt-02/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/UErLoMPIdUM?si=N7oGaa9cV-HC_v12" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
-&lt;p>&lt;a href="https://youtu.be/UErLoMPIdUM?si=N7oGaa9cV-HC_v12">Video&lt;/a>&lt;/p></description></item><item><title>FSQT-03 - Programme d'entraînement pour l’épreuve des squats - Séance 3/10</title><link>https://torwald-sergesson.github.io/fitness/squats/fsqt-03/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/squats/fsqt-03/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/c16OW5EgSoI?si=uW_8CIIhkfhziEmY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
-&lt;p>&lt;a href="https://youtu.be/c16OW5EgSoI?si=uW_8CIIhkfhziEmY">Video&lt;/a>&lt;/p></description></item><item><title>FSQT-04 - Programme d'entraînement pour l’épreuve des squats - Séance 4/10</title><link>https://torwald-sergesson.github.io/fitness/squats/fsqt-04/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/squats/fsqt-04/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/6bHTMzNqpXM?si=9iTbv6lAVV6y45HJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
-&lt;p>&lt;a href="https://youtu.be/6bHTMzNqpXM?si=9iTbv6lAVV6y45HJ">Video&lt;/a>&lt;/p></description></item><item><title>FSQT-05 - Programme d'entraînement pour l’épreuve des squats - Séance 5/10</title><link>https://torwald-sergesson.github.io/fitness/squats/fsqt-05/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/squats/fsqt-05/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/mLAK0mhD-g0?si=0ofXnR_bKtq423tL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
-&lt;p>&lt;a href="https://youtu.be/mLAK0mhD-g0?si=9m1pgWynHuxYEzA3">Video&lt;/a>&lt;/p></description></item><item><title>FSQT-06 - Programme d'entraînement pour l’épreuve des squats - Séance 6/10</title><link>https://torwald-sergesson.github.io/fitness/squats/fsqt-06/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/squats/fsqt-06/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/kmi9zkO6kGg?si=NtQw4wcUUmMe3igc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
-&lt;p>&lt;a href="https://youtu.be/kmi9zkO6kGg?si=o3fCCwx0jKzXAnDJ">Video&lt;/a>&lt;/p></description></item><item><title>FSQT-07 - Programme d'entraînement pour l’épreuve des squats - Séance 7/10</title><link>https://torwald-sergesson.github.io/fitness/squats/fsqt-07/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/squats/fsqt-07/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/By7h5nvIkvk?si=bt_6FZm6zOvaNBr_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
-&lt;p>&lt;a href="https://youtu.be/By7h5nvIkvk?si=b0AZQaxflN5G0Ox9">Video&lt;/a>&lt;/p></description></item><item><title>FSQT-08 - Programme d'entraînement pour l’épreuve des squats - Séance 8/10</title><link>https://torwald-sergesson.github.io/fitness/squats/fsqt-08/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/squats/fsqt-08/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/doMQQoLerLA?si=sd44x_H4Jsfr1tv7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
-&lt;p>&lt;a href="https://youtu.be/doMQQoLerLA?si=sd44x_H4Jsfr1tv7">Video&lt;/a>&lt;/p></description></item><item><title>FSQT-09 - Programme d'entraînement pour l’épreuve des squats - Séance 9/10</title><link>https://torwald-sergesson.github.io/fitness/squats/fsqt-09/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/squats/fsqt-09/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/yf9ioSvkBTQ?si=i-03ESzpgOBTRvB0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
-&lt;p>&lt;a href="https://youtu.be/yf9ioSvkBTQ?si=i-03ESzpgOBTRvB0">Video&lt;/a>&lt;/p></description></item><item><title>FSQT-10 - Programme d'entraînement pour l’épreuve des squats - Séance 10/10</title><link>https://torwald-sergesson.github.io/fitness/squats/fsqt-10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/squats/fsqt-10/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/m3lHGQX8Yl0?si=TattfggW_FaxV86O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
-&lt;p>&lt;a href="https://youtu.be/m3lHGQX8Yl0?si=TattfggW_FaxV86O">Video&lt;/a>&lt;/p></description></item><item><title>FTR - Programme d'entraînement pour l’épreuve de tractions</title><link>https://torwald-sergesson.github.io/fitness/traction/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/traction/</guid><description>&lt;p>&lt;a href="https://www.youtube.com/playlist?list=PLePB1BEtiZ_0mzNE9c4RXG9QRhAPsI6U3">Playlist&lt;/a>&lt;/p></description></item><item><title>FTR-01 - Programme d'entraînement pour l’épreuve de tractions</title><link>https://torwald-sergesson.github.io/fitness/traction/ftr-01/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/traction/ftr-01/</guid><description>&lt;p>&lt;a href="https://www.youtube.com/playlist?list=PLePB1BEtiZ_0mzNE9c4RXG9QRhAPsI6U3">Playlist&lt;/a>&lt;/p></description></item><item><title>FTR-02 - Programme d'entraînement pour l’épreuve de tractions</title><link>https://torwald-sergesson.github.io/fitness/traction/ftr-02/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/traction/ftr-02/</guid><description>&lt;p>&lt;a href="https://www.youtube.com/playlist?list=PLePB1BEtiZ_0mzNE9c4RXG9QRhAPsI6U3">Playlist&lt;/a>&lt;/p></description></item><item><title>FTR-03 - Programme d'entraînement pour l’épreuve de tractions</title><link>https://torwald-sergesson.github.io/fitness/traction/ftr-03/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/traction/ftr-03/</guid><description>&lt;p>&lt;a href="https://www.youtube.com/playlist?list=PLePB1BEtiZ_0mzNE9c4RXG9QRhAPsI6U3">Playlist&lt;/a>&lt;/p></description></item><item><title>FTR-04 - Programme d'entraînement pour l’épreuve de tractions</title><link>https://torwald-sergesson.github.io/fitness/traction/ftr-04/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/traction/ftr-04/</guid><description>&lt;p>&lt;a href="https://www.youtube.com/playlist?list=PLePB1BEtiZ_0mzNE9c4RXG9QRhAPsI6U3">Playlist&lt;/a>&lt;/p></description></item><item><title>FTR-05 - Programme d'entraînement pour l’épreuve de tractions</title><link>https://torwald-sergesson.github.io/fitness/traction/ftr-05/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/traction/ftr-05/</guid><description>&lt;p>&lt;a href="https://www.youtube.com/playlist?list=PLePB1BEtiZ_0mzNE9c4RXG9QRhAPsI6U3">Playlist&lt;/a>&lt;/p></description></item><item><title>FTR-06 - Programme d'entraînement pour l’épreuve de tractions</title><link>https://torwald-sergesson.github.io/fitness/traction/ftr-06/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/traction/ftr-06/</guid><description>&lt;p>&lt;a href="https://www.youtube.com/playlist?list=PLePB1BEtiZ_0mzNE9c4RXG9QRhAPsI6U3">Playlist&lt;/a>&lt;/p></description></item><item><title>FTR-07 - Programme d'entraînement pour l’épreuve de tractions</title><link>https://torwald-sergesson.github.io/fitness/traction/ftr-07/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/traction/ftr-07/</guid><description>&lt;p>&lt;a href="https://www.youtube.com/playlist?list=PLePB1BEtiZ_0mzNE9c4RXG9QRhAPsI6U3">Playlist&lt;/a>&lt;/p></description></item><item><title>FTR-08 - Programme d'entraînement pour l’épreuve de tractions</title><link>https://torwald-sergesson.github.io/fitness/traction/ftr-08/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/traction/ftr-08/</guid><description>&lt;p>&lt;a href="https://www.youtube.com/playlist?list=PLePB1BEtiZ_0mzNE9c4RXG9QRhAPsI6U3">Playlist&lt;/a>&lt;/p></description></item><item><title>LE - Legion Entranger Fitness</title><link>https://torwald-sergesson.github.io/fitness/legion/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/legion/</guid><description/></item><item><title>Programme d'entraînement pour l’épreuve des squats - Technic</title><link>https://torwald-sergesson.github.io/fitness/squats/fsqt-tech/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/squats/fsqt-tech/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/pdlsX9yGOHE?si=OYiKtQ9gqHG_Mfyh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>&lt;/iframe>
-&lt;p>&lt;a href="https://youtu.be/pdlsX9yGOHE?si=OYiKtQ9gqHG_Mfyh">Video&lt;/a>&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Workouts on Torwald Log</title><link>https://torwald-sergesson.github.io/tags/workouts/</link><description>Recent content in Workouts on Torwald Log</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://torwald-sergesson.github.io/tags/workouts/index.xml" rel="self" type="application/rss+xml"/><item><title>Calisthenics Exercise Catalog (OLD)</title><link>https://torwald-sergesson.github.io/fitness/calisthenics-exercise-catalog-old/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/calisthenics-exercise-catalog-old/</guid><description>&lt;h2 id="psh--push-chest-shoulders-triceps--жимовые-грудь-плечи-трицепс"&gt;PSH – Push (Chest, Shoulders, Triceps) | Жимовые (Грудь, Плечи, Трицепс)&lt;/h2&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Code&lt;/th&gt;
+ &lt;th&gt;Level&lt;/th&gt;
+ &lt;th&gt;English Name&lt;/th&gt;
+ &lt;th&gt;Русское название&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;PSH-KNE&lt;/td&gt;
+ &lt;td&gt;1&lt;/td&gt;
+ &lt;td&gt;Knee Push-Ups&lt;/td&gt;
+ &lt;td&gt;Отжимания с колен&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;PSH-WAL&lt;/td&gt;
+ &lt;td&gt;1&lt;/td&gt;
+ &lt;td&gt;Wall Push-Ups&lt;/td&gt;
+ &lt;td&gt;Отжимания от стены&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;PSH-INC&lt;/td&gt;
+ &lt;td&gt;1&lt;/td&gt;
+ &lt;td&gt;Incline Push-Ups&lt;/td&gt;
+ &lt;td&gt;Отжимания с руками на высоте&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;PSH-STD&lt;/td&gt;
+ &lt;td&gt;2&lt;/td&gt;
+ &lt;td&gt;Standard Push-Ups&lt;/td&gt;
+ &lt;td&gt;Отжимания классические&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;PSH-DIP&lt;/td&gt;
+ &lt;td&gt;2&lt;/td&gt;
+ &lt;td&gt;Bench Dips&lt;/td&gt;
+ &lt;td&gt;Обратные отжимания на скамье&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;PSH-DIA&lt;/td&gt;
+ &lt;td&gt;2&lt;/td&gt;
+ &lt;td&gt;Diamond Push-Ups&lt;/td&gt;
+ &lt;td&gt;Алмазные отжимания&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;PSH-TRV&lt;/td&gt;
+ &lt;td&gt;2&lt;/td&gt;
+ &lt;td&gt;Travel Push-Ups&lt;/td&gt;
+ &lt;td&gt;Путешествующие отжимания&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;PSH-JMP&lt;/td&gt;
+ &lt;td&gt;2&lt;/td&gt;
+ &lt;td&gt;Jump Push-Ups&lt;/td&gt;
+ &lt;td&gt;Отжимания со взрывом&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;PSH-DEC&lt;/td&gt;
+ &lt;td&gt;2&lt;/td&gt;
+ &lt;td&gt;Decline Push-Ups&lt;/td&gt;
+ &lt;td&gt;Отжимания с ногами на высоте&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;PSH-OAR&lt;/td&gt;
+ &lt;td&gt;3&lt;/td&gt;
+ &lt;td&gt;One-Arm Push-Ups&lt;/td&gt;
+ &lt;td&gt;Отжимания на одной руке&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id="bar--pull-back-biceps--тяговые-спина-бицепс"&gt;BAR – Pull (Back, Biceps) | Тяговые (Спина, Бицепс)&lt;/h2&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Code&lt;/th&gt;
+ &lt;th&gt;Level&lt;/th&gt;
+ &lt;th&gt;English Name&lt;/th&gt;
+ &lt;th&gt;Русское название&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;BAR-INV&lt;/td&gt;
+ &lt;td&gt;1&lt;/td&gt;
+ &lt;td&gt;Australian Pull-Ups&lt;/td&gt;
+ &lt;td&gt;Австралийские подтягивания&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;BAR-BAN&lt;/td&gt;
+ &lt;td&gt;1&lt;/td&gt;
+ &lt;td&gt;Band-Assisted Pull-Ups&lt;/td&gt;
+ &lt;td&gt;Подтягивания с резинкой&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;BAR-NEG&lt;/td&gt;
+ &lt;td&gt;2&lt;/td&gt;
+ &lt;td&gt;Negative Pull-Ups&lt;/td&gt;
+ &lt;td&gt;Негативные подтягивания&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;BAR-WID&lt;/td&gt;
+ &lt;td&gt;2&lt;/td&gt;
+ &lt;td&gt;Wide-Grip Pull-Ups&lt;/td&gt;
+ &lt;td&gt;Подтягивания широким хватом&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;BAR-NAR&lt;/td&gt;
+ &lt;td&gt;2&lt;/td&gt;
+ &lt;td&gt;Narrow-Grip Pull-Ups&lt;/td&gt;
+ &lt;td&gt;Подтягивания узким хватом&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;BAR-CHI&lt;/td&gt;
+ &lt;td&gt;2&lt;/td&gt;
+ &lt;td&gt;Chin-Ups&lt;/td&gt;
+ &lt;td&gt;Подтягивания обратным хватом&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;BAR-OAR&lt;/td&gt;
+ &lt;td&gt;3&lt;/td&gt;
+ &lt;td&gt;One-Arm Pull-Ups&lt;/td&gt;
+ &lt;td&gt;Подтягивания на одной руке&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id="leg--legs--ноги"&gt;LEG – Legs | Ноги&lt;/h2&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Code&lt;/th&gt;
+ &lt;th&gt;Level&lt;/th&gt;
+ &lt;th&gt;English Name&lt;/th&gt;
+ &lt;th&gt;Русское название&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;LEG-SQT&lt;/td&gt;
+ &lt;td&gt;1&lt;/td&gt;
+ &lt;td&gt;Bodyweight Squats&lt;/td&gt;
+ &lt;td&gt;Приседания с весом тела&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;LEG-SUM&lt;/td&gt;
+ &lt;td&gt;1&lt;/td&gt;
+ &lt;td&gt;Sumo squats&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;LEG-SMS&lt;/td&gt;
+ &lt;td&gt;1&lt;/td&gt;
+ &lt;td&gt;Sumo static&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;LEG-WAL&lt;/td&gt;
+ &lt;td&gt;1&lt;/td&gt;
+ &lt;td&gt;Wall Sit&lt;/td&gt;
+ &lt;td&gt;Статический присед у стены&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;LEG-LNG&lt;/td&gt;
+ &lt;td&gt;1&lt;/td&gt;
+ &lt;td&gt;Static Lunges&lt;/td&gt;
+ &lt;td&gt;Выпады на месте&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;LEG-SQJ&lt;/td&gt;
+ &lt;td&gt;2&lt;/td&gt;
+ &lt;td&gt;Jump Squats&lt;/td&gt;
+ &lt;td&gt;Прыжковые приседания&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;LEG-LNJ&lt;/td&gt;
+ &lt;td&gt;2&lt;/td&gt;
+ &lt;td&gt;Jump Lunges&lt;/td&gt;
+ &lt;td&gt;Прыжковые выпады&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;LEG-LAT&lt;/td&gt;
+ &lt;td&gt;2&lt;/td&gt;
+ &lt;td&gt;Squats Lateral&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;LEG-LBG&lt;/td&gt;
+ &lt;td&gt;2&lt;/td&gt;
+ &lt;td&gt;Bulgarian Lunges&lt;/td&gt;
+ &lt;td&gt;Болгарские выпады&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;LEG-SPS&lt;/td&gt;
+ &lt;td&gt;3&lt;/td&gt;
+ &lt;td&gt;Pistol Squats&lt;/td&gt;
+ &lt;td&gt;Приседания &amp;ldquo;пистолетик&amp;rdquo;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id="abs--core-active--пресс-активные-упражнения"&gt;ABS – Core (Active) | Пресс (Активные упражнения)&lt;/h2&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Code&lt;/th&gt;
+ &lt;th&gt;Level&lt;/th&gt;
+ &lt;th&gt;English Name&lt;/th&gt;
+ &lt;th&gt;Русское название&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;ABS-CRN&lt;/td&gt;
+ &lt;td&gt;1&lt;/td&gt;
+ &lt;td&gt;Crunches&lt;/td&gt;
+ &lt;td&gt;Скручивания&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;ABS-LGR&lt;/td&gt;
+ &lt;td&gt;2&lt;/td&gt;
+ &lt;td&gt;Leg Raises&lt;/td&gt;
+ &lt;td&gt;Подъём ног лёжа&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;ABS-FLK&lt;/td&gt;
+ &lt;td&gt;2&lt;/td&gt;
+ &lt;td&gt;Flutter Kick&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;ABS-BIK&lt;/td&gt;
+ &lt;td&gt;2&lt;/td&gt;
+ &lt;td&gt;Bicycle Crunches&lt;/td&gt;
+ &lt;td&gt;Велосипед&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;ABS-RUS&lt;/td&gt;
+ &lt;td&gt;2&lt;/td&gt;
+ &lt;td&gt;Russian Twists&lt;/td&gt;
+ &lt;td&gt;Русские скручивания&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;ABS-HLR&lt;/td&gt;
+ &lt;td&gt;3&lt;/td&gt;
+ &lt;td&gt;Hanging Leg Raises&lt;/td&gt;
+ &lt;td&gt;Подъём ног в висе&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id="plk--core-planks--пресс-планки--статические-и-динамические"&gt;PLK – Core (Planks) | Пресс (Планки – статические и динамические)&lt;/h2&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Code&lt;/th&gt;
+ &lt;th&gt;Level&lt;/th&gt;
+ &lt;th&gt;English Name&lt;/th&gt;
+ &lt;th&gt;Русское название&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;PLK-STE&lt;/td&gt;
+ &lt;td&gt;1&lt;/td&gt;
+ &lt;td&gt;Elbow Plank&lt;/td&gt;
+ &lt;td&gt;Планка на локтях&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;PLK-STH&lt;/td&gt;
+ &lt;td&gt;1&lt;/td&gt;
+ &lt;td&gt;High Plank&lt;/td&gt;
+ &lt;td&gt;Планка на руках&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;PLK-SIE&lt;/td&gt;
+ &lt;td&gt;1&lt;/td&gt;
+ &lt;td&gt;Side Plank (Elbow)&lt;/td&gt;
+ &lt;td&gt;Боковая планка (локти)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;PLK-SIH&lt;/td&gt;
+ &lt;td&gt;1&lt;/td&gt;
+ &lt;td&gt;Side Plank (Hands)&lt;/td&gt;
+ &lt;td&gt;Боковая планка (руки)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;PLK-3SE&lt;/td&gt;
+ &lt;td&gt;1&lt;/td&gt;
+ &lt;td&gt;3-Side Plank (Elbow)&lt;/td&gt;
+ &lt;td&gt;3-стороны планка (локти)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;PLK-3SH&lt;/td&gt;
+ &lt;td&gt;1&lt;/td&gt;
+ &lt;td&gt;3-Side Plank (Hands)&lt;/td&gt;
+ &lt;td&gt;3-стороны планка (руки)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;PLK-4SE&lt;/td&gt;
+ &lt;td&gt;1&lt;/td&gt;
+ &lt;td&gt;4-Side Plank (Elbow)&lt;/td&gt;
+ &lt;td&gt;4-стороны планка (локти)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;PLK-4SH&lt;/td&gt;
+ &lt;td&gt;1&lt;/td&gt;
+ &lt;td&gt;4-Side Plank (Hands)&lt;/td&gt;
+ &lt;td&gt;4-стороны планка (руки)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;PLK-RKE&lt;/td&gt;
+ &lt;td&gt;3&lt;/td&gt;
+ &lt;td&gt;RKC Plank (Elbow)&lt;/td&gt;
+ &lt;td&gt;RKC планка на локтях&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;PLK-RKH&lt;/td&gt;
+ &lt;td&gt;3&lt;/td&gt;
+ &lt;td&gt;RKC Plank (Hands)&lt;/td&gt;
+ &lt;td&gt;RKC планка на руках&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id="brp--burpees--бурпи"&gt;BRP – Burpees | Бурпи&lt;/h2&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Code&lt;/th&gt;
+ &lt;th&gt;Level&lt;/th&gt;
+ &lt;th&gt;English Name&lt;/th&gt;
+ &lt;th&gt;Русское название&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;BRP-HLF&lt;/td&gt;
+ &lt;td&gt;1&lt;/td&gt;
+ &lt;td&gt;Half Burpees&lt;/td&gt;
+ &lt;td&gt;Половинные бурпи&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;BRP-STD&lt;/td&gt;
+ &lt;td&gt;2&lt;/td&gt;
+ &lt;td&gt;Standard Burpees&lt;/td&gt;
+ &lt;td&gt;Бурпи классические&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;BRP-JMP&lt;/td&gt;
+ &lt;td&gt;2&lt;/td&gt;
+ &lt;td&gt;Jump Burpees&lt;/td&gt;
+ &lt;td&gt;Бурпи с прыжком&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;BRP-PUP&lt;/td&gt;
+ &lt;td&gt;2&lt;/td&gt;
+ &lt;td&gt;Push-Up Burpees&lt;/td&gt;
+ &lt;td&gt;Бурпи с отжиманием&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;BRP-NSL&lt;/td&gt;
+ &lt;td&gt;3&lt;/td&gt;
+ &lt;td&gt;Navy Seal Burpees&lt;/td&gt;
+ &lt;td&gt;Бурпи &amp;ldquo;морской котик&amp;rdquo;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id="fun--functional-movements--функциональные-движения"&gt;FUN – Functional Movements | Функциональные движения&lt;/h2&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Code&lt;/th&gt;
+ &lt;th&gt;Level&lt;/th&gt;
+ &lt;th&gt;English Name&lt;/th&gt;
+ &lt;th&gt;Русское название&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;FUN-JJ&lt;/td&gt;
+ &lt;td&gt;1&lt;/td&gt;
+ &lt;td&gt;Jumping Jacks&lt;/td&gt;
+ &lt;td&gt;Прыжки &amp;ldquo;звездочка&amp;rdquo;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;FUN-HKN&lt;/td&gt;
+ &lt;td&gt;1&lt;/td&gt;
+ &lt;td&gt;High Knees&lt;/td&gt;
+ &lt;td&gt;Бег с высоким подъемом колен&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;FUN-BUT&lt;/td&gt;
+ &lt;td&gt;1&lt;/td&gt;
+ &lt;td&gt;Butt Kicks&lt;/td&gt;
+ &lt;td&gt;Забегание пяток за ягодицы&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;FUN-MCL&lt;/td&gt;
+ &lt;td&gt;2&lt;/td&gt;
+ &lt;td&gt;Mountain Climbers&lt;/td&gt;
+ &lt;td&gt;Альпинист&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;FUN-TIP&lt;/td&gt;
+ &lt;td&gt;2&lt;/td&gt;
+ &lt;td&gt;Tipping&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;</description></item><item><title>Exercise Catalog</title><link>https://torwald-sergesson.github.io/fitness/exercise-catalog/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/exercise-catalog/</guid><description>&lt;h2 id="exercises"&gt;Exercises&lt;/h2&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Сокращение&lt;/th&gt;
+ &lt;th&gt;Полное название (EN)&lt;/th&gt;
+ &lt;th&gt;Краткое значение (RU)&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;AS&lt;/td&gt;
+ &lt;td&gt;Air Squat&lt;/td&gt;
+ &lt;td&gt;Приседания с собственным весом&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;BBJ&lt;/td&gt;
+ &lt;td&gt;Bar-Facing Burpee Jump&lt;/td&gt;
+ &lt;td&gt;Берпи с прыжком вперёд&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;BJ&lt;/td&gt;
+ &lt;td&gt;Box Jump&lt;/td&gt;
+ &lt;td&gt;Запрыгивания на тумбу&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;BJOS&lt;/td&gt;
+ &lt;td&gt;Box Jump Over&lt;/td&gt;
+ &lt;td&gt;Запрыгивание с переходом&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Burpee&lt;/td&gt;
+ &lt;td&gt;Burpee&lt;/td&gt;
+ &lt;td&gt;Комплекс: упор–прыжок&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;C2B&lt;/td&gt;
+ &lt;td&gt;Chest-to-Bar Pull-up&lt;/td&gt;
+ &lt;td&gt;Подтягивания грудью к перекладине&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;CU&lt;/td&gt;
+ &lt;td&gt;Chin-up&lt;/td&gt;
+ &lt;td&gt;Подтягивания обратным хватом&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;FK&lt;/td&gt;
+ &lt;td&gt;Flutter Kicks&lt;/td&gt;
+ &lt;td&gt;Махи ногами лёжа&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;GHD SU&lt;/td&gt;
+ &lt;td&gt;GHD Sit-up&lt;/td&gt;
+ &lt;td&gt;Подъёмы корпуса на GHD&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;HK&lt;/td&gt;
+ &lt;td&gt;High Knees&lt;/td&gt;
+ &lt;td&gt;Бег на месте с высокими коленями&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;HRP / HRPU&lt;/td&gt;
+ &lt;td&gt;Hand-Release Push-up&lt;/td&gt;
+ &lt;td&gt;Отжимания с отрывом рук&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;HSPU&lt;/td&gt;
+ &lt;td&gt;Handstand Push-up&lt;/td&gt;
+ &lt;td&gt;Отжимания в стойке на руках&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;JJ&lt;/td&gt;
+ &lt;td&gt;Jumping Jacks&lt;/td&gt;
+ &lt;td&gt;Прыжки с разведением рук и ног&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;K2E&lt;/td&gt;
+ &lt;td&gt;Knees-to-Elbows&lt;/td&gt;
+ &lt;td&gt;Колени к локтям на перекладине&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;LS&lt;/td&gt;
+ &lt;td&gt;L-sit&lt;/td&gt;
+ &lt;td&gt;Удержание «угол»&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;MC&lt;/td&gt;
+ &lt;td&gt;Mountain Climber&lt;/td&gt;
+ &lt;td&gt;«Альпинист»&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;MU&lt;/td&gt;
+ &lt;td&gt;Muscle-up&lt;/td&gt;
+ &lt;td&gt;Выход силой&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;PLK&lt;/td&gt;
+ &lt;td&gt;Plank&lt;/td&gt;
+ &lt;td&gt;Планка&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;PSQ&lt;/td&gt;
+ &lt;td&gt;Pistol Squat&lt;/td&gt;
+ &lt;td&gt;Присед на одной ноге&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;PU&lt;/td&gt;
+ &lt;td&gt;Push-up&lt;/td&gt;
+ &lt;td&gt;Отжимания от пола&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Pull-up&lt;/td&gt;
+ &lt;td&gt;Pull-up&lt;/td&gt;
+ &lt;td&gt;Подтягивания&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;SU&lt;/td&gt;
+ &lt;td&gt;Sit-up&lt;/td&gt;
+ &lt;td&gt;Подъёмы корпуса&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;SSH&lt;/td&gt;
+ &lt;td&gt;Side Straddle Hop&lt;/td&gt;
+ &lt;td&gt;Армейские прыжки&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;T2B&lt;/td&gt;
+ &lt;td&gt;Toes-to-Bar&lt;/td&gt;
+ &lt;td&gt;Носки к перекладине&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;V-up&lt;/td&gt;
+ &lt;td&gt;V-up&lt;/td&gt;
+ &lt;td&gt;Одновременный подъём рук и ног&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;WL&lt;/td&gt;
+ &lt;td&gt;Walking Lunge&lt;/td&gt;
+ &lt;td&gt;Выпады&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id="форматы-тренировок-wod"&gt;Форматы тренировок (WOD)&lt;/h2&gt;
+&lt;h3 id="amrap"&gt;AMRAP&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Расшифровка:&lt;/strong&gt; As Many Rounds/Reps As Possible&lt;br&gt;
+&lt;strong&gt;Описание:&lt;/strong&gt; За фиксированное время выполнить максимум кругов или повторений.&lt;br&gt;
+&lt;strong&gt;Пример записи:&lt;/strong&gt; AMRAP 12: 10 AS 10 PU 10 SU&lt;br&gt;
+&lt;strong&gt;Пояснение:&lt;/strong&gt; За 12 минут выполнить как можно больше полных кругов из трёх упражнений.&lt;/p&gt;</description></item><item><title>FLL - Programme d'entraînement au luc léger</title><link>https://torwald-sergesson.github.io/fitness/luc-leger/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/luc-leger/</guid><description/></item><item><title>FLL - Programme d'entraînement au luc léger - Timer</title><link>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-timer/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-timer/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/gVp9kx8RKH0?si=tQ3briZGv5e71uMs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/gVp9kx8RKH0?si=tQ3briZGv5e71uMs"&gt;Video&lt;/a&gt;&lt;/p&gt;</description></item><item><title>FLL-01 - Programme d'entraînement au luc léger - Séance 01/10</title><link>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-01/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-01/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/IeFsRgx9pq0?si=6cAZFeLeU0bwMQTE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/IeFsRgx9pq0?si=6cAZFeLeU0bwMQTE"&gt;Video&lt;/a&gt;&lt;/p&gt;</description></item><item><title>FLL-02 - Programme d'entraînement au luc léger - Séance 02/10</title><link>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-02/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-02/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/cTxGRuPCT60?si=hG_F14cxT2CKU6dH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/cTxGRuPCT60?si=hG_F14cxT2CKU6dH"&gt;Video&lt;/a&gt;&lt;/p&gt;</description></item><item><title>FLL-03 - Programme d'entraînement au luc léger - Séance 03/10</title><link>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-03/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-03/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Zt256KSKA8Q?si=N1xxGOYOMdowM6Jx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/Zt256KSKA8Q?si=N1xxGOYOMdowM6Jx"&gt;Video&lt;/a&gt;&lt;/p&gt;</description></item><item><title>FLL-04 - Programme d'entraînement au luc léger - Séance 04/10</title><link>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-04/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-04/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/a91TTGsPu60?si=R6BrjP0STJJToi8i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/a91TTGsPu60?si=R6BrjP0STJJToi8i"&gt;Video&lt;/a&gt;&lt;/p&gt;</description></item><item><title>FLL-05 - Programme d'entraînement au luc léger - Séance 05/10</title><link>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-05/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-05/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/jXZzfIpSkc8?si=leyxLiWw8NAhxa2C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/jXZzfIpSkc8?si=leyxLiWw8NAhxa2C"&gt;Video&lt;/a&gt;&lt;/p&gt;</description></item><item><title>FLL-06 - Programme d'entraînement au luc léger - Séance 06/10</title><link>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-06/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-06/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/BnvsvWNHkLQ?si=QsDgHMmAbXo08yzc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/BnvsvWNHkLQ?si=QsDgHMmAbXo08yzc"&gt;Video&lt;/a&gt;&lt;/p&gt;</description></item><item><title>FLL-07 - Programme d'entraînement au luc léger - Séance 07/10</title><link>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-07/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-07/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/YJ3q6Yrd4H4?si=Mg-eCkTKS0PR0TQv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/YJ3q6Yrd4H4?si=Mg-eCkTKS0PR0TQv"&gt;Video&lt;/a&gt;&lt;/p&gt;</description></item><item><title>FLL-08 - Programme d'entraînement au luc léger - Séance 08/10</title><link>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-08/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-08/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/pvtlMgNrI2Q?si=xkzKUrgJxGp6cTJt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/pvtlMgNrI2Q?si=xkzKUrgJxGp6cTJt"&gt;Video&lt;/a&gt;&lt;/p&gt;</description></item><item><title>FLL-09 - Programme d'entraînement au luc léger - Séance 09/10</title><link>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-09/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-09/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/G7I5tXcZVqs?si=KeaC2QsyUTvC7vEo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/G7I5tXcZVqs?si=KeaC2QsyUTvC7vEo"&gt;Video&lt;/a&gt;&lt;/p&gt;</description></item><item><title>FLL-10 - Programme d'entraînement au luc léger - Séance 10/10</title><link>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/luc-leger/luc-leger-10/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/s0_JdHGLnic?si=W7cwl2LIQbHNtLNa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/s0_JdHGLnic?si=W7cwl2LIQbHNtLNa"&gt;Video&lt;/a&gt;&lt;/p&gt;</description></item><item><title>FPP - Circuit de préparation physique</title><link>https://torwald-sergesson.github.io/fitness/fpp/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/</guid><description>&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Exercise&lt;/th&gt;
+ &lt;th style="text-align: center"&gt;Home&lt;/th&gt;
+ &lt;th style="text-align: center"&gt;Time&lt;/th&gt;
+ &lt;th style="text-align: center"&gt;Pompes&lt;/th&gt;
+ &lt;th style="text-align: center"&gt;Squats&lt;/th&gt;
+ &lt;th style="text-align: center"&gt;Abs&lt;/th&gt;
+ &lt;th style="text-align: center"&gt;Gainage&lt;/th&gt;
+ &lt;th style="text-align: center"&gt;Tractions&lt;/th&gt;
+ &lt;th style="text-align: center"&gt;Run&lt;/th&gt;
+ &lt;th style="text-align: center"&gt;Others&lt;/th&gt;
+ &lt;th style="text-align: center"&gt;Gears&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;a href="fpp-01"&gt;FPP-01&lt;/a&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;20:00&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;++&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;a href="fpp-02"&gt;FPP-02&lt;/a&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;16:00&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;++&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;++&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;a href="fpp-04"&gt;FPP-04&lt;/a&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;18:00&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;a href="fpp-05"&gt;FPP-05&lt;/a&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;18:00&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;a href="fpp-06"&gt;FPP-06&lt;/a&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;20:00&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;++&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;a href="fpp-07"&gt;FPP-07&lt;/a&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;++&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;a href="fpp-08"&gt;FPP-08&lt;/a&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;16:00&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;++&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;a href="fpp-09"&gt;FPP-09&lt;/a&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;++&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;elastique&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;a href="fpp-10"&gt;FPP-10&lt;/a&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;05:00&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;a href="fpp-11"&gt;FPP-11&lt;/a&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;-&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+++&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;a href="fpp-12"&gt;FPP-12&lt;/a&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;-&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;++++&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;a href="fpp-13"&gt;FPP-13&lt;/a&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;a href="fpp-14"&gt;FPP-14&lt;/a&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;-&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;++&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+++&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;a href="fpp-15"&gt;FPP-15&lt;/a&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;-&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;++&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;a href="fpp-16"&gt;FPP-16&lt;/a&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;-&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;++&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;a href="fpp-17"&gt;FPP-17&lt;/a&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;-&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;a href="fpp-18"&gt;FPP-18&lt;/a&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;-&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;++++&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;a href="fpp-19"&gt;FPP-19&lt;/a&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;-&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;corde&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;a href="fpp-20"&gt;FPP-20&lt;/a&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;-&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;++&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;++&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;a href="fpp-21"&gt;FPP-21&lt;/a&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;++&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;a href="fpp-22"&gt;FPP-22&lt;/a&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+++&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;a href="fpp-23"&gt;FPP-23&lt;/a&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;a href="fpp-24"&gt;FPP-24&lt;/a&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;4:00&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+++&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;a href="fpp-25"&gt;FPP-25&lt;/a&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;3:00&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;++&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;a href="fpp-26"&gt;FPP-26&lt;/a&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;++&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;a href="fpp-27"&gt;FPP-27&lt;/a&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;-&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;брусья&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;a href="fpp-28"&gt;FPP-28&lt;/a&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;-&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;++&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;брусья&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;a href="fpp-29"&gt;FPP-29&lt;/a&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;-&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;++&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;рукоход,брусья&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;a href="fpp-30"&gt;FPP-30&lt;/a&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;-&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+++&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;брусья, рукоход&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;a href="fpp-31"&gt;FPP-31&lt;/a&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;++&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;a href="fpp-32"&gt;FPP-32&lt;/a&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;a href="fpp-33"&gt;FPP-33&lt;/a&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;10:00&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;a href="fpp-34"&gt;FPP-34&lt;/a&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;a href="fpp-35"&gt;FPP-35&lt;/a&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+++&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;a href="fpp-36"&gt;FPP-36&lt;/a&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;a href="fpp-37"&gt;FPP-37&lt;/a&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;++&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;++&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;a href="fpp-38"&gt;FPP-38&lt;/a&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;a href="fpp-39"&gt;FPP-39&lt;/a&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;a href="fpp-40"&gt;FPP-40&lt;/a&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+++&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;a href="fpp-r1"&gt;FPP-R1&lt;/a&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+++++&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;++&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;табурет&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;a href="fpp-r2"&gt;FPP-R2&lt;/a&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;a href="fpp-r3"&gt;FPP-R3&lt;/a&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;a href="fpp-r4"&gt;FPP-R4&lt;/a&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;</description></item><item><title>FPP-01</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-01/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-01/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/vwGtyKKX0Rs?si=mDf4raHqLGrx4jNd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/vwGtyKKX0Rs?si=bG_Tud5B8Uv3JiUl"&gt;Video&lt;/a&gt;&lt;/p&gt;</description></item><item><title>FPP-02</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-02/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-02/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/FUrwmOjsd1U?si=QjMgdx2jb4aQwUR0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/FUrwmOjsd1U?si=QjMgdx2jb4aQwUR0"&gt;Video&lt;/a&gt;&lt;/p&gt;</description></item><item><title>FPP-04</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-04/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-04/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/VAX_RujBR_Q?si=nDVenQvjkVczuaXF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/VAX_RujBR_Q?si=nDVenQvjkVczuaXF"&gt;Video&lt;/a&gt;&lt;/p&gt;</description></item><item><title>FPP-05</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-05/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-05/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/MGqpSgFGxXw?si=CBZ32ldQGiuWp4J8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/MGqpSgFGxXw?si=CBZ32ldQGiuWp4J8"&gt;Video&lt;/a&gt;&lt;/p&gt;</description></item><item><title>FPP-06</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-06/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-06/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/rgUC0KzziYc?si=8ieXZpuHc77fqLoT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/rgUC0KzziYc?si=8ieXZpuHc77fqLoT"&gt;Video&lt;/a&gt;&lt;/p&gt;</description></item><item><title>FPP-07</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-07/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-07/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/cSBa3o8cckM?si=4VtqqnNj-JS2_FV2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/cSBa3o8cckM?si=4VtqqnNj-JS2_FV2"&gt;Video&lt;/a&gt;&lt;/p&gt;</description></item><item><title>FPP-08</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-08/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-08/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/bmNrENTLHRA?si=OYs8dkPvmzaG_Lcx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/bmNrENTLHRA?si=OYs8dkPvmzaG_Lcx"&gt;Video&lt;/a&gt;&lt;/p&gt;</description></item><item><title>FPP-09</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-09/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-09/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/JD0g6c0IJrY?si=JL8ObMfsSB2KfSUJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/JD0g6c0IJrY?si=JL8ObMfsSB2KfSUJ"&gt;Video&lt;/a&gt;&lt;/p&gt;</description></item><item><title>FPP-10</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-10/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/mL-q-4leskY?si=E7mIUauswsyf6WFB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/mL-q-4leskY?si=E7mIUauswsyf6WFB"&gt;Video&lt;/a&gt;&lt;/p&gt;</description></item><item><title>FPP-11</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-11/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/pbuKiqRGYzM?si=cbcO9u37yASjzZos" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/pbuKiqRGYzM?si=cbcO9u37yASjzZos"&gt;Video&lt;/a&gt;&lt;/p&gt;</description></item><item><title>FPP-12</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-12/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/3C0nCfRw9y8?si=tuCFkR0qEBqaegFU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/3C0nCfRw9y8?si=tuCFkR0qEBqaegFU"&gt;Video&lt;/a&gt;&lt;/p&gt;</description></item><item><title>FPP-13</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-13/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-13/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/0A8c9E8x87U?si=tWtzw5n8d9ovtmS1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/0A8c9E8x87U?si=tWtzw5n8d9ovtmS1"&gt;Video&lt;/a&gt;&lt;/p&gt;</description></item><item><title>FPP-14</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-14/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-14/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/j98DMX9n5Yg?si=QiGNbCmgMVhrZiR1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/j98DMX9n5Yg?si=QiGNbCmgMVhrZiR1"&gt;Video&lt;/a&gt;&lt;/p&gt;</description></item><item><title>FPP-15</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-15/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-15/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/mNrTF0NaQJg?si=nJVhBcD7FIV069vt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/mNrTF0NaQJg?si=nJVhBcD7FIV069vt"&gt;Video&lt;/a&gt;&lt;/p&gt;</description></item><item><title>FPP-16</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-16/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-16/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/p6zAoDbE__s?si=r_AE1-fKOHc49A4i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/p6zAoDbE__s?si=r_AE1-fKOHc49A4i"&gt;Video&lt;/a&gt;&lt;/p&gt;</description></item><item><title>FPP-17</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-17/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-17/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/YH3KN2xhBzM?si=n1Bm9KUkjTItMC1G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/YH3KN2xhBzM?si=n1Bm9KUkjTItMC1G"&gt;Video&lt;/a&gt;&lt;/p&gt;</description></item><item><title>FPP-18</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-18/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-18/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/f5nsF4yn6NQ?si=QehNZsolqls0taWi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/f5nsF4yn6NQ?si=QehNZsolqls0taWi"&gt;Video&lt;/a&gt;&lt;/p&gt;</description></item><item><title>FPP-19</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-19/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-19/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ysYCD1Q8Ep0?si=peENfpg4ZpaKY4Jl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/ysYCD1Q8Ep0?si=peENfpg4ZpaKY4Jl"&gt;Video&lt;/a&gt;&lt;/p&gt;</description></item><item><title>FPP-20</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-20/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-20/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/I6eoVQH_pgc?si=jBhDOw-p6brg2JYa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/I6eoVQH_pgc?si=jBhDOw-p6brg2JYa"&gt;Video&lt;/a&gt;&lt;/p&gt;</description></item><item><title>FPP-21</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-21/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-21/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/fM2HEiwQ2o8?si=O7RVN5RHp2R5yzn4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/fM2HEiwQ2o8?si=O7RVN5RHp2R5yzn4"&gt;Video&lt;/a&gt;&lt;/p&gt;</description></item><item><title>FPP-22</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-22/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-22/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/VUBx_uAg1aI?si=Swn6Fv3OJF1gFncJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/VUBx_uAg1aI?si=Swn6Fv3OJF1gFncJ"&gt;Video&lt;/a&gt;&lt;/p&gt;</description></item><item><title>FPP-23</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-23/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-23/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/P-Z_uv2PErw?si=HkA3za9qmr1ooe5r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/P-Z_uv2PErw?si=HkA3za9qmr1ooe5r"&gt;Video&lt;/a&gt;&lt;/p&gt;</description></item><item><title>FPP-24</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-24/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-24/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/nAQsv8CXobQ?si=ZvqD6NyJeJXrLcgr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/nAQsv8CXobQ?si=ZvqD6NyJeJXrLcgr"&gt;Video&lt;/a&gt;&lt;/p&gt;</description></item><item><title>FPP-25</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-25/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-25/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/6fAExW_uSEM?si=M93I0Y0P7blWasNW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/6fAExW_uSEM?si=M93I0Y0P7blWasNW"&gt;Video&lt;/a&gt;&lt;/p&gt;</description></item><item><title>FPP-26</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-26/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-26/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/OgB_wHn6Zn0?si=l4raGElgUNY696gq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/OgB_wHn6Zn0?si=l4raGElgUNY696gq"&gt;Video&lt;/a&gt;&lt;/p&gt;</description></item><item><title>FPP-27</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-27/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-27/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/-7G9k89y0w0?si=jV0yttCANpfGt66A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/-7G9k89y0w0?si=jV0yttCANpfGt66A"&gt;Video&lt;/a&gt;&lt;/p&gt;</description></item><item><title>FPP-28</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-28/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-28/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/tFJdLbmh9d8?si=sVb5ar23YR8g2LyQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/tFJdLbmh9d8?si=sVb5ar23YR8g2LyQ"&gt;Video&lt;/a&gt;&lt;/p&gt;</description></item><item><title>FPP-29</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-29/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-29/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/YzA0zAHC-TY?si=eFmb6NGciVjMmDFO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/YzA0zAHC-TY?si=eFmb6NGciVjMmDFO"&gt;Video&lt;/a&gt;&lt;/p&gt;</description></item><item><title>FPP-30</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-30/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-30/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Uye-T3R4UiY?si=82-ZgB1vkunSqlth" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/Uye-T3R4UiY?si=82-ZgB1vkunSqlth"&gt;Video&lt;/a&gt;&lt;/p&gt;</description></item><item><title>FPP-31</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-31/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-31/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/wYLAGMh9NcA?si=nscYNokCGuC_5DtW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/wYLAGMh9NcA?si=nscYNokCGuC_5DtW"&gt;Video&lt;/a&gt;&lt;/p&gt;</description></item><item><title>FPP-32</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-32/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-32/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Y0gCXYP_mEA?si=hXzPApikZTUHgYku" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/Y0gCXYP_mEA?si=hXzPApikZTUHgYku"&gt;Video&lt;/a&gt;&lt;/p&gt;</description></item><item><title>FPP-33</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-33/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-33/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/bMvu1O3ylHw?si=xhdsCNT03kH7LyY3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/bMvu1O3ylHw?si=xhdsCNT03kH7LyY3"&gt;Video&lt;/a&gt;&lt;/p&gt;</description></item><item><title>FPP-34</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-34/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-34/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/B3KrRWNgBKU?si=0hGeanRB5-TJ2Weu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/B3KrRWNgBKU?si=0hGeanRB5-TJ2Weu"&gt;Video&lt;/a&gt;&lt;/p&gt;</description></item><item><title>FPP-35</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-35/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-35/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/k0dQQbidRXw?si=n5c2VfnB-GZMTInk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/k0dQQbidRXw?si=n5c2VfnB-GZMTInk"&gt;Video&lt;/a&gt;&lt;/p&gt;</description></item><item><title>FPP-36</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-36/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-36/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/HHM39HmFZ7k?si=wO6povxZdAbzQi2H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/HHM39HmFZ7k?si=wO6povxZdAbzQi2H"&gt;Video&lt;/a&gt;&lt;/p&gt;</description></item><item><title>FPP-37</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-37/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-37/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/w_eMXHSS17U?si=yxAd8yU-Lflonv7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/w_eMXHSS17U?si=yxAd8yU-Lflonv7f"&gt;Video&lt;/a&gt;&lt;/p&gt;</description></item><item><title>FPP-38</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-38/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-38/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/rNcsw-4Mf5E?si=Zyn2nKEHN68hA-aS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/rNcsw-4Mf5E?si=Zyn2nKEHN68hA-aS"&gt;Video&lt;/a&gt;&lt;/p&gt;</description></item><item><title>FPP-39</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-39/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-39/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/c02iOPGjzxM?si=0Oht5XT8RzZQIV20" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/c02iOPGjzxM?si=0Oht5XT8RzZQIV20"&gt;Video&lt;/a&gt;&lt;/p&gt;</description></item><item><title>FPP-40</title><link>https://torwald-sergesson.github.io/fitness/fpp/fpp-40/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fpp-40/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/pq5sPoWoJW0?si=wmIHvknKsQyn5vSy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/pq5sPoWoJW0?si=wmIHvknKsQyn5vSy"&gt;Video&lt;/a&gt;&lt;/p&gt;</description></item><item><title>FPPX-01</title><link>https://torwald-sergesson.github.io/fitness/fpp/fppx-01/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fppx-01/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/HRuaXeeZGJA?si=O0Q44p2ATk39Rsmc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/HRuaXeeZGJA?si=O0Q44p2ATk39Rsmc"&gt;Video&lt;/a&gt;&lt;/p&gt;</description></item><item><title>FPPX-02</title><link>https://torwald-sergesson.github.io/fitness/fpp/fppx-02/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fppx-02/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/GD7LIsIuptA?si=_9kmpJvtph_pl3VP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/GD7LIsIuptA?si=_9kmpJvtph_pl3VP"&gt;Video&lt;/a&gt;&lt;/p&gt;</description></item><item><title>FPPX-03</title><link>https://torwald-sergesson.github.io/fitness/fpp/fppx-03/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fppx-03/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/sDyv_GwsUq0?si=9DTwTORKs8epd-ui" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/sDyv_GwsUq0?si=9DTwTORKs8epd-ui"&gt;Video&lt;/a&gt;&lt;/p&gt;</description></item><item><title>FPPX-04</title><link>https://torwald-sergesson.github.io/fitness/fpp/fppx-04/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/fpp/fppx-04/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Na1hhILi534?si=NX9n-pRRGH2_0epX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/Na1hhILi534?si=NX9n-pRRGH2_0epX"&gt;Video&lt;/a&gt;&lt;/p&gt;</description></item><item><title>FSQT - Programme d'entraînement pour l’épreuve des squats</title><link>https://torwald-sergesson.github.io/fitness/squats/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/squats/</guid><description>&lt;p&gt;&lt;a href="https://youtube.com/playlist?list=PLePB1BEtiZ_1TdAz13O7XKLwwYDDEMP1i&amp;amp;si=zthnl72anyU33c6s"&gt;Playlist&lt;/a&gt;&lt;/p&gt;</description></item><item><title>FSQT-01 - Programme d'entraînement pour l’épreuve des squats - Séance 1/10</title><link>https://torwald-sergesson.github.io/fitness/squats/fsqt-01/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/squats/fsqt-01/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/EbLtHcYHy7U?si=bDnU0MHlx4by24-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/EbLtHcYHy7U?si=bDnU0MHlx4by24-E"&gt;Video&lt;/a&gt;&lt;/p&gt;</description></item><item><title>FSQT-02 - Programme d'entraînement pour l’épreuve des squats - Séance 2/10</title><link>https://torwald-sergesson.github.io/fitness/squats/fsqt-02/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/squats/fsqt-02/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/UErLoMPIdUM?si=N7oGaa9cV-HC_v12" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/UErLoMPIdUM?si=N7oGaa9cV-HC_v12"&gt;Video&lt;/a&gt;&lt;/p&gt;</description></item><item><title>FSQT-03 - Programme d'entraînement pour l’épreuve des squats - Séance 3/10</title><link>https://torwald-sergesson.github.io/fitness/squats/fsqt-03/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/squats/fsqt-03/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/c16OW5EgSoI?si=uW_8CIIhkfhziEmY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/c16OW5EgSoI?si=uW_8CIIhkfhziEmY"&gt;Video&lt;/a&gt;&lt;/p&gt;</description></item><item><title>FSQT-04 - Programme d'entraînement pour l’épreuve des squats - Séance 4/10</title><link>https://torwald-sergesson.github.io/fitness/squats/fsqt-04/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/squats/fsqt-04/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/6bHTMzNqpXM?si=9iTbv6lAVV6y45HJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/6bHTMzNqpXM?si=9iTbv6lAVV6y45HJ"&gt;Video&lt;/a&gt;&lt;/p&gt;</description></item><item><title>FSQT-05 - Programme d'entraînement pour l’épreuve des squats - Séance 5/10</title><link>https://torwald-sergesson.github.io/fitness/squats/fsqt-05/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/squats/fsqt-05/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/mLAK0mhD-g0?si=0ofXnR_bKtq423tL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/mLAK0mhD-g0?si=9m1pgWynHuxYEzA3"&gt;Video&lt;/a&gt;&lt;/p&gt;</description></item><item><title>FSQT-06 - Programme d'entraînement pour l’épreuve des squats - Séance 6/10</title><link>https://torwald-sergesson.github.io/fitness/squats/fsqt-06/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/squats/fsqt-06/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/kmi9zkO6kGg?si=NtQw4wcUUmMe3igc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/kmi9zkO6kGg?si=o3fCCwx0jKzXAnDJ"&gt;Video&lt;/a&gt;&lt;/p&gt;</description></item><item><title>FSQT-07 - Programme d'entraînement pour l’épreuve des squats - Séance 7/10</title><link>https://torwald-sergesson.github.io/fitness/squats/fsqt-07/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/squats/fsqt-07/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/By7h5nvIkvk?si=bt_6FZm6zOvaNBr_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/By7h5nvIkvk?si=b0AZQaxflN5G0Ox9"&gt;Video&lt;/a&gt;&lt;/p&gt;</description></item><item><title>FSQT-08 - Programme d'entraînement pour l’épreuve des squats - Séance 8/10</title><link>https://torwald-sergesson.github.io/fitness/squats/fsqt-08/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/squats/fsqt-08/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/doMQQoLerLA?si=sd44x_H4Jsfr1tv7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/doMQQoLerLA?si=sd44x_H4Jsfr1tv7"&gt;Video&lt;/a&gt;&lt;/p&gt;</description></item><item><title>FSQT-09 - Programme d'entraînement pour l’épreuve des squats - Séance 9/10</title><link>https://torwald-sergesson.github.io/fitness/squats/fsqt-09/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/squats/fsqt-09/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/yf9ioSvkBTQ?si=i-03ESzpgOBTRvB0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/yf9ioSvkBTQ?si=i-03ESzpgOBTRvB0"&gt;Video&lt;/a&gt;&lt;/p&gt;</description></item><item><title>FSQT-10 - Programme d'entraînement pour l’épreuve des squats - Séance 10/10</title><link>https://torwald-sergesson.github.io/fitness/squats/fsqt-10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/squats/fsqt-10/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/m3lHGQX8Yl0?si=TattfggW_FaxV86O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/m3lHGQX8Yl0?si=TattfggW_FaxV86O"&gt;Video&lt;/a&gt;&lt;/p&gt;</description></item><item><title>FTR - Programme d'entraînement pour l’épreuve de tractions</title><link>https://torwald-sergesson.github.io/fitness/traction/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/traction/</guid><description>&lt;p&gt;&lt;a href="https://www.youtube.com/playlist?list=PLePB1BEtiZ_0mzNE9c4RXG9QRhAPsI6U3"&gt;Playlist&lt;/a&gt;&lt;/p&gt;</description></item><item><title>FTR-01 - Programme d'entraînement pour l’épreuve de tractions</title><link>https://torwald-sergesson.github.io/fitness/traction/ftr-01/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/traction/ftr-01/</guid><description>&lt;p&gt;&lt;a href="https://www.youtube.com/playlist?list=PLePB1BEtiZ_0mzNE9c4RXG9QRhAPsI6U3"&gt;Playlist&lt;/a&gt;&lt;/p&gt;</description></item><item><title>FTR-02 - Programme d'entraînement pour l’épreuve de tractions</title><link>https://torwald-sergesson.github.io/fitness/traction/ftr-02/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/traction/ftr-02/</guid><description>&lt;p&gt;&lt;a href="https://www.youtube.com/playlist?list=PLePB1BEtiZ_0mzNE9c4RXG9QRhAPsI6U3"&gt;Playlist&lt;/a&gt;&lt;/p&gt;</description></item><item><title>FTR-03 - Programme d'entraînement pour l’épreuve de tractions</title><link>https://torwald-sergesson.github.io/fitness/traction/ftr-03/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/traction/ftr-03/</guid><description>&lt;p&gt;&lt;a href="https://www.youtube.com/playlist?list=PLePB1BEtiZ_0mzNE9c4RXG9QRhAPsI6U3"&gt;Playlist&lt;/a&gt;&lt;/p&gt;</description></item><item><title>FTR-04 - Programme d'entraînement pour l’épreuve de tractions</title><link>https://torwald-sergesson.github.io/fitness/traction/ftr-04/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/traction/ftr-04/</guid><description>&lt;p&gt;&lt;a href="https://www.youtube.com/playlist?list=PLePB1BEtiZ_0mzNE9c4RXG9QRhAPsI6U3"&gt;Playlist&lt;/a&gt;&lt;/p&gt;</description></item><item><title>FTR-05 - Programme d'entraînement pour l’épreuve de tractions</title><link>https://torwald-sergesson.github.io/fitness/traction/ftr-05/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/traction/ftr-05/</guid><description>&lt;p&gt;&lt;a href="https://www.youtube.com/playlist?list=PLePB1BEtiZ_0mzNE9c4RXG9QRhAPsI6U3"&gt;Playlist&lt;/a&gt;&lt;/p&gt;</description></item><item><title>FTR-06 - Programme d'entraînement pour l’épreuve de tractions</title><link>https://torwald-sergesson.github.io/fitness/traction/ftr-06/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/traction/ftr-06/</guid><description>&lt;p&gt;&lt;a href="https://www.youtube.com/playlist?list=PLePB1BEtiZ_0mzNE9c4RXG9QRhAPsI6U3"&gt;Playlist&lt;/a&gt;&lt;/p&gt;</description></item><item><title>FTR-07 - Programme d'entraînement pour l’épreuve de tractions</title><link>https://torwald-sergesson.github.io/fitness/traction/ftr-07/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/traction/ftr-07/</guid><description>&lt;p&gt;&lt;a href="https://www.youtube.com/playlist?list=PLePB1BEtiZ_0mzNE9c4RXG9QRhAPsI6U3"&gt;Playlist&lt;/a&gt;&lt;/p&gt;</description></item><item><title>FTR-08 - Programme d'entraînement pour l’épreuve de tractions</title><link>https://torwald-sergesson.github.io/fitness/traction/ftr-08/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/traction/ftr-08/</guid><description>&lt;p&gt;&lt;a href="https://www.youtube.com/playlist?list=PLePB1BEtiZ_0mzNE9c4RXG9QRhAPsI6U3"&gt;Playlist&lt;/a&gt;&lt;/p&gt;</description></item><item><title>LE - Legion Entranger Fitness</title><link>https://torwald-sergesson.github.io/fitness/legion/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/legion/</guid><description/></item><item><title>Programme d'entraînement pour l’épreuve des squats - Technic</title><link>https://torwald-sergesson.github.io/fitness/squats/fsqt-tech/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/squats/fsqt-tech/</guid><description>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/pdlsX9yGOHE?si=OYiKtQ9gqHG_Mfyh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/pdlsX9yGOHE?si=OYiKtQ9gqHG_Mfyh"&gt;Video&lt;/a&gt;&lt;/p&gt;</description></item></channel></rss>

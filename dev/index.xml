@@ -1,210 +1,210 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Software development topics on Torwald Log</title><link>https://torwald-sergesson.github.io/dev/</link><description>Recent content in Software development topics on Torwald Log</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://torwald-sergesson.github.io/dev/index.xml" rel="self" type="application/rss+xml"/><item><title>Career</title><link>https://torwald-sergesson.github.io/dev/career/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/dev/career/</guid><description>&lt;h2 id="roadmaps">Roadmaps&lt;/h2>
-&lt;ul>
-&lt;li>Mobile Developer iOS &lt;a href="https://github.com/BohdanOrlov/iOS-Developer-Roadmap">https://github.com/BohdanOrlov/iOS-Developer-Roadmap&lt;/a>&lt;/li>
-&lt;li>Low-Level Developer &lt;a href="https://github.com/gurugio/lowlevelprogramming-university">https://github.com/gurugio/lowlevelprogramming-university&lt;/a>&lt;/li>
-&lt;li>Web Developer &lt;a href="https://github.com/kamranahmedse/developer-roadmap">https://github.com/kamranahmedse/developer-roadmap&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="архитектор-по">Архитектор ПО&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="https://medium.com/@nvashanin">https://medium.com/@nvashanin&lt;/a> серия статей по архитектуре&lt;/li>
-&lt;li>&lt;a href="https://habr.com/company/softline/blog/319814/">https://habr.com/company/softline/blog/319814/&lt;/a> Профессия архитектора: ожидание и реальность&lt;/li>
-&lt;li>&lt;a href="https://habr.com/company/technoserv/blog/350170/">https://habr.com/company/technoserv/blog/350170/&lt;/a> - системный архитектор&lt;/li>
-&lt;li>&lt;a href="https://medium.com/@nvashanin/books-in-software-architecture-6ad974e524ce">https://medium.com/@nvashanin/books-in-software-architecture-6ad974e524ce&lt;/a> - клевые книги по архитектуре&lt;/li>
-&lt;li>&lt;a href="https://www.ibm.com/developerworks/ru/library/ws-soa-proarch1/index.html">https://www.ibm.com/developerworks/ru/library/ws-soa-proarch1/index.html&lt;/a> - специалист по архитектуре ПО&lt;/li>
-&lt;/ul>
-&lt;h2 id="ta-technical-architect">TA (Technical Architect)&lt;/h2>
-&lt;p>Необходимый минимум:&lt;/p>
-&lt;ul>
-&lt;li>Алгоритмы и структуры данных&lt;/li>
-&lt;li>&lt;a href="https://proglib.io/p/awesome-algorithms/">https://proglib.io/p/awesome-algorithms/&lt;/a>&lt;/li>
-&lt;li>&lt;a href="http://edu.nstu.ru/courses/saod/content.htm">http://edu.nstu.ru/courses/saod/content.htm&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://vk.com/page-54530371_48795618">https://vk.com/page-54530371_48795618&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;p>Паттерны проектирования&lt;/p>
-&lt;ul>
-&lt;li>&lt;a href="https://sourcemaking.com/">https://sourcemaking.com/&lt;/a>&lt;/li>
-&lt;li>&lt;a href="http://forcoder.ru/developing/priemy-obektno-orientirovannogo-proektirovaniya-patterny-proektirovaniya-1372">http://forcoder.ru/developing/priemy-obektno-orientirovannogo-proektirovaniya-patterny-proektirovaniya-1372&lt;/a>&lt;/li>
-&lt;li>Dependency Injection &lt;a href="https://www.manning.com/books/dependency-injection-in-dot-net">https://www.manning.com/books/dependency-injection-in-dot-net&lt;/a>  (RU: &lt;a href="https://smarly.net/dependency-injection-in-net">https://smarly.net/dependency-injection-in-net&lt;/a>)&lt;/li>
-&lt;li>MVC, MVVM, MVP &lt;a href="https://habrahabr.ru/post/215605/">https://habrahabr.ru/post/215605/&lt;/a>&lt;/li>
-&lt;li>S.O.L.I.D. &lt;a href="https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)">https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;p>Теория баз данных&lt;/p>
-&lt;ul>
-&lt;li>Вообще для ТА лучше всего, если была соответствующая профильная подготовка в ВУЗе. Для освежения памяти можно использовать любой источник, напр.&lt;/li>
-&lt;li>&lt;a href="http://www.mstu.edu.ru/study/materials/zelenkov/toc.html">http://www.mstu.edu.ru/study/materials/zelenkov/toc.html&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;p>Горизонтальное масштабирование систем&lt;/p></description></item><item><title>Databases internals</title><link>https://torwald-sergesson.github.io/dev/databases_internals/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/dev/databases_internals/</guid><description>&lt;ul>
-&lt;li>&lt;a href="https://cstack.github.io/db_tutorial/">https://cstack.github.io/db_tutorial/&lt;/a> Let&amp;rsquo;s Build a Simple Database&lt;/li>
-&lt;li>&lt;a href="https://github.com/auxten/go-sqldb">https://github.com/auxten/go-sqldb&lt;/a> A pure golang SQL database for database theory research&lt;/li>
-&lt;/ul></description></item><item><title>DNS</title><link>https://torwald-sergesson.github.io/dev/dns-links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/dev/dns-links/</guid><description>&lt;h2 id="why-is-dns-still-hard-to-learn">Why is DNS still hard to learn?&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="https://jvns.ca/blog/2023/07/28/why-is-dns-still-hard-to-learn/">https://jvns.ca/blog/2023/07/28/why-is-dns-still-hard-to-learn/&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;p>Мне нравится как Julia Evans пишет о DNS, нравится что попадаются вопросы, на которые нельзя ответить сразу, без погружения. Ещё одна заметка на этот счёт&amp;hellip;&lt;/p></description></item><item><title>Golang Reading List from Mail.ru cources</title><link>https://torwald-sergesson.github.io/dev/golang-mail-ru/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/dev/golang-mail-ru/</guid><description>&lt;h2 id="reading-week-1">Reading Week 1&lt;/h2>
-&lt;p>Материалы для дополнительного чтения на английском:&lt;/p>
-&lt;ul>
-&lt;li>[-] &lt;a href="https://golang.org/ref/spec">https://golang.org/ref/spec&lt;/a> - спецификация по язык&lt;/li>
-&lt;li>[-] &lt;a href="https://golang.org/ref/mem">https://golang.org/ref/mem&lt;/a> - модель памяти го. на начальном этапе не надо, но знать полезно&lt;/li>
-&lt;li>[-] &lt;a href="https://golang.org/doc/code.html">https://golang.org/doc/code.html&lt;/a> - про организацию кода. GOPATH и пакеты&lt;/li>
-&lt;li>[-] &lt;a href="https://golang.org/cmd/go/">https://golang.org/cmd/go/&lt;/a>&lt;/li>
-&lt;li>[-] &lt;a href="https://blog.golang.org/strings">https://blog.golang.org/strings&lt;/a>&lt;/li>
-&lt;li>[-] &lt;a href="https://blog.golang.org/slices">https://blog.golang.org/slices&lt;/a>&lt;/li>
-&lt;li>[-] &lt;a href="https://blog.golang.org/go-slices-usage-and-internals">https://blog.golang.org/go-slices-usage-and-internals&lt;/a>&lt;/li>
-&lt;li>[-] &lt;a href="https://github.com/golang/go/wiki">https://github.com/golang/go/wiki&lt;/a> - вики го на гитхабе. очень много полезной информации&lt;/li>
-&lt;li>[-] &lt;a href="https://blog.golang.org/go-maps-in-action">https://blog.golang.org/go-maps-in-action&lt;/a>&lt;/li>
-&lt;li>[-] &lt;a href="https://blog.golang.org/organizing-go-code">https://blog.golang.org/organizing-go-code&lt;/a>&lt;/li>
-&lt;li>[-] &lt;a href="https://golang.org/doc/effective_go.html">https://golang.org/doc/effective_go.html&lt;/a> - основной сборник тайного знания, сюда вы будуте обращатсья в первое время часто&lt;/li>
-&lt;li>[-] &lt;a href="https://github.com/golang/go/wiki/CodeReviewComments">https://github.com/golang/go/wiki/CodeReviewComments&lt;/a> как ревьювить (и писать код). обязательно к прочтению&lt;/li>
-&lt;li>[-] &lt;a href="https://divan.github.io/posts/avoid_gotchas/">https://divan.github.io/posts/avoid_gotchas/&lt;/a> - материал аналогичный 50 оттенков го&lt;/li>
-&lt;li>[-] &lt;a href="https://research.swtch.com/interfaces">https://research.swtch.com/interfaces&lt;/a>&lt;/li>
-&lt;li>[-] &lt;a href="https://research.swtch.com/godata">https://research.swtch.com/godata&lt;/a>&lt;/li>
-&lt;li>[-] &lt;a href="http://jordanorelli.com/post/42369331748/function-types-in-go-golang">http://jordanorelli.com/post/42369331748/function-types-in-go-golang&lt;/a>&lt;/li>
-&lt;li>[-] &lt;a href="https://www.devdungeon.com/content/working-files-go">https://www.devdungeon.com/content/working-files-go&lt;/a> - работа с файлами&lt;/li>
-&lt;li>[-] &lt;a href="http://www.golangprograms.com">http://www.golangprograms.com&lt;/a> - много how-to касательно базовых вещей в go&lt;/li>
-&lt;li>[-] &lt;a href="http://yourbasic.org/golang/">http://yourbasic.org/golang/&lt;/a> - ещё большой набор how-to где можно получить углублённую информацию по всем базовым вещам. очень полезны http://yourbasic.org/golang/blueprint/&lt;/li>
-&lt;li>[-] &lt;a href="https://github.com/Workiva/go-datastructures">https://github.com/Workiva/go-datastructures&lt;/a>&lt;/li>
-&lt;li>[-] &lt;a href="https://github.com/enocom/gopher-reading-list">https://github.com/enocom/gopher-reading-list&lt;/a> - большая подборка статей по многим темам ( не только данной лекции )&lt;/li>
-&lt;li>[-] &lt;a href="https://www.youtube.com/watch?v=MzTcsI6tn-0">https://www.youtube.com/watch?v=MzTcsI6tn-0&lt;/a> - как организовать код&lt;/li>
-&lt;li>[-] &lt;a href="https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1">https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1&lt;/a> - статья на предыдущую тему
-Материалы для дополнительного чтения на русском:&lt;/li>
-&lt;li>[-] &lt;a href="https://habrahabr.ru/company/mailru/blog/314804/">https://habrahabr.ru/company/mailru/blog/314804/&lt;/a> - 50 оттенков го. обязательно к прочтению. многое оттуда мы ещё не проходили, но на будущее - имейте ввиду&lt;/li>
-&lt;li>[-] &lt;a href="https://habrahabr.ru/post/306914/">https://habrahabr.ru/post/306914/&lt;/a> - Разбираемся в Go: пакет io&lt;/li>
-&lt;li>[-] &lt;a href="https://habrahabr.ru/post/272383/">https://habrahabr.ru/post/272383/&lt;/a> - постулаты go. Маленькая статья об основными принципах языка&lt;/li>
-&lt;li>[-] &lt;a href="https://habrahabr.ru/company/mailru/blog/301036/">https://habrahabr.ru/company/mailru/blog/301036/&lt;/a> - лучшие практики go&lt;/li>
-&lt;li>[-] &lt;a href="https://habrahabr.ru/post/308198/">https://habrahabr.ru/post/308198/&lt;/a> - организация кода в go&lt;/li>
-&lt;li>[-] &lt;a href="https://habrahabr.ru/post/339192/">https://habrahabr.ru/post/339192/&lt;/a> - Зачем в Go амперсанд и звёздочка (&amp;amp; и *)&lt;/li>
-&lt;li>[-] &lt;a href="https://habrahabr.ru/post/325468/">https://habrahabr.ru/post/325468/&lt;/a> - как не наступать на грабли в Go&lt;/li>
-&lt;li>[-] &lt;a href="https://habrahabr.ru/post/276981/">https://habrahabr.ru/post/276981/&lt;/a> - Краш-курс по интерфейсам в Go&lt;/li>
-&lt;li>[-] &lt;a href="http://golang-book.ru">http://golang-book.ru&lt;/a>
-Литература по го на русском языке:&lt;/li>
-&lt;li>[-] Язык программирования Go, Алан А. А. Донован, Брайан У. Керниган&lt;/li>
-&lt;li>[-] Go на практике, Matt Butcher, Мэтт Фарина Мэтт&lt;/li>
-&lt;li>[-] Программирование на Go. Разработка приложений XXI века, Марк Саммерфильд
-Дополнительные упражнения:&lt;/li>
-&lt;li>[-] &lt;a href="https://go-tour-ru-ru.appspot.com/list">https://go-tour-ru-ru.appspot.com/list&lt;/a> - упражнения на овладение базовым синтаксисом, на случай если вам нужна небольшая практика перед первым заданием курса&lt;/li>
-&lt;/ul>
-&lt;h2 id="reading-week-2">Reading Week 2&lt;/h2>
-&lt;p>На английском:&lt;/p></description></item><item><title>Interesting links</title><link>https://torwald-sergesson.github.io/dev/interesting-it-links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/dev/interesting-it-links/</guid><description>&lt;ul>
-&lt;li>&lt;a href="https://github.com/ivanceras/svgbob">https://github.com/ivanceras/svgbob&lt;/a> Convert your ascii diagram scribbles into happy little SVG&lt;/li>
-&lt;li>&lt;a href="https://ohmygit.org/">https://ohmygit.org/&lt;/a> An open source game about learning Git&lt;/li>
-&lt;li>&lt;a href="https://github.com/dolthub/dolt">https://github.com/dolthub/dolt&lt;/a> It&amp;rsquo;s Git for Data&lt;/li>
-&lt;li>&lt;a href="https://betterprogramming.pub/git-commands-to-live-by-349ab1fe3139">https://betterprogramming.pub/git-commands-to-live-by-349ab1fe3139&lt;/a> Git Commands to Live By. The cheat sheet that goes beyond Git basics&lt;/li>
-&lt;li>&lt;a href="https://github.com/uber-go/gopatch">https://github.com/uber-go/gopatch&lt;/a> Refactoring and code transformation tool for Go.&lt;/li>
-&lt;li>&lt;a href="https://github.com/jroimartin/gocui">https://github.com/jroimartin/gocui&lt;/a> Minimalist Go package aimed at creating Console User Interfaces.&lt;/li>
-&lt;li>&lt;a href="https://justine.lol/index.html">https://justine.lol/index.html&lt;/a> - Justine Tunney&amp;rsquo;s Web Page (printvideo, cosmopolitan, nesemu1 and etc)&lt;/li>
-&lt;li>&lt;a href="https://github.com/xo/xo">https://github.com/xo/xo&lt;/a> - Command line tool to generate idiomatic Go code for SQL databases supporting PostgreSQL, MySQL, SQLite, Oracle, and Microsoft SQL Server&lt;/li>
-&lt;li>&lt;a href="https://thevaluable.dev/vim-advanced/">https://thevaluable.dev/vim-advanced/&lt;/a> A Vim Guide for Advanced Users&lt;/li>
-&lt;li>&lt;a href="https://chip-8.github.io/links/">https://chip-8.github.io/links/&lt;/a> Awesome CHIP-8&lt;/li>
-&lt;li>&lt;a href="https://tobiasvl.github.io/blog/write-a-chip-8-emulator/">https://tobiasvl.github.io/blog/write-a-chip-8-emulator/&lt;/a> A high-level guide to making a CHIP-8 emulator.&lt;/li>
-&lt;li>&lt;a href="https://github.com/AkihiroSuda/lima/">https://github.com/AkihiroSuda/lima/&lt;/a> Linux virtual machines, on macOS (aka &amp;ldquo;Linux-on-Mac&amp;rdquo;, &amp;ldquo;macOS subsystem for Linux&amp;rdquo;, &amp;ldquo;containerd for Mac&amp;rdquo;, unofficially)&lt;/li>
-&lt;li>&lt;a href="http://www.brendangregg.com/">http://www.brendangregg.com/&lt;/a> - Brendan Gregg&amp;rsquo;s homepage (Linux and Performance)&lt;/li>
-&lt;li>&lt;a href="https://github.com/syncthing/syncthing">https://github.com/syncthing/syncthing&lt;/a> - Open Source Continuous File Synchronization.&lt;/li>
-&lt;li>&lt;a href="https://github.com/google/gops">https://github.com/google/gops&lt;/a> - A tool to list and diagnose Go processes currently running on your system.&lt;/li>
-&lt;li>&lt;a href="https://github.com/adonovan/spaghetti">https://github.com/adonovan/spaghetti&lt;/a> - Spaghetti: a dependency analysis tool for Go packages&lt;/li>
-&lt;li>&lt;a href="https://github.com/pterm/pterm/">https://github.com/pterm/pterm/&lt;/a> - PTerm is a modern go module to beautify console output. Featuring charts, progressbars, tables, trees, and many more. It&amp;rsquo;s completely configurable and 100% cross-platform compatible.&lt;/li>
-&lt;li>&lt;a href="https://github.com/cheggaaa/pb">https://github.com/cheggaaa/pb&lt;/a> Console progress bar for Golang.&lt;/li>
-&lt;li>&lt;a href="https://github.com/spf13/afero">https://github.com/spf13/afero&lt;/a> A FileSystem Abstraction System for Go.&lt;/li>
-&lt;li>&lt;a href="https://github.com/google/go-github">https://github.com/google/go-github&lt;/a> Go library for accessing the GitHub API.&lt;/li>
-&lt;li>&lt;a href="https://github.com/brianvoe/gofakeit">https://github.com/brianvoe/gofakeit&lt;/a> Random fake data generator written in go.&lt;/li>
-&lt;li>&lt;a href="https://github.com/bcicen/ctop">https://github.com/bcicen/ctop&lt;/a> Top-like interface for container metrics.&lt;/li>
-&lt;li>&lt;a href="https://github.com/goccy/go-json">https://github.com/goccy/go-json&lt;/a> goccy/go-json Fast JSON encoder/decoder compatible with encoding/json for Go.&lt;/li>
-&lt;li>&lt;a href="https://github.com/irevenko/tsukae">https://github.com/irevenko/tsukae&lt;/a> Show off your most used shell commands.&lt;/li>
-&lt;li>&lt;a href="https://github.com/orbitdb/orbit-db">https://github.com/orbitdb/orbit-db&lt;/a> Peer-to-Peer Databases for the Decentralized Web.&lt;/li>
-&lt;li>&lt;a href="https://themagicsmoke.ru/books/c_for_embedded_systems/">https://themagicsmoke.ru/books/c_for_embedded_systems/&lt;/a> Книга «Си для встраиваемых систем»&lt;/li>
-&lt;li>&lt;a href="https://github.com/hashicorp/go-version">https://github.com/hashicorp/go-version&lt;/a> A Go (golang) library for parsing and verifying versions and version constraints.&lt;/li>
-&lt;li>&lt;a href="https://github.com/neilotoole/sq">https://github.com/neilotoole/sq&lt;/a> swiss-army knife for data.&lt;/li>
-&lt;li>&lt;a href="https://github.com/kyleconroy/sqlc">https://github.com/kyleconroy/sqlc&lt;/a> Generate type safe Go from SQL.&lt;/li>
-&lt;li>&lt;a href="https://github.com/gohugoio/hugo">https://github.com/gohugoio/hugo&lt;/a> The world’s fastest framework for building websites.&lt;/li>
-&lt;li>&lt;a href="https://github.com/boyter/scc">https://github.com/boyter/scc&lt;/a> Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go&lt;/li>
-&lt;li>&lt;a href="https://github.com/golang/mock">https://github.com/golang/mock&lt;/a> GoMock is a mocking framework for the Go programming language.&lt;/li>
-&lt;li>&lt;a href="https://github.com/charmbracelet/glow">https://github.com/charmbracelet/glow&lt;/a> Render markdown on the CLI, with pizzazz!&lt;/li>
-&lt;li>&lt;a href="https://github.com/jmattheis/goverter">https://github.com/jmattheis/goverter&lt;/a> Generate type-safe Go converters by simply defining an interface&lt;/li>
-&lt;li>&lt;a href="https://github.com/volatiletech/sqlboiler">https://github.com/volatiletech/sqlboiler&lt;/a> Generate a Go ORM tailored to your database schema.&lt;/li>
-&lt;li>&lt;a href="https://github.com/system-pclub/GCatch">https://github.com/system-pclub/GCatch&lt;/a> Statically Detecting Go Concurrency Bugs.&lt;/li>
-&lt;li>&lt;a href="https://github.com/RetroShare/RetroShare">https://github.com/RetroShare/RetroShare&lt;/a> RetroShare is a Free and Open Source cross-platform, Friend-2-Friend and secure decentralised communication platform.&lt;/li>
-&lt;li>&lt;a href="https://www.howtodeal.dev/">https://www.howtodeal.dev/&lt;/a> How to Deal with Difficult People on Software Projects&lt;/li>
-&lt;li>&lt;a href="https://github.com/pemistahl/grex">https://github.com/pemistahl/grex&lt;/a> A command-line tool and library for generating regular expressions from user-provided test cases - pemistahl/grex.&lt;/li>
-&lt;li>&lt;a href="https://github.com/denisidoro/navi">https://github.com/denisidoro/navi&lt;/a> An interactive cheatsheet tool for the command-line.&lt;/li>
-&lt;li>&lt;a href="https://madaidans-insecurities.github.io/guides/linux-hardening.html">https://madaidans-insecurities.github.io/guides/linux-hardening.html&lt;/a> Linux Hardening Guide&lt;/li>
-&lt;li>&lt;a href="https://mysqlserverteam.com/mysql-shell-dump-load-part-1-demo/">https://mysqlserverteam.com/mysql-shell-dump-load-part-1-demo/&lt;/a> MySQL Shell Dump &amp;amp; Load.&lt;/li>
-&lt;li>&lt;a href="https://i3wm.org/docs/userguide.html">https://i3wm.org/docs/userguide.html&lt;/a> i3wm&lt;/li>
-&lt;li>&lt;a href="https://libre.life/7522/0105/1/ru">https://libre.life/7522/0105/1/ru&lt;/a> Cписок децентрализованных сервисов.&lt;/li>
-&lt;li>&lt;a href="https://github.com/lucasepe/modgv">https://github.com/lucasepe/modgv&lt;/a> Converts &amp;lsquo;go mod graph&amp;rsquo; output into Graphviz&amp;rsquo;s DOT language.&lt;/li>
-&lt;li>&lt;a href="http://www.stolyarov.info/books">http://www.stolyarov.info/books&lt;/a> Книги Столярова про программирование&lt;/li>
-&lt;li>&lt;a href="https://github.com/leozide/leocad">https://github.com/leozide/leocad&lt;/a> A CAD application for creating virtual LEGO models.&lt;/li>
-&lt;li>&lt;a href="https://github.com/cockroachdb/copyist">https://github.com/cockroachdb/copyist&lt;/a> Mocking your SQL database in Go tests has never been easier.&lt;/li>
-&lt;li>&lt;a href="https://github.com/rqlite/rqlite">https://github.com/rqlite/rqlite&lt;/a> The lightweight, distributed relational database built on SQLite.&lt;/li>
-&lt;li>&lt;a href="https://github.com/360EntSecGroup-Skylar/excelize">https://github.com/360EntSecGroup-Skylar/excelize&lt;/a> Golang library for reading and writing Microsoft Excel™ (XLSX) files.&lt;/li>
-&lt;li>&lt;a href="https://github.com/gotranspile/cxgo">https://github.com/gotranspile/cxgo&lt;/a> Another tool for transpiling C to Go.&lt;/li>
-&lt;li>&lt;a href="https://github.com/muesli/termenv">https://github.com/muesli/termenv&lt;/a> Advanced ANSI style &amp;amp; color support for your terminal applications.&lt;/li>
-&lt;li>&lt;a href="https://github.com/spf13/cobra">https://github.com/spf13/cobra&lt;/a> A Commander for modern Go CLI interactions&lt;/li>
-&lt;li>&lt;a href="https://github.com/blockloop/scan">https://github.com/blockloop/scan&lt;/a> Scan database/sql rows directly to structs, slices, and primitive types&lt;/li>
-&lt;li>&lt;a href="https://github.com/maaslalani/slides">https://github.com/maaslalani/slides&lt;/a> Terminal based presentation tool&lt;/li>
-&lt;li>&lt;a href="https://github.com/ardanlabs/gotraining/tree/master/reading">https://github.com/ardanlabs/gotraining/tree/master/reading&lt;/a> There is a ton of links to extra reading and videos through out the material. Occasionally we run into material that we feel is important and don&amp;rsquo;t have an exact place to put it. This is a section place for that material.&lt;/li>
-&lt;li>&lt;a href="https://github.com/nikolaydubina/go-recipes">https://github.com/nikolaydubina/go-recipes&lt;/a> Handy commands to run in Go projects&lt;/li>
-&lt;li>&lt;a href="https://github.com/gojuno/minimock">https://github.com/gojuno/minimock&lt;/a> Powerful mock generation tool for Go programming language&lt;/li>
-&lt;li>&lt;a href="https://github.com/vbauerster/mpb">https://github.com/vbauerster/mpb&lt;/a> multi progress bar for Go cli applications&lt;/li>
-&lt;li>&lt;a href="https://github.com/MarvinJWendt/testza">https://github.com/MarvinJWendt/testza&lt;/a> Full-featured test framework for Go! Assertions, mocking, input testing, output capturing, and much more!&lt;/li>
-&lt;li>&lt;a href="https://github.com/go101/go101">https://github.com/go101/go101&lt;/a> An online book focusing on Go syntax/semantics and runtime related things&lt;/li>
-&lt;li>&lt;a href="https://github.com/nanovms/ops">https://github.com/nanovms/ops&lt;/a> ops - build and run nanos unikernels&lt;/li>
-&lt;li>&lt;a href="https://github.com/kris-nova/naml">https://github.com/kris-nova/naml&lt;/a> Not another markup language. Framework for replacing Kubernetes YAML with Go.&lt;/li>
-&lt;li>&lt;a href="https://github.com/AlecAivazis/survey">https://github.com/AlecAivazis/survey&lt;/a> A golang library for building interactive and accessible prompts with full support for windows and posix terminals.&lt;/li>
-&lt;li>&lt;a href="https://github.com/pokemium/Worldwide">https://github.com/pokemium/Worldwide&lt;/a> GameBoy Color emulator written in golang.&lt;/li>
-&lt;li>&lt;a href="https://github.com/qax-os/excelize">https://github.com/qax-os/excelize&lt;/a> Golang library for reading and writing Microsoft Excel™ (XLSX) files.&lt;/li>
-&lt;li>&lt;a href="https://github.com/buraksezer/connpool">https://github.com/buraksezer/connpool&lt;/a> Connection pool for Go&amp;rsquo;s net.Conn interface&lt;/li>
-&lt;li>&lt;a href="https://github.com/saurabh0719/go-hashlru">https://github.com/saurabh0719/go-hashlru&lt;/a> A simple thread-safe and fixed size LRU. Based on the Hashlru Algorithm&lt;/li>
-&lt;li>&lt;a href="https://github.com/tmrts/go-patterns">https://github.com/tmrts/go-patterns&lt;/a> Curated list of Go design patterns, recipes and idioms&lt;/li>
-&lt;li>&lt;a href="https://github.com/mathaou/termdbms">https://github.com/mathaou/termdbms&lt;/a> A TUI for viewing and editing database files.&lt;/li>
-&lt;li>&lt;a href="https://github.com/tomnomnom/gron">https://github.com/tomnomnom/gron&lt;/a> Make JSON greppable!&lt;/li>
-&lt;li>&lt;a href="https://github.com/FiloSottile/age">https://github.com/FiloSottile/age&lt;/a> A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.&lt;/li>
-&lt;li>&lt;a href="https://github.com/DataDog/go-profiler-notes">https://github.com/DataDog/go-profiler-notes&lt;/a> felixge&amp;rsquo;s notes on the various go profiling methods that are available.&lt;/li>
-&lt;li>&lt;a href="https://github.com/PuerkitoBio/goquery">https://github.com/PuerkitoBio/goquery&lt;/a> goquery brings a syntax and a set of features similar to jQuery to the Go language.&lt;/li>
-&lt;/ul></description></item><item><title>IT Telegram Channels</title><link>https://torwald-sergesson.github.io/dev/it-telegram-channels/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/dev/it-telegram-channels/</guid><description>&lt;p>There are some useful IT Telegram Channels&lt;/p>
-&lt;ul>
-&lt;li>&lt;a href="https://t.me/rxd_txd">https://t.me/rxd_txd&lt;/a> - rxd_txd&lt;/li>
-&lt;li>&lt;a href="https://t.me/Social_engineering">https://t.me/Social_engineering&lt;/a> - Social Engineering&lt;/li>
-&lt;li>&lt;a href="https://t.me/geekexport">https://t.me/geekexport&lt;/a> - GEEK EXPORT&lt;/li>
-&lt;li>&lt;a href="https://t.me/docops">https://t.me/docops&lt;/a> - DocOps&lt;/li>
-&lt;li>&lt;a href="https://t.me/refactor_later">https://t.me/refactor_later&lt;/a> - Потом отрефакторим&lt;/li>
-&lt;li>&lt;a href="https://t.me/golanglibrary">https://t.me/golanglibrary&lt;/a> - Go Library&lt;/li>
-&lt;li>&lt;a href="https://t.me/devopslibrary">https://t.me/devopslibrary&lt;/a> - DevOps&amp;amp;SRE Library&lt;/li>
-&lt;li>&lt;a href="https://t.me/gophernews">https://t.me/gophernews&lt;/a> - 4gophers&lt;/li>
-&lt;li>&lt;a href="https://t.me/generictalks">https://t.me/generictalks&lt;/a> - Generic Talks&lt;/li>
-&lt;li>&lt;a href="https://t.me/go_perf">https://t.me/go_perf&lt;/a> - Go performance channel&lt;/li>
-&lt;li>&lt;a href="https://t.me/goproglib">https://t.me/goproglib&lt;/a> - Библиотека Go разработчика&lt;/li>
-&lt;li>&lt;a href="https://t.me/PINE64_News">https://t.me/PINE64_News&lt;/a> - PINE64 News&lt;/li>
-&lt;li>&lt;a href="https://t.me/SysadminNotes">https://t.me/SysadminNotes&lt;/a> - Записки админа&lt;/li>
-&lt;li>&lt;a href="https://t.me/microservices_arch">https://t.me/microservices_arch&lt;/a> - Микросервисы&lt;/li>
-&lt;li>&lt;a href="https://t.me/meta_it">https://t.me/meta_it&lt;/a> - Свалка ссылок на чаты и каналы о IT.&lt;/li>
-&lt;li>&lt;a href="https://t.me/catops">https://t.me/catops&lt;/a> - DevOps and other issues by Yurii Rochniak&lt;/li>
-&lt;li>&lt;a href="https://t.me/count0_digest">https://t.me/count0_digest&lt;/a> - Пятничный деплой&lt;/li>
-&lt;li>&lt;a href="https://t.me/avitotech">https://t.me/avitotech&lt;/a> - AvitoTech&lt;/li>
-&lt;li>&lt;a href="https://t.me/dataleak">https://t.me/dataleak&lt;/a> - Утечки информации&lt;/li>
-&lt;li>&lt;a href="https://t.me/consensus_io">https://t.me/consensus_io&lt;/a> - Consensus&lt;/li>
-&lt;li>&lt;a href="https://t.me/golangdigest">https://t.me/golangdigest&lt;/a> - Go (Golang) Дайджест&lt;/li>
-&lt;li>&lt;a href="https://t.me/bzd_channel">https://t.me/bzd_channel&lt;/a> - BZD • Книги для программистов&lt;/li>
-&lt;li>&lt;a href="https://t.me/HighLoadChannel">https://t.me/HighLoadChannel&lt;/a> - Важные объявления, организационные изменения, изменения в программе конференции HighLoad++&lt;/li>
-&lt;li>&lt;a href="https://t.me/quizcpp">https://t.me/quizcpp&lt;/a> - С++ задачи и вопросы&lt;/li>
-&lt;li>&lt;a href="https://t.me/golangquiz">https://t.me/golangquiz&lt;/a> - Golang задачи с собеседований&lt;/li>
-&lt;li>&lt;a href="https://t.me/podlodkanews">https://t.me/podlodkanews&lt;/a> - Podlodka Podcast&lt;/li>
-&lt;/ul></description></item><item><title>Linux and C</title><link>https://torwald-sergesson.github.io/dev/linux-and-c/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/dev/linux-and-c/</guid><description>&lt;h2 id="linux-from-scratch-linux-для-себя">Linux From Scratch (Linux для себя)&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="https://lx4u.ru">https://lx4u.ru&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;p>Linux для себя - русскоязычное подробное руководство по созданию Linux-системы, используя лишь исходные тексты необходимого программного обеспечения. Это руководство - самостоятельное ответвление от проекта &lt;a href="https://www.linuxfromscratch.org">Linux From Scratch&lt;/a>.&lt;/p>
-&lt;h2 id="linux-kernel-defence-map">Linux Kernel Defence Map&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="https://github.com/a13xp0p0v/linux-kernel-defence-map">https://github.com/a13xp0p0v/linux-kernel-defence-map&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;p>Linux Kernel Defence Map shows the relationships between vulnerability classes, exploitation techniques, bug detection mechanisms, and defence technologies&lt;/p>
-&lt;h2 id="a-quick-intro-to-basic-debugging-tools-for-linux-systems">A quick intro to basic debugging tools for Linux systems&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="https://www.petermcconnell.com/posts/linuxtools/">https://www.petermcconnell.com/posts/linuxtools/&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Rust</title><link>https://torwald-sergesson.github.io/dev/rust-links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/dev/rust-links/</guid><description>&lt;ul>
-&lt;li>&lt;a href="https://google.github.io/comprehensive-rust/">https://google.github.io/comprehensive-rust/&lt;/a> Comprehensive Rust&lt;/li>
-&lt;/ul></description></item><item><title>Security</title><link>https://torwald-sergesson.github.io/dev/security-links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/dev/security-links/</guid><description>&lt;ul>
-&lt;li>&lt;a href="https://github.com/ashemery/exploitation-course">https://github.com/ashemery/exploitation-course&lt;/a> Offensive Software Exploitation (OSE) Course&lt;/li>
-&lt;/ul></description></item><item><title>Vim config files</title><link>https://torwald-sergesson.github.io/dev/vim-configs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/dev/vim-configs/</guid><description>&lt;pre tabindex="0">&lt;code>set number
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Software development topics on Torwald Log</title><link>https://torwald-sergesson.github.io/dev/</link><description>Recent content in Software development topics on Torwald Log</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://torwald-sergesson.github.io/dev/index.xml" rel="self" type="application/rss+xml"/><item><title>Career</title><link>https://torwald-sergesson.github.io/dev/career/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/dev/career/</guid><description>&lt;h2 id="roadmaps"&gt;Roadmaps&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mobile Developer iOS &lt;a href="https://github.com/BohdanOrlov/iOS-Developer-Roadmap"&gt;https://github.com/BohdanOrlov/iOS-Developer-Roadmap&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Low-Level Developer &lt;a href="https://github.com/gurugio/lowlevelprogramming-university"&gt;https://github.com/gurugio/lowlevelprogramming-university&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Web Developer &lt;a href="https://github.com/kamranahmedse/developer-roadmap"&gt;https://github.com/kamranahmedse/developer-roadmap&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="архитектор-по"&gt;Архитектор ПО&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://medium.com/@nvashanin"&gt;https://medium.com/@nvashanin&lt;/a&gt; серия статей по архитектуре&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://habr.com/company/softline/blog/319814/"&gt;https://habr.com/company/softline/blog/319814/&lt;/a&gt; Профессия архитектора: ожидание и реальность&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://habr.com/company/technoserv/blog/350170/"&gt;https://habr.com/company/technoserv/blog/350170/&lt;/a&gt; - системный архитектор&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://medium.com/@nvashanin/books-in-software-architecture-6ad974e524ce"&gt;https://medium.com/@nvashanin/books-in-software-architecture-6ad974e524ce&lt;/a&gt; - клевые книги по архитектуре&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.ibm.com/developerworks/ru/library/ws-soa-proarch1/index.html"&gt;https://www.ibm.com/developerworks/ru/library/ws-soa-proarch1/index.html&lt;/a&gt; - специалист по архитектуре ПО&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="ta-technical-architect"&gt;TA (Technical Architect)&lt;/h2&gt;
+&lt;p&gt;Необходимый минимум:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Алгоритмы и структуры данных&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://proglib.io/p/awesome-algorithms/"&gt;https://proglib.io/p/awesome-algorithms/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://edu.nstu.ru/courses/saod/content.htm"&gt;http://edu.nstu.ru/courses/saod/content.htm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://vk.com/page-54530371_48795618"&gt;https://vk.com/page-54530371_48795618&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Паттерны проектирования&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://sourcemaking.com/"&gt;https://sourcemaking.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://forcoder.ru/developing/priemy-obektno-orientirovannogo-proektirovaniya-patterny-proektirovaniya-1372"&gt;http://forcoder.ru/developing/priemy-obektno-orientirovannogo-proektirovaniya-patterny-proektirovaniya-1372&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Dependency Injection &lt;a href="https://www.manning.com/books/dependency-injection-in-dot-net"&gt;https://www.manning.com/books/dependency-injection-in-dot-net&lt;/a&gt;  (RU: &lt;a href="https://smarly.net/dependency-injection-in-net"&gt;https://smarly.net/dependency-injection-in-net&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;MVC, MVVM, MVP &lt;a href="https://habrahabr.ru/post/215605/"&gt;https://habrahabr.ru/post/215605/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;S.O.L.I.D. &lt;a href="https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)"&gt;https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Теория баз данных&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Вообще для ТА лучше всего, если была соответствующая профильная подготовка в ВУЗе. Для освежения памяти можно использовать любой источник, напр.&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.mstu.edu.ru/study/materials/zelenkov/toc.html"&gt;http://www.mstu.edu.ru/study/materials/zelenkov/toc.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Горизонтальное масштабирование систем&lt;/p&gt;</description></item><item><title>Databases internals</title><link>https://torwald-sergesson.github.io/dev/databases_internals/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/dev/databases_internals/</guid><description>&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://cstack.github.io/db_tutorial/"&gt;https://cstack.github.io/db_tutorial/&lt;/a&gt; Let&amp;rsquo;s Build a Simple Database&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/auxten/go-sqldb"&gt;https://github.com/auxten/go-sqldb&lt;/a&gt; A pure golang SQL database for database theory research&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>DNS</title><link>https://torwald-sergesson.github.io/dev/dns-links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/dev/dns-links/</guid><description>&lt;h2 id="why-is-dns-still-hard-to-learn"&gt;Why is DNS still hard to learn?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://jvns.ca/blog/2023/07/28/why-is-dns-still-hard-to-learn/"&gt;https://jvns.ca/blog/2023/07/28/why-is-dns-still-hard-to-learn/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Мне нравится как Julia Evans пишет о DNS, нравится что попадаются вопросы, на которые нельзя ответить сразу, без погружения. Ещё одна заметка на этот счёт&amp;hellip;&lt;/p&gt;</description></item><item><title>Golang Reading List from Mail.ru cources</title><link>https://torwald-sergesson.github.io/dev/golang-mail-ru/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/dev/golang-mail-ru/</guid><description>&lt;h2 id="reading-week-1"&gt;Reading Week 1&lt;/h2&gt;
+&lt;p&gt;Материалы для дополнительного чтения на английском:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;[-] &lt;a href="https://golang.org/ref/spec"&gt;https://golang.org/ref/spec&lt;/a&gt; - спецификация по язык&lt;/li&gt;
+&lt;li&gt;[-] &lt;a href="https://golang.org/ref/mem"&gt;https://golang.org/ref/mem&lt;/a&gt; - модель памяти го. на начальном этапе не надо, но знать полезно&lt;/li&gt;
+&lt;li&gt;[-] &lt;a href="https://golang.org/doc/code.html"&gt;https://golang.org/doc/code.html&lt;/a&gt; - про организацию кода. GOPATH и пакеты&lt;/li&gt;
+&lt;li&gt;[-] &lt;a href="https://golang.org/cmd/go/"&gt;https://golang.org/cmd/go/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[-] &lt;a href="https://blog.golang.org/strings"&gt;https://blog.golang.org/strings&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[-] &lt;a href="https://blog.golang.org/slices"&gt;https://blog.golang.org/slices&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[-] &lt;a href="https://blog.golang.org/go-slices-usage-and-internals"&gt;https://blog.golang.org/go-slices-usage-and-internals&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[-] &lt;a href="https://github.com/golang/go/wiki"&gt;https://github.com/golang/go/wiki&lt;/a&gt; - вики го на гитхабе. очень много полезной информации&lt;/li&gt;
+&lt;li&gt;[-] &lt;a href="https://blog.golang.org/go-maps-in-action"&gt;https://blog.golang.org/go-maps-in-action&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[-] &lt;a href="https://blog.golang.org/organizing-go-code"&gt;https://blog.golang.org/organizing-go-code&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[-] &lt;a href="https://golang.org/doc/effective_go.html"&gt;https://golang.org/doc/effective_go.html&lt;/a&gt; - основной сборник тайного знания, сюда вы будуте обращатсья в первое время часто&lt;/li&gt;
+&lt;li&gt;[-] &lt;a href="https://github.com/golang/go/wiki/CodeReviewComments"&gt;https://github.com/golang/go/wiki/CodeReviewComments&lt;/a&gt; как ревьювить (и писать код). обязательно к прочтению&lt;/li&gt;
+&lt;li&gt;[-] &lt;a href="https://divan.github.io/posts/avoid_gotchas/"&gt;https://divan.github.io/posts/avoid_gotchas/&lt;/a&gt; - материал аналогичный 50 оттенков го&lt;/li&gt;
+&lt;li&gt;[-] &lt;a href="https://research.swtch.com/interfaces"&gt;https://research.swtch.com/interfaces&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[-] &lt;a href="https://research.swtch.com/godata"&gt;https://research.swtch.com/godata&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[-] &lt;a href="http://jordanorelli.com/post/42369331748/function-types-in-go-golang"&gt;http://jordanorelli.com/post/42369331748/function-types-in-go-golang&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[-] &lt;a href="https://www.devdungeon.com/content/working-files-go"&gt;https://www.devdungeon.com/content/working-files-go&lt;/a&gt; - работа с файлами&lt;/li&gt;
+&lt;li&gt;[-] &lt;a href="http://www.golangprograms.com"&gt;http://www.golangprograms.com&lt;/a&gt; - много how-to касательно базовых вещей в go&lt;/li&gt;
+&lt;li&gt;[-] &lt;a href="http://yourbasic.org/golang/"&gt;http://yourbasic.org/golang/&lt;/a&gt; - ещё большой набор how-to где можно получить углублённую информацию по всем базовым вещам. очень полезны http://yourbasic.org/golang/blueprint/&lt;/li&gt;
+&lt;li&gt;[-] &lt;a href="https://github.com/Workiva/go-datastructures"&gt;https://github.com/Workiva/go-datastructures&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[-] &lt;a href="https://github.com/enocom/gopher-reading-list"&gt;https://github.com/enocom/gopher-reading-list&lt;/a&gt; - большая подборка статей по многим темам ( не только данной лекции )&lt;/li&gt;
+&lt;li&gt;[-] &lt;a href="https://www.youtube.com/watch?v=MzTcsI6tn-0"&gt;https://www.youtube.com/watch?v=MzTcsI6tn-0&lt;/a&gt; - как организовать код&lt;/li&gt;
+&lt;li&gt;[-] &lt;a href="https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1"&gt;https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1&lt;/a&gt; - статья на предыдущую тему
+Материалы для дополнительного чтения на русском:&lt;/li&gt;
+&lt;li&gt;[-] &lt;a href="https://habrahabr.ru/company/mailru/blog/314804/"&gt;https://habrahabr.ru/company/mailru/blog/314804/&lt;/a&gt; - 50 оттенков го. обязательно к прочтению. многое оттуда мы ещё не проходили, но на будущее - имейте ввиду&lt;/li&gt;
+&lt;li&gt;[-] &lt;a href="https://habrahabr.ru/post/306914/"&gt;https://habrahabr.ru/post/306914/&lt;/a&gt; - Разбираемся в Go: пакет io&lt;/li&gt;
+&lt;li&gt;[-] &lt;a href="https://habrahabr.ru/post/272383/"&gt;https://habrahabr.ru/post/272383/&lt;/a&gt; - постулаты go. Маленькая статья об основными принципах языка&lt;/li&gt;
+&lt;li&gt;[-] &lt;a href="https://habrahabr.ru/company/mailru/blog/301036/"&gt;https://habrahabr.ru/company/mailru/blog/301036/&lt;/a&gt; - лучшие практики go&lt;/li&gt;
+&lt;li&gt;[-] &lt;a href="https://habrahabr.ru/post/308198/"&gt;https://habrahabr.ru/post/308198/&lt;/a&gt; - организация кода в go&lt;/li&gt;
+&lt;li&gt;[-] &lt;a href="https://habrahabr.ru/post/339192/"&gt;https://habrahabr.ru/post/339192/&lt;/a&gt; - Зачем в Go амперсанд и звёздочка (&amp;amp; и *)&lt;/li&gt;
+&lt;li&gt;[-] &lt;a href="https://habrahabr.ru/post/325468/"&gt;https://habrahabr.ru/post/325468/&lt;/a&gt; - как не наступать на грабли в Go&lt;/li&gt;
+&lt;li&gt;[-] &lt;a href="https://habrahabr.ru/post/276981/"&gt;https://habrahabr.ru/post/276981/&lt;/a&gt; - Краш-курс по интерфейсам в Go&lt;/li&gt;
+&lt;li&gt;[-] &lt;a href="http://golang-book.ru"&gt;http://golang-book.ru&lt;/a&gt;
+Литература по го на русском языке:&lt;/li&gt;
+&lt;li&gt;[-] Язык программирования Go, Алан А. А. Донован, Брайан У. Керниган&lt;/li&gt;
+&lt;li&gt;[-] Go на практике, Matt Butcher, Мэтт Фарина Мэтт&lt;/li&gt;
+&lt;li&gt;[-] Программирование на Go. Разработка приложений XXI века, Марк Саммерфильд
+Дополнительные упражнения:&lt;/li&gt;
+&lt;li&gt;[-] &lt;a href="https://go-tour-ru-ru.appspot.com/list"&gt;https://go-tour-ru-ru.appspot.com/list&lt;/a&gt; - упражнения на овладение базовым синтаксисом, на случай если вам нужна небольшая практика перед первым заданием курса&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="reading-week-2"&gt;Reading Week 2&lt;/h2&gt;
+&lt;p&gt;На английском:&lt;/p&gt;</description></item><item><title>Interesting links</title><link>https://torwald-sergesson.github.io/dev/interesting-it-links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/dev/interesting-it-links/</guid><description>&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/ivanceras/svgbob"&gt;https://github.com/ivanceras/svgbob&lt;/a&gt; Convert your ascii diagram scribbles into happy little SVG&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ohmygit.org/"&gt;https://ohmygit.org/&lt;/a&gt; An open source game about learning Git&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/dolthub/dolt"&gt;https://github.com/dolthub/dolt&lt;/a&gt; It&amp;rsquo;s Git for Data&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://betterprogramming.pub/git-commands-to-live-by-349ab1fe3139"&gt;https://betterprogramming.pub/git-commands-to-live-by-349ab1fe3139&lt;/a&gt; Git Commands to Live By. The cheat sheet that goes beyond Git basics&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/uber-go/gopatch"&gt;https://github.com/uber-go/gopatch&lt;/a&gt; Refactoring and code transformation tool for Go.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/jroimartin/gocui"&gt;https://github.com/jroimartin/gocui&lt;/a&gt; Minimalist Go package aimed at creating Console User Interfaces.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://justine.lol/index.html"&gt;https://justine.lol/index.html&lt;/a&gt; - Justine Tunney&amp;rsquo;s Web Page (printvideo, cosmopolitan, nesemu1 and etc)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/xo/xo"&gt;https://github.com/xo/xo&lt;/a&gt; - Command line tool to generate idiomatic Go code for SQL databases supporting PostgreSQL, MySQL, SQLite, Oracle, and Microsoft SQL Server&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://thevaluable.dev/vim-advanced/"&gt;https://thevaluable.dev/vim-advanced/&lt;/a&gt; A Vim Guide for Advanced Users&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://chip-8.github.io/links/"&gt;https://chip-8.github.io/links/&lt;/a&gt; Awesome CHIP-8&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://tobiasvl.github.io/blog/write-a-chip-8-emulator/"&gt;https://tobiasvl.github.io/blog/write-a-chip-8-emulator/&lt;/a&gt; A high-level guide to making a CHIP-8 emulator.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/AkihiroSuda/lima/"&gt;https://github.com/AkihiroSuda/lima/&lt;/a&gt; Linux virtual machines, on macOS (aka &amp;ldquo;Linux-on-Mac&amp;rdquo;, &amp;ldquo;macOS subsystem for Linux&amp;rdquo;, &amp;ldquo;containerd for Mac&amp;rdquo;, unofficially)&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.brendangregg.com/"&gt;http://www.brendangregg.com/&lt;/a&gt; - Brendan Gregg&amp;rsquo;s homepage (Linux and Performance)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/syncthing/syncthing"&gt;https://github.com/syncthing/syncthing&lt;/a&gt; - Open Source Continuous File Synchronization.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/google/gops"&gt;https://github.com/google/gops&lt;/a&gt; - A tool to list and diagnose Go processes currently running on your system.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/adonovan/spaghetti"&gt;https://github.com/adonovan/spaghetti&lt;/a&gt; - Spaghetti: a dependency analysis tool for Go packages&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/pterm/pterm/"&gt;https://github.com/pterm/pterm/&lt;/a&gt; - PTerm is a modern go module to beautify console output. Featuring charts, progressbars, tables, trees, and many more. It&amp;rsquo;s completely configurable and 100% cross-platform compatible.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/cheggaaa/pb"&gt;https://github.com/cheggaaa/pb&lt;/a&gt; Console progress bar for Golang.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/spf13/afero"&gt;https://github.com/spf13/afero&lt;/a&gt; A FileSystem Abstraction System for Go.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/google/go-github"&gt;https://github.com/google/go-github&lt;/a&gt; Go library for accessing the GitHub API.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/brianvoe/gofakeit"&gt;https://github.com/brianvoe/gofakeit&lt;/a&gt; Random fake data generator written in go.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/bcicen/ctop"&gt;https://github.com/bcicen/ctop&lt;/a&gt; Top-like interface for container metrics.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/goccy/go-json"&gt;https://github.com/goccy/go-json&lt;/a&gt; goccy/go-json Fast JSON encoder/decoder compatible with encoding/json for Go.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/irevenko/tsukae"&gt;https://github.com/irevenko/tsukae&lt;/a&gt; Show off your most used shell commands.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/orbitdb/orbit-db"&gt;https://github.com/orbitdb/orbit-db&lt;/a&gt; Peer-to-Peer Databases for the Decentralized Web.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://themagicsmoke.ru/books/c_for_embedded_systems/"&gt;https://themagicsmoke.ru/books/c_for_embedded_systems/&lt;/a&gt; Книга «Си для встраиваемых систем»&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/hashicorp/go-version"&gt;https://github.com/hashicorp/go-version&lt;/a&gt; A Go (golang) library for parsing and verifying versions and version constraints.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/neilotoole/sq"&gt;https://github.com/neilotoole/sq&lt;/a&gt; swiss-army knife for data.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/kyleconroy/sqlc"&gt;https://github.com/kyleconroy/sqlc&lt;/a&gt; Generate type safe Go from SQL.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/gohugoio/hugo"&gt;https://github.com/gohugoio/hugo&lt;/a&gt; The world’s fastest framework for building websites.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/boyter/scc"&gt;https://github.com/boyter/scc&lt;/a&gt; Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/golang/mock"&gt;https://github.com/golang/mock&lt;/a&gt; GoMock is a mocking framework for the Go programming language.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/charmbracelet/glow"&gt;https://github.com/charmbracelet/glow&lt;/a&gt; Render markdown on the CLI, with pizzazz!&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/jmattheis/goverter"&gt;https://github.com/jmattheis/goverter&lt;/a&gt; Generate type-safe Go converters by simply defining an interface&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/volatiletech/sqlboiler"&gt;https://github.com/volatiletech/sqlboiler&lt;/a&gt; Generate a Go ORM tailored to your database schema.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/system-pclub/GCatch"&gt;https://github.com/system-pclub/GCatch&lt;/a&gt; Statically Detecting Go Concurrency Bugs.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/RetroShare/RetroShare"&gt;https://github.com/RetroShare/RetroShare&lt;/a&gt; RetroShare is a Free and Open Source cross-platform, Friend-2-Friend and secure decentralised communication platform.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.howtodeal.dev/"&gt;https://www.howtodeal.dev/&lt;/a&gt; How to Deal with Difficult People on Software Projects&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/pemistahl/grex"&gt;https://github.com/pemistahl/grex&lt;/a&gt; A command-line tool and library for generating regular expressions from user-provided test cases - pemistahl/grex.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/denisidoro/navi"&gt;https://github.com/denisidoro/navi&lt;/a&gt; An interactive cheatsheet tool for the command-line.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://madaidans-insecurities.github.io/guides/linux-hardening.html"&gt;https://madaidans-insecurities.github.io/guides/linux-hardening.html&lt;/a&gt; Linux Hardening Guide&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://mysqlserverteam.com/mysql-shell-dump-load-part-1-demo/"&gt;https://mysqlserverteam.com/mysql-shell-dump-load-part-1-demo/&lt;/a&gt; MySQL Shell Dump &amp;amp; Load.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://i3wm.org/docs/userguide.html"&gt;https://i3wm.org/docs/userguide.html&lt;/a&gt; i3wm&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://libre.life/7522/0105/1/ru"&gt;https://libre.life/7522/0105/1/ru&lt;/a&gt; Cписок децентрализованных сервисов.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/lucasepe/modgv"&gt;https://github.com/lucasepe/modgv&lt;/a&gt; Converts &amp;lsquo;go mod graph&amp;rsquo; output into Graphviz&amp;rsquo;s DOT language.&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.stolyarov.info/books"&gt;http://www.stolyarov.info/books&lt;/a&gt; Книги Столярова про программирование&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/leozide/leocad"&gt;https://github.com/leozide/leocad&lt;/a&gt; A CAD application for creating virtual LEGO models.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/cockroachdb/copyist"&gt;https://github.com/cockroachdb/copyist&lt;/a&gt; Mocking your SQL database in Go tests has never been easier.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/rqlite/rqlite"&gt;https://github.com/rqlite/rqlite&lt;/a&gt; The lightweight, distributed relational database built on SQLite.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/360EntSecGroup-Skylar/excelize"&gt;https://github.com/360EntSecGroup-Skylar/excelize&lt;/a&gt; Golang library for reading and writing Microsoft Excel™ (XLSX) files.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/gotranspile/cxgo"&gt;https://github.com/gotranspile/cxgo&lt;/a&gt; Another tool for transpiling C to Go.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/muesli/termenv"&gt;https://github.com/muesli/termenv&lt;/a&gt; Advanced ANSI style &amp;amp; color support for your terminal applications.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/spf13/cobra"&gt;https://github.com/spf13/cobra&lt;/a&gt; A Commander for modern Go CLI interactions&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/blockloop/scan"&gt;https://github.com/blockloop/scan&lt;/a&gt; Scan database/sql rows directly to structs, slices, and primitive types&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/maaslalani/slides"&gt;https://github.com/maaslalani/slides&lt;/a&gt; Terminal based presentation tool&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/ardanlabs/gotraining/tree/master/reading"&gt;https://github.com/ardanlabs/gotraining/tree/master/reading&lt;/a&gt; There is a ton of links to extra reading and videos through out the material. Occasionally we run into material that we feel is important and don&amp;rsquo;t have an exact place to put it. This is a section place for that material.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/nikolaydubina/go-recipes"&gt;https://github.com/nikolaydubina/go-recipes&lt;/a&gt; Handy commands to run in Go projects&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/gojuno/minimock"&gt;https://github.com/gojuno/minimock&lt;/a&gt; Powerful mock generation tool for Go programming language&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/vbauerster/mpb"&gt;https://github.com/vbauerster/mpb&lt;/a&gt; multi progress bar for Go cli applications&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/MarvinJWendt/testza"&gt;https://github.com/MarvinJWendt/testza&lt;/a&gt; Full-featured test framework for Go! Assertions, mocking, input testing, output capturing, and much more!&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/go101/go101"&gt;https://github.com/go101/go101&lt;/a&gt; An online book focusing on Go syntax/semantics and runtime related things&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/nanovms/ops"&gt;https://github.com/nanovms/ops&lt;/a&gt; ops - build and run nanos unikernels&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/kris-nova/naml"&gt;https://github.com/kris-nova/naml&lt;/a&gt; Not another markup language. Framework for replacing Kubernetes YAML with Go.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/AlecAivazis/survey"&gt;https://github.com/AlecAivazis/survey&lt;/a&gt; A golang library for building interactive and accessible prompts with full support for windows and posix terminals.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/pokemium/Worldwide"&gt;https://github.com/pokemium/Worldwide&lt;/a&gt; GameBoy Color emulator written in golang.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/qax-os/excelize"&gt;https://github.com/qax-os/excelize&lt;/a&gt; Golang library for reading and writing Microsoft Excel™ (XLSX) files.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/buraksezer/connpool"&gt;https://github.com/buraksezer/connpool&lt;/a&gt; Connection pool for Go&amp;rsquo;s net.Conn interface&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/saurabh0719/go-hashlru"&gt;https://github.com/saurabh0719/go-hashlru&lt;/a&gt; A simple thread-safe and fixed size LRU. Based on the Hashlru Algorithm&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/tmrts/go-patterns"&gt;https://github.com/tmrts/go-patterns&lt;/a&gt; Curated list of Go design patterns, recipes and idioms&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/mathaou/termdbms"&gt;https://github.com/mathaou/termdbms&lt;/a&gt; A TUI for viewing and editing database files.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/tomnomnom/gron"&gt;https://github.com/tomnomnom/gron&lt;/a&gt; Make JSON greppable!&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/FiloSottile/age"&gt;https://github.com/FiloSottile/age&lt;/a&gt; A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/DataDog/go-profiler-notes"&gt;https://github.com/DataDog/go-profiler-notes&lt;/a&gt; felixge&amp;rsquo;s notes on the various go profiling methods that are available.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/PuerkitoBio/goquery"&gt;https://github.com/PuerkitoBio/goquery&lt;/a&gt; goquery brings a syntax and a set of features similar to jQuery to the Go language.&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>IT Telegram Channels</title><link>https://torwald-sergesson.github.io/dev/it-telegram-channels/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/dev/it-telegram-channels/</guid><description>&lt;p&gt;There are some useful IT Telegram Channels&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://t.me/rxd_txd"&gt;https://t.me/rxd_txd&lt;/a&gt; - rxd_txd&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/Social_engineering"&gt;https://t.me/Social_engineering&lt;/a&gt; - Social Engineering&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/geekexport"&gt;https://t.me/geekexport&lt;/a&gt; - GEEK EXPORT&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/docops"&gt;https://t.me/docops&lt;/a&gt; - DocOps&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/refactor_later"&gt;https://t.me/refactor_later&lt;/a&gt; - Потом отрефакторим&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/golanglibrary"&gt;https://t.me/golanglibrary&lt;/a&gt; - Go Library&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/devopslibrary"&gt;https://t.me/devopslibrary&lt;/a&gt; - DevOps&amp;amp;SRE Library&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/gophernews"&gt;https://t.me/gophernews&lt;/a&gt; - 4gophers&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/generictalks"&gt;https://t.me/generictalks&lt;/a&gt; - Generic Talks&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/go_perf"&gt;https://t.me/go_perf&lt;/a&gt; - Go performance channel&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/goproglib"&gt;https://t.me/goproglib&lt;/a&gt; - Библиотека Go разработчика&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/PINE64_News"&gt;https://t.me/PINE64_News&lt;/a&gt; - PINE64 News&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/SysadminNotes"&gt;https://t.me/SysadminNotes&lt;/a&gt; - Записки админа&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/microservices_arch"&gt;https://t.me/microservices_arch&lt;/a&gt; - Микросервисы&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/meta_it"&gt;https://t.me/meta_it&lt;/a&gt; - Свалка ссылок на чаты и каналы о IT.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/catops"&gt;https://t.me/catops&lt;/a&gt; - DevOps and other issues by Yurii Rochniak&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/count0_digest"&gt;https://t.me/count0_digest&lt;/a&gt; - Пятничный деплой&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/avitotech"&gt;https://t.me/avitotech&lt;/a&gt; - AvitoTech&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/dataleak"&gt;https://t.me/dataleak&lt;/a&gt; - Утечки информации&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/consensus_io"&gt;https://t.me/consensus_io&lt;/a&gt; - Consensus&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/golangdigest"&gt;https://t.me/golangdigest&lt;/a&gt; - Go (Golang) Дайджест&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/bzd_channel"&gt;https://t.me/bzd_channel&lt;/a&gt; - BZD • Книги для программистов&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/HighLoadChannel"&gt;https://t.me/HighLoadChannel&lt;/a&gt; - Важные объявления, организационные изменения, изменения в программе конференции HighLoad++&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/quizcpp"&gt;https://t.me/quizcpp&lt;/a&gt; - С++ задачи и вопросы&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/golangquiz"&gt;https://t.me/golangquiz&lt;/a&gt; - Golang задачи с собеседований&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/podlodkanews"&gt;https://t.me/podlodkanews&lt;/a&gt; - Podlodka Podcast&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Linux and C</title><link>https://torwald-sergesson.github.io/dev/linux-and-c/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/dev/linux-and-c/</guid><description>&lt;h2 id="linux-from-scratch-linux-для-себя"&gt;Linux From Scratch (Linux для себя)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://lx4u.ru"&gt;https://lx4u.ru&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Linux для себя - русскоязычное подробное руководство по созданию Linux-системы, используя лишь исходные тексты необходимого программного обеспечения. Это руководство - самостоятельное ответвление от проекта &lt;a href="https://www.linuxfromscratch.org"&gt;Linux From Scratch&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id="linux-kernel-defence-map"&gt;Linux Kernel Defence Map&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/a13xp0p0v/linux-kernel-defence-map"&gt;https://github.com/a13xp0p0v/linux-kernel-defence-map&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Linux Kernel Defence Map shows the relationships between vulnerability classes, exploitation techniques, bug detection mechanisms, and defence technologies&lt;/p&gt;
+&lt;h2 id="a-quick-intro-to-basic-debugging-tools-for-linux-systems"&gt;A quick intro to basic debugging tools for Linux systems&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.petermcconnell.com/posts/linuxtools/"&gt;https://www.petermcconnell.com/posts/linuxtools/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Rust</title><link>https://torwald-sergesson.github.io/dev/rust-links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/dev/rust-links/</guid><description>&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://google.github.io/comprehensive-rust/"&gt;https://google.github.io/comprehensive-rust/&lt;/a&gt; Comprehensive Rust&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Security</title><link>https://torwald-sergesson.github.io/dev/security-links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/dev/security-links/</guid><description>&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/ashemery/exploitation-course"&gt;https://github.com/ashemery/exploitation-course&lt;/a&gt; Offensive Software Exploitation (OSE) Course&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Vim config files</title><link>https://torwald-sergesson.github.io/dev/vim-configs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/dev/vim-configs/</guid><description>&lt;pre tabindex="0"&gt;&lt;code&gt;set number
 
 set nocompatible
 filetype off
@@ -408,7 +408,7 @@ let g:pymode_run = 0
 let g:jedi#popup_select_first = 0
 
 let &amp;amp;path.=&amp;#34;/usr/include,/usr/include/x86_64-linux-gnu&amp;#34;
-&lt;/code>&lt;/pre></description></item><item><title>ZSH config files</title><link>https://torwald-sergesson.github.io/dev/zsh-configs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/dev/zsh-configs/</guid><description>&lt;pre tabindex="0">&lt;code># Path to your oh-my-zsh installation.
+&lt;/code&gt;&lt;/pre&gt;</description></item><item><title>ZSH config files</title><link>https://torwald-sergesson.github.io/dev/zsh-configs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/dev/zsh-configs/</guid><description>&lt;pre tabindex="0"&gt;&lt;code&gt;# Path to your oh-my-zsh installation.
 export ZSH=$HOME/.oh-my-zsh
 
 # Set name of the theme to load.
@@ -536,107 +536,107 @@ alias gh=&amp;#39;w3m https://github.com&amp;#39;
 alias tpb=&amp;#39;w3m https://piratebay.to&amp;#39;
 alias mcm=&amp;#39;make clean; make&amp;#39;
 alias lor=&amp;#39;w3m http://linux.org.ru&amp;#39;
-&lt;/code>&lt;/pre></description></item><item><title>Как загнобить человека на код-ревью</title><link>https://torwald-sergesson.github.io/dev/code-review/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/dev/code-review/</guid><description>&lt;p>&lt;strong>This is not mine text, but I like it. You you are its author - please, let me know.&lt;/strong>&lt;/p>
-&lt;ol>
-&lt;li>Код говно.&lt;/li>
-&lt;li>Это надо переписать.&lt;/li>
-&lt;li>Ты чем вообще думаешь?&lt;/li>
-&lt;li>Так никто не пишет.&lt;/li>
-&lt;li>Ебанёт.&lt;/li>
-&lt;li>И как это поддерживать?&lt;/li>
-&lt;li>Пиздец!&lt;/li>
-&lt;li>Пиздец[2]!&lt;/li>
-&lt;li>Мы же полгода назад устно договаривались не делать так.&lt;/li>
-&lt;li>Я это ревьюить больше не буду, ищи кого-нибудь ещё.&lt;/li>
-&lt;li>Ты этот говнокод из своего днк взял?&lt;/li>
-&lt;li>Обезьяну посади - сделает лучше&lt;/li>
-&lt;li>Ты вообще чтоли животное?&lt;/li>
-&lt;li>Господь дал нам интеллект, но ты, я смотрю, от подарков отказываешься&lt;/li>
-&lt;li>Ещё раз так сделаешь - я тебя найду&lt;/li>
-&lt;li>Маме твоей вечером покажу это, если не исправишь&lt;/li>
-&lt;li>Неудивительно, что от тебя отец ушёл&lt;/li>
-&lt;li>Если бы я просто на клавиатуру сел- было бы также, как у тебя&lt;/li>
-&lt;li>Если ты считаешь, что это ок, то как ты вообще дверь открываешь?&lt;/li>
-&lt;li>Буду просить, чтобы тебя повысили, так как тебе нужны деньги на лечение&lt;/li>
-&lt;li>Да я о твоей ориентации давно догадался, можешь расслабиться&lt;/li>
-&lt;li>Из KFC сбежал какой-то недожаренный петух и пытается это вкомитить&lt;/li>
-&lt;li>Из-за тебя я всегда работу найду, спасибо&lt;/li>
-&lt;li>А сначала казался нормальным человеком&lt;/li>
-&lt;li>Твои пр- это первые автобаны в России&lt;/li>
-&lt;li>В следующий раз буду смотреть это до обеда&lt;/li>
-&lt;li>У меня от этого говна зрение на единицу село&lt;/li>
-&lt;li>Твои пр- это артхаус&lt;/li>
-&lt;li>Давай ты больше не будешь шутить в пулл реквестах?&lt;/li>
-&lt;li>У твоих родителей есть живые дети?&lt;/li>
-&lt;li>Если бы мы сидели в комнате с в комнате с Гитлером и Сталиным,у меня было бы два патрона,то я бы за такое выстрелил в тебя дважды&lt;/li>
-&lt;li>Что общего между художественным фильмом &amp;ldquo;two girls one cup&amp;rdquo; и этим ПР? И там,и тут жрут говно&lt;/li>
-&lt;li>Жаль отменили смертную казнь&lt;/li>
-&lt;li>Тебе вообще людей не жалко?&lt;/li>
-&lt;li>Когда читаю твой код, то постоянно чихаю, потому что у меня аллергия на чушб&lt;/li>
-&lt;li>Я, конечно, не гинеколог, но это пизда&lt;/li>
-&lt;li>Ты вообще в курсе, что это все видят?&lt;/li>
-&lt;li>Ты не говорил, что с цирковым прошлым&lt;/li>
-&lt;li>После этого пр не забудь руки помыть&lt;/li>
-&lt;li>И давно это с тобой?&lt;/li>
-&lt;li>Уважаемый, еб вашу мать, вам там нормально?&lt;/li>
-&lt;li>Извините, а адекватность выйдет?&lt;/li>
-&lt;li>Ну, ты хотя бы пытался!&lt;/li>
-&lt;li>Лучше бы собаку завели&lt;/li>
-&lt;li>Думать - не твоя сильная сторона&lt;/li>
-&lt;li>Ты молодец(нет)&lt;/li>
-&lt;li>Когда бог раздавал мозги, то ты, похоже, стоял между утконосом и голубем&lt;/li>
-&lt;li>Когда я говорю, что это говнокод даже голуби головой кивают&lt;/li>
-&lt;li>Твои пулл реквесты - это комедия, а последний и вовсе триллер&lt;/li>
-&lt;li>Кошечка говорит мяу, коровка говорит му, я говорю саша ты ебанулся такое писать?&lt;/li>
-&lt;li>H-водород, С-углерод, O- иди переписывай, урод&lt;/li>
-&lt;li>Ты не узнавал, этот стиль и подход - заразный?&lt;/li>
-&lt;li>Если бы у меня не было высшего образования, я бы не понял ни строчки, молодец!&lt;/li>
-&lt;li>Ты на 1xbet за машин против человечества поставил?&lt;/li>
-&lt;li>Ты доказательство того, что человечество обречено&lt;/li>
-&lt;li>Открыл сейчас этот твой код и в городе ввели чрезвычайные ситуации техногенного характера&lt;/li>
-&lt;li>Жаль, что у тебя кончился испытательный срок!&lt;/li>
-&lt;li>Я бы мог сейчас с тобой согласиться, но тогда мы оба будем не правы&lt;/li>
-&lt;li>Ты, я смотрю, и с дипломом, программер хуевый, иди на завод делать рубанок новы&lt;/li>
-&lt;li>У нас в проекте была проблема с производительностью, но я смотрю у нас есть кое-что хуже&lt;/li>
-&lt;li>Я понимаю, тяжелое детство, никто не любил, но нас то за что?&lt;/li>
-&lt;li>Ты читал вообще то, что написал? Или тоже не смог?&lt;/li>
-&lt;li>Твой код как лук, когда смотрю на него - плакать хочется&lt;/li>
-&lt;li>В каком переходе диплом покупал - там и жить будешь после такого&lt;/li>
-&lt;li>Если это увидит тимлид, то на его похороны ты будешь скидываться&lt;/li>
-&lt;li>В этой программе я вижу только одну ошибку - ее автора&lt;/li>
-&lt;li>Понял почему ты вечно в наушниках - чтобы окончательно не потерять остатки мозгов&lt;/li>
-&lt;li>Твой код, как мой любимый сериал - это просто клиника&lt;/li>
-&lt;li>Я смотрю ты думаешь, что эксепшон - не зубы, вылетит, не поймаешь?&lt;/li>
-&lt;li>Продолжай коммитить, когда нибудь тебе повезет&lt;/li>
-&lt;li>Твой пулл реквест - это компост&lt;/li>
-&lt;li>Это кодогенеарция?&lt;/li>
-&lt;li>Верни обратно как было, пока никто не видел&lt;/li>
-&lt;li>Мы пишем в парадигме, где тебе, похоже не место&lt;/li>
-&lt;li>Не буду писать ничего плохого, так как иначе это будет расценено как жёсткое обращение с животными&lt;/li>
-&lt;li>Ты талант! Так плохо написать не каждый может.Да и не каждому надо&lt;/li>
-&lt;li>Ни на что не намекаю, но ты тупой?&lt;/li>
-&lt;li>Судя по тому, что я увидел, секрет твоей диеты в том, что ты вилкой суп ешь&lt;/li>
-&lt;li>Можешь назвать год, когда ты последний раз думал? Это было до рождества Христова?&lt;/li>
-&lt;li>Тех, кто так таски закрывает, я бы сам на пару лет бы закрыл&lt;/li>
-&lt;li>Сань, вот поэтому горшок и умер&lt;/li>
-&lt;li>Знаешь, есть такой принцип AHA, так вот ты пошёл дальше и все что я могу написать это AHAHAHA&lt;/li>
-&lt;li>В тихом омуте, как говорится&lt;/li>
-&lt;li>Александр, рекомендую прочесть книжку по архитектуре до того, как она физически в вашу голову войдёт&lt;/li>
-&lt;li>Если бы я писал тебе характеристику, то в слове &amp;ldquo;профнепригодность&amp;rdquo; я бы &amp;ldquo;проф&amp;rdquo; вообще убрал бы&lt;/li>
-&lt;li>Все мы, кто смотрел на эту работу, получили практически физический ущерб организму.&lt;/li>
-&lt;li>Когда смотрел пр выключили электричество, но код настолько плох, что напряжение осталось&lt;/li>
-&lt;li>14&lt;/li>
-&lt;li>Есть разные виды инъекций, dependency injection, sql injection, так вот после того, что я прочитал - по ебалу injection хочется сделать&lt;/li>
-&lt;li>Если не удалишь этот кусок, то я принесу соломы и будет точно как в хлеву.&lt;/li>
-&lt;li>Мне импонирует твой стиль разработки &amp;ldquo;смотрите как не надо делать&amp;rdquo;, но даже это уже перебор&lt;/li>
-&lt;li>Интеллектуальное поражение&lt;/li>
-&lt;li>Это фиаско, господа&lt;/li>
-&lt;li>Хуже, чем очень плохо&lt;/li>
-&lt;li>Если ты так и дальше продолжишь писать, то при следующей major сборки тебя garbage collector соберет&lt;/li>
-&lt;li>Лучше бы ты просто выгорел&lt;/li>
-&lt;li>У тебя есть inteliji idea, у меня есть idea и моя идея - вообще это не мерджить&lt;/li>
-&lt;li>Сань, ты первый человек на земле с однозначным значением IQ? Других объяснений этому я пока не вижу.&lt;/li>
-&lt;li>Такое впечатление, что сюда ядерная ракета попала, что вообще здесь произошло?&lt;/li>
-&lt;li>Этот код не завелся, но зато завел меня.&lt;/li>
-&lt;li>Саня, пора заканчивать это блядство.&lt;/li>
-&lt;/ol></description></item></channel></rss>
+&lt;/code&gt;&lt;/pre&gt;</description></item><item><title>Как загнобить человека на код-ревью</title><link>https://torwald-sergesson.github.io/dev/code-review/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/dev/code-review/</guid><description>&lt;p&gt;&lt;strong&gt;This is not mine text, but I like it. You you are its author - please, let me know.&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Код говно.&lt;/li&gt;
+&lt;li&gt;Это надо переписать.&lt;/li&gt;
+&lt;li&gt;Ты чем вообще думаешь?&lt;/li&gt;
+&lt;li&gt;Так никто не пишет.&lt;/li&gt;
+&lt;li&gt;Ебанёт.&lt;/li&gt;
+&lt;li&gt;И как это поддерживать?&lt;/li&gt;
+&lt;li&gt;Пиздец!&lt;/li&gt;
+&lt;li&gt;Пиздец[2]!&lt;/li&gt;
+&lt;li&gt;Мы же полгода назад устно договаривались не делать так.&lt;/li&gt;
+&lt;li&gt;Я это ревьюить больше не буду, ищи кого-нибудь ещё.&lt;/li&gt;
+&lt;li&gt;Ты этот говнокод из своего днк взял?&lt;/li&gt;
+&lt;li&gt;Обезьяну посади - сделает лучше&lt;/li&gt;
+&lt;li&gt;Ты вообще чтоли животное?&lt;/li&gt;
+&lt;li&gt;Господь дал нам интеллект, но ты, я смотрю, от подарков отказываешься&lt;/li&gt;
+&lt;li&gt;Ещё раз так сделаешь - я тебя найду&lt;/li&gt;
+&lt;li&gt;Маме твоей вечером покажу это, если не исправишь&lt;/li&gt;
+&lt;li&gt;Неудивительно, что от тебя отец ушёл&lt;/li&gt;
+&lt;li&gt;Если бы я просто на клавиатуру сел- было бы также, как у тебя&lt;/li&gt;
+&lt;li&gt;Если ты считаешь, что это ок, то как ты вообще дверь открываешь?&lt;/li&gt;
+&lt;li&gt;Буду просить, чтобы тебя повысили, так как тебе нужны деньги на лечение&lt;/li&gt;
+&lt;li&gt;Да я о твоей ориентации давно догадался, можешь расслабиться&lt;/li&gt;
+&lt;li&gt;Из KFC сбежал какой-то недожаренный петух и пытается это вкомитить&lt;/li&gt;
+&lt;li&gt;Из-за тебя я всегда работу найду, спасибо&lt;/li&gt;
+&lt;li&gt;А сначала казался нормальным человеком&lt;/li&gt;
+&lt;li&gt;Твои пр- это первые автобаны в России&lt;/li&gt;
+&lt;li&gt;В следующий раз буду смотреть это до обеда&lt;/li&gt;
+&lt;li&gt;У меня от этого говна зрение на единицу село&lt;/li&gt;
+&lt;li&gt;Твои пр- это артхаус&lt;/li&gt;
+&lt;li&gt;Давай ты больше не будешь шутить в пулл реквестах?&lt;/li&gt;
+&lt;li&gt;У твоих родителей есть живые дети?&lt;/li&gt;
+&lt;li&gt;Если бы мы сидели в комнате с в комнате с Гитлером и Сталиным,у меня было бы два патрона,то я бы за такое выстрелил в тебя дважды&lt;/li&gt;
+&lt;li&gt;Что общего между художественным фильмом &amp;ldquo;two girls one cup&amp;rdquo; и этим ПР? И там,и тут жрут говно&lt;/li&gt;
+&lt;li&gt;Жаль отменили смертную казнь&lt;/li&gt;
+&lt;li&gt;Тебе вообще людей не жалко?&lt;/li&gt;
+&lt;li&gt;Когда читаю твой код, то постоянно чихаю, потому что у меня аллергия на чушб&lt;/li&gt;
+&lt;li&gt;Я, конечно, не гинеколог, но это пизда&lt;/li&gt;
+&lt;li&gt;Ты вообще в курсе, что это все видят?&lt;/li&gt;
+&lt;li&gt;Ты не говорил, что с цирковым прошлым&lt;/li&gt;
+&lt;li&gt;После этого пр не забудь руки помыть&lt;/li&gt;
+&lt;li&gt;И давно это с тобой?&lt;/li&gt;
+&lt;li&gt;Уважаемый, еб вашу мать, вам там нормально?&lt;/li&gt;
+&lt;li&gt;Извините, а адекватность выйдет?&lt;/li&gt;
+&lt;li&gt;Ну, ты хотя бы пытался!&lt;/li&gt;
+&lt;li&gt;Лучше бы собаку завели&lt;/li&gt;
+&lt;li&gt;Думать - не твоя сильная сторона&lt;/li&gt;
+&lt;li&gt;Ты молодец(нет)&lt;/li&gt;
+&lt;li&gt;Когда бог раздавал мозги, то ты, похоже, стоял между утконосом и голубем&lt;/li&gt;
+&lt;li&gt;Когда я говорю, что это говнокод даже голуби головой кивают&lt;/li&gt;
+&lt;li&gt;Твои пулл реквесты - это комедия, а последний и вовсе триллер&lt;/li&gt;
+&lt;li&gt;Кошечка говорит мяу, коровка говорит му, я говорю саша ты ебанулся такое писать?&lt;/li&gt;
+&lt;li&gt;H-водород, С-углерод, O- иди переписывай, урод&lt;/li&gt;
+&lt;li&gt;Ты не узнавал, этот стиль и подход - заразный?&lt;/li&gt;
+&lt;li&gt;Если бы у меня не было высшего образования, я бы не понял ни строчки, молодец!&lt;/li&gt;
+&lt;li&gt;Ты на 1xbet за машин против человечества поставил?&lt;/li&gt;
+&lt;li&gt;Ты доказательство того, что человечество обречено&lt;/li&gt;
+&lt;li&gt;Открыл сейчас этот твой код и в городе ввели чрезвычайные ситуации техногенного характера&lt;/li&gt;
+&lt;li&gt;Жаль, что у тебя кончился испытательный срок!&lt;/li&gt;
+&lt;li&gt;Я бы мог сейчас с тобой согласиться, но тогда мы оба будем не правы&lt;/li&gt;
+&lt;li&gt;Ты, я смотрю, и с дипломом, программер хуевый, иди на завод делать рубанок новы&lt;/li&gt;
+&lt;li&gt;У нас в проекте была проблема с производительностью, но я смотрю у нас есть кое-что хуже&lt;/li&gt;
+&lt;li&gt;Я понимаю, тяжелое детство, никто не любил, но нас то за что?&lt;/li&gt;
+&lt;li&gt;Ты читал вообще то, что написал? Или тоже не смог?&lt;/li&gt;
+&lt;li&gt;Твой код как лук, когда смотрю на него - плакать хочется&lt;/li&gt;
+&lt;li&gt;В каком переходе диплом покупал - там и жить будешь после такого&lt;/li&gt;
+&lt;li&gt;Если это увидит тимлид, то на его похороны ты будешь скидываться&lt;/li&gt;
+&lt;li&gt;В этой программе я вижу только одну ошибку - ее автора&lt;/li&gt;
+&lt;li&gt;Понял почему ты вечно в наушниках - чтобы окончательно не потерять остатки мозгов&lt;/li&gt;
+&lt;li&gt;Твой код, как мой любимый сериал - это просто клиника&lt;/li&gt;
+&lt;li&gt;Я смотрю ты думаешь, что эксепшон - не зубы, вылетит, не поймаешь?&lt;/li&gt;
+&lt;li&gt;Продолжай коммитить, когда нибудь тебе повезет&lt;/li&gt;
+&lt;li&gt;Твой пулл реквест - это компост&lt;/li&gt;
+&lt;li&gt;Это кодогенеарция?&lt;/li&gt;
+&lt;li&gt;Верни обратно как было, пока никто не видел&lt;/li&gt;
+&lt;li&gt;Мы пишем в парадигме, где тебе, похоже не место&lt;/li&gt;
+&lt;li&gt;Не буду писать ничего плохого, так как иначе это будет расценено как жёсткое обращение с животными&lt;/li&gt;
+&lt;li&gt;Ты талант! Так плохо написать не каждый может.Да и не каждому надо&lt;/li&gt;
+&lt;li&gt;Ни на что не намекаю, но ты тупой?&lt;/li&gt;
+&lt;li&gt;Судя по тому, что я увидел, секрет твоей диеты в том, что ты вилкой суп ешь&lt;/li&gt;
+&lt;li&gt;Можешь назвать год, когда ты последний раз думал? Это было до рождества Христова?&lt;/li&gt;
+&lt;li&gt;Тех, кто так таски закрывает, я бы сам на пару лет бы закрыл&lt;/li&gt;
+&lt;li&gt;Сань, вот поэтому горшок и умер&lt;/li&gt;
+&lt;li&gt;Знаешь, есть такой принцип AHA, так вот ты пошёл дальше и все что я могу написать это AHAHAHA&lt;/li&gt;
+&lt;li&gt;В тихом омуте, как говорится&lt;/li&gt;
+&lt;li&gt;Александр, рекомендую прочесть книжку по архитектуре до того, как она физически в вашу голову войдёт&lt;/li&gt;
+&lt;li&gt;Если бы я писал тебе характеристику, то в слове &amp;ldquo;профнепригодность&amp;rdquo; я бы &amp;ldquo;проф&amp;rdquo; вообще убрал бы&lt;/li&gt;
+&lt;li&gt;Все мы, кто смотрел на эту работу, получили практически физический ущерб организму.&lt;/li&gt;
+&lt;li&gt;Когда смотрел пр выключили электричество, но код настолько плох, что напряжение осталось&lt;/li&gt;
+&lt;li&gt;14&lt;/li&gt;
+&lt;li&gt;Есть разные виды инъекций, dependency injection, sql injection, так вот после того, что я прочитал - по ебалу injection хочется сделать&lt;/li&gt;
+&lt;li&gt;Если не удалишь этот кусок, то я принесу соломы и будет точно как в хлеву.&lt;/li&gt;
+&lt;li&gt;Мне импонирует твой стиль разработки &amp;ldquo;смотрите как не надо делать&amp;rdquo;, но даже это уже перебор&lt;/li&gt;
+&lt;li&gt;Интеллектуальное поражение&lt;/li&gt;
+&lt;li&gt;Это фиаско, господа&lt;/li&gt;
+&lt;li&gt;Хуже, чем очень плохо&lt;/li&gt;
+&lt;li&gt;Если ты так и дальше продолжишь писать, то при следующей major сборки тебя garbage collector соберет&lt;/li&gt;
+&lt;li&gt;Лучше бы ты просто выгорел&lt;/li&gt;
+&lt;li&gt;У тебя есть inteliji idea, у меня есть idea и моя идея - вообще это не мерджить&lt;/li&gt;
+&lt;li&gt;Сань, ты первый человек на земле с однозначным значением IQ? Других объяснений этому я пока не вижу.&lt;/li&gt;
+&lt;li&gt;Такое впечатление, что сюда ядерная ракета попала, что вообще здесь произошло?&lt;/li&gt;
+&lt;li&gt;Этот код не завелся, но зато завел меня.&lt;/li&gt;
+&lt;li&gt;Саня, пора заканчивать это блядство.&lt;/li&gt;
+&lt;/ol&gt;</description></item></channel></rss>

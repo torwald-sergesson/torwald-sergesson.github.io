@@ -1,410 +1,557 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Fitness &amp; Health resources on Torwald Log</title><link>https://torwald-sergesson.github.io/fitness/</link><description>Recent content in Fitness &amp; Health resources on Torwald Log</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://torwald-sergesson.github.io/fitness/index.xml" rel="self" type="application/rss+xml"/><item><title>Calisthenics Exercise Catalog</title><link>https://torwald-sergesson.github.io/fitness/calisthenics-exercise-catalog/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/calisthenics-exercise-catalog/</guid><description>&lt;h2 id="psh--push-chest-shoulders-triceps--жимовые-грудь-плечи-трицепс">PSH – Push (Chest, Shoulders, Triceps) | Жимовые (Грудь, Плечи, Трицепс)&lt;/h2>
-&lt;table>
- &lt;thead>
- &lt;tr>
- &lt;th>Code&lt;/th>
- &lt;th>Level&lt;/th>
- &lt;th>English Name&lt;/th>
- &lt;th>Русское название&lt;/th>
- &lt;/tr>
- &lt;/thead>
- &lt;tbody>
- &lt;tr>
- &lt;td>PSH-KNE&lt;/td>
- &lt;td>1&lt;/td>
- &lt;td>Knee Push-Ups&lt;/td>
- &lt;td>Отжимания с колен&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>PSH-WAL&lt;/td>
- &lt;td>1&lt;/td>
- &lt;td>Wall Push-Ups&lt;/td>
- &lt;td>Отжимания от стены&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>PSH-INC&lt;/td>
- &lt;td>1&lt;/td>
- &lt;td>Incline Push-Ups&lt;/td>
- &lt;td>Отжимания с руками на высоте&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>PSH-STD&lt;/td>
- &lt;td>2&lt;/td>
- &lt;td>Standard Push-Ups&lt;/td>
- &lt;td>Отжимания классические&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>PSH-DIP&lt;/td>
- &lt;td>2&lt;/td>
- &lt;td>Bench Dips&lt;/td>
- &lt;td>Обратные отжимания на скамье&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>PSH-DIA&lt;/td>
- &lt;td>2&lt;/td>
- &lt;td>Diamond Push-Ups&lt;/td>
- &lt;td>Алмазные отжимания&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>PSH-TRV&lt;/td>
- &lt;td>2&lt;/td>
- &lt;td>Travel Push-Ups&lt;/td>
- &lt;td>Путешествующие отжимания&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>PSH-JMP&lt;/td>
- &lt;td>2&lt;/td>
- &lt;td>Jump Push-Ups&lt;/td>
- &lt;td>Отжимания со взрывом&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>PSH-DEC&lt;/td>
- &lt;td>2&lt;/td>
- &lt;td>Decline Push-Ups&lt;/td>
- &lt;td>Отжимания с ногами на высоте&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>PSH-OAR&lt;/td>
- &lt;td>3&lt;/td>
- &lt;td>One-Arm Push-Ups&lt;/td>
- &lt;td>Отжимания на одной руке&lt;/td>
- &lt;/tr>
- &lt;/tbody>
-&lt;/table>
-&lt;hr>
-&lt;h2 id="bar--pull-back-biceps--тяговые-спина-бицепс">BAR – Pull (Back, Biceps) | Тяговые (Спина, Бицепс)&lt;/h2>
-&lt;table>
- &lt;thead>
- &lt;tr>
- &lt;th>Code&lt;/th>
- &lt;th>Level&lt;/th>
- &lt;th>English Name&lt;/th>
- &lt;th>Русское название&lt;/th>
- &lt;/tr>
- &lt;/thead>
- &lt;tbody>
- &lt;tr>
- &lt;td>BAR-INV&lt;/td>
- &lt;td>1&lt;/td>
- &lt;td>Australian Pull-Ups&lt;/td>
- &lt;td>Австралийские подтягивания&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>BAR-BAN&lt;/td>
- &lt;td>1&lt;/td>
- &lt;td>Band-Assisted Pull-Ups&lt;/td>
- &lt;td>Подтягивания с резинкой&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>BAR-NEG&lt;/td>
- &lt;td>2&lt;/td>
- &lt;td>Negative Pull-Ups&lt;/td>
- &lt;td>Негативные подтягивания&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>BAR-WID&lt;/td>
- &lt;td>2&lt;/td>
- &lt;td>Wide-Grip Pull-Ups&lt;/td>
- &lt;td>Подтягивания широким хватом&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>BAR-NAR&lt;/td>
- &lt;td>2&lt;/td>
- &lt;td>Narrow-Grip Pull-Ups&lt;/td>
- &lt;td>Подтягивания узким хватом&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>BAR-CHI&lt;/td>
- &lt;td>2&lt;/td>
- &lt;td>Chin-Ups&lt;/td>
- &lt;td>Подтягивания обратным хватом&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>BAR-OAR&lt;/td>
- &lt;td>3&lt;/td>
- &lt;td>One-Arm Pull-Ups&lt;/td>
- &lt;td>Подтягивания на одной руке&lt;/td>
- &lt;/tr>
- &lt;/tbody>
-&lt;/table>
-&lt;h2 id="leg--legs--ноги">LEG – Legs | Ноги&lt;/h2>
-&lt;table>
- &lt;thead>
- &lt;tr>
- &lt;th>Code&lt;/th>
- &lt;th>Level&lt;/th>
- &lt;th>English Name&lt;/th>
- &lt;th>Русское название&lt;/th>
- &lt;/tr>
- &lt;/thead>
- &lt;tbody>
- &lt;tr>
- &lt;td>LEG-SQT&lt;/td>
- &lt;td>1&lt;/td>
- &lt;td>Bodyweight Squats&lt;/td>
- &lt;td>Приседания с весом тела&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>LEG-SUM&lt;/td>
- &lt;td>1&lt;/td>
- &lt;td>Sumo squats&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>LEG-SMS&lt;/td>
- &lt;td>1&lt;/td>
- &lt;td>Sumo static&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>LEG-WAL&lt;/td>
- &lt;td>1&lt;/td>
- &lt;td>Wall Sit&lt;/td>
- &lt;td>Статический присед у стены&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>LEG-LNG&lt;/td>
- &lt;td>1&lt;/td>
- &lt;td>Static Lunges&lt;/td>
- &lt;td>Выпады на месте&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>LEG-SQJ&lt;/td>
- &lt;td>2&lt;/td>
- &lt;td>Jump Squats&lt;/td>
- &lt;td>Прыжковые приседания&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>LEG-LNJ&lt;/td>
- &lt;td>2&lt;/td>
- &lt;td>Jump Lunges&lt;/td>
- &lt;td>Прыжковые выпады&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>LEG-LAT&lt;/td>
- &lt;td>2&lt;/td>
- &lt;td>Squats Lateral&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>LEG-LBG&lt;/td>
- &lt;td>2&lt;/td>
- &lt;td>Bulgarian Lunges&lt;/td>
- &lt;td>Болгарские выпады&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>LEG-SPS&lt;/td>
- &lt;td>3&lt;/td>
- &lt;td>Pistol Squats&lt;/td>
- &lt;td>Приседания &amp;ldquo;пистолетик&amp;rdquo;&lt;/td>
- &lt;/tr>
- &lt;/tbody>
-&lt;/table>
-&lt;h2 id="abs--core-active--пресс-активные-упражнения">ABS – Core (Active) | Пресс (Активные упражнения)&lt;/h2>
-&lt;table>
- &lt;thead>
- &lt;tr>
- &lt;th>Code&lt;/th>
- &lt;th>Level&lt;/th>
- &lt;th>English Name&lt;/th>
- &lt;th>Русское название&lt;/th>
- &lt;/tr>
- &lt;/thead>
- &lt;tbody>
- &lt;tr>
- &lt;td>ABS-CRN&lt;/td>
- &lt;td>1&lt;/td>
- &lt;td>Crunches&lt;/td>
- &lt;td>Скручивания&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>ABS-LGR&lt;/td>
- &lt;td>2&lt;/td>
- &lt;td>Leg Raises&lt;/td>
- &lt;td>Подъём ног лёжа&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>ABS-FLK&lt;/td>
- &lt;td>2&lt;/td>
- &lt;td>Flutter Kick&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>ABS-BIK&lt;/td>
- &lt;td>2&lt;/td>
- &lt;td>Bicycle Crunches&lt;/td>
- &lt;td>Велосипед&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>ABS-RUS&lt;/td>
- &lt;td>2&lt;/td>
- &lt;td>Russian Twists&lt;/td>
- &lt;td>Русские скручивания&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>ABS-HLR&lt;/td>
- &lt;td>3&lt;/td>
- &lt;td>Hanging Leg Raises&lt;/td>
- &lt;td>Подъём ног в висе&lt;/td>
- &lt;/tr>
- &lt;/tbody>
-&lt;/table>
-&lt;h2 id="plk--core-planks--пресс-планки--статические-и-динамические">PLK – Core (Planks) | Пресс (Планки – статические и динамические)&lt;/h2>
-&lt;table>
- &lt;thead>
- &lt;tr>
- &lt;th>Code&lt;/th>
- &lt;th>Level&lt;/th>
- &lt;th>English Name&lt;/th>
- &lt;th>Русское название&lt;/th>
- &lt;/tr>
- &lt;/thead>
- &lt;tbody>
- &lt;tr>
- &lt;td>PLK-STE&lt;/td>
- &lt;td>1&lt;/td>
- &lt;td>Elbow Plank&lt;/td>
- &lt;td>Планка на локтях&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>PLK-STH&lt;/td>
- &lt;td>1&lt;/td>
- &lt;td>High Plank&lt;/td>
- &lt;td>Планка на руках&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>PLK-SIE&lt;/td>
- &lt;td>1&lt;/td>
- &lt;td>Side Plank (Elbow)&lt;/td>
- &lt;td>Боковая планка (локти)&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>PLK-SIH&lt;/td>
- &lt;td>1&lt;/td>
- &lt;td>Side Plank (Hands)&lt;/td>
- &lt;td>Боковая планка (руки)&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>PLK-3SE&lt;/td>
- &lt;td>1&lt;/td>
- &lt;td>3-Side Plank (Elbow)&lt;/td>
- &lt;td>3-стороны планка (локти)&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>PLK-3SH&lt;/td>
- &lt;td>1&lt;/td>
- &lt;td>3-Side Plank (Hands)&lt;/td>
- &lt;td>3-стороны планка (руки)&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>PLK-4SE&lt;/td>
- &lt;td>1&lt;/td>
- &lt;td>4-Side Plank (Elbow)&lt;/td>
- &lt;td>4-стороны планка (локти)&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>PLK-4SH&lt;/td>
- &lt;td>1&lt;/td>
- &lt;td>4-Side Plank (Hands)&lt;/td>
- &lt;td>4-стороны планка (руки)&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>PLK-RKE&lt;/td>
- &lt;td>3&lt;/td>
- &lt;td>RKC Plank (Elbow)&lt;/td>
- &lt;td>RKC планка на локтях&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>PLK-RKH&lt;/td>
- &lt;td>3&lt;/td>
- &lt;td>RKC Plank (Hands)&lt;/td>
- &lt;td>RKC планка на руках&lt;/td>
- &lt;/tr>
- &lt;/tbody>
-&lt;/table>
-&lt;h2 id="brp--burpees--бурпи">BRP – Burpees | Бурпи&lt;/h2>
-&lt;table>
- &lt;thead>
- &lt;tr>
- &lt;th>Code&lt;/th>
- &lt;th>Level&lt;/th>
- &lt;th>English Name&lt;/th>
- &lt;th>Русское название&lt;/th>
- &lt;/tr>
- &lt;/thead>
- &lt;tbody>
- &lt;tr>
- &lt;td>BRP-HLF&lt;/td>
- &lt;td>1&lt;/td>
- &lt;td>Half Burpees&lt;/td>
- &lt;td>Половинные бурпи&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>BRP-STD&lt;/td>
- &lt;td>2&lt;/td>
- &lt;td>Standard Burpees&lt;/td>
- &lt;td>Бурпи классические&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>BRP-JMP&lt;/td>
- &lt;td>2&lt;/td>
- &lt;td>Jump Burpees&lt;/td>
- &lt;td>Бурпи с прыжком&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>BRP-PUP&lt;/td>
- &lt;td>2&lt;/td>
- &lt;td>Push-Up Burpees&lt;/td>
- &lt;td>Бурпи с отжиманием&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>BRP-NSL&lt;/td>
- &lt;td>3&lt;/td>
- &lt;td>Navy Seal Burpees&lt;/td>
- &lt;td>Бурпи &amp;ldquo;морской котик&amp;rdquo;&lt;/td>
- &lt;/tr>
- &lt;/tbody>
-&lt;/table>
-&lt;h2 id="fun--functional-movements--функциональные-движения">FUN – Functional Movements | Функциональные движения&lt;/h2>
-&lt;table>
- &lt;thead>
- &lt;tr>
- &lt;th>Code&lt;/th>
- &lt;th>Level&lt;/th>
- &lt;th>English Name&lt;/th>
- &lt;th>Русское название&lt;/th>
- &lt;/tr>
- &lt;/thead>
- &lt;tbody>
- &lt;tr>
- &lt;td>FUN-JJ&lt;/td>
- &lt;td>1&lt;/td>
- &lt;td>Jumping Jacks&lt;/td>
- &lt;td>Прыжки &amp;ldquo;звездочка&amp;rdquo;&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>FUN-HKN&lt;/td>
- &lt;td>1&lt;/td>
- &lt;td>High Knees&lt;/td>
- &lt;td>Бег с высоким подъемом колен&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>FUN-BUT&lt;/td>
- &lt;td>1&lt;/td>
- &lt;td>Butt Kicks&lt;/td>
- &lt;td>Забегание пяток за ягодицы&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>FUN-MCL&lt;/td>
- &lt;td>2&lt;/td>
- &lt;td>Mountain Climbers&lt;/td>
- &lt;td>Альпинист&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>FUN-TIP&lt;/td>
- &lt;td>2&lt;/td>
- &lt;td>Tipping&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;/tbody>
-&lt;/table></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Fitness &amp; Health resources on Torwald Log</title><link>https://torwald-sergesson.github.io/fitness/</link><description>Recent content in Fitness &amp; Health resources on Torwald Log</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://torwald-sergesson.github.io/fitness/index.xml" rel="self" type="application/rss+xml"/><item><title>Calisthenics Exercise Catalog (OLD)</title><link>https://torwald-sergesson.github.io/fitness/calisthenics-exercise-catalog-old/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/calisthenics-exercise-catalog-old/</guid><description>&lt;h2 id="psh--push-chest-shoulders-triceps--жимовые-грудь-плечи-трицепс"&gt;PSH – Push (Chest, Shoulders, Triceps) | Жимовые (Грудь, Плечи, Трицепс)&lt;/h2&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Code&lt;/th&gt;
+ &lt;th&gt;Level&lt;/th&gt;
+ &lt;th&gt;English Name&lt;/th&gt;
+ &lt;th&gt;Русское название&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;PSH-KNE&lt;/td&gt;
+ &lt;td&gt;1&lt;/td&gt;
+ &lt;td&gt;Knee Push-Ups&lt;/td&gt;
+ &lt;td&gt;Отжимания с колен&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;PSH-WAL&lt;/td&gt;
+ &lt;td&gt;1&lt;/td&gt;
+ &lt;td&gt;Wall Push-Ups&lt;/td&gt;
+ &lt;td&gt;Отжимания от стены&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;PSH-INC&lt;/td&gt;
+ &lt;td&gt;1&lt;/td&gt;
+ &lt;td&gt;Incline Push-Ups&lt;/td&gt;
+ &lt;td&gt;Отжимания с руками на высоте&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;PSH-STD&lt;/td&gt;
+ &lt;td&gt;2&lt;/td&gt;
+ &lt;td&gt;Standard Push-Ups&lt;/td&gt;
+ &lt;td&gt;Отжимания классические&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;PSH-DIP&lt;/td&gt;
+ &lt;td&gt;2&lt;/td&gt;
+ &lt;td&gt;Bench Dips&lt;/td&gt;
+ &lt;td&gt;Обратные отжимания на скамье&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;PSH-DIA&lt;/td&gt;
+ &lt;td&gt;2&lt;/td&gt;
+ &lt;td&gt;Diamond Push-Ups&lt;/td&gt;
+ &lt;td&gt;Алмазные отжимания&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;PSH-TRV&lt;/td&gt;
+ &lt;td&gt;2&lt;/td&gt;
+ &lt;td&gt;Travel Push-Ups&lt;/td&gt;
+ &lt;td&gt;Путешествующие отжимания&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;PSH-JMP&lt;/td&gt;
+ &lt;td&gt;2&lt;/td&gt;
+ &lt;td&gt;Jump Push-Ups&lt;/td&gt;
+ &lt;td&gt;Отжимания со взрывом&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;PSH-DEC&lt;/td&gt;
+ &lt;td&gt;2&lt;/td&gt;
+ &lt;td&gt;Decline Push-Ups&lt;/td&gt;
+ &lt;td&gt;Отжимания с ногами на высоте&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;PSH-OAR&lt;/td&gt;
+ &lt;td&gt;3&lt;/td&gt;
+ &lt;td&gt;One-Arm Push-Ups&lt;/td&gt;
+ &lt;td&gt;Отжимания на одной руке&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id="bar--pull-back-biceps--тяговые-спина-бицепс"&gt;BAR – Pull (Back, Biceps) | Тяговые (Спина, Бицепс)&lt;/h2&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Code&lt;/th&gt;
+ &lt;th&gt;Level&lt;/th&gt;
+ &lt;th&gt;English Name&lt;/th&gt;
+ &lt;th&gt;Русское название&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;BAR-INV&lt;/td&gt;
+ &lt;td&gt;1&lt;/td&gt;
+ &lt;td&gt;Australian Pull-Ups&lt;/td&gt;
+ &lt;td&gt;Австралийские подтягивания&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;BAR-BAN&lt;/td&gt;
+ &lt;td&gt;1&lt;/td&gt;
+ &lt;td&gt;Band-Assisted Pull-Ups&lt;/td&gt;
+ &lt;td&gt;Подтягивания с резинкой&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;BAR-NEG&lt;/td&gt;
+ &lt;td&gt;2&lt;/td&gt;
+ &lt;td&gt;Negative Pull-Ups&lt;/td&gt;
+ &lt;td&gt;Негативные подтягивания&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;BAR-WID&lt;/td&gt;
+ &lt;td&gt;2&lt;/td&gt;
+ &lt;td&gt;Wide-Grip Pull-Ups&lt;/td&gt;
+ &lt;td&gt;Подтягивания широким хватом&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;BAR-NAR&lt;/td&gt;
+ &lt;td&gt;2&lt;/td&gt;
+ &lt;td&gt;Narrow-Grip Pull-Ups&lt;/td&gt;
+ &lt;td&gt;Подтягивания узким хватом&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;BAR-CHI&lt;/td&gt;
+ &lt;td&gt;2&lt;/td&gt;
+ &lt;td&gt;Chin-Ups&lt;/td&gt;
+ &lt;td&gt;Подтягивания обратным хватом&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;BAR-OAR&lt;/td&gt;
+ &lt;td&gt;3&lt;/td&gt;
+ &lt;td&gt;One-Arm Pull-Ups&lt;/td&gt;
+ &lt;td&gt;Подтягивания на одной руке&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id="leg--legs--ноги"&gt;LEG – Legs | Ноги&lt;/h2&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Code&lt;/th&gt;
+ &lt;th&gt;Level&lt;/th&gt;
+ &lt;th&gt;English Name&lt;/th&gt;
+ &lt;th&gt;Русское название&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;LEG-SQT&lt;/td&gt;
+ &lt;td&gt;1&lt;/td&gt;
+ &lt;td&gt;Bodyweight Squats&lt;/td&gt;
+ &lt;td&gt;Приседания с весом тела&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;LEG-SUM&lt;/td&gt;
+ &lt;td&gt;1&lt;/td&gt;
+ &lt;td&gt;Sumo squats&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;LEG-SMS&lt;/td&gt;
+ &lt;td&gt;1&lt;/td&gt;
+ &lt;td&gt;Sumo static&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;LEG-WAL&lt;/td&gt;
+ &lt;td&gt;1&lt;/td&gt;
+ &lt;td&gt;Wall Sit&lt;/td&gt;
+ &lt;td&gt;Статический присед у стены&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;LEG-LNG&lt;/td&gt;
+ &lt;td&gt;1&lt;/td&gt;
+ &lt;td&gt;Static Lunges&lt;/td&gt;
+ &lt;td&gt;Выпады на месте&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;LEG-SQJ&lt;/td&gt;
+ &lt;td&gt;2&lt;/td&gt;
+ &lt;td&gt;Jump Squats&lt;/td&gt;
+ &lt;td&gt;Прыжковые приседания&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;LEG-LNJ&lt;/td&gt;
+ &lt;td&gt;2&lt;/td&gt;
+ &lt;td&gt;Jump Lunges&lt;/td&gt;
+ &lt;td&gt;Прыжковые выпады&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;LEG-LAT&lt;/td&gt;
+ &lt;td&gt;2&lt;/td&gt;
+ &lt;td&gt;Squats Lateral&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;LEG-LBG&lt;/td&gt;
+ &lt;td&gt;2&lt;/td&gt;
+ &lt;td&gt;Bulgarian Lunges&lt;/td&gt;
+ &lt;td&gt;Болгарские выпады&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;LEG-SPS&lt;/td&gt;
+ &lt;td&gt;3&lt;/td&gt;
+ &lt;td&gt;Pistol Squats&lt;/td&gt;
+ &lt;td&gt;Приседания &amp;ldquo;пистолетик&amp;rdquo;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id="abs--core-active--пресс-активные-упражнения"&gt;ABS – Core (Active) | Пресс (Активные упражнения)&lt;/h2&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Code&lt;/th&gt;
+ &lt;th&gt;Level&lt;/th&gt;
+ &lt;th&gt;English Name&lt;/th&gt;
+ &lt;th&gt;Русское название&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;ABS-CRN&lt;/td&gt;
+ &lt;td&gt;1&lt;/td&gt;
+ &lt;td&gt;Crunches&lt;/td&gt;
+ &lt;td&gt;Скручивания&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;ABS-LGR&lt;/td&gt;
+ &lt;td&gt;2&lt;/td&gt;
+ &lt;td&gt;Leg Raises&lt;/td&gt;
+ &lt;td&gt;Подъём ног лёжа&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;ABS-FLK&lt;/td&gt;
+ &lt;td&gt;2&lt;/td&gt;
+ &lt;td&gt;Flutter Kick&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;ABS-BIK&lt;/td&gt;
+ &lt;td&gt;2&lt;/td&gt;
+ &lt;td&gt;Bicycle Crunches&lt;/td&gt;
+ &lt;td&gt;Велосипед&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;ABS-RUS&lt;/td&gt;
+ &lt;td&gt;2&lt;/td&gt;
+ &lt;td&gt;Russian Twists&lt;/td&gt;
+ &lt;td&gt;Русские скручивания&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;ABS-HLR&lt;/td&gt;
+ &lt;td&gt;3&lt;/td&gt;
+ &lt;td&gt;Hanging Leg Raises&lt;/td&gt;
+ &lt;td&gt;Подъём ног в висе&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id="plk--core-planks--пресс-планки--статические-и-динамические"&gt;PLK – Core (Planks) | Пресс (Планки – статические и динамические)&lt;/h2&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Code&lt;/th&gt;
+ &lt;th&gt;Level&lt;/th&gt;
+ &lt;th&gt;English Name&lt;/th&gt;
+ &lt;th&gt;Русское название&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;PLK-STE&lt;/td&gt;
+ &lt;td&gt;1&lt;/td&gt;
+ &lt;td&gt;Elbow Plank&lt;/td&gt;
+ &lt;td&gt;Планка на локтях&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;PLK-STH&lt;/td&gt;
+ &lt;td&gt;1&lt;/td&gt;
+ &lt;td&gt;High Plank&lt;/td&gt;
+ &lt;td&gt;Планка на руках&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;PLK-SIE&lt;/td&gt;
+ &lt;td&gt;1&lt;/td&gt;
+ &lt;td&gt;Side Plank (Elbow)&lt;/td&gt;
+ &lt;td&gt;Боковая планка (локти)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;PLK-SIH&lt;/td&gt;
+ &lt;td&gt;1&lt;/td&gt;
+ &lt;td&gt;Side Plank (Hands)&lt;/td&gt;
+ &lt;td&gt;Боковая планка (руки)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;PLK-3SE&lt;/td&gt;
+ &lt;td&gt;1&lt;/td&gt;
+ &lt;td&gt;3-Side Plank (Elbow)&lt;/td&gt;
+ &lt;td&gt;3-стороны планка (локти)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;PLK-3SH&lt;/td&gt;
+ &lt;td&gt;1&lt;/td&gt;
+ &lt;td&gt;3-Side Plank (Hands)&lt;/td&gt;
+ &lt;td&gt;3-стороны планка (руки)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;PLK-4SE&lt;/td&gt;
+ &lt;td&gt;1&lt;/td&gt;
+ &lt;td&gt;4-Side Plank (Elbow)&lt;/td&gt;
+ &lt;td&gt;4-стороны планка (локти)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;PLK-4SH&lt;/td&gt;
+ &lt;td&gt;1&lt;/td&gt;
+ &lt;td&gt;4-Side Plank (Hands)&lt;/td&gt;
+ &lt;td&gt;4-стороны планка (руки)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;PLK-RKE&lt;/td&gt;
+ &lt;td&gt;3&lt;/td&gt;
+ &lt;td&gt;RKC Plank (Elbow)&lt;/td&gt;
+ &lt;td&gt;RKC планка на локтях&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;PLK-RKH&lt;/td&gt;
+ &lt;td&gt;3&lt;/td&gt;
+ &lt;td&gt;RKC Plank (Hands)&lt;/td&gt;
+ &lt;td&gt;RKC планка на руках&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id="brp--burpees--бурпи"&gt;BRP – Burpees | Бурпи&lt;/h2&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Code&lt;/th&gt;
+ &lt;th&gt;Level&lt;/th&gt;
+ &lt;th&gt;English Name&lt;/th&gt;
+ &lt;th&gt;Русское название&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;BRP-HLF&lt;/td&gt;
+ &lt;td&gt;1&lt;/td&gt;
+ &lt;td&gt;Half Burpees&lt;/td&gt;
+ &lt;td&gt;Половинные бурпи&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;BRP-STD&lt;/td&gt;
+ &lt;td&gt;2&lt;/td&gt;
+ &lt;td&gt;Standard Burpees&lt;/td&gt;
+ &lt;td&gt;Бурпи классические&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;BRP-JMP&lt;/td&gt;
+ &lt;td&gt;2&lt;/td&gt;
+ &lt;td&gt;Jump Burpees&lt;/td&gt;
+ &lt;td&gt;Бурпи с прыжком&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;BRP-PUP&lt;/td&gt;
+ &lt;td&gt;2&lt;/td&gt;
+ &lt;td&gt;Push-Up Burpees&lt;/td&gt;
+ &lt;td&gt;Бурпи с отжиманием&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;BRP-NSL&lt;/td&gt;
+ &lt;td&gt;3&lt;/td&gt;
+ &lt;td&gt;Navy Seal Burpees&lt;/td&gt;
+ &lt;td&gt;Бурпи &amp;ldquo;морской котик&amp;rdquo;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id="fun--functional-movements--функциональные-движения"&gt;FUN – Functional Movements | Функциональные движения&lt;/h2&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Code&lt;/th&gt;
+ &lt;th&gt;Level&lt;/th&gt;
+ &lt;th&gt;English Name&lt;/th&gt;
+ &lt;th&gt;Русское название&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;FUN-JJ&lt;/td&gt;
+ &lt;td&gt;1&lt;/td&gt;
+ &lt;td&gt;Jumping Jacks&lt;/td&gt;
+ &lt;td&gt;Прыжки &amp;ldquo;звездочка&amp;rdquo;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;FUN-HKN&lt;/td&gt;
+ &lt;td&gt;1&lt;/td&gt;
+ &lt;td&gt;High Knees&lt;/td&gt;
+ &lt;td&gt;Бег с высоким подъемом колен&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;FUN-BUT&lt;/td&gt;
+ &lt;td&gt;1&lt;/td&gt;
+ &lt;td&gt;Butt Kicks&lt;/td&gt;
+ &lt;td&gt;Забегание пяток за ягодицы&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;FUN-MCL&lt;/td&gt;
+ &lt;td&gt;2&lt;/td&gt;
+ &lt;td&gt;Mountain Climbers&lt;/td&gt;
+ &lt;td&gt;Альпинист&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;FUN-TIP&lt;/td&gt;
+ &lt;td&gt;2&lt;/td&gt;
+ &lt;td&gt;Tipping&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;</description></item><item><title>Exercise Catalog</title><link>https://torwald-sergesson.github.io/fitness/exercise-catalog/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/fitness/exercise-catalog/</guid><description>&lt;h2 id="exercises"&gt;Exercises&lt;/h2&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Сокращение&lt;/th&gt;
+ &lt;th&gt;Полное название (EN)&lt;/th&gt;
+ &lt;th&gt;Краткое значение (RU)&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;AS&lt;/td&gt;
+ &lt;td&gt;Air Squat&lt;/td&gt;
+ &lt;td&gt;Приседания с собственным весом&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;BBJ&lt;/td&gt;
+ &lt;td&gt;Bar-Facing Burpee Jump&lt;/td&gt;
+ &lt;td&gt;Берпи с прыжком вперёд&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;BJ&lt;/td&gt;
+ &lt;td&gt;Box Jump&lt;/td&gt;
+ &lt;td&gt;Запрыгивания на тумбу&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;BJOS&lt;/td&gt;
+ &lt;td&gt;Box Jump Over&lt;/td&gt;
+ &lt;td&gt;Запрыгивание с переходом&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Burpee&lt;/td&gt;
+ &lt;td&gt;Burpee&lt;/td&gt;
+ &lt;td&gt;Комплекс: упор–прыжок&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;C2B&lt;/td&gt;
+ &lt;td&gt;Chest-to-Bar Pull-up&lt;/td&gt;
+ &lt;td&gt;Подтягивания грудью к перекладине&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;CU&lt;/td&gt;
+ &lt;td&gt;Chin-up&lt;/td&gt;
+ &lt;td&gt;Подтягивания обратным хватом&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;FK&lt;/td&gt;
+ &lt;td&gt;Flutter Kicks&lt;/td&gt;
+ &lt;td&gt;Махи ногами лёжа&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;GHD SU&lt;/td&gt;
+ &lt;td&gt;GHD Sit-up&lt;/td&gt;
+ &lt;td&gt;Подъёмы корпуса на GHD&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;HK&lt;/td&gt;
+ &lt;td&gt;High Knees&lt;/td&gt;
+ &lt;td&gt;Бег на месте с высокими коленями&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;HRP / HRPU&lt;/td&gt;
+ &lt;td&gt;Hand-Release Push-up&lt;/td&gt;
+ &lt;td&gt;Отжимания с отрывом рук&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;HSPU&lt;/td&gt;
+ &lt;td&gt;Handstand Push-up&lt;/td&gt;
+ &lt;td&gt;Отжимания в стойке на руках&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;JJ&lt;/td&gt;
+ &lt;td&gt;Jumping Jacks&lt;/td&gt;
+ &lt;td&gt;Прыжки с разведением рук и ног&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;K2E&lt;/td&gt;
+ &lt;td&gt;Knees-to-Elbows&lt;/td&gt;
+ &lt;td&gt;Колени к локтям на перекладине&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;LS&lt;/td&gt;
+ &lt;td&gt;L-sit&lt;/td&gt;
+ &lt;td&gt;Удержание «угол»&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;MC&lt;/td&gt;
+ &lt;td&gt;Mountain Climber&lt;/td&gt;
+ &lt;td&gt;«Альпинист»&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;MU&lt;/td&gt;
+ &lt;td&gt;Muscle-up&lt;/td&gt;
+ &lt;td&gt;Выход силой&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;PLK&lt;/td&gt;
+ &lt;td&gt;Plank&lt;/td&gt;
+ &lt;td&gt;Планка&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;PSQ&lt;/td&gt;
+ &lt;td&gt;Pistol Squat&lt;/td&gt;
+ &lt;td&gt;Присед на одной ноге&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;PU&lt;/td&gt;
+ &lt;td&gt;Push-up&lt;/td&gt;
+ &lt;td&gt;Отжимания от пола&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Pull-up&lt;/td&gt;
+ &lt;td&gt;Pull-up&lt;/td&gt;
+ &lt;td&gt;Подтягивания&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;SU&lt;/td&gt;
+ &lt;td&gt;Sit-up&lt;/td&gt;
+ &lt;td&gt;Подъёмы корпуса&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;SSH&lt;/td&gt;
+ &lt;td&gt;Side Straddle Hop&lt;/td&gt;
+ &lt;td&gt;Армейские прыжки&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;T2B&lt;/td&gt;
+ &lt;td&gt;Toes-to-Bar&lt;/td&gt;
+ &lt;td&gt;Носки к перекладине&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;V-up&lt;/td&gt;
+ &lt;td&gt;V-up&lt;/td&gt;
+ &lt;td&gt;Одновременный подъём рук и ног&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;WL&lt;/td&gt;
+ &lt;td&gt;Walking Lunge&lt;/td&gt;
+ &lt;td&gt;Выпады&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id="форматы-тренировок-wod"&gt;Форматы тренировок (WOD)&lt;/h2&gt;
+&lt;h3 id="amrap"&gt;AMRAP&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Расшифровка:&lt;/strong&gt; As Many Rounds/Reps As Possible&lt;br&gt;
+&lt;strong&gt;Описание:&lt;/strong&gt; За фиксированное время выполнить максимум кругов или повторений.&lt;br&gt;
+&lt;strong&gt;Пример записи:&lt;/strong&gt; AMRAP 12: 10 AS 10 PU 10 SU&lt;br&gt;
+&lt;strong&gt;Пояснение:&lt;/strong&gt; За 12 минут выполнить как можно больше полных кругов из трёх упражнений.&lt;/p&gt;</description></item></channel></rss>

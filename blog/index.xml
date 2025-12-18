@@ -1,52 +1,52 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blogs on Torwald Log</title><link>https://torwald-sergesson.github.io/blog/</link><description>Recent content in Blogs on Torwald Log</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://torwald-sergesson.github.io/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Francais Telegram Channels</title><link>https://torwald-sergesson.github.io/blog/2024/francais-telegram-channels/</link><pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/blog/2024/francais-telegram-channels/</guid><description>&lt;ul>
-&lt;li>&lt;a href="https://t.me/francais_avec_kail">https://t.me/francais_avec_kail&lt;/a> - Французский с Кайл&lt;/li>
-&lt;li>&lt;a href="https://t.me/avefrance">https://t.me/avefrance&lt;/a> - Ваша Франция&lt;/li>
-&lt;li>&lt;a href="https://t.me/le_francais_french">https://t.me/le_francais_french&lt;/a> - Французский язык / Francais&lt;/li>
-&lt;li>&lt;a href="https://t.me/le_francais_french_0">https://t.me/le_francais_french_0&lt;/a> - Французский с нуля | Française&lt;/li>
-&lt;li>&lt;a href="https://t.me/magazinesfrancais">https://t.me/magazinesfrancais&lt;/a> - magazines &amp;amp; livres en français&lt;/li>
-&lt;li>&lt;a href="https://t.me/frenchyfox">https://t.me/frenchyfox&lt;/a> - Живой французский/Français&lt;/li>
-&lt;li>&lt;a href="https://t.me/news_in_french">https://t.me/news_in_french&lt;/a> - Новости en français&lt;/li>
-&lt;li>&lt;a href="https://t.me/marie_paris">https://t.me/marie_paris&lt;/a> - А как там в Париже?&lt;/li>
-&lt;li>&lt;a href="https://t.me/SoFrenchSchool">https://t.me/SoFrenchSchool&lt;/a> - Французский онлайн SoFrench&lt;/li>
-&lt;li>&lt;a href="https://t.me/francomania">https://t.me/francomania&lt;/a> - Франкомания&lt;/li>
-&lt;li>&lt;a href="https://t.me/francaissodvora">https://t.me/francaissodvora&lt;/a> - Французский со двора&lt;/li>
-&lt;li>&lt;a href="https://t.me/fuckingfrench">https://t.me/fuckingfrench&lt;/a> - Fucking French&lt;/li>
-&lt;li>&lt;a href="https://t.me/france_danslapoche">https://t.me/france_danslapoche&lt;/a> - Франция в кармане&lt;/li>
-&lt;li>&lt;a href="https://t.me/fransaise">https://t.me/fransaise&lt;/a> - Французский в удовольствие&lt;/li>
-&lt;li>&lt;a href="https://t.me/my_france_daily">https://t.me/my_france_daily&lt;/a> - My France Daily&lt;/li>
-&lt;li>&lt;a href="https://t.me/lovelyfrench">https://t.me/lovelyfrench&lt;/a> - Lovely French Paris, France&lt;/li>
-&lt;li>&lt;a href="https://t.me/intoulon">https://t.me/intoulon&lt;/a> - Тулонские мидии&lt;/li>
-&lt;li>&lt;a href="https://t.me/MusFrance">https://t.me/MusFrance&lt;/a> - Musique Française&lt;/li>
-&lt;li>&lt;a href="https://t.me/jaimelefrancais">https://t.me/jaimelefrancais&lt;/a> - J&amp;rsquo;aime le français / французский&lt;/li>
-&lt;li>&lt;a href="https://t.me/FranceProvence">https://t.me/FranceProvence&lt;/a> - Окно в Прованс&lt;/li>
-&lt;li>&lt;a href="https://t.me/katdale">https://t.me/katdale&lt;/a> - Парижские заметки.&lt;/li>
-&lt;/ul></description></item><item><title>Make Chromebook Super_L key Control</title><link>https://torwald-sergesson.github.io/blog/2024/xmodmap-chromebook/</link><pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/blog/2024/xmodmap-chromebook/</guid><description>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-shell" data-lang="shell">&lt;span style="display:flex;">&lt;span>➜ ~ xmodmap
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>xmodmap: up to &lt;span style="color:#ae81ff">3&lt;/span> keys per modifier, &lt;span style="color:#f92672">(&lt;/span>keycodes in parentheses&lt;span style="color:#f92672">)&lt;/span>:
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>shift Shift_L &lt;span style="color:#f92672">(&lt;/span>0x32&lt;span style="color:#f92672">)&lt;/span>, Shift_R &lt;span style="color:#f92672">(&lt;/span>0x3e&lt;span style="color:#f92672">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>lock Caps_Lock &lt;span style="color:#f92672">(&lt;/span>0x42&lt;span style="color:#f92672">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>control Control_L &lt;span style="color:#f92672">(&lt;/span>0x25&lt;span style="color:#f92672">)&lt;/span>, Control_R &lt;span style="color:#f92672">(&lt;/span>0x69&lt;span style="color:#f92672">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>mod1 Alt_L &lt;span style="color:#f92672">(&lt;/span>0x40&lt;span style="color:#f92672">)&lt;/span>, Alt_R &lt;span style="color:#f92672">(&lt;/span>0x6c&lt;span style="color:#f92672">)&lt;/span>, Meta_L &lt;span style="color:#f92672">(&lt;/span>0xcd&lt;span style="color:#f92672">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>mod2 Num_Lock &lt;span style="color:#f92672">(&lt;/span>0x4d&lt;span style="color:#f92672">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>mod3
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>mod4 Super_L &lt;span style="color:#f92672">(&lt;/span>0x85&lt;span style="color:#f92672">)&lt;/span>, Super_L &lt;span style="color:#f92672">(&lt;/span>0xce&lt;span style="color:#f92672">)&lt;/span>, Hyper_L &lt;span style="color:#f92672">(&lt;/span>0xcf&lt;span style="color:#f92672">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>mod5 ISO_Level3_Shift &lt;span style="color:#f92672">(&lt;/span>0x5c&lt;span style="color:#f92672">)&lt;/span>, Mode_switch &lt;span style="color:#f92672">(&lt;/span>0xcb&lt;span style="color:#f92672">)&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Copy current xmodmap config:&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-shell" data-lang="shell">&lt;span style="display:flex;">&lt;span>xmodmap -pke &amp;gt; ~/.xmodmap
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Do its backup just in case&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-shell" data-lang="shell">&lt;span style="display:flex;">&lt;span>cp ~/.xmodmap ~/.xmodmap.bak
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Drop &lt;code>Super_L&lt;/code> from &lt;code>mod4&lt;/code>:&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-shell" data-lang="shell">&lt;span style="display:flex;">&lt;span>xmodmap -e &lt;span style="color:#e6db74">&amp;#34;remove mod4 = Super_L&amp;#34;&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>And add it to Control:&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-shell" data-lang="shell">&lt;span style="display:flex;">&lt;span>xmodmap -e &lt;span style="color:#e6db74">&amp;#34;add Control = Super_L&amp;#34;&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>As a result:&lt;/p></description></item><item><title>Copy files from/to Kubernetes</title><link>https://torwald-sergesson.github.io/blog/2021/2021-03-19-copy-files-from-to-k8s/</link><pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/blog/2021/2021-03-19-copy-files-from-to-k8s/</guid><description>&lt;p>This is kind of analogue of &lt;code>scp&lt;/code> command for copying files from/to K8s pods.&lt;/p>
-&lt;p>There are a command:&lt;/p>
-&lt;pre tabindex="0">&lt;code>kubectl cp &amp;lt;from&amp;gt; &amp;lt;to&amp;gt;
-&lt;/code>&lt;/pre>&lt;p>Copy file from Pod to local machine:&lt;/p>
-&lt;pre tabindex="0">&lt;code>kubectl cp my-namespace/some-pod:/path/to/file /path/to/file/at/my/laptop
-&lt;/code>&lt;/pre>&lt;p>Copy file from the local machine to Pod:&lt;/p>
-&lt;pre tabindex="0">&lt;code>kubectl cp /path/to/my/local/file my-namespace/some-pod:/path/to/file
-&lt;/code>&lt;/pre></description></item><item><title>А.Н. Энгельгардт - Письма из деревни</title><link>https://torwald-sergesson.github.io/blog/2020/letters-from-village/</link><pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/blog/2020/letters-from-village/</guid><description>&lt;p>Читая про ведение дневников случайно наткнулся на статью из журнала Maxim (внезапно) со списком дневников, которые стоит прочесть. Я несколько предвзято к подобным рекомендациям, но вот конкретно “Письма из деревни” меня зацепили.&lt;/p>
-&lt;p>В этих “Письмах” автор - ссыльный профессор химии - рассказывал о жизни и ведении хозяйства в российской деревне спустя десяток-другой лет после отмены крепостного права. Некоторые персонажи там ещё помнили, как наполеоновских кавалеристов на вилы поднимали.&lt;/p>
-&lt;p>Книга написана очень живым языком. Множество моментов, отмеченных автором в поведении местных жителей (как правило крестьян) можно с легкостью узнать и в современных наших соотечественниках.
-Это и положительные качества, такие как терпение, честность (хотя и несколько своеобразная, “божеская”), готовность помочь ближнему последним (одни только истории про “хождение в кусочки” чего стоят), смекалка и трудолюбие. Так и отрицательные - взять, что “плохо лежит”, незнание и игнорирование законов (кроме “божьего закона”), суеверия и фатализм, преклонение перед начальством и т.д.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blogs on Torwald Log</title><link>https://torwald-sergesson.github.io/blog/</link><description>Recent content in Blogs on Torwald Log</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://torwald-sergesson.github.io/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Francais Telegram Channels</title><link>https://torwald-sergesson.github.io/blog/2024/francais-telegram-channels/</link><pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/blog/2024/francais-telegram-channels/</guid><description>&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://t.me/francais_avec_kail"&gt;https://t.me/francais_avec_kail&lt;/a&gt; - Французский с Кайл&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/avefrance"&gt;https://t.me/avefrance&lt;/a&gt; - Ваша Франция&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/le_francais_french"&gt;https://t.me/le_francais_french&lt;/a&gt; - Французский язык / Francais&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/le_francais_french_0"&gt;https://t.me/le_francais_french_0&lt;/a&gt; - Французский с нуля | Française&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/magazinesfrancais"&gt;https://t.me/magazinesfrancais&lt;/a&gt; - magazines &amp;amp; livres en français&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/frenchyfox"&gt;https://t.me/frenchyfox&lt;/a&gt; - Живой французский/Français&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/news_in_french"&gt;https://t.me/news_in_french&lt;/a&gt; - Новости en français&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/marie_paris"&gt;https://t.me/marie_paris&lt;/a&gt; - А как там в Париже?&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/SoFrenchSchool"&gt;https://t.me/SoFrenchSchool&lt;/a&gt; - Французский онлайн SoFrench&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/francomania"&gt;https://t.me/francomania&lt;/a&gt; - Франкомания&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/francaissodvora"&gt;https://t.me/francaissodvora&lt;/a&gt; - Французский со двора&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/fuckingfrench"&gt;https://t.me/fuckingfrench&lt;/a&gt; - Fucking French&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/france_danslapoche"&gt;https://t.me/france_danslapoche&lt;/a&gt; - Франция в кармане&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/fransaise"&gt;https://t.me/fransaise&lt;/a&gt; - Французский в удовольствие&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/my_france_daily"&gt;https://t.me/my_france_daily&lt;/a&gt; - My France Daily&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/lovelyfrench"&gt;https://t.me/lovelyfrench&lt;/a&gt; - Lovely French Paris, France&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/intoulon"&gt;https://t.me/intoulon&lt;/a&gt; - Тулонские мидии&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/MusFrance"&gt;https://t.me/MusFrance&lt;/a&gt; - Musique Française&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/jaimelefrancais"&gt;https://t.me/jaimelefrancais&lt;/a&gt; - J&amp;rsquo;aime le français / французский&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/FranceProvence"&gt;https://t.me/FranceProvence&lt;/a&gt; - Окно в Прованс&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/katdale"&gt;https://t.me/katdale&lt;/a&gt; - Парижские заметки.&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Make Chromebook Super_L key Control</title><link>https://torwald-sergesson.github.io/blog/2024/xmodmap-chromebook/</link><pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/blog/2024/xmodmap-chromebook/</guid><description>&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-shell" data-lang="shell"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;➜ ~ xmodmap
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;xmodmap: up to &lt;span style="color:#ae81ff"&gt;3&lt;/span&gt; keys per modifier, &lt;span style="color:#f92672"&gt;(&lt;/span&gt;keycodes in parentheses&lt;span style="color:#f92672"&gt;)&lt;/span&gt;:
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;shift Shift_L &lt;span style="color:#f92672"&gt;(&lt;/span&gt;0x32&lt;span style="color:#f92672"&gt;)&lt;/span&gt;, Shift_R &lt;span style="color:#f92672"&gt;(&lt;/span&gt;0x3e&lt;span style="color:#f92672"&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;lock Caps_Lock &lt;span style="color:#f92672"&gt;(&lt;/span&gt;0x42&lt;span style="color:#f92672"&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;control Control_L &lt;span style="color:#f92672"&gt;(&lt;/span&gt;0x25&lt;span style="color:#f92672"&gt;)&lt;/span&gt;, Control_R &lt;span style="color:#f92672"&gt;(&lt;/span&gt;0x69&lt;span style="color:#f92672"&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;mod1 Alt_L &lt;span style="color:#f92672"&gt;(&lt;/span&gt;0x40&lt;span style="color:#f92672"&gt;)&lt;/span&gt;, Alt_R &lt;span style="color:#f92672"&gt;(&lt;/span&gt;0x6c&lt;span style="color:#f92672"&gt;)&lt;/span&gt;, Meta_L &lt;span style="color:#f92672"&gt;(&lt;/span&gt;0xcd&lt;span style="color:#f92672"&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;mod2 Num_Lock &lt;span style="color:#f92672"&gt;(&lt;/span&gt;0x4d&lt;span style="color:#f92672"&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;mod3
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;mod4 Super_L &lt;span style="color:#f92672"&gt;(&lt;/span&gt;0x85&lt;span style="color:#f92672"&gt;)&lt;/span&gt;, Super_L &lt;span style="color:#f92672"&gt;(&lt;/span&gt;0xce&lt;span style="color:#f92672"&gt;)&lt;/span&gt;, Hyper_L &lt;span style="color:#f92672"&gt;(&lt;/span&gt;0xcf&lt;span style="color:#f92672"&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;mod5 ISO_Level3_Shift &lt;span style="color:#f92672"&gt;(&lt;/span&gt;0x5c&lt;span style="color:#f92672"&gt;)&lt;/span&gt;, Mode_switch &lt;span style="color:#f92672"&gt;(&lt;/span&gt;0xcb&lt;span style="color:#f92672"&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Copy current xmodmap config:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-shell" data-lang="shell"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;xmodmap -pke &amp;gt; ~/.xmodmap
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Do its backup just in case&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-shell" data-lang="shell"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;cp ~/.xmodmap ~/.xmodmap.bak
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Drop &lt;code&gt;Super_L&lt;/code&gt; from &lt;code&gt;mod4&lt;/code&gt;:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-shell" data-lang="shell"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;xmodmap -e &lt;span style="color:#e6db74"&gt;&amp;#34;remove mod4 = Super_L&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;And add it to Control:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-shell" data-lang="shell"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;xmodmap -e &lt;span style="color:#e6db74"&gt;&amp;#34;add Control = Super_L&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;As a result:&lt;/p&gt;</description></item><item><title>Copy files from/to Kubernetes</title><link>https://torwald-sergesson.github.io/blog/2021/2021-03-19-copy-files-from-to-k8s/</link><pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/blog/2021/2021-03-19-copy-files-from-to-k8s/</guid><description>&lt;p&gt;This is kind of analogue of &lt;code&gt;scp&lt;/code&gt; command for copying files from/to K8s pods.&lt;/p&gt;
+&lt;p&gt;There are a command:&lt;/p&gt;
+&lt;pre tabindex="0"&gt;&lt;code&gt;kubectl cp &amp;lt;from&amp;gt; &amp;lt;to&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Copy file from Pod to local machine:&lt;/p&gt;
+&lt;pre tabindex="0"&gt;&lt;code&gt;kubectl cp my-namespace/some-pod:/path/to/file /path/to/file/at/my/laptop
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Copy file from the local machine to Pod:&lt;/p&gt;
+&lt;pre tabindex="0"&gt;&lt;code&gt;kubectl cp /path/to/my/local/file my-namespace/some-pod:/path/to/file
+&lt;/code&gt;&lt;/pre&gt;</description></item><item><title>А.Н. Энгельгардт - Письма из деревни</title><link>https://torwald-sergesson.github.io/blog/2020/letters-from-village/</link><pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/blog/2020/letters-from-village/</guid><description>&lt;p&gt;Читая про ведение дневников случайно наткнулся на статью из журнала Maxim (внезапно) со списком дневников, которые стоит прочесть. Я несколько предвзято к подобным рекомендациям, но вот конкретно “Письма из деревни” меня зацепили.&lt;/p&gt;
+&lt;p&gt;В этих “Письмах” автор - ссыльный профессор химии - рассказывал о жизни и ведении хозяйства в российской деревне спустя десяток-другой лет после отмены крепостного права. Некоторые персонажи там ещё помнили, как наполеоновских кавалеристов на вилы поднимали.&lt;/p&gt;
+&lt;p&gt;Книга написана очень живым языком. Множество моментов, отмеченных автором в поведении местных жителей (как правило крестьян) можно с легкостью узнать и в современных наших соотечественниках.
+Это и положительные качества, такие как терпение, честность (хотя и несколько своеобразная, “божеская”), готовность помочь ближнему последним (одни только истории про “хождение в кусочки” чего стоят), смекалка и трудолюбие. Так и отрицательные - взять, что “плохо лежит”, незнание и игнорирование законов (кроме “божьего закона”), суеверия и фатализм, преклонение перед начальством и т.д.&lt;/p&gt;</description></item></channel></rss>

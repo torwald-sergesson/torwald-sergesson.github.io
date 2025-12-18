@@ -1,36 +1,36 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Career on Torwald Log</title><link>https://torwald-sergesson.github.io/tags/career/</link><description>Recent content in Career on Torwald Log</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://torwald-sergesson.github.io/tags/career/index.xml" rel="self" type="application/rss+xml"/><item><title>Career</title><link>https://torwald-sergesson.github.io/dev/career/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/dev/career/</guid><description>&lt;h2 id="roadmaps">Roadmaps&lt;/h2>
-&lt;ul>
-&lt;li>Mobile Developer iOS &lt;a href="https://github.com/BohdanOrlov/iOS-Developer-Roadmap">https://github.com/BohdanOrlov/iOS-Developer-Roadmap&lt;/a>&lt;/li>
-&lt;li>Low-Level Developer &lt;a href="https://github.com/gurugio/lowlevelprogramming-university">https://github.com/gurugio/lowlevelprogramming-university&lt;/a>&lt;/li>
-&lt;li>Web Developer &lt;a href="https://github.com/kamranahmedse/developer-roadmap">https://github.com/kamranahmedse/developer-roadmap&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="архитектор-по">Архитектор ПО&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="https://medium.com/@nvashanin">https://medium.com/@nvashanin&lt;/a> серия статей по архитектуре&lt;/li>
-&lt;li>&lt;a href="https://habr.com/company/softline/blog/319814/">https://habr.com/company/softline/blog/319814/&lt;/a> Профессия архитектора: ожидание и реальность&lt;/li>
-&lt;li>&lt;a href="https://habr.com/company/technoserv/blog/350170/">https://habr.com/company/technoserv/blog/350170/&lt;/a> - системный архитектор&lt;/li>
-&lt;li>&lt;a href="https://medium.com/@nvashanin/books-in-software-architecture-6ad974e524ce">https://medium.com/@nvashanin/books-in-software-architecture-6ad974e524ce&lt;/a> - клевые книги по архитектуре&lt;/li>
-&lt;li>&lt;a href="https://www.ibm.com/developerworks/ru/library/ws-soa-proarch1/index.html">https://www.ibm.com/developerworks/ru/library/ws-soa-proarch1/index.html&lt;/a> - специалист по архитектуре ПО&lt;/li>
-&lt;/ul>
-&lt;h2 id="ta-technical-architect">TA (Technical Architect)&lt;/h2>
-&lt;p>Необходимый минимум:&lt;/p>
-&lt;ul>
-&lt;li>Алгоритмы и структуры данных&lt;/li>
-&lt;li>&lt;a href="https://proglib.io/p/awesome-algorithms/">https://proglib.io/p/awesome-algorithms/&lt;/a>&lt;/li>
-&lt;li>&lt;a href="http://edu.nstu.ru/courses/saod/content.htm">http://edu.nstu.ru/courses/saod/content.htm&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://vk.com/page-54530371_48795618">https://vk.com/page-54530371_48795618&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;p>Паттерны проектирования&lt;/p>
-&lt;ul>
-&lt;li>&lt;a href="https://sourcemaking.com/">https://sourcemaking.com/&lt;/a>&lt;/li>
-&lt;li>&lt;a href="http://forcoder.ru/developing/priemy-obektno-orientirovannogo-proektirovaniya-patterny-proektirovaniya-1372">http://forcoder.ru/developing/priemy-obektno-orientirovannogo-proektirovaniya-patterny-proektirovaniya-1372&lt;/a>&lt;/li>
-&lt;li>Dependency Injection &lt;a href="https://www.manning.com/books/dependency-injection-in-dot-net">https://www.manning.com/books/dependency-injection-in-dot-net&lt;/a>  (RU: &lt;a href="https://smarly.net/dependency-injection-in-net">https://smarly.net/dependency-injection-in-net&lt;/a>)&lt;/li>
-&lt;li>MVC, MVVM, MVP &lt;a href="https://habrahabr.ru/post/215605/">https://habrahabr.ru/post/215605/&lt;/a>&lt;/li>
-&lt;li>S.O.L.I.D. &lt;a href="https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)">https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;p>Теория баз данных&lt;/p>
-&lt;ul>
-&lt;li>Вообще для ТА лучше всего, если была соответствующая профильная подготовка в ВУЗе. Для освежения памяти можно использовать любой источник, напр.&lt;/li>
-&lt;li>&lt;a href="http://www.mstu.edu.ru/study/materials/zelenkov/toc.html">http://www.mstu.edu.ru/study/materials/zelenkov/toc.html&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;p>Горизонтальное масштабирование систем&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Career on Torwald Log</title><link>https://torwald-sergesson.github.io/tags/career/</link><description>Recent content in Career on Torwald Log</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://torwald-sergesson.github.io/tags/career/index.xml" rel="self" type="application/rss+xml"/><item><title>Career</title><link>https://torwald-sergesson.github.io/dev/career/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://torwald-sergesson.github.io/dev/career/</guid><description>&lt;h2 id="roadmaps"&gt;Roadmaps&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mobile Developer iOS &lt;a href="https://github.com/BohdanOrlov/iOS-Developer-Roadmap"&gt;https://github.com/BohdanOrlov/iOS-Developer-Roadmap&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Low-Level Developer &lt;a href="https://github.com/gurugio/lowlevelprogramming-university"&gt;https://github.com/gurugio/lowlevelprogramming-university&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Web Developer &lt;a href="https://github.com/kamranahmedse/developer-roadmap"&gt;https://github.com/kamranahmedse/developer-roadmap&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="архитектор-по"&gt;Архитектор ПО&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://medium.com/@nvashanin"&gt;https://medium.com/@nvashanin&lt;/a&gt; серия статей по архитектуре&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://habr.com/company/softline/blog/319814/"&gt;https://habr.com/company/softline/blog/319814/&lt;/a&gt; Профессия архитектора: ожидание и реальность&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://habr.com/company/technoserv/blog/350170/"&gt;https://habr.com/company/technoserv/blog/350170/&lt;/a&gt; - системный архитектор&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://medium.com/@nvashanin/books-in-software-architecture-6ad974e524ce"&gt;https://medium.com/@nvashanin/books-in-software-architecture-6ad974e524ce&lt;/a&gt; - клевые книги по архитектуре&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.ibm.com/developerworks/ru/library/ws-soa-proarch1/index.html"&gt;https://www.ibm.com/developerworks/ru/library/ws-soa-proarch1/index.html&lt;/a&gt; - специалист по архитектуре ПО&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="ta-technical-architect"&gt;TA (Technical Architect)&lt;/h2&gt;
+&lt;p&gt;Необходимый минимум:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Алгоритмы и структуры данных&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://proglib.io/p/awesome-algorithms/"&gt;https://proglib.io/p/awesome-algorithms/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://edu.nstu.ru/courses/saod/content.htm"&gt;http://edu.nstu.ru/courses/saod/content.htm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://vk.com/page-54530371_48795618"&gt;https://vk.com/page-54530371_48795618&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Паттерны проектирования&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://sourcemaking.com/"&gt;https://sourcemaking.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://forcoder.ru/developing/priemy-obektno-orientirovannogo-proektirovaniya-patterny-proektirovaniya-1372"&gt;http://forcoder.ru/developing/priemy-obektno-orientirovannogo-proektirovaniya-patterny-proektirovaniya-1372&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Dependency Injection &lt;a href="https://www.manning.com/books/dependency-injection-in-dot-net"&gt;https://www.manning.com/books/dependency-injection-in-dot-net&lt;/a&gt;  (RU: &lt;a href="https://smarly.net/dependency-injection-in-net"&gt;https://smarly.net/dependency-injection-in-net&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;MVC, MVVM, MVP &lt;a href="https://habrahabr.ru/post/215605/"&gt;https://habrahabr.ru/post/215605/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;S.O.L.I.D. &lt;a href="https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)"&gt;https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Теория баз данных&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Вообще для ТА лучше всего, если была соответствующая профильная подготовка в ВУЗе. Для освежения памяти можно использовать любой источник, напр.&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.mstu.edu.ru/study/materials/zelenkov/toc.html"&gt;http://www.mstu.edu.ru/study/materials/zelenkov/toc.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Горизонтальное масштабирование систем&lt;/p&gt;</description></item></channel></rss>
